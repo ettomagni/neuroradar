@@ -23,6 +23,7 @@
     </div>
     <nav class="tabs" aria-label="View">
       <button id="tabGlobe" class="tab" aria-pressed="true">Globe</button>
+      <button id="tabCompanies" class="tab" aria-pressed="false">Companies</button>
       <button id="tabJobs" class="tab" aria-pressed="false">Jobs</button>
       <button id="togglePanel" class="tab mobile-only" aria-expanded="true" aria-controls="panel">Filters</button>
     </nav>
@@ -49,6 +50,31 @@
 
   <section id="card" class="card" hidden aria-live="polite"></section>
 
+  <section id="dash" class="board dash" hidden aria-label="Companies dashboard">
+    <div class="board-head">
+      <div class="dash-title">
+        <h2>Companies</h2>
+        <span id="dashCount" class="muted"></span>
+      </div>
+      <div class="board-filters">
+        <label class="search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="dashSearch" type="search" placeholder="Search name, technology, CEO, product, condition…" autocomplete="off">
+        </label>
+        <select id="dashSort" aria-label="Sort by">
+          <option value="name">Sort: A–Z</option>
+          <option value="roles">Sort: most open roles</option>
+          <option value="newest">Sort: newest founded</option>
+          <option value="oldest">Sort: oldest founded</option>
+        </select>
+        <label class="toggle"><input id="dashHiring" type="checkbox"> Hiring only</label>
+        <button id="dashReset" class="ghost-btn small">Reset</button>
+      </div>
+      <div id="dashFilters" class="dash-filters"></div>
+    </div>
+    <div id="dashGrid" class="dash-grid"></div>
+  </section>
+
   <section id="board" class="board" hidden aria-label="Jobs board">
     <div class="board-head">
       <h2>Open roles</h2>
@@ -74,6 +100,11 @@
     </div>
     <ul id="boardList" class="board-list"></ul>
   </section>
+
+  <dialog id="profile" class="profile" aria-labelledby="profileTitle">
+    <button id="profileClose" class="close" aria-label="Close profile">✕</button>
+    <div id="profileBody" class="profile-body"></div>
+  </dialog>
 
   <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
   <script src="app.js"></script>

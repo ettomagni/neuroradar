@@ -1,0 +1,56 @@
+name: NeuroRadar company profiles
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max companies (empty = all that need a profile)"
+        required: false
+        default: ""
+      no_batch:
+        description: "Direct calls instead of the Batches API (for small tests)"
+        type: boolean
+        default: false
+  schedule:
+    # 1st of each month, after the daily run: refresh profiles older than 90 days
+    - cron: "30 6 1 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update   # same queue as the daily job: never commit at the same time
+  cancel-in-progress: false
+
+jobs:
+  profiles:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install the Anthropic SDK and headless Chromium
+        run: pip install -q anthropic playwright && python -m playwright install --with-deps chromium
+      - name: Build company profiles with Claude
+        run: |
+          ARGS="--wait-min 60"
+          [ -n "${{ inputs.limit }}" ] && ARGS="$ARGS --limit ${{ inputs.limit }}"
+          [ "${{ inputs.no_batch }}" = "true" ] && ARGS="$ARGS --no-batch"
+          python3 scripts/enrich_llm.py $ARGS
+      - name: Commit updated data
+        if: always()
+        run: |
+          git config user.name "neuroradar-bot"
+          git config user.email "neuroradar-bot@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Company profiles $(date -u +%Y-%m-%d)"
+            git pull --rebase -X theirs origin main || git pull --rebase origin main
+            git push
+          fi
