@@ -26,19 +26,21 @@ const cap = (s) => s ? s.charAt(0).toUpperCase() + s.slice(1) : "";
 const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : null);
 
 const state = {
-  companies: [], byId: new Map(), jobs: [], jobsByCompany: new Map(),
+  companies: [], byId: new Map(), jobs: [], jobsByCompany: new Map(), reqs: {},
   active: new Set(Object.keys(CATEGORIES)), country: "", query: "", onlyHiring: false,
   selected: null, view: "globe",
-  board: { query: "", onlyNew: false, remote: "", company: "" },
+  board: { query: "", onlyNew: false, remote: "", company: "", seniority: "", domain: "" },
 };
 
 let globe;
 
 async function init() {
-  const [companies, jobs] = await Promise.all([
+  const [companies, jobs, reqs] = await Promise.all([
     fetch("data/companies.json", { cache: "no-cache" }).then((r) => r.json()),
     fetch("data/jobs.json", { cache: "no-cache" }).then((r) => (r.ok ? r.json() : [])).catch(() => []),
+    fetch("data/requirements.json", { cache: "no-cache" }).then((r) => (r.ok ? r.json() : {})).catch(() => ({})),
   ]);
+  state.reqs = reqs;
   state.companies = companies;
   companies.forEach((c) => state.byId.set(c.id, c));
   state.jobs = jobs.filter((j) => state.byId.has(j.company_id));
@@ -68,6 +70,26 @@ function isNew(j) {
   return (Date.now() - Date.parse(j.first_seen_at)) / 36e5 < NEW_WINDOW_H;
 }
 const jobsOf = (c) => state.jobsByCompany.get(c.id) || [];
+const reqOf = (j) => { const r = state.reqs[j.key]; return r && r.seniority ? r : null; };
+const DOMAINS = {
+  hardware_engineering: "Hardware eng.", software_engineering: "Software eng.", ml_ai: "ML / AI",
+  research_science: "Research", clinical: "Clinical", regulatory_quality: "Regulatory & QA",
+  manufacturing_operations: "Manufacturing & ops", product_design: "Product & design",
+  sales_marketing: "Sales & marketing", business_operations: "Business ops", other: "Other",
+};
+const SENIORITY = ["intern", "junior", "mid", "senior", "lead", "director", "executive"];
+function reqChips(j, max = 3) {
+  const r = reqOf(j);
+  if (!r) return "";
+  const chips = [];
+  if (r.seniority !== "unknown") chips.push(`<span class="rchip lvl">${esc(cap(r.seniority))}</span>`);
+  if (r.domain) chips.push(`<span class="rchip">${esc(DOMAINS[r.domain] || r.domain)}</span>`);
+  if (r.min_years_experience >= 0) chips.push(`<span class="rchip">${r.min_years_experience}+ yrs</span>`);
+  if (r.degree_required && !["unknown", "none"].includes(r.degree_required)) chips.push(`<span class="rchip">${esc(r.degree_required.toUpperCase() === "PHD" ? "PhD" : cap(r.degree_required))}</span>`);
+  (r.required_skills || []).slice(0, max).forEach((k) => chips.push(`<span class="rchip skill">${esc(k)}</span>`));
+  if (r.visa_sponsorship === "yes") chips.push(`<span class="rchip ok">Visa sponsorship</span>`);
+  return `<div class="rchips">${chips.join("")}</div>`;
+}
 const hasNewJobs = (c) => jobsOf(c).some(isNew);
 function relTime(iso) {
   if (!iso) return "";
@@ -170,6 +192,12 @@ function bindEvents() {
   $("boardSearch").addEventListener("input", (e) => { state.board.query = e.target.value.trim().toLowerCase(); renderBoard(); });
   $("boardNew").addEventListener("change", (e) => { state.board.onlyNew = e.target.checked; renderBoard(); });
   $("boardRemote").addEventListener("change", (e) => { state.board.remote = e.target.value; renderBoard(); });
+  $("boardSeniority").addEventListener("change", (e) => { state.board.seniority = e.target.value; renderBoard(); });
+  $("boardDomain").addEventListener("change", (e) => { state.board.domain = e.target.value; renderBoard(); });
+  $("boardSeniority").innerHTML = `<option value="">Any level</option>` +
+    SENIORITY.map((k) => `<option value="${k}">${cap(k)}</option>`).join("");
+  $("boardDomain").innerHTML = `<option value="">Any area</option>` +
+    Object.entries(DOMAINS).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join("");
   $("boardClearCompany").addEventListener("click", () => { state.board.company = ""; renderBoard(); });
   $("board").addEventListener("click", (e) => {
     const a = e.target.closest("[data-company]");
@@ -313,6 +341,7 @@ function jobRowSmall(j) {
     <a href="${esc(url || "#")}" target="_blank" rel="noopener">${esc(j.title)}</a>
     ${isNew(j) ? `<span class="new-badge">new</span>` : ""}
     <div class="sub">${esc([j.location, j.remote].filter(Boolean).join(" · "))}</div>
+    ${reqChips(j, 2)}
   </li>`;
 }
 
@@ -333,8 +362,13 @@ function boardJobs() {
     if (state.country && c.country !== state.country) return false;
     if (b.company && j.company_id !== b.company) return false;
     if (b.onlyNew && !isNew(j)) return false;
-    if (b.remote && j.remote !== b.remote) return false;
-    if (q && ![j.title, j.location, j.department, c.name, c.modality].join(" ").toLowerCase().includes(q)) return false;
+    const r = reqOf(j);
+    const mode = j.remote || (r && ["remote", "hybrid"].includes(r.work_mode) ? r.work_mode : null);
+    if (b.remote && mode !== b.remote) return false;
+    if (b.seniority && (!r || r.seniority !== b.seniority)) return false;
+    if (b.domain && (!r || r.domain !== b.domain)) return false;
+    const skills = r ? [...r.required_skills, ...r.preferred_skills].join(" ") : "";
+    if (q && ![j.title, j.location, j.department, c.name, c.modality, skills].join(" ").toLowerCase().includes(q)) return false;
     return true;
   }).sort((a, b) => isNew(b) - isNew(a) || Date.parse(b.first_seen_at) - Date.parse(a.first_seen_at)
     || state.byId.get(a.company_id).name.localeCompare(state.byId.get(b.company_id).name));
@@ -359,6 +393,8 @@ function renderBoard() {
           <a href="#${c.id}" data-company="${c.id}" class="company"><span class="dot"></span>${esc(c.name)}</a>
           ${esc([j.location, j.remote, j.department].filter(Boolean).join(" · "))}
         </div>
+        ${reqChips(j)}
+        ${reqOf(j)?.summary ? `<div class="rsummary">${esc(reqOf(j).summary)}</div>` : ""}
       </div>
       <div class="job-meta">${esc(relTime(j.first_seen_at))}</div>
     </li>`;

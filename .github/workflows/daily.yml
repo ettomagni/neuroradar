@@ -16,7 +16,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
@@ -34,7 +34,7 @@ jobs:
           if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python3 scripts/find_careers.py
             python3 scripts/probe_ats.py
-            python3 scripts/careers_llm.py --discover   # each company is re-checked at most once a month
+            python3 scripts/careers_llm.py --discover   # finds careers links only; each company re-checked at most monthly
           fi
 
       - name: Claude reads custom careers pages that changed

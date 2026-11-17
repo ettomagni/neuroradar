@@ -195,13 +195,15 @@ def main():
         month_ago = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
         todo = [c for c in companies if c.get("careers_status") == "not_found" and c.get("website")
                 and (only in (None, c["id"])) and c.get("llm_checked_at", "") < month_ago][:limit]
-        print(f"Discover: {len(todo)} companies", flush=True)
+        print(f"Discover: {len(todo)} companies (Claude picks the careers link from homepage links)", flush=True)
         with ThreadPoolExecutor(max_workers=4) as pool:
             for c, upd in zip(todo, pool.map(lambda c: _safe(discover, client, c), todo)):
                 c.update(upd or {})
                 if (upd or {}).get("careers_url"):
                     print(f"  + {c['name']}: {upd['careers_url']}", flush=True)
         save_json(DATA / "companies.json", companies)
+        print(f"Discover done · est. cost ${USAGE.cost():.2f}")
+        return  # pages are read by the daily (non --discover) run
 
     todo = [c for c in companies if c.get("careers_status") == "custom_page" and c.get("careers_url")
             and (only in (None, c["id"]))][:limit]
