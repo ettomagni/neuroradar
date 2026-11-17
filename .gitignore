@@ -7,3 +7,4 @@ data/cache/
 data/job_texts.json
 !.env.example
 docs/
+.venv/

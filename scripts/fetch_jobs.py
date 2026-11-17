@@ -11,8 +11,14 @@ A company whose ATS call fails keeps yesterday's positions (nothing is marked
 closed on an error). The very first run is a baseline: its positions are not
 flagged as new.
 
+Companies with a custom careers page are read from data/page_jobs.json (written
+by careers_llm.py). The first time a company is read successfully its roles are a
+baseline for that company (data/tracked.json), so newly covered companies do not
+flood the board with "new" roles.
+
 Usage: python3 scripts/fetch_jobs.py
 """
+import hashlib
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -47,7 +53,11 @@ def main():
     now = datetime.now(timezone.utc).replace(microsecond=0)
     now_s = now.isoformat()
     companies = load_companies()
-    targets = [c for c in companies if (c.get("ats") or {}).get("type") in FETCHERS]
+    page_jobs = load("page_jobs.json", {})
+    targets = [c for c in companies
+               if (c.get("ats") or {}).get("type") in FETCHERS
+               or (c.get("careers_status") == "custom_page" and c["id"] in page_jobs)]
+    tracked = set(load("tracked.json", []))
 
     prev_jobs = load("jobs.json", None)
     baseline = prev_jobs is None
@@ -55,9 +65,23 @@ def main():
     texts = load("job_texts.json", {})
     closed = load("jobs_closed.json", [])
 
+    def from_page(c):
+        out = []
+        for j in page_jobs[c["id"]]["jobs"]:
+            ext = hashlib.sha1(f"{j['title']}|{j['location']}".lower().encode()).hexdigest()[:12]
+            mode = j.get("work_mode")
+            out.append({"ats": "page", "external_id": ext, "title": j["title"], "url": j["url"],
+                        "location": j["location"], "department": j["department"],
+                        "remote": True if mode == "remote" else None,
+                        "employment_type": j["employment_type"], "posted_at": None,
+                        "description": "", "work_mode": mode})
+        return out
+
     def work(c):
         try:
-            return c, FETCHERS[c["ats"]["type"]](c["ats"]["token"]), None
+            if (c.get("ats") or {}).get("type") in FETCHERS:
+                return c, FETCHERS[c["ats"]["type"]](c["ats"]["token"]), None
+            return c, from_page(c), None
         except Exception as e:
             return c, None, f"{type(e).__name__}: {e}"[:200]
 
@@ -68,6 +92,7 @@ def main():
                 errors[c["id"]] = err
                 continue
             ok_ids.add(c["id"])
+            first_time = baseline or c["id"] not in tracked
             seen = set()
             for j in fetched:
                 k = key(c["id"], j)
@@ -81,10 +106,10 @@ def main():
                     "company_id": c["id"],
                     **{f: j[f] for f in ("ats", "external_id", "title", "url", "location",
                                          "department", "employment_type", "posted_at")},
-                    "remote": infer_remote(j),
+                    "remote": j.get("work_mode") if j.get("work_mode") in ("remote", "hybrid") else infer_remote(j),
                     "first_seen_at": old["first_seen_at"] if old else now_s,
                     "last_seen_at": now_s,
-                    "baseline": old.get("baseline", False) if old else baseline,
+                    "baseline": old.get("baseline", False) if old else first_time,
                 })
 
     current = {j["key"] for j in jobs}
@@ -104,6 +129,7 @@ def main():
     save_json(DATA / "jobs.json", jobs)
     save_json(DATA / "job_texts.json", texts)
     save_json(DATA / "jobs_closed.json", closed)
+    save_json(DATA / "tracked.json", sorted(tracked | ok_ids))
     runs = load("runs.json", [])
     runs.append({
         "at": now_s, "kind": "careers", "baseline": baseline,

@@ -1,0 +1,30 @@
+name: Claude smoke test (temporary)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q anthropic
+      - name: Claude reads 6 custom careers pages
+        run: python3 scripts/careers_llm.py --limit 6 --force
+      - name: Show extracted roles
+        run: python3 -c "import json; d=json.load(open('data/page_jobs.json')); [print(k, v['page_kind'], [j['title'] for j in v['jobs']]) for k, v in d.items()]"
+      - name: Fetch roles (to have posting texts)
+        run: python3 scripts/fetch_jobs.py
+      - name: Claude extracts requirements for 5 roles
+        run: python3 scripts/extract_requirements.py --limit 5 --no-batch
+      - name: Show requirements
+        run: python3 -c "import json; d=json.load(open('data/requirements.json')); [print(json.dumps(v)) for v in list(d.values())[:5]]"

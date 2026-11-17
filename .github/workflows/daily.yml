@@ -16,7 +16,9 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
 
@@ -24,24 +26,32 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Careers pages for companies not resolved yet (Mondays or manual run)
+      - name: Install the Anthropic SDK
+        run: pip install -q anthropic
+
+      - name: Weekly - find careers pages / ATS for unresolved companies (Mondays or manual run)
         run: |
           if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python3 scripts/find_careers.py
             python3 scripts/probe_ats.py
+            python3 scripts/careers_llm.py --discover   # each company is re-checked at most once a month
           fi
+
+      - name: Claude reads custom careers pages that changed
+        run: python3 scripts/careers_llm.py
 
       - name: Fetch open positions and diff with yesterday
         run: python3 scripts/fetch_jobs.py
-        # Phases 3-5 (custom careers pages, news, CV match) will use Claude:
-        # env:
-        #   ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Claude extracts requirements of new roles
+        run: python3 scripts/extract_requirements.py --wait-min 20
 
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name "neuroradar-bot"
           git config user.email "neuroradar-bot@users.noreply.github.com"
-          git add data/companies.json data/jobs.json data/jobs_closed.json data/runs.json
+          git add -A data  # job_texts.json and cache/ are gitignored
           if git diff --cached --quiet; then
             echo "No changes"
           else
