@@ -1,47 +1,47 @@
 <!doctype html>
-<html lang="it">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>NeuroRadar</title>
-  <meta name="description" content="Mappa globale delle startup neurotech, posizioni aperte e news.">
+  <meta name="description" content="Global map of neurotech startups, their open roles and news.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div id="globe" aria-label="Globo interattivo delle startup neurotech"></div>
+  <div id="globe" aria-label="Interactive globe of neurotech startups"></div>
 
   <header class="topbar">
     <div class="brand">
       <span class="logo" aria-hidden="true"></span>
       <div>
         <h1>NeuroRadar</h1>
-        <p id="stats" class="muted">Caricamento…</p>
+        <p id="stats" class="muted">Loading…</p>
       </div>
     </div>
-    <nav class="tabs" aria-label="Vista">
-      <button id="tabGlobe" class="tab" aria-pressed="true">Globo</button>
-      <button id="tabJobs" class="tab" aria-pressed="false">Posizioni</button>
-      <button id="togglePanel" class="tab mobile-only" aria-expanded="true" aria-controls="panel">Filtri</button>
+    <nav class="tabs" aria-label="View">
+      <button id="tabGlobe" class="tab" aria-pressed="true">Globe</button>
+      <button id="tabJobs" class="tab" aria-pressed="false">Jobs</button>
+      <button id="togglePanel" class="tab mobile-only" aria-expanded="true" aria-controls="panel">Filters</button>
     </nav>
   </header>
 
   <aside id="panel" class="panel">
     <label class="search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <input id="search" type="search" placeholder="Cerca azienda o tecnologia (es. EEG, tDCS)…" autocomplete="off">
+      <input id="search" type="search" placeholder="Search company or technology (e.g. EEG, tDCS)…" autocomplete="off">
     </label>
 
-    <div class="section-title">Categorie</div>
+    <div class="section-title">Categories</div>
     <div id="chips" class="chips"></div>
 
     <div class="row">
-      <select id="country" aria-label="Filtra per paese"></select>
+      <select id="country" aria-label="Filter by country"></select>
       <button id="reset" class="ghost-btn small">Reset</button>
     </div>
-    <label class="toggle"><input id="onlyHiring" type="checkbox"> Solo aziende che assumono</label>
+    <label class="toggle"><input id="onlyHiring" type="checkbox"> Hiring companies only</label>
 
     <div class="section-title"><span id="resultCount"></span></div>
     <ul id="list" class="list"></ul>
@@ -49,25 +49,25 @@
 
   <section id="card" class="card" hidden aria-live="polite"></section>
 
-  <section id="board" class="board" hidden aria-label="Bacheca posizioni">
+  <section id="board" class="board" hidden aria-label="Jobs board">
     <div class="board-head">
-      <h2>Posizioni aperte</h2>
+      <h2>Open roles</h2>
       <div class="board-filters">
         <label class="search">
           <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-          <input id="boardSearch" type="search" placeholder="Ruolo, azienda, città, tecnologia…" autocomplete="off">
+          <input id="boardSearch" type="search" placeholder="Role, company, city, technology…" autocomplete="off">
         </label>
-        <select id="boardRemote" aria-label="Modalità di lavoro">
-          <option value="">Ovunque</option>
-          <option value="remote">Remoto</option>
-          <option value="hybrid">Ibrido</option>
+        <select id="boardRemote" aria-label="Work mode">
+          <option value="">Anywhere</option>
+          <option value="remote">Remote</option>
+          <option value="hybrid">Hybrid</option>
         </select>
-        <label class="toggle"><input id="boardNew" type="checkbox"> Solo nuove</label>
+        <label class="toggle"><input id="boardNew" type="checkbox"> New only</label>
       </div>
       <div class="board-sub">
         <span id="boardCount" class="muted"></span>
-        <span id="boardCompany" hidden>· Azienda: <b id="boardCompanyName"></b>
-          <button id="boardClearCompany" class="link-btn">rimuovi</button></span>
+        <span id="boardCompany" hidden>· Company: <b id="boardCompanyName"></b>
+          <button id="boardClearCompany" class="link-btn">clear</button></span>
       </div>
     </div>
     <ul id="boardList" class="board-list"></ul>

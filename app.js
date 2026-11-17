@@ -9,13 +9,13 @@ const CATEGORIES = {
   tools:           { label: "Tools & Infrastructure",     color: "#e5e7eb" },
 };
 const TEX = "https://cdn.jsdelivr.net/npm/three-globe@2.45.6/example/img/";
-const NEW_WINDOW_H = 72; // a job counts as "nuova" for 3 days after first sighting
+const NEW_WINDOW_H = 72; // a job counts as "new" for 3 days after first sighting
 const HOME_POV = { lat: 38, lng: -30, altitude: 2.3 };
 
 const PROFILE_FIELDS = [
-  ["modality", "Modalità"], ["form_factor", "Form factor"], ["interface_depth", "Invasività"],
-  ["indication", "Indicazione"], ["target_user", "Utenti"], ["regulatory_stage", "Regolatorio"],
-  ["founded", "Fondata"], ["funding_stage", "Funding"],
+  ["modality", "Modality"], ["form_factor", "Form factor"], ["interface_depth", "Invasiveness"],
+  ["indication", "Indication"], ["target_user", "Users"], ["regulatory_stage", "Regulatory"],
+  ["founded", "Founded"], ["funding_stage", "Funding"],
 ];
 
 const $ = (id) => document.getElementById(id);
@@ -50,9 +50,9 @@ async function init() {
   const countries = new Set(companies.map((c) => c.country));
   const newCount = state.jobs.filter(isNew).length;
   $("stats").textContent =
-    `${companies.length} startup · ${countries.size} paesi · ${state.jobs.length} posizioni aperte` +
-    (newCount ? ` · ${newCount} nuove` : "");
-  $("tabJobs").textContent = `Posizioni (${state.jobs.length})`;
+    `${companies.length} startups · ${countries.size} countries · ${state.jobs.length} open roles` +
+    (newCount ? ` · ${newCount} new` : "");
+  $("tabJobs").textContent = `Jobs (${state.jobs.length})`;
 
   buildGlobe();
   buildChips();
@@ -72,10 +72,10 @@ const hasNewJobs = (c) => jobsOf(c).some(isNew);
 function relTime(iso) {
   if (!iso) return "";
   const d = (Date.now() - Date.parse(iso)) / 864e5;
-  if (d < 1) return "oggi";
-  if (d < 2) return "ieri";
-  if (d < 30) return `${Math.floor(d)} giorni fa`;
-  return new Date(iso).toLocaleDateString("it-IT", { day: "numeric", month: "short", year: "numeric" });
+  if (d < 1) return "today";
+  if (d < 2) return "yesterday";
+  if (d < 30) return `${Math.floor(d)} days ago`;
+  return new Date(iso).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
 }
 
 /* ---------- globe ---------- */
@@ -96,7 +96,7 @@ function buildGlobe() {
       const n = jobsOf(c).length;
       return `<div class="tooltip"><b>${esc(c.name)}</b>
         <span>${esc(CATEGORIES[c.category].label)} · ${esc(c.city ? c.city + ", " : "")}${esc(c.country)}</span>
-        ${n ? `<span class="tt-jobs">${n} posizion${n === 1 ? "e" : "i"} apert${n === 1 ? "a" : "e"}${hasNewJobs(c) ? " · nuove!" : ""}</span>` : ""}
+        ${n ? `<span class="tt-jobs">${n} open role${n === 1 ? "" : "s"}${hasNewJobs(c) ? " · new!" : ""}</span>` : ""}
       </div>`;
     })
     .onPointClick((c) => select(c, true))
@@ -127,7 +127,7 @@ function buildChips() {
 }
 
 function buildCountrySelect(countries) {
-  $("country").innerHTML = `<option value="">Tutti i paesi</option>` +
+  $("country").innerHTML = `<option value="">All countries</option>` +
     countries.map((c) => {
       const n = state.companies.filter((x) => x.country === c).length;
       return `<option value="${esc(c)}">${esc(c)} (${n})</option>`;
@@ -206,7 +206,7 @@ function render() {
   document.querySelectorAll(".chip").forEach((chip) =>
     chip.setAttribute("aria-pressed", String(state.active.has(chip.dataset.cat))));
 
-  $("resultCount").textContent = `${items.length} aziende`;
+  $("resultCount").textContent = `${items.length} companies`;
   $("list").innerHTML = items.slice().sort((a, b) => a.name.localeCompare(b.name)).map((c) => {
     const n = jobsOf(c).length;
     return `<li data-id="${c.id}" aria-selected="${state.selected === c}" style="--c:${CATEGORIES[c.category].color}">
@@ -215,7 +215,7 @@ function render() {
           <div class="name">${esc(c.name)}</div>
           <div class="sub">${esc(c.country)} · ${esc(c.modality || c.description)}</div>
         </div>
-        ${n ? `<span class="count${hasNewJobs(c) ? " new" : ""}" title="Posizioni aperte">${n}</span>` : ""}
+        ${n ? `<span class="count${hasNewJobs(c) ? " new" : ""}" title="Open roles">${n}</span>` : ""}
       </li>`;
   }).join("");
 
@@ -273,37 +273,37 @@ function cardHtml(c) {
   if (jobs.length) {
     jobsBlock = `<ul class="jobs">${jobs.slice(0, 8).map(jobRowSmall).join("")}</ul>` +
       (jobs.length > 8 || jobs.length > 2
-        ? `<button class="link-btn" data-all-jobs>Vedi tutte le ${jobs.length} posizioni →</button>` : "");
+        ? `<button class="link-btn" data-all-jobs>See all ${jobs.length} roles →</button>` : "");
   } else {
     const msg = {
-      ats: "Nessuna posizione aperta al momento.",
-      custom_page: "Pagina carriere personalizzata: la leggerà Claude nella fase 3.",
-      ats_unsupported: `Usa ${esc((c.ats || {}).type)}: lettore in arrivo.`,
-      no_website: "Sito non trovato.",
-      not_found: "Pagina carriere non trovata sul sito.",
-    }[c.careers_status] || (c.careers_status ? "Sito non raggiungibile al controllo di oggi." : "Non ancora controllata.");
+      ats: "No open roles right now.",
+      custom_page: "Custom careers page: Claude will read it in phase 3.",
+      ats_unsupported: `Uses ${esc((c.ats || {}).type)}: reader coming soon.`,
+      no_website: "Website not found.",
+      not_found: "No careers page found on the website.",
+    }[c.careers_status] || (c.careers_status ? "Website unreachable at the last check." : "Not checked yet.");
     jobsBlock = `<div class="placeholder">${msg}</div>`;
   }
 
   return `
-    <button class="close" aria-label="Chiudi scheda">✕</button>
+    <button class="close" aria-label="Close card">✕</button>
     <span class="badge" style="--c:${cat.color}">● ${esc(cat.label)}</span>
     <h2>${esc(c.name)}</h2>
     <div class="loc">${esc(c.city ? c.city + ", " : "")}${esc(c.country)}</div>
     <p class="desc">${esc(cap(c.description))}.</p>
-    ${c.status === "acquired" ? `<p class="note">Acquisita da <b>${esc(c.parent)}</b>: le posizioni vanno cercate presso la società madre.</p>` : ""}
+    ${c.status === "acquired" ? `<p class="note">Acquired by <b>${esc(c.parent)}</b>: look for roles at the parent company.</p>` : ""}
     <div class="links">
-      ${site ? `<a href="${esc(site)}" target="_blank" rel="noopener">Sito ↗</a>` : ""}
-      ${careers ? `<a href="${esc(careers)}" target="_blank" rel="noopener">Carriere ↗</a>` : ""}
+      ${site ? `<a href="${esc(site)}" target="_blank" rel="noopener">Website ↗</a>` : ""}
+      ${careers ? `<a href="${esc(careers)}" target="_blank" rel="noopener">Careers ↗</a>` : ""}
       <a href="${nfUrl}" target="_blank" rel="noopener">Neurofounders ↗</a>
     </div>
     ${facts ? `<dl class="facts">${facts}</dl>` : ""}
     ${c.analysis ? `<p class="analysis">${esc(c.analysis)}</p>` : ""}
-    <h3>Posizioni aperte${jobs.length ? ` · ${jobs.length}` : ""}</h3>
+    <h3>Open roles${jobs.length ? ` · ${jobs.length}` : ""}</h3>
     ${jobsBlock}
     <h3>News</h3>
-    <div class="placeholder">In arrivo con la fase 4: notizie del giorno collegate a questa azienda.</div>
-    ${c.location_precision === "country" ? `<p class="note small">Posizione sul globo approssimata al paese.</p>` : ""}
+    <div class="placeholder">Coming in phase 4: daily news about this company.</div>
+    ${c.location_precision === "country" ? `<p class="note small">Globe position approximated to the country.</p>` : ""}
   `;
 }
 
@@ -311,7 +311,7 @@ function jobRowSmall(j) {
   const url = safeUrl(j.url);
   return `<li>
     <a href="${esc(url || "#")}" target="_blank" rel="noopener">${esc(j.title)}</a>
-    ${isNew(j) ? `<span class="new-badge">nuova</span>` : ""}
+    ${isNew(j) ? `<span class="new-badge">new</span>` : ""}
     <div class="sub">${esc([j.location, j.remote].filter(Boolean).join(" · "))}</div>
   </li>`;
 }
@@ -345,16 +345,16 @@ function renderBoard() {
   const comp = state.board.company && state.byId.get(state.board.company);
   $("boardCompany").hidden = !comp;
   if (comp) $("boardCompanyName").textContent = comp.name;
-  const filters = [state.active.size < 6 && "categorie", state.country].filter(Boolean);
-  $("boardCount").textContent = `${jobs.length} posizion${jobs.length === 1 ? "e" : "i"}` +
-    (filters.length ? ` (filtri del globo attivi: ${filters.join(", ")})` : "");
+  const filters = [state.active.size < 6 && "categories", state.country].filter(Boolean);
+  $("boardCount").textContent = `${jobs.length} role${jobs.length === 1 ? "" : "s"}` +
+    (filters.length ? ` (globe filters active: ${filters.join(", ")})` : "");
   $("boardList").innerHTML = jobs.length ? jobs.map((j) => {
     const c = state.byId.get(j.company_id);
     const url = safeUrl(j.url);
     return `<li style="--c:${CATEGORIES[c.category].color}">
       <div class="job-main">
         <a class="job-title" href="${esc(url || "#")}" target="_blank" rel="noopener">${esc(j.title)}</a>
-        ${isNew(j) ? `<span class="new-badge">nuova</span>` : ""}
+        ${isNew(j) ? `<span class="new-badge">new</span>` : ""}
         <div class="sub">
           <a href="#${c.id}" data-company="${c.id}" class="company"><span class="dot"></span>${esc(c.name)}</a>
           ${esc([j.location, j.remote, j.department].filter(Boolean).join(" · "))}
@@ -362,7 +362,7 @@ function renderBoard() {
       </div>
       <div class="job-meta">${esc(relTime(j.first_seen_at))}</div>
     </li>`;
-  }).join("") : `<li class="empty">Nessuna posizione con questi filtri.</li>`;
+  }).join("") : `<li class="empty">No roles match these filters.</li>`;
 }
 
 function openFromHash() {
@@ -373,5 +373,5 @@ function openFromHash() {
 
 init().catch((err) => {
   console.error(err);
-  $("stats").textContent = "Errore nel caricamento dei dati (serve un server locale, non file://).";
+  $("stats").textContent = "Could not load the data (serve it over HTTP, not file://).";
 });
