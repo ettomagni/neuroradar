@@ -1,0 +1,50 @@
+name: NeuroRadar daily update
+
+on:
+  schedule:
+    # 05:00 UTC = 06:00 in Italy in winter (07:00 in summer)
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Careers pages for companies not resolved yet (Mondays or manual run)
+        run: |
+          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python3 scripts/find_careers.py
+            python3 scripts/probe_ats.py
+          fi
+
+      - name: Fetch open positions and diff with yesterday
+        run: python3 scripts/fetch_jobs.py
+        # Phases 3-5 (custom careers pages, news, CV match) will use Claude:
+        # env:
+        #   ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "neuroradar-bot"
+          git config user.email "neuroradar-bot@users.noreply.github.com"
+          git add data/companies.json data/jobs.json data/jobs_closed.json data/runs.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Daily update $(date -u +%Y-%m-%d)"
+            git push
+          fi
