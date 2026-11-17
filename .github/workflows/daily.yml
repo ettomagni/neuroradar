@@ -26,8 +26,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install the Anthropic SDK
-        run: pip install -q anthropic
+      - name: Install the Anthropic SDK and headless Chromium
+        run: pip install -q anthropic playwright && python -m playwright install --with-deps chromium
 
       - name: Weekly - find careers pages / ATS for unresolved companies (Mondays or manual run)
         run: |

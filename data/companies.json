@@ -8121,8 +8121,13 @@
    "SonoMind"
   ],
   "careers_url": "https://neuroharmonics.com/careers",
-  "ats": null,
-  "careers_status": "custom_page"
+  "ats": {
+   "type": "breezy",
+   "token": "neuroharmonics"
+  },
+  "careers_status": "ats",
+  "open_jobs_at_detection": 0,
+  "ats_found_by": "render"
  },
  {
   "id": "neurolief",
