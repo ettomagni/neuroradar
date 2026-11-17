@@ -9,5 +9,16 @@
   "jobs_open": 463,
   "jobs_new": 0,
   "jobs_closed": 0
+ },
+ {
+  "at": "2026-11-17T14:38:59+00:00",
+  "kind": "careers",
+  "baseline": false,
+  "companies_checked": 42,
+  "companies_ok": 42,
+  "errors": {},
+  "jobs_open": 464,
+  "jobs_new": 1,
+  "jobs_closed": 0
  }
 ]
