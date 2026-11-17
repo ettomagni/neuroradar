@@ -32,7 +32,10 @@ The first run of `fetch_jobs.py` is a **baseline**: the roles it finds are not f
 
 `.github/workflows/daily.yml` runs every day at 05:00 UTC on GitHub Actions and commits the updated JSON. To run it by hand: *Actions* tab → *NeuroRadar daily update* → *Run workflow*.
 
-## Claude API key (from phase 3)
+## Claude (runs on your Claude subscription)
 
-- Locally: copy `.env.example` to `.env` and paste the key (`.env` is in `.gitignore`).
-- On GitHub: *Settings → Secrets and variables → Actions → New repository secret*, named `ANTHROPIC_API_KEY`.
+The Claude steps run Claude Code headless (`claude -p`, model Haiku) on your Claude subscription, so there is no pay-as-you-go API billing; they use your plan's usage limits. Each run makes at most `CLAUDE_MAX_CALLS` calls (300); anything left is done on the next run.
+
+- On GitHub: run `claude setup-token` on your computer and save the token as the repository secret `CLAUDE_CODE_OAUTH_TOKEN` (*Settings → Secrets and variables → Actions*).
+- Locally: be signed in to Claude Code (`claude`), and put `CLAUDE_CODE_OAUTH_TOKEN=...` in `.env` (gitignored).
+- Fallback: if only `ANTHROPIC_API_KEY` is set, the scripts use the API instead (billed per token, Haiku + Batches API).

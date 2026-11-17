@@ -184,14 +184,15 @@ def main():
     only = args[args.index("--only") + 1] if "--only" in args else None
     limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
     force = "--force" in args
-    client = make_client() if has_key() else None
-    if client is None:
-        print("ANTHROPIC_API_KEY not set: rendering + ATS detection only, no Claude reading.")
+    enabled = has_key()
+    client = make_client()  # None with the subscription (CLI) backend
+    if not enabled:
+        print("No Claude credentials (CLAUDE_CODE_OAUTH_TOKEN or ANTHROPIC_API_KEY): rendering + ATS detection only.")
     companies = load_companies()
     page_jobs = json.loads((DATA / "page_jobs.json").read_text()) if (DATA / "page_jobs.json").exists() else {}
     started = now_iso()
 
-    if "--discover" in args and client:
+    if "--discover" in args and enabled:
         month_ago = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
         todo = [c for c in companies if c.get("careers_status") == "not_found" and c.get("website")
                 and (only in (None, c["id"])) and c.get("llm_checked_at", "") < month_ago][:limit]
@@ -234,7 +235,7 @@ def main():
             continue
         to_read.append((c, r))
 
-    if client is None:
+    if not enabled:
         to_read = []
     print(f"Claude reads {len(to_read)} changed pages…", flush=True)
     with ThreadPoolExecutor(max_workers=4) as pool:

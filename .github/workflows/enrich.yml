@@ -27,14 +27,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      # Claude runs on your Claude subscription through Claude Code (token from `claude setup-token`).
+      # No ANTHROPIC_API_KEY here on purpose: nothing is billed as pay-as-you-go API usage.
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      CLAUDE_MAX_CALLS: "300"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install the Anthropic SDK and headless Chromium
-        run: pip install -q anthropic playwright && python -m playwright install --with-deps chromium
+      - name: Install Claude Code, headless Chromium and helpers
+        run: |
+          pip install -q anthropic playwright && python -m playwright install --with-deps chromium
+          npm install -g @anthropic-ai/claude-code
       - name: Build company profiles with Claude
         run: |
           ARGS="--wait-min 60"

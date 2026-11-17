@@ -20,7 +20,7 @@ from datetime import datetime, timezone
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
 from anthropic.types.messages.batch_create_params import Request
 
-from claude_client import MODEL, USAGE, has_key, make_client, parse_response, schema_format, structured
+from claude_client import MODEL, USAGE, can_batch, has_key, make_client, parse_response, schema_format, structured
 from netutil import DATA, fetch, load_companies, save_json
 from pagetext import page_to_text
 
@@ -122,7 +122,7 @@ def main():
     limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
     wait_min = float(args[args.index("--wait-min") + 1]) if "--wait-min" in args else 20
     if not has_key():
-        print("ANTHROPIC_API_KEY not set: skipping requirements extraction.")
+        print("No Claude credentials: skipping requirements extraction.")
         return
     client = make_client()
     companies = {c["id"]: c for c in load_companies()}
@@ -136,7 +136,7 @@ def main():
 
     # 1) collect a batch left over from a previous run
     pending_state = load("requirements_batch.json", None)
-    if pending_state:
+    if pending_state and can_batch():
         if collect_batch(client, reqs, pending_state, jobs_by_key, {}):
             (DATA / "requirements_batch.json").unlink()
             print("Collected previous batch.")
@@ -157,7 +157,7 @@ def main():
         else:
             work.append((j, t))
 
-    if len(work) > BATCH_MIN and "--no-batch" not in args:
+    if len(work) > BATCH_MIN and "--no-batch" not in args and can_batch():
         stats["mode"] = "batch"
         keys = {cid(j["key"]): j["key"] for j, _ in work}
         texts_cache = {j["key"]: t for j, t in work}

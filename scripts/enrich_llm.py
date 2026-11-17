@@ -23,7 +23,7 @@ from urllib.parse import urlparse
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
 from anthropic.types.messages.batch_create_params import Request
 
-from claude_client import MODEL, USAGE, has_key, make_client, parse_response, schema_format, structured
+from claude_client import MODEL, USAGE, can_batch, has_key, make_client, parse_response, schema_format, structured
 from netutil import DATA, Throttle, fetch_json, load_companies, save_json
 from pagetext import page_to_text
 from render import render_many
@@ -177,7 +177,7 @@ def main():
     only = args[args.index("--only") + 1] if "--only" in args else None
     wait_min = float(args[args.index("--wait-min") + 1]) if "--wait-min" in args else 30
     if not has_key():
-        print("ANTHROPIC_API_KEY not set: skipping profile enrichment.")
+        print("No Claude credentials: skipping profile enrichment.")
         return
     client = make_client()
     companies = load_companies()
@@ -185,7 +185,7 @@ def main():
     stats = {"profiles": 0, "no_pages": 0, "errors": 0, "mode": "direct"}
 
     pending = load("profile_batch.json", None)
-    if pending:
+    if pending and can_batch():
         batch = client.messages.batches.retrieve(pending["id"])
         if batch.processing_status != "ended":
             print("Previous profile batch still running: try again later.")
@@ -219,7 +219,7 @@ def main():
         return f"Company: {c['name']} ({c['website']})\nKnown country: {c['country']}\n\nWebsite pages:\n{text}"
 
     profiles = {}
-    if len(work) > BATCH_MIN and "--no-batch" not in args:
+    if len(work) > BATCH_MIN and "--no-batch" not in args and can_batch():
         stats["mode"] = "batch"
         ids = {hashlib.sha1(c["id"].encode()).hexdigest()[:32]: c["id"] for c, _, _ in work}
         rev = {v: k for k, v in ids.items()}
@@ -255,14 +255,21 @@ def main():
                 if out:
                     profiles[cid] = clean_profile(out, links_by[cid])
     else:
-        for c, text, links in work:
+        from concurrent.futures import ThreadPoolExecutor
+
+        def one(item):
+            c, text, links = item
             try:
-                out = structured(client, SYSTEM, user_msg(c, text), SCHEMA, max_tokens=4000)
-                if out:
-                    profiles[c["id"]] = clean_profile(out, links)
+                return c, links, structured(client, SYSTEM, user_msg(c, text), SCHEMA, max_tokens=4000), None
             except Exception as e:
-                stats["errors"] += 1
-                print(f"  ! {c['name']}: {type(e).__name__}: {str(e)[:120]}", flush=True)
+                return c, links, None, f"{type(e).__name__}: {str(e)[:120]}"
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            for c, links, out, err in pool.map(one, work):
+                if err:
+                    stats["errors"] += 1
+                    print(f"  ! {c['name']}: {err}", flush=True)
+                elif out:
+                    profiles[c["id"]] = clean_profile(out, links)
 
     stats["profiles"] = len(profiles)
     apply_profiles(companies, profiles)
