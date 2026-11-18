@@ -1,1 +1,14 @@
-{}
+{
+ "geneva|switzerland": {
+  "lat": 46.2018,
+  "lng": 6.1466
+ },
+ "cambridge|usa": {
+  "lat": 42.3656,
+  "lng": -71.104
+ },
+ "loos|france": {
+  "lat": 50.6092,
+  "lng": 3.0163
+ }
+}

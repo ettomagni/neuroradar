@@ -9,10 +9,10 @@
   "status": "active",
   "parent": null,
   "website": "https://abilityneuro.com/",
-  "city": null,
-  "lat": 46.917,
-  "lng": 8.0134,
-  "location_precision": "country",
+  "city": "Geneva",
+  "lat": 46.2082,
+  "lng": 6.1546,
+  "location_precision": "city",
   "founded": "2025",
   "funding_stage": "Non-dilutive",
   "modality": "ECoG",
@@ -30,7 +30,71 @@
   ],
   "careers_url": "https://abilityneuro.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Geneva",
+   "hq_country": "Switzerland",
+   "ceo": "Rotem Kopel, Ph.D.",
+   "founders": [
+    "Rotem Kopel, Ph.D.",
+    "Craig Cook, MD",
+    "David Ibáñez Soria, Ph.D.",
+    "Arnau Espinosa, MSc"
+   ],
+   "leadership": [
+    {
+     "name": "Rotem Kopel, Ph.D.",
+     "role": "Chief Executive Officer & Co-Founder"
+    },
+    {
+     "name": "Zooullis Mina",
+     "role": "Chief Financial Officer"
+    },
+    {
+     "name": "Craig Cook, MD",
+     "role": "Chief Business Officer & Co-Founder"
+    },
+    {
+     "name": "Alain Jordan, MSc",
+     "role": "Chief Technology Officer & Chief Operating Officer"
+    },
+    {
+     "name": "David Ibáñez Soria, Ph.D.",
+     "role": "Director of Software & Co-Founder"
+    },
+    {
+     "name": "Arnau Espinosa, MSc",
+     "role": "Director of Hardware & Co-Founder"
+    }
+   ],
+   "technology": "ABILITY is developing a fully implantable brain-computer interface that sits under the scalp and uses high-density ECoG electrodes on the brain surface to record neural activity. Instead of a battery-powered transmitter, its proprietary laser-based optical data link sends the complete raw neural signal wirelessly through intact skin. Adaptive AI decodes these signals into speech and, later, movement, with the company controlling the implant, algorithm and app.",
+   "products": [
+    {
+     "name": "Implant",
+     "description": "A fully implantable, ECoG-based device placed entirely under the scalp to record brain signals."
+    },
+    {
+     "name": "System",
+     "description": "An end-to-end speech neuroprosthesis platform that transmits neural data through the skin and decodes it into speech."
+    }
+   ],
+   "conditions": [
+    "Amyotrophic lateral sclerosis (ALS)",
+    "Loss of speech and communication",
+    "Paralysis (movement restoration planned as a future application)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "March 2025: spun out from the Wyss Center in Geneva as an independent company, ABILITY Neurotech.",
+    "May 2026: received IMDD approval from the Dutch ethics committee NedMec for a first chronic implantation study in ALS patients at UMC Utrecht.",
+    "July 2026: announced first-in-human procedure at TUM University Hospital Rechts der Isar in Munich.",
+    "Chronic First-in-Human implantation planned for Q4 2026 with TU Graz (Austria) and UMC Utrecht (Netherlands)."
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T08:46:19+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "axoft",
@@ -42,10 +106,10 @@
   "status": "active",
   "parent": null,
   "website": "https://axoft.us/",
-  "city": null,
-  "lat": 36.3735,
-  "lng": -96.4377,
-  "location_precision": "country",
+  "city": "Cambridge",
+  "lat": 42.3552,
+  "lng": -71.1008,
+  "location_precision": "city",
   "founded": "2021",
   "funding_stage": "Series A",
   "modality": "Intracortical",
@@ -62,7 +126,68 @@
    "NeuroXess"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:17:41+00:00"
+  "llm_checked_at": "2026-11-17T15:17:41+00:00",
+  "profile": {
+   "hq_city": "Cambridge",
+   "hq_country": "USA",
+   "ceo": "Paul Le Floch",
+   "founders": [
+    "Paul Le Floch",
+    "Tianyang Ye",
+    "Jia Liu"
+   ],
+   "leadership": [
+    {
+     "name": "Paul Le Floch",
+     "role": "CEO & co-Founder"
+    },
+    {
+     "name": "Tianyang Ye",
+     "role": "CTO & co-Founder"
+    },
+    {
+     "name": "Jia Liu",
+     "role": "Scientific Advisor & co-Founder"
+    },
+    {
+     "name": "Matt DeNardo",
+     "role": "Chief Product Officer"
+    },
+    {
+     "name": "Oliver Armitage",
+     "role": "Chief Clinical & Data Officer"
+    }
+   ],
+   "technology": "Axoft is developing a bioinspired implantable neural interface whose soft material mimics the soft tissues of the brain, which the company says improves biocompatibility, signal quality and stability over time. The implant is bidirectional: an integrated circuit processes the neural data it records and sends it to software, and that software can send commands back to stimulate the brain electrically. The probes are designed to pass through a 2 mm burr hole using standard neuronavigation tools, and Axoft is building its own Brain Foundation Model software to decode neural signals.",
+   "products": [
+    {
+     "name": "Axoft implant",
+     "description": "A soft, bioinspired neural probe with ultra-high electrode density, designed for long-term bidirectional communication with any brain region at single-neuron resolution."
+    },
+    {
+     "name": "Brain Foundation Model",
+     "description": "Axoft's in-development AI software for decoding and interpreting neural signals from the implant, intended to improve over time."
+    }
+   ],
+   "conditions": [
+    "Coma",
+    "Paralysis",
+    "Depression",
+    "Movement disorders",
+    "Dementia"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Company claims its implant is 1,000,000x softer than today's rigid electronics",
+    "Company claims 1,000x greater electrode density than soft implants on the market",
+    "Neural probes fit inside a 2 mm-diameter burr hole",
+    "Site copyright notice reads 2026 Axoft Inc."
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T08:46:19+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "axorus",
@@ -74,10 +199,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.axorus.com/",
-  "city": null,
-  "lat": 46.6,
-  "lng": 2.966,
-  "location_precision": "country",
+  "city": "Loos",
+  "lat": 50.6092,
+  "lng": 3.0203,
+  "location_precision": "city",
   "founded": "2019",
   "funding_stage": "Seed",
   "modality": "Visual prosthesis",
@@ -94,7 +219,68 @@
    "Nuuron"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:17:41+00:00"
+  "llm_checked_at": "2026-11-17T15:17:41+00:00",
+  "profile": {
+   "hq_city": "Loos",
+   "hq_country": "France",
+   "ceo": "Jean-Damien",
+   "founders": [
+    "Jean-Damien",
+    "Hélène, PhD"
+   ],
+   "leadership": [
+    {
+     "name": "Jean-Damien",
+     "role": "CEO"
+    },
+    {
+     "name": "Hélène, PhD",
+     "role": "CTO"
+    },
+    {
+     "name": "Dr. Serge Picaud",
+     "role": "Vision Institute Director (scientific advisor)"
+    },
+    {
+     "name": "Pr. Ji-Xin Cheng",
+     "role": "Photoacoustic Scientist (scientific advisor)"
+    },
+    {
+     "name": "Pr. Chen Yang",
+     "role": "Photoacoustic Scientist (scientific advisor)"
+    },
+    {
+     "name": "Dr. Vasily Smirnov, MD",
+     "role": "Neuro-ophthalmologist (scientific advisor)"
+    }
+   ],
+   "technology": "Axorus uses genetics-free photoacoustic neuromodulation. Smart glasses with a near-infrared laser project light patterns onto a pigmented contact lens. The lens material converts that light into highly localized ultrasound waves through the photoacoustic effect, and these waves are meant to stimulate retinal neurons to recreate visual perception. The company describes this as a fully non-invasive, reversible approach, with preclinical in vivo evidence of retinal and visual-cortex activation.",
+   "products": [
+    {
+     "name": "Photoacoustic contact lens system",
+     "description": "A pigmented contact lens worn daily like a regular lens, intended to restore sight for people with damaged retinas; still in preclinical development."
+    },
+    {
+     "name": "Laser projector glasses",
+     "description": "Smart glasses with a near-infrared laser emitter that project light patterns onto the contact lens to trigger the photoacoustic effect."
+    }
+   ],
+   "conditions": [
+    "Dry age-related macular degeneration (AMD)",
+    "Retinitis pigmentosa (RP)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Preclinical trials underway at the Institut de la Vision in Paris, France",
+    "Preclinical in vivo proof of non-invasive photoacoustic activation of the retina and visual areas of the brain",
+    "Published 'A flexible photoacoustic retinal prosthesis' in Nature Communications (2025)",
+    "Since May 2025, company focused exclusively on the photoacoustic contact lens after discontinuing implant technologies"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T08:46:19+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "biological-input-output-systems",
