@@ -101,5 +101,32 @@
    },
    "equivalent_api_cost_usd": 0.0044
   }
+ },
+ {
+  "at": "2026-11-18T09:02:03+00:00",
+  "kind": "profiles",
+  "profiles": 300,
+  "no_pages": 16,
+  "errors": 66,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 300,
+   "refusals": 0,
+   "tokens": {
+    "input": 600,
+    "output": 530198,
+    "cache_read": 345300,
+    "cache_write": 1469634
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.4523
+  }
  }
 ]
