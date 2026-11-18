@@ -93,7 +93,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T08:46:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -186,7 +187,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T08:46:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Paul Le Floch": "https://www.linkedin.com/in/plefloch",
+    "Tianyang Ye": "https://www.linkedin.com/in/tianyang-ye-661888171",
+    "Jia Liu": "https://www.linkedin.com/in/harvardjialiu",
+    "Matt DeNardo": "https://www.linkedin.com/in/matthewdenardo",
+    "Oliver Armitage": "https://www.linkedin.com/in/oliverarmitage"
+   }
   }
  },
  {
@@ -279,7 +287,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T08:46:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -369,7 +378,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -466,7 +476,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -539,7 +550,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Mohammad Ghajar": "https://www.linkedin.com/in/mohammad-ghajar",
+    "Mkminhaz Sg": "https://www.linkedin.com/in/mkminhaz-sg-97b2aa367",
+    "Prof. Deblina Sarkar": "https://www.linkedin.com/in/deblina-sarkar-6bb650a"
+   }
   }
  },
  {
@@ -644,7 +660,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -734,7 +751,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Frank Desiere": "https://www.linkedin.com/in/frankdesiere"
+   }
   }
  },
  {
@@ -799,7 +819,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -881,7 +902,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:26+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -979,7 +1001,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1075,7 +1098,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1169,7 +1193,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1228,7 +1253,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1314,7 +1340,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Pranai Reddy": "https://www.linkedin.com/in/pranaireddy",
+    "Nick Cadavid": "https://www.linkedin.com/in/nick-cadavid-410734246",
+    "Soham Mehra": "https://www.linkedin.com/in/soham-mehra"
+   }
   }
  },
  {
@@ -1422,7 +1453,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1489,7 +1521,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1584,7 +1617,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Nicolas Vachicouras, PhD": "https://www.linkedin.com/in/nicolas-vachicouras-360b9860",
+    "Ludovic Serex, PhD": "https://www.linkedin.com/in/ludovic-serex-4bbb4452",
+    "Florian Fallegger, PhD": "https://www.linkedin.com/in/florianfallegger",
+    "Prof. Stéphanie Lacour, PhD": "https://www.linkedin.com/in/stephanie-lacour-65355a4",
+    "Chloé Fattebert": "https://www.linkedin.com/in/chlo%C3%A9-fattebert-0666921a",
+    "Karolina Janikowska, PhD": "https://www.linkedin.com/in/karolina-janikowska-65556a39"
+   }
   }
  },
  {
@@ -1667,7 +1708,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -1760,7 +1802,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:46+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Matt Angle, PhD": "https://www.linkedin.com/in/matt-angle",
+    "Matt Angle": "https://www.linkedin.com/in/matt-angle",
+    "James Burrows": "https://www.linkedin.com/in/jamesburrowstx",
+    "Vikash Gilja, PhD": "https://www.linkedin.com/in/vikash-gilja-5b57227",
+    "Stephen Ryu, MD": "https://www.linkedin.com/in/stephen-ryu-45895a9",
+    "Kurtis Nishimura, PhD": "https://www.linkedin.com/in/kurtis-nishimura-3454064",
+    "William Marks, MD": "https://www.linkedin.com/in/william-j-marks-jr-md-ms-a19b367a"
+   }
   }
  },
  {
@@ -1848,7 +1899,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:46+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Hans Brons": "https://www.linkedin.com/in/hans-brons",
+    "Bert Monna": "https://www.linkedin.com/in/bert-monna-447504",
+    "Pieter Roelfsema": "https://www.linkedin.com/in/pieter-roelfsema-b5a5581b",
+    "Xing Chen": "https://www.linkedin.com/in/xing-chen-a7b68b2b",
+    "Lisa Kirchberger": "https://www.linkedin.com/in/lisa-kirchberger"
+   }
   }
  },
  {
@@ -1908,7 +1966,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:50+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2001,7 +2060,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Frederik Ceyssens, PhD": "https://www.linkedin.com/in/frederikceyssens",
+    "Dr. Frederik Ceyssens": "https://www.linkedin.com/in/frederikceyssens",
+    "Laurens Goyvaerts": "https://www.linkedin.com/in/laurens-goyvaerts-300851135",
+    "Maarten Schelles": "https://www.linkedin.com/in/maartenschelles",
+    "Jasmine Peeters": "https://www.linkedin.com/in/jasmine-peeters-5a56965",
+    "Catherine Léonard": "https://www.linkedin.com/in/catherine-l%C3%A9onard-003649175"
+   }
   }
  },
  {
@@ -2094,7 +2161,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Kazutaka Takahashi, Ph.D.": "https://www.linkedin.com/in/takahashikazutaka",
+    "Hayato Nakamura, MSEE": "https://www.linkedin.com/in/hayaton1998"
+   }
   }
  },
  {
@@ -2200,7 +2271,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2284,7 +2356,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:16:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2379,7 +2452,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:01+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Andrew Ostarello": "https://www.linkedin.com/in/aostarello",
+    "Scott Meek, Ph.D.": "https://www.linkedin.com/in/scott-meek-ph-d-312a1aa",
+    "Rose Monaghan": "https://www.linkedin.com/in/rose-monaghan",
+    "Sasha Isaenko": "https://www.linkedin.com/in/aleksandraisaenko",
+    "Parminder Mankoo": "https://www.linkedin.com/in/parmindermankoo"
+   }
   }
  },
  {
@@ -2457,7 +2537,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2523,7 +2604,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2596,7 +2678,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2680,7 +2763,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:09+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2742,7 +2826,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:09+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2829,7 +2914,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2884,7 +2970,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -2982,7 +3069,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:17+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3077,7 +3165,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jerome Soucy Rousseau": "https://www.linkedin.com/in/jerome-soucy-rousseau-68249687",
+    "Vito Giallorenzo": "https://www.linkedin.com/in/vitogiallorenzo"
+   }
   }
  },
  {
@@ -3168,7 +3260,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3251,7 +3344,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3339,7 +3433,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:25+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr Nickolai Vysokov": "https://www.linkedin.com/in/n-vysokov",
+    "Dauren Toleukhanov": "https://www.linkedin.com/in/dauren-darr-toleukhanov-ма°°-12932924",
+    "Yaroslav Gachshenko": "https://www.linkedin.com/in/yaroslav-gachshenko-78a268255",
+    "Sergii Tukaiev, PhD": "https://www.linkedin.com/in/sergii-tukaiev-b4076850",
+    "Octavio Siller": "https://www.linkedin.com/in/siller-rodolfo"
+   }
   }
  },
  {
@@ -3433,7 +3534,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Matthias Jehle": "https://www.linkedin.com/in/matthias-jehle",
+    "Vroni Jehle": "https://www.linkedin.com/in/vroni-jehle",
+    "Wojchiech Tokarzewski": "https://www.linkedin.com/in/wojciech-tokarzewski",
+    "Ruby Pfeifer": "https://www.linkedin.com/in/rubin-pfeifer",
+    "Soren Gade": "https://www.linkedin.com/in/sorengade",
+    "Dr. Ferda Canbaz": "https://www.linkedin.com/in/ferda-canbaz-6b320663"
+   }
   }
  },
  {
@@ -3528,7 +3637,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Charlie Ohlén": "https://www.linkedin.com/in/charlie-ohlen",
+    "Nils Hagberg": "https://www.linkedin.com/in/nils-hagberg",
+    "Tomas Ward": "https://www.linkedin.com/in/tomas-ward-b722536",
+    "Per Utterbäack": "https://www.linkedin.com/in/per-utterb%C3%A4ck-ab022410",
+    "Johan Agorelius, PhD": "https://www.linkedin.com/in/johan-agorelius-0baa171",
+    "Peter Stahl": "https://www.linkedin.com/in/stahlpeter"
+   }
   }
  },
  {
@@ -3630,7 +3747,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:32+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3678,7 +3796,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:32+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3775,7 +3894,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3881,7 +4001,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:39+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -3958,7 +4079,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:39+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4032,7 +4154,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:39+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4128,7 +4251,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Konstantin Sonkin": "https://www.linkedin.com/in/konstantin-sonkin",
+    "Yoav Zamir": "https://www.linkedin.com/in/yoavzamir",
+    "Dr. Brian Forsythe": "https://www.linkedin.com/in/brianforsythemd",
+    "Sheran Yeini": "https://www.linkedin.com/in/sheran-yeini-652a5019a",
+    "Yoel Feldman": "https://www.linkedin.com/in/yoel-feldman-entrepreneur-founder-and-business-development-39420b15",
+    "Dr. Ryan Alexander": "https://www.linkedin.com/in/ryan-alexander-5a353452"
+   }
   }
  },
  {
@@ -4218,7 +4349,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:47+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4288,7 +4420,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:47+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4354,7 +4487,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:47+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4452,7 +4586,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4544,7 +4679,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4638,7 +4774,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4742,7 +4879,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Alicia Howell-Munson": "https://www.linkedin.com/in/alicia-howell-munson-887a46159",
+    "Shruthi Gujjula": "https://www.linkedin.com/in/shruthigujjula"
+   }
   }
  },
  {
@@ -4792,7 +4933,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:17:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -4877,7 +5019,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:02+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "AJ Keller": "https://www.linkedin.com/in/andrewjaykeller",
+    "Alex Castillo": "https://www.linkedin.com/in/alexcas"
+   }
   }
  },
  {
@@ -4977,7 +5123,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Anoop Antony": "https://www.linkedin.com/in/anoop-antony-529a72181",
+    "Dr. Utkarsh Gupta": "https://www.linkedin.com/in/utkarsh-gupta-367a85196",
+    "Dr. Onyeka Obilo": "https://www.linkedin.com/in/onyeka-obilo-m-d-b1824658",
+    "Dr. Manu Krishna M.G": "https://www.linkedin.com/in/dr-manu-krishna-md-657550252",
+    "Dr. Bijetri Biswas": "https://www.linkedin.com/in/bijetri-immi-biswas-mbpss-msc-phd-364b18203",
+    "Dr. Farhan Riaz": "https://www.linkedin.com/in/farhan-riaz-18374556"
+   }
   }
  },
  {
@@ -5051,7 +5205,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5106,7 +5261,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5206,7 +5362,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:11+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jonathan Berent": "https://www.linkedin.com/in/jonathan-berent-865a",
+    "John Kuelper": "https://www.linkedin.com/in/johnkuelper",
+    "Gert Cauwenberghs": "https://www.linkedin.com/in/gert-cauwenberghs-57978b7",
+    "Todd Coleman": "https://www.linkedin.com/in/todd-coleman-43698a",
+    "David Eagleman": "https://www.linkedin.com/in/davideagleman"
+   }
   }
  },
  {
@@ -5305,7 +5468,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Santiago Denari": "https://www.linkedin.com/in/santiago-denari",
+    "Oliver Case": "https://www.linkedin.com/in/olivercase",
+    "Tanmay Burde": "https://www.linkedin.com/in/tanmayburde",
+    "Magnus Bruce": "https://www.linkedin.com/in/magnus-bruce-470256275",
+    "Ben Black": "https://www.linkedin.com/in/ben-black-a1b2398",
+    "Lt Col Dr Guy Winters": "https://www.linkedin.com/in/guy-winter-48495a1b"
+   }
   }
  },
  {
@@ -5360,7 +5531,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5433,7 +5605,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5480,7 +5653,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5545,7 +5719,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5634,7 +5809,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5705,7 +5881,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5800,7 +5977,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -5899,7 +6077,17 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Charles Rodenkirch, PhD": "https://www.linkedin.com/in/charlesrodenkirch",
+    "Charles Rodenkirch, PhD (Founder and CEO)": "https://www.linkedin.com/in/charlesrodenkirch",
+    "Qi Wang, PhD (Scientific Founder)": "https://www.linkedin.com/in/qi-wang-20021329",
+    "Qi Wang, PhD": "https://www.linkedin.com/in/qi-wang-20021329",
+    "Linh Le, MS": "https://www.linkedin.com/in/letunglinh",
+    "Krishna Badhiwala, PhD": "https://www.linkedin.com/in/krishnabadhiwala",
+    "Nick Reiser": "https://www.linkedin.com/in/nick-reiser-01206884",
+    "Tim Moriarty, MBA": "https://www.linkedin.com/in/tim-moriarty-77b784380"
+   }
   }
  },
  {
@@ -5975,7 +6163,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:31+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6069,7 +6258,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:31+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6171,7 +6361,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:31+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6266,7 +6457,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Giuseppina Pilloni": "https://www.linkedin.com/in/giuseppina-pilloni-phd-a7b11b9a",
+    "Ria Rustagi": "https://www.linkedin.com/in/ria-rustagi",
+    "Bhavya Madan": "https://www.linkedin.com/in/bhavya-madan-07"
+   }
   }
  },
  {
@@ -6321,7 +6517,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6422,7 +6619,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6506,7 +6704,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:41+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6601,7 +6800,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Peter Adams": "https://www.linkedin.com/in/peterxadams",
+    "Dr. Marzieh Zare": "https://www.linkedin.com/in/marziehzare"
+   }
   }
  },
  {
@@ -6702,7 +6905,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:46+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6749,7 +6953,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:46+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6829,7 +7034,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:48+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -6906,7 +7112,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7005,7 +7212,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Marc Jones": "https://www.linkedin.com/in/marc-jones-9b187a1",
+    "Matt Gorman": "https://www.linkedin.com/in/mattgormancpa",
+    "Nivaldo Diaz": "https://www.linkedin.com/in/nivaldo-diaz-b491943",
+    "Emmanuel Streel, Ph.D.": "https://www.linkedin.com/in/emmanuel-streel-7000b06",
+    "M. Florencia Iulita, Ph.D.": "https://www.linkedin.com/in/florenciaiulita",
+    "Brandon Blakely, Ph.D.": "https://www.linkedin.com/in/brandon-blakely-a8645312",
+    "Ioannis Tarnanas, Ph.D. (listed as Co-founder)": "https://www.linkedin.com/in/tarnanas"
+   }
   }
  },
  {
@@ -7097,7 +7313,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7155,7 +7372,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:18:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7259,7 +7477,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7362,7 +7581,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Emmanuel Mougeotte": "https://www.linkedin.com/in/emmanuel-mougeotte-3b9487",
+    "Olivier Auton": "https://www.linkedin.com/in/olivier-auton",
+    "Pierre Emerich": "https://www.linkedin.com/in/pierre-emerich",
+    "Rachel Cropsal": "https://www.linkedin.com/in/rachel-cropsal-86531b7",
+    "Damien Michon": "https://www.linkedin.com/in/damien-michon-1a525b4a",
+    "Veronica Stangis": "https://www.linkedin.com/in/veronica-strangis-63b71935"
+   }
   }
  },
  {
@@ -7431,7 +7658,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7532,7 +7760,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Chris Loughlin": "https://www.linkedin.com/in/chrisjloughlin",
+    "Mary Patterson": "https://www.linkedin.com/in/mary-patterson-72647a11b",
+    "Molly Penna": "https://www.linkedin.com/in/mollypenna",
+    "Judd Rabb": "https://www.linkedin.com/in/juddrabb",
+    "Bassel Samman": "https://www.linkedin.com/in/basselsamman",
+    "Robert Terrell": "https://www.linkedin.com/in/robert-terrell"
+   }
   }
  },
  {
@@ -7637,7 +7873,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:09+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Mariam Khayretdinova": "https://www.linkedin.com/in/mkhayretdinova"
+   }
   }
  },
  {
@@ -7735,7 +7974,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:09+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ben Somers": "https://www.linkedin.com/in/ben-somers",
+    "Tilde Van Hirtum": "https://www.linkedin.com/in/tilde-van-hirtum-273615b1",
+    "Benjamin Dieudonné": "https://www.linkedin.com/in/bdieudonne",
+    "Prof. Tom Francart": "https://www.linkedin.com/in/tom-francart-0979498",
+    "Celine Neutens": "https://www.linkedin.com/in/celine-neutens-807aa825",
+    "Yves Willems": "https://www.linkedin.com/in/yves-willems-a164b71"
+   }
   }
  },
  {
@@ -7839,7 +8086,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7909,7 +8157,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -7957,7 +8206,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8030,7 +8280,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:16+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8111,7 +8362,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8170,7 +8422,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8276,7 +8529,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Kyle Frye": "https://www.linkedin.com/in/kyle-frye-18843119",
+    "Dr. Nathan White": "https://www.linkedin.com/in/nswhite",
+    "Parag Patel": "https://www.linkedin.com/in/parag-patel-7a66434",
+    "Alexis Fleishner": "https://www.linkedin.com/in/alexis-fleishner-bb01114a",
+    "Jared Dixon": "https://www.linkedin.com/in/jareddixon21",
+    "Patrick O'Neal": "https://www.linkedin.com/in/patrickdonealinlosangeles"
+   }
   }
  },
  {
@@ -8360,7 +8621,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8457,7 +8719,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8518,7 +8781,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8640,7 +8904,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8739,7 +9004,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Tim Buckinx": "https://www.linkedin.com/in/tim-buckinx",
+    "Wim Eeraerts": "https://www.linkedin.com/in/wim-eeraerts-8658b61",
+    "Dirk Loeckx": "https://www.linkedin.com/in/dirkloeckx",
+    "Niki Driessen": "https://www.linkedin.com/in/nikidriessen",
+    "Amir G. Baroumand": "https://www.linkedin.com/in/amir-g-baroumand-986a8853",
+    "Patrick Hellemans": "https://www.linkedin.com/in/patrickhellemans"
+   }
   }
  },
  {
@@ -8825,7 +9098,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:32+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Greg Lipschitz": "https://www.linkedin.com/in/greg-lipschitz-cfa-8a12b020",
+    "Dave DeCaprio": "https://www.linkedin.com/in/davedecaprio",
+    "Paul Krzywicki": "https://www.linkedin.com/in/paul-krzywicki-39255b32",
+    "Gil Issachar": "https://www.linkedin.com/in/gil-issachar-b0340923"
+   }
   }
  },
  {
@@ -8898,7 +9177,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:33+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -8995,7 +9275,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -9086,7 +9367,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Benjamin Peralta": "https://www.linkedin.com/in/benjamin-peralta-wieland-3519755",
+    "Nicolás Jiménez": "https://www.linkedin.com/in/nicolasinmersivovr",
+    "Leandro Palmieri": "https://www.linkedin.com/in/leandro-palmieri-387471aa",
+    "José Massa": "https://www.linkedin.com/in/josemanuelmassa",
+    "Francisco Tepper": "https://www.linkedin.com/in/francisco-tepper-mualim-861a4a1b3",
+    "Rodrigo Cordova": "https://www.linkedin.com/in/rodrigo-cordova-5272383"
+   }
   }
  },
  {
@@ -9173,7 +9462,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Caroline Cake": "https://www.linkedin.com/in/caroline-cake-1b09aa25",
+    "Dr Kinan Muhammed": "https://www.linkedin.com/in/kinan-muhammed",
+    "Dr John Glaser": "https://www.linkedin.com/in/glaserjohn",
+    "Hanson Chow": "https://www.linkedin.com/in/hanson-chow",
+    "Jo Lim": "https://www.linkedin.com/in/jo-lim-50610921",
+    "Alessia Nannetti": "https://www.linkedin.com/in/alessia-nannetti-4362271b8"
+   }
   }
  },
  {
@@ -9260,7 +9557,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:42+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -9394,7 +9692,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:46+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr Jonathan O'Keeffe": "https://www.linkedin.com/in/jonathanokeeffe1"
+   }
   }
  },
  {
@@ -9493,7 +9794,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jennifer Goodall": "https://www.linkedin.com/in/jennifer-goodall-96a9638",
+    "Saskia Vulliez-Sermet": "https://www.linkedin.com/in/saskia-vulliez-sermet-1a8a527",
+    "Oscar Portoles, PhD": "https://www.linkedin.com/in/oscar-portoles",
+    "Mark van Kesteren": "https://www.linkedin.com/in/mark-van-kesteren-862b191a0",
+    "Marzieh Borhanazad": "https://www.linkedin.com/in/marziehba",
+    "Marten de Vries": "https://www.linkedin.com/in/marten-de-vries-599434186"
+   }
   }
  },
  {
@@ -9595,7 +9904,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Vitali Karpeichyk": "https://www.linkedin.com/in/vitali-karpeichyk",
+    "Juan Ricardo Diaz": "https://www.linkedin.com/in/juanrdiaz",
+    "Lena Labai": "https://www.linkedin.com/in/lena-l-aa9452202",
+    "Nadzeya Kurchych": "https://www.linkedin.com/in/nadzeya-kurchych",
+    "Darya Dubois": "https://www.linkedin.com/in/d-dubois"
+   }
   }
  },
  {
@@ -9689,7 +10005,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "David Blánquez": "https://www.linkedin.com/in/david-blanquez-caurel",
+    "Jordina Arcal": "https://www.linkedin.com/in/jordina-arcal-cunillera-b3086130",
+    "Jesús Valls": "https://www.linkedin.com/in/jvallsgm",
+    "Clara Gelabert": "https://www.linkedin.com/in/clara-gelabert-gonzalez-8457072a",
+    "Xavier Raurich": "https://www.linkedin.com/in/xavier-raurich",
+    "Dra. Gloria Durán": "https://www.linkedin.com/in/gloria-duran-bengochea-98363b76"
+   }
   }
  },
  {
@@ -9790,7 +10114,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ziv Yekutieli, PhD": "https://www.linkedin.com/in/ziv-yekutieli",
+    "Dima Gershman": "https://www.linkedin.com/in/dima-gershman",
+    "Prof. Peter LeWitt": "https://www.linkedin.com/in/peter-lewitt-1025ba16",
+    "Dr. Christy Lane": "https://www.linkedin.com/in/christyclane"
+   }
   }
  },
  {
@@ -9880,7 +10210,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Edmund Ben Ami": "https://www.linkedin.com/in/edmund-ben-ami-76aa641b7",
+    "Eitan Raveh, PhD": "https://www.linkedin.com/in/eitan-raveh",
+    "Miriam Cohen Dahan": "https://www.linkedin.com/in/miriam-cohen-dahan-bb3152224"
+   }
   }
  },
  {
@@ -9973,7 +10308,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10069,7 +10405,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:19:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Mark O'Sullivan": "https://www.linkedin.com/in/markosullivan",
+    "Dr. Alison O'Shea": "https://www.linkedin.com/in/alison-o-shea",
+    "Colm Murphy": "https://www.linkedin.com/in/colm-p-murphy",
+    "Olive O'Driscoll": "https://www.linkedin.com/in/olive-o-driscoll-b0182016"
+   }
   }
  },
  {
@@ -10145,7 +10487,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:01+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10249,7 +10592,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:02+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Antoine Pouppez": "https://www.linkedin.com/in/antoine-pouppez-00006798",
+    "Pierre Daye": "https://www.linkedin.com/in/pierre-daye-702b6929",
+    "Gaëtan Vanhoutte": "https://www.linkedin.com/in/gaetanvanhoutte",
+    "Frédérique Boël": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9rique-bo%C3%ABl-21717530",
+    "Philippe Domineaux": "https://www.linkedin.com/in/philippe-domineaux-55331847",
+    "Bart Stulens": "https://www.linkedin.com/in/bartstulens"
+   }
   }
  },
  {
@@ -10349,7 +10700,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10410,7 +10762,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10499,7 +10852,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:08+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr Wessel Woldman": "https://www.linkedin.com/in/wessel-woldman-8614123a",
+    "Harvey Bull": "https://www.linkedin.com/in/harveytoro",
+    "Callum McMahon": "https://www.linkedin.com/in/callum-mcmahon-a79530263",
+    "Jeremy Andrews": "https://www.linkedin.com/in/jeremy-andrews-uk",
+    "Raiyan Sharieff": "https://www.linkedin.com/in/raiyan-sharieff-8b7954140"
+   }
   }
  },
  {
@@ -10601,7 +10961,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:11+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10701,7 +11062,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:15+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10753,7 +11115,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:15+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10835,7 +11198,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:15+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -10913,7 +11277,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:17+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -11006,7 +11371,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:21+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jill Enos, MBA": "https://www.linkedin.com/in/jillenos",
+    "Rosina Samadani, Ph.D.": "https://www.linkedin.com/in/rsamadani",
+    "Uzma Samadani, M.D., Ph.D.": "https://www.linkedin.com/in/uzma-samadani-695980215",
+    "Kathryn Swintek, MBA": "https://www.linkedin.com/in/kathrynswintek"
+   }
   }
  },
  {
@@ -11107,7 +11478,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ruben de Francisco": "https://www.linkedin.com/in/ruben-de-francisco",
+    "Amy Covert": "https://www.linkedin.com/in/amy-covert-6647947",
+    "Skip Ashmore": "https://www.linkedin.com/in/skipashmore",
+    "Hartmut Schneider, M.D., Ph.D.": "https://www.linkedin.com/in/hartmut-schneider-002495112",
+    "Iulia Dobai": "https://www.linkedin.com/in/iuliadobai",
+    "Pieter Ermers": "https://www.linkedin.com/in/pieter-ermers"
+   }
   }
  },
  {
@@ -11173,7 +11552,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -11263,7 +11643,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -11359,7 +11740,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Amy Gordon Franzen": "https://www.linkedin.com/in/brian-pepin-73a87312"
+   }
   }
  },
  {
@@ -11456,7 +11840,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Opeolu Adeoye": "https://www.linkedin.com/in/opeolu-adeoye-md-8685492b6",
+    "George Shaw": "https://www.linkedin.com/in/george-shaw-38330220a",
+    "Joe Korfhagen": "https://www.linkedin.com/in/joe-korfhagen-5827762a",
+    "Paul Gaitan": "https://www.linkedin.com/in/paulgaitan"
+   }
   }
  },
  {
@@ -11548,7 +11938,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -11631,7 +12022,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:34+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -11722,7 +12114,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Casey Halpern, MD": "https://www.linkedin.com/in/casey-halpern-a1569749",
+    "Emily Mirro, MS, MBA": "https://www.linkedin.com/in/emily-mirro",
+    "Younghoon Nho, PhD": "https://www.linkedin.com/in/younghoon-nho-phd",
+    "Stephanie Martin, PhD": "https://www.linkedin.com/in/stephanie-b-martin",
+    "Aniruddha Murthy, MS": "https://www.linkedin.com/in/aniruddha-mn",
+    "Josiah Nissley": "https://www.linkedin.com/in/josiahnissley"
+   }
   }
  },
  {
@@ -11826,7 +12226,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr Emilia Molimpakis, PhD": "https://www.linkedin.com/in/emilia-molimpakis-phd-860325a4",
+    "Dr Stefano Goria, PhD": "https://www.linkedin.com/in/stefano-goria-a11b6a3b",
+    "Alexandra Livia Georgescu, PhD": "https://www.linkedin.com/in/alexandrageorgescu",
+    "Owen Parsons, PhD": "https://www.linkedin.com/in/owen-parsons-0886b0108",
+    "Martin Clode": "https://www.linkedin.com/in/martin-clode-324192120",
+    "Nivi Singh": "https://www.linkedin.com/in/nivi-s-33aa7339"
+   }
   }
  },
  {
@@ -11918,7 +12326,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -12009,7 +12418,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:43+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Kazu Okuda, MD": "https://www.linkedin.com/in/kazutaka-okuda-md",
+    "Greg Hajcak, PhD": "https://www.linkedin.com/in/hajcak"
+   }
   }
  },
  {
@@ -12109,7 +12522,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -12194,7 +12608,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "James Hamet": "https://www.linkedin.com/in/jchamet",
+    "Dr. Robert Perneczky": "https://www.linkedin.com/in/robert-perneczky-67a995139"
+   }
   }
  },
  {
@@ -12277,7 +12695,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:48+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -12379,7 +12798,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:50+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -12478,7 +12898,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Aswin Gunasekar": "https://www.linkedin.com/in/aswingunasekar",
+    "Gabor Braun": "https://www.linkedin.com/in/~gabor-braun~",
+    "Florian Strelzyk, PhD": "https://www.linkedin.com/in/fstrelzyk"
+   }
   }
  },
  {
@@ -12577,7 +13002,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Katharina Koch, PhD": "https://www.linkedin.com/in/katharina-koch-clinical-psychologist",
+    "Natalia Del Campo, PhD": "https://www.linkedin.com/in/natalia-del-campo-0848217",
+    "Nathan Strong, PhD": "https://www.linkedin.com/in/nathan-strong-phd-12781732",
+    "Kevin Aquino, PhD": "https://www.linkedin.com/in/kevin-m-aquino",
+    "Daniel J. Valentino, PhD": "https://www.linkedin.com/in/danielvalentino",
+    "Owen Philips, PhD": "https://www.linkedin.com/in/owenrobertphillips"
+   }
   }
  },
  {
@@ -12670,7 +13103,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -12746,7 +13180,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:20:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -12822,7 +13257,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:00+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Adam Rusin": "https://www.linkedin.com/in/adam-rusin",
+    "Dawid Chajec": "https://www.linkedin.com/in/dchajec"
+   }
   }
  },
  {
@@ -12917,7 +13356,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:02+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13018,7 +13458,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:07+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13120,7 +13561,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:07+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13220,7 +13662,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:08+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13283,7 +13726,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:08+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13367,7 +13811,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "James Dacombe": "https://www.linkedin.com/in/jamesdacombe",
+    "Simon Morling": "https://www.linkedin.com/in/simon-morling-0426698",
+    "Dr. Rob Cooper": "https://www.linkedin.com/in/rob-cooper-19433a90",
+    "Chema Garcia-Soto, MBA": "https://www.linkedin.com/in/chemagarciasoto",
+    "Dr. Marc Bloom": "https://www.linkedin.com/in/marc-bloom-md",
+    "Morgan Lockyer": "https://www.linkedin.com/in/morganlockyer"
+   }
   }
  },
  {
@@ -13445,7 +13897,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:14+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13540,7 +13993,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:16+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Sehrish Ansari": "https://www.linkedin.com/in/sehrish-ansari-172940b7",
+    "Dr. Torben Schneider": "https://www.linkedin.com/in/torben-schneider-a7773335",
+    "Dr. Philipp Brunnbauer": "https://www.linkedin.com/in/philippbrunnbauer",
+    "Cinthya Selvarathinam": "https://www.linkedin.com/in/cinthya-selvarathinam-429776124",
+    "Dr. Pedro Silva": "https://www.linkedin.com/in/pedrofreiresilva"
+   }
   }
  },
  {
@@ -13635,7 +14095,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:16+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13688,7 +14149,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:18+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13778,7 +14240,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Scott Kirkland": "https://www.linkedin.com/in/scott-kirkland-66352420",
+    "Forough Khandan": "https://www.linkedin.com/in/forough-khandan-a0923933",
+    "Professor Stuart Crozier": "https://www.linkedin.com/in/stuart-crozier-397272223",
+    "Karl Pechmann": "https://www.linkedin.com/in/karl-pechmann-7a934127",
+    "Emma Waldon": "https://www.linkedin.com/in/emma-waldon-57863157",
+    "Dr. Konstanty Bialkowski": "https://www.linkedin.com/in/konstanty"
+   }
   }
  },
  {
@@ -13864,7 +14334,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -13960,7 +14431,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:26+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14036,7 +14508,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14109,7 +14582,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14213,7 +14687,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:32+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Wim Van Hecke": "https://www.linkedin.com/in/wimvanhecke",
+    "Dirk Smeets": "https://www.linkedin.com/in/dirk-smeets-03a3364",
+    "Jan Verheyden": "https://www.linkedin.com/in/jan-verheyden-0788032",
+    "Matt Cominksy": "https://www.linkedin.com/in/matt-cominsky-6a51401a9",
+    "Redouan El Jarmouni": "https://www.linkedin.com/in/redouan-el-jarmouni-a1204896"
+   }
   }
  },
  {
@@ -14318,7 +14799,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:35+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ludovic Lecointre": "https://www.linkedin.com/in/ludovic-lecointre-profil",
+    "Bruno Osmanski": "https://www.linkedin.com/in/bruno-osmanski-a83bab13b",
+    "Djamel Zekri": "https://www.linkedin.com/in/djamel-zekri",
+    "Irma Tanon": "https://www.linkedin.com/in/irma-tanon-0b3478ba",
+    "Vincent Lux": "https://www.linkedin.com/in/vincent-lux-6a03518",
+    "Jeremy Ferrier": "https://www.linkedin.com/in/jeremy-ferrier-18a67b74"
+   }
   }
  },
  {
@@ -14408,7 +14897,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14478,7 +14968,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14562,7 +15053,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:41+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14658,7 +15150,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:43+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14744,7 +15237,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:43+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14846,7 +15340,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:48+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -14943,7 +15438,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -15036,7 +15532,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Michael Sughrue": "https://www.linkedin.com/in/michael-sughrue-md",
+    "Dr. Stephane Doyen": "https://www.linkedin.com/in/sdoyen",
+    "Todd Smalley": "https://www.linkedin.com/in/toddsmalley",
+    "Stephen Scheeler": "https://www.linkedin.com/in/stephenscheeler",
+    "Adam Fraser": "https://www.linkedin.com/in/adam-fraser-23202133"
+   }
   }
  },
  {
@@ -15132,7 +15635,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:52+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Dominik Wyser": "https://www.linkedin.com/in/dominik-wyser",
+    "Dominik Wyser": "https://www.linkedin.com/in/dominik-wyser",
+    "Michael Wyser": "https://www.linkedin.com/in/michael-wyser-13508b78",
+    "Dr. Matteo Pavan": "https://www.linkedin.com/in/dr-matteo-pavan",
+    "Marc Willhaus": "https://www.linkedin.com/in/marc-willhaus-03a493108",
+    "Bianca Badii": "https://www.linkedin.com/in/bianca-badii-19ba48250",
+    "Dr. Josef Schönhammer": "https://www.linkedin.com/in/josef-schoenhammer"
+   }
   }
  },
  {
@@ -15191,7 +15703,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -15284,7 +15797,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Jannis Fischer": "https://www.linkedin.com/in/jannis-fischer-083a2334",
+    "Dr. Ilaria Sacco": "https://www.linkedin.com/in/ilaria-sacco-680b02a",
+    "Matthieu Cousteau": "https://www.linkedin.com/in/matthieucousteau",
+    "Dr. Stefan Bircher": "https://www.linkedin.com/in/stefanbircher0303",
+    "Jerome Descheirder": "https://www.linkedin.com/in/jeromedescheirder",
+    "Dr. Max Ahnen": "https://www.linkedin.com/in/max-ludwig-ahnen-1b4a81117",
+    "Brian Oswald": "https://www.linkedin.com/in/brianeoswald"
+   }
   }
  },
  {
@@ -15337,7 +15859,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -15429,7 +15952,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:21:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Iftach Dolev, PhD": "https://www.linkedin.com/in/iftach-dolev-phd-0832068",
+    "Hilla Fogel, PhD": "https://www.linkedin.com/in/hilla-fogel-79762724",
+    "Prof. David Tanne, MD": "https://www.linkedin.com/in/prof-david-tanne",
+    "Klaus L. Dahmen": "https://www.linkedin.com/in/klaus-l-dahmen-7109767",
+    "Mickey Nave": "https://www.linkedin.com/in/mickey-nave-b47b305",
+    "Noa Zifman": "https://www.linkedin.com/in/noa-zifman-mozni-76782a54"
+   }
   }
  },
  {
@@ -15521,7 +16052,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Aritz Zamacola": "https://www.linkedin.com/in/aritz-zamacola",
+    "Vincent Hingot": "https://www.linkedin.com/in/vincent-hingot",
+    "David Perlmutter": "https://www.linkedin.com/in/david-perlmutter-4a30461"
+   }
   }
  },
  {
@@ -15624,7 +16160,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:05+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ohad Arazi": "https://www.linkedin.com/in/ohad-arazi-44492293",
+    "Enhao Gong, PhD": "https://www.linkedin.com/in/enhao-gong",
+    "Greg Zaharchuk, MD, PhD": "https://www.linkedin.com/in/gregzaharchuk",
+    "Josh Gurewitz": "https://www.linkedin.com/in/josh-gurewitz-95063a",
+    "Praveen Gulaka, PhD": "https://www.linkedin.com/in/praveengulaka",
+    "Indra Lalari": "https://www.linkedin.com/in/indralalari"
+   }
   }
  },
  {
@@ -15722,7 +16266,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -15808,7 +16353,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Truman Pierson": "https://www.linkedin.com/in/trumanpierson",
+    "Christopher Fitz": "https://www.linkedin.com/in/christopher-a-fitz"
+   }
   }
  },
  {
@@ -15893,7 +16442,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -15962,7 +16512,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16018,7 +16569,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16071,7 +16623,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16160,7 +16713,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:17+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Aidan Crawley": "https://www.linkedin.com/in/aidan-crawley-20742331",
+    "Tim Denison": "https://www.linkedin.com/in/tim-denison-ph-d-969b6b7",
+    "Stefan De Wachter": "https://www.linkedin.com/in/stefan-de-wachter-72521037",
+    "Iain Anthony": "https://www.linkedin.com/in/iain-anthony-ab730186"
+   }
   }
  },
  {
@@ -16248,7 +16807,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16331,7 +16891,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16404,7 +16965,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Keith Murphy, PhD": "https://www.linkedin.com/in/keith-murphy-fus"
+   }
   }
  },
  {
@@ -16494,7 +17058,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Eric Leuthardt, MD": "https://www.linkedin.com/in/ericleuthardt",
+    "Jenna Gorlewicz, PhD": "https://www.linkedin.com/in/jenna-gorlewicz-0b43b856",
+    "Anna Huguenard, MD": "https://www.linkedin.com/in/anna-huguenard-0240912a6",
+    "Jeff Dunn, JD": "https://www.linkedin.com/in/jeffreyldunn",
+    "Jesse Wheeler, PhD": "https://www.linkedin.com/in/jjwheeler",
+    "Jeff Caputo": "https://www.linkedin.com/in/jeff-caputo-b1a53517",
+    "Ryan Kight": "https://www.linkedin.com/in/ryan-kight"
+   }
   }
  },
  {
@@ -16571,7 +17144,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:26+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16659,7 +17233,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16762,7 +17337,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16849,7 +17425,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:31+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16915,7 +17492,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:32+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -16986,7 +17564,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:32+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Fergal Ward": "https://www.linkedin.com/in/fergalward",
+    "Dr Ricardo Vallejo": "https://www.linkedin.com/in/ricardo-vallejo-a4958335"
+   }
   }
  },
  {
@@ -17080,7 +17662,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17148,7 +17731,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17206,7 +17790,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17296,7 +17881,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Andrew Mullen": "https://www.linkedin.com/in/andrew-mullen-209a3322",
+    "David Preston": "https://www.linkedin.com/in/david-preston-31385213",
+    "Iain Strickland PhD": "https://www.linkedin.com/in/iainstrickland",
+    "Dr. Katrina Gwinn": "https://www.linkedin.com/in/doctorgwinn",
+    "Keith Park PhD": "https://www.linkedin.com/in/keith-kicheol-park-phd"
+   }
   }
  },
  {
@@ -17387,7 +17979,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17478,7 +18071,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17572,7 +18166,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Christian Howell": "https://www.linkedin.com/in/christianfhowell",
+    "Ralph Kern": "https://www.linkedin.com/in/ralphkernsvpbiotech"
+   }
   }
  },
  {
@@ -17675,7 +18273,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17754,7 +18353,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17846,7 +18446,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:52+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -17942,7 +18543,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18033,7 +18635,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18129,7 +18732,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:22:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18229,7 +18833,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18317,7 +18922,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18383,7 +18989,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:06+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18444,7 +19051,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:07+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18528,7 +19136,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:11+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "David Maltz, MS, MBA": "https://www.linkedin.com/in/dmaltz",
+    "Nathan Brady, PhD": "https://www.linkedin.com/in/nathanryanbrady"
+   }
   }
  },
  {
@@ -18623,7 +19235,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:11+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18720,7 +19333,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:16+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -18819,7 +19433,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:16+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Prof. Talma Hendler, MD, PhD": "https://www.linkedin.com/in/talma-hendler-3b5ab67",
+    "Oded Kraft": "https://www.linkedin.com/in/odedkraft",
+    "Rani Cohen": "https://www.linkedin.com/in/ranicohen",
+    "Shai Attia": "https://www.linkedin.com/in/shaiattia",
+    "Dr. Aron Tendler": "https://www.linkedin.com/in/arontendler",
+    "Kirk Thelander": "https://www.linkedin.com/in/kirkthelander"
+   }
   }
  },
  {
@@ -18909,7 +19531,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jeffrey Coull": "https://www.linkedin.com/in/jeffreycoull",
+    "Dr. Jeffrey Coull": "https://www.linkedin.com/in/jeffreycoull",
+    "Josh Richmond": "https://www.linkedin.com/in/josh-richmond-b779892",
+    "Thomas Wilder": "https://www.linkedin.com/in/tom-wilder-679a3113",
+    "Dr. Andy Smith": "https://www.linkedin.com/in/andy-smith-24b38019",
+    "Dr. Nir Lipsman, MD, PhD": "https://www.linkedin.com/in/nir-lipsman-4b796b27b",
+    "Dr. Kullervo Hynynen, PhD": "https://www.linkedin.com/in/kullervo-hynynen-08037513"
+   }
   }
  },
  {
@@ -19001,7 +19632,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19074,7 +19706,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:21+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19124,7 +19757,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:21+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19221,7 +19855,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19312,7 +19947,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ludovica Labruna": "https://www.linkedin.com/in/ludovica-labruna",
+    "Daniel Sheltraw": "https://www.linkedin.com/in/daniel-sheltraw-b0528512",
+    "Spencer Gordon": "https://www.linkedin.com/in/spencer-gordon",
+    "Christina Merrick": "https://www.linkedin.com/in/christina-merrick-0267b514",
+    "Philipp Reber": "https://www.linkedin.com/in/preber",
+    "Itay Hadas": "https://www.linkedin.com/in/itayhadas"
+   }
   }
  },
  {
@@ -19402,7 +20045,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Brandon Bentzley, MD, PhD": "https://www.linkedin.com/in/brandon-bentzley-md-phd-341426b2",
+    "Matt Wallace": "https://www.linkedin.com/in/matt-wallace-8a58881b",
+    "Huyen Duong": "https://www.linkedin.com/in/huyen-duong-a19859a5",
+    "David Dang": "https://www.linkedin.com/in/dang-david"
+   }
   }
  },
  {
@@ -19489,7 +20138,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19549,7 +20199,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:34+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19613,7 +20264,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:34+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19701,7 +20353,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19797,7 +20450,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jacob Robinson, PhD": "https://www.linkedin.com/in/jacob-robinson-75b6b0108",
+    "Sameer Sheth, M.D., Ph.D.": "https://www.linkedin.com/in/sameer-sheth-5225195",
+    "Nick Halper": "https://www.linkedin.com/in/nickhalper",
+    "Steve Goetz": "https://www.linkedin.com/in/steven-goetz-64851b1a"
+   }
   }
  },
  {
@@ -19861,7 +20520,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:41+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -19946,7 +20606,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:42+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20038,7 +20699,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Patrick Sagastegui": "https://www.linkedin.com/in/psagastegui",
+    "Dr. Patrick Sagastegui": "https://www.linkedin.com/in/psagastegui",
+    "Jumpei Kashiwakura": "https://www.linkedin.com/in/jumpei-kashiwakura",
+    "Risha Degamia": "https://www.linkedin.com/in/risha-degamia",
+    "Nabeel Azuhar": "https://www.linkedin.com/in/nabeel-azuhar"
+   }
   }
  },
  {
@@ -20103,7 +20771,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20205,7 +20874,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20317,7 +20987,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Petroula Laiou": "https://www.linkedin.com/in/petroula-laiou-a47152121",
+    "Mark Richardson": "https://www.linkedin.com/in/mark-richardson-3b833615",
+    "Tim Denison": "https://www.linkedin.com/in/prof-tim-denison-freng-969b6b7",
+    "Richard Dobson": "https://www.linkedin.com/in/richard-dobson-78a58719"
+   }
   }
  },
  {
@@ -20404,7 +21080,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20487,7 +21164,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20562,7 +21240,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20644,7 +21323,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20728,7 +21408,18 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:23:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Williams Hitters, MBA": "https://www.linkedin.com/in/wjhitters10",
+    "Eduardo Galindez, MA": "https://www.linkedin.com/in/edgalindez",
+    "Pablo M. Gleiser": "https://www.linkedin.com/in/pablo-gleiser-91ba3316",
+    "Pablo M. Gleiser, PhD, MBA": "https://www.linkedin.com/in/pablo-gleiser-91ba3316",
+    "Rodrigo Ramele": "https://www.linkedin.com/in/rramele",
+    "Rodrigo Ramele, PhD": "https://www.linkedin.com/in/rramele",
+    "Cecilia Forcato": "https://www.linkedin.com/in/cecilia-forcato-4a398a250",
+    "Cecilia Forcato, PhD": "https://www.linkedin.com/in/cecilia-forcato-4a398a250",
+    "Luis Ignacio Brusco, PhD, PhD": "https://www.linkedin.com/in/ignacio-brusco"
+   }
   }
  },
  {
@@ -20812,7 +21503,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -20914,7 +21606,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:08+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21008,7 +21701,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:08+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21105,7 +21799,18 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:08+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Brad Treeby, PhD": "https://www.linkedin.com/in/brad-treeby",
+    "Brad Treeby": "https://www.linkedin.com/in/brad-treeby",
+    "Antonio Stanziola": "https://www.linkedin.com/in/antonio-stanziola-9a3645239",
+    "Antonio Stanziola, PhD": "https://www.linkedin.com/in/antonio-stanziola-9a3645239",
+    "Michael Brown": "https://www.linkedin.com/in/michael-brown-a99139307",
+    "Michael Brown, PhD": "https://www.linkedin.com/in/michael-brown-a99139307",
+    "Tabish Saifee, MBBS, FRCP, PhD": "https://www.linkedin.com/in/tabish-saifee",
+    "Tim den Boer, MSc": "https://www.linkedin.com/in/tim-den-boer",
+    "Candice Boateng": "https://www.linkedin.com/in/candiceboateng"
+   }
   }
  },
  {
@@ -21196,7 +21901,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:11+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21285,7 +21991,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:14+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21373,7 +22080,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:15+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21421,7 +22129,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:15+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21525,7 +22234,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21597,7 +22307,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21679,7 +22390,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:21+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21770,7 +22482,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:22+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -21872,7 +22585,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jason McKeown": "https://www.linkedin.com/in/jasonmckeown"
+   }
   }
  },
  {
@@ -21958,7 +22674,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -22054,7 +22771,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -22154,7 +22872,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:30+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Keith Carlton": "https://www.linkedin.com/in/kcarlton",
+    "Lorenzo Rossi": "https://www.linkedin.com/in/lorenzo-rossi-09518868",
+    "Mattia Arlotti": "https://www.linkedin.com/in/mattia-arlotti-phd-8b63ab4b",
+    "Costanza Conti": "https://www.linkedin.com/in/costanza-conti-75a763188"
+   }
   }
  },
  {
@@ -22239,7 +22963,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:35+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -22314,7 +23039,8 @@
    "linkedin_url": "https://linkedin.com/company/nexstim",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -22407,7 +23133,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:37+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Michael Kahana": "https://www.linkedin.com/in/michael-kahana-406642111",
+    "Chuck Vadala": "https://www.linkedin.com/in/chuck-vadala-1550781"
+   }
   }
  },
  {
@@ -22497,7 +23227,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:39+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -22618,7 +23349,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:42+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -22715,7 +23447,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dave Marver": "https://www.linkedin.com/in/davemarver",
+    "Rob ten Hoedt": "https://www.linkedin.com/in/rob-ten-hoedt-2aba245",
+    "Ali Kiboro": "https://www.linkedin.com/in/ali-kiboro",
+    "Sean Sciara": "https://www.linkedin.com/in/seansciara",
+    "Shari O'Quinn": "https://www.linkedin.com/in/shari-o-quinn-5092a95",
+    "Julien Camisani": "https://www.linkedin.com/in/julien-camisani-39abab3"
+   }
   }
  },
  {
@@ -22816,7 +23556,11 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Aaron Timm": "https://www.linkedin.com/in/aaron-timm-2418a67",
+    "Scott Smith": "https://www.linkedin.com/in/scottsmithsprofile"
+   }
   }
  },
  {
@@ -22943,7 +23687,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:48+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23008,7 +23753,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:50+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23100,7 +23846,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23159,7 +23906,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:51+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23278,7 +24026,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23365,7 +24114,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Małgorzata Szelenbaum": "https://www.linkedin.com/in/malgorzata-szelenbaum-4617823"
+   }
   }
  },
  {
@@ -23451,7 +24203,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:24:57+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23533,7 +24286,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:00+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Todd Langevin": "https://www.linkedin.com/in/todd-langevin-5591b95",
+    "Mike Labbe": "https://www.linkedin.com/in/mike-labbe-271a809",
+    "Lisa Fosdick, MS": "https://www.linkedin.com/in/lisa-fosdick-4198a62",
+    "Chris Pulling, MS": "https://www.linkedin.com/in/chris-pulling-2939a42",
+    "Jaimie Henderson, MD": "https://www.linkedin.com/in/jaimie-henderson-235769",
+    "Christopher Butson, PhD": "https://www.linkedin.com/in/christopher-butson-81a6451b"
+   }
   }
  },
  {
@@ -23601,7 +24362,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23692,7 +24454,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:05+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Hubert Martens": "https://www.linkedin.com/in/hubertmartens",
+    "Dr. Wim Pollet": "https://www.linkedin.com/in/wim-pollet-82062a1",
+    "Wim Pollet": "https://www.linkedin.com/in/wim-pollet-82062a1",
+    "Daniel Schobben": "https://www.linkedin.com/in/danielschobben",
+    "Jeroen Siemes": "https://www.linkedin.com/in/jeroen-siemes-9679ba29",
+    "Roni Diaz": "https://www.linkedin.com/in/roni-diaz-805b6b43",
+    "Jill Schiaparelli": "https://www.linkedin.com/in/jillschiaparelli"
+   }
   }
  },
  {
@@ -23792,7 +24563,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:07+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23879,7 +24651,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:07+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -23927,7 +24700,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:07+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24002,7 +24776,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24101,7 +24876,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:17+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Francesco M Petrini, PhD": "https://www.linkedin.com/in/francesco-maria-petrini-806b4837",
+    "Guy Siman, MBA": "https://www.linkedin.com/in/guy-siman-66bb1b1",
+    "Todd E. Hauser": "https://www.linkedin.com/in/toddhauser1"
+   }
   }
  },
  {
@@ -24188,7 +24968,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:17+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24276,7 +25057,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:17+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24363,7 +25145,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Giacomo Koch MD, PhD": "https://www.linkedin.com/in/giacomo-koch-5a571a45",
+    "Emiliano Santarnecchi PhD, PhD": "https://www.linkedin.com/in/emiliano-santarnecchi-76280132",
+    "Ken Mariash": "https://www.linkedin.com/in/kenmariash",
+    "Rich Macary": "https://www.linkedin.com/in/rich-macary-09025a",
+    "Greg Harper": "https://www.linkedin.com/in/greg-harper-8810a727",
+    "Lisa Fosdick": "https://www.linkedin.com/in/lisa-fosdick-4198a62",
+    "Yohannes Iyassu": "https://www.linkedin.com/in/yohannes-iyassu-50b3114"
+   }
   }
  },
  {
@@ -24423,7 +25214,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:21+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24505,7 +25297,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:25+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24574,7 +25367,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:25+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24667,7 +25461,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:28+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -24764,7 +25559,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Anja Krammer": "https://www.linkedin.com/in/anjakrammer",
+    "Navid Khodaparast, PhD": "https://www.linkedin.com/in/navid-khodaparast-b8634823",
+    "Alejandro Covalin, PhD": "https://www.linkedin.com/in/alejandro-covalin-3006941",
+    "Ric Peterson": "https://www.linkedin.com/in/ric-peterson-53851a7",
+    "Tom Futch": "https://www.linkedin.com/in/tomfutch",
+    "Jeff Jones": "https://www.linkedin.com/in/jjones9877"
+   }
   }
  },
  {
@@ -24912,7 +25715,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Rinda Sama": "https://www.linkedin.com/in/rindasama",
+    "Jay Jiang, PhD": "https://www.linkedin.com/in/guangqiang-jay-jiang-27652094",
+    "Kari Keese": "https://www.linkedin.com/in/kari-keese-56177253",
+    "Stephen Pyles, MD": "https://www.linkedin.com/in/drpyles",
+    "Emilie Finiels": "https://www.linkedin.com/in/emilie-finiels-53282817",
+    "Kurt Gehlsen, MD, PhD": "https://www.linkedin.com/in/dr-kurt-gehlsen-50a4065"
+   }
   }
  },
  {
@@ -25102,7 +25913,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Amos Ziv": "https://www.linkedin.com/in/amos-ziv-42312b118",
+    "Tsahi Holand": "https://www.linkedin.com/in/tsahi-holand-72044524",
+    "Amir Soltanianzadeh": "https://www.linkedin.com/in/amirsoltanianzadeh",
+    "Leena Kadakia": "https://www.linkedin.com/in/leena-kadakia-ms-rac-4634827",
+    "Rose Sabba Weinstein": "https://www.linkedin.com/in/rosesweinstein",
+    "Daniela Puzhevsky": "https://www.linkedin.com/in/daniela-puzhevsky"
+   }
   }
  },
  {
@@ -25196,7 +26015,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -25284,7 +26104,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Nishant Doctor, MS": "https://www.linkedin.com/in/nishantdoctor",
+    "Alex Sackeim, MD": "https://www.linkedin.com/in/alexsackeim",
+    "Ingrid Caton, PhD": "https://www.linkedin.com/in/ingrid-caton-21640125",
+    "Sruthi Suriya, MS": "https://www.linkedin.com/in/sruthiponnambalam",
+    "Hrishikesh Kulkarni, PhD": "https://www.linkedin.com/in/hpkulkarni",
+    "Matthew Parker, PhD": "https://www.linkedin.com/in/matthew-parker-122a24145"
+   }
   }
  },
  {
@@ -25370,7 +26198,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:40+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -25462,7 +26291,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Mark Caffrey": "https://www.linkedin.com/in/mark-caffrey",
+    "Jack O'Keeffe": "https://www.linkedin.com/in/jack-o-keeffe",
+    "Dr. Alessandro Venturino": "https://www.linkedin.com/in/alessandro-venturino-0b754251",
+    "Prof. Dr. Sandra Siegert": "https://www.linkedin.com/in/sandra-dr-siegert-31852758",
+    "Dr. Leigh Charvet": "https://www.linkedin.com/in/leigh-elkins-charvet-phd-9a388325",
+    "Prof. Dr. André Brunoni": "https://www.linkedin.com/in/andre-brunoni-9290189"
+   }
   }
  },
  {
@@ -25554,7 +26391,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -25669,7 +26507,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:45+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -25756,7 +26595,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:46+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Pedro Bermejo, MD, PhD": "https://www.linkedin.com/in/pedro-bermejo-a0284232",
+    "Martín Vaquero": "https://www.linkedin.com/in/martin-vaquero-35434a7",
+    "Carlos Fuentes": "https://www.linkedin.com/in/carlos-fuentes-garc%C3%ADa-1881bb2a",
+    "Fran Canteli": "https://www.linkedin.com/in/francisco-canteli-092aa23",
+    "Iñaki Gurtubay, MD, PhD": "https://www.linkedin.com/in/i%C3%B1aki-garcia-de-gurtubay-385982a"
+   }
   }
  },
  {
@@ -25856,7 +26702,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "John Reddington": "https://www.linkedin.com/in/reddington",
+    "Bruno Odermatt": "https://www.linkedin.com/in/bruno-odermatt-384a392",
+    "Mauro Gandolfo": "https://www.linkedin.com/in/mauro-gandolfo",
+    "Kilian Imfeld": "https://www.linkedin.com/in/kimfeld",
+    "Alessandro Maccione": "https://www.linkedin.com/in/alessandromaccione",
+    "Marco Aquila": "https://www.linkedin.com/in/marco-aquila-b6164130"
+   }
   }
  },
  {
@@ -25906,7 +26760,8 @@
    "technology": "[\"The homepage shows a brain imaged through the skull using ultrasound, which is the sensing approach the site illustrates. Aleph Neuro describes itself as a research lab building new brain interfaces. The site does not explain the method in detail and points to a separate \\\"technical approach\\\" page that was not provided.\"]",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -25982,7 +26837,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26084,7 +26940,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Siddhant Dangi": "https://www.linkedin.com/in/siddhant-dangi",
+    "Deepansh Goyal": "https://www.linkedin.com/in/goyal-deepansh",
+    "Dr. Sweta Adatia": "https://www.linkedin.com/in/drswetaadatia",
+    "Dr. Soumya Bhattacharjee": "https://www.linkedin.com/in/soumya-bhattacharjeerjee-41934562",
+    "Dr. Aditya Asopa": "https://www.linkedin.com/in/adityaasopa"
+   }
   }
  },
  {
@@ -26167,7 +27030,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26226,7 +27090,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26317,7 +27182,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Guillaume Petit-Pierre": "https://www.linkedin.com/in/guillaume-petit-pierre-85b87552",
+    "Marc Boers": "https://www.linkedin.com/in/marc-boers-4724801",
+    "Julien Cevey": "https://www.linkedin.com/in/julien-cevey-4a162120",
+    "Benoît Dubath": "https://www.linkedin.com/in/benoit-dubath-1b3132144",
+    "Hadrien Michaud": "https://www.linkedin.com/in/hadrien-michaud",
+    "Silvia Scarabelli": "https://www.linkedin.com/in/silvia-scarabelli-ph-d"
+   }
   }
  },
  {
@@ -26413,7 +27286,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:47+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26508,7 +27382,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:47+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Emil Hewage": "https://www.linkedin.com/in/ehewage",
+    "Oliver Armitage": "https://www.linkedin.com/in/oliverarmitage",
+    "Prof. Joanne Hackett": "https://www.linkedin.com/in/joannemhackett",
+    "Patrick Porritt": "https://www.linkedin.com/in/patrick-porritt",
+    "Paul Hughes": "https://www.linkedin.com/in/paulhughes2"
+   }
   }
  },
  {
@@ -26583,7 +27464,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:47+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26661,7 +27543,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:52+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26751,7 +27634,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Yotam Drechsler": "https://www.linkedin.com/in/yotam-drechsler-6527b121",
+    "Amir Salhuv": "https://www.linkedin.com/in/amirsalhuv",
+    "Prof. Esther Shohami": "https://www.linkedin.com/in/esther-shohami-3159b54",
+    "Kevin Sheth": "https://www.linkedin.com/in/kevin-sheth-274a8a4"
+   }
   }
  },
  {
@@ -26822,7 +27711,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -26912,7 +27802,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:55+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -27000,7 +27891,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:33:59+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Matthew Lapinski": "https://www.linkedin.com/in/matt-lapinski",
+    "Abed Hammoud": "https://www.linkedin.com/in/dr-abed-hammoud",
+    "Jules Scholler": "https://www.linkedin.com/in/jules-scholler-17347790",
+    "Gary Evans": "https://www.linkedin.com/in/gary-evans-bab171a3",
+    "Alexandre Klaey": "https://www.linkedin.com/in/alex-klaey",
+    "Charly Leprince": "https://www.linkedin.com/in/charlyleprince"
+   }
   }
  },
  {
@@ -27072,7 +27971,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:00+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -27169,7 +28069,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Allan Ponniah": "https://www.linkedin.com/in/allan-ponniah-9917b29",
+    "Dimitrios Adamos": "https://www.linkedin.com/in/dimitriosadamos",
+    "Stefanos Zafeiriou": "https://www.linkedin.com/in/szafeiriou",
+    "Nikos Laskaris": "https://www.linkedin.com/in/nikos-laskaris-215260203",
+    "Irene Kotsia": "https://www.linkedin.com/in/irene-kotsia-77690b5",
+    "Yannis Panagakis": "https://www.linkedin.com/in/yannis-panagakis"
+   }
   }
  },
  {
@@ -27269,7 +28177,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -27407,7 +28316,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -27500,7 +28410,16 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Brett Kagan, PhD": "https://www.linkedin.com/in/brett-j-kagan-6ba996146",
+    "Brett Kagan": "https://www.linkedin.com/in/brett-j-kagan-6ba996146",
+    "Andrew Doherty": "https://www.linkedin.com/in/andrew-doherty-48219466",
+    "David Hogan": "https://www.linkedin.com/in/davidqhogan",
+    "Brad Watmuff": "https://www.linkedin.com/in/bradwatmuff",
+    "Nicole Kerlero de Rosbo": "https://www.linkedin.com/in/nicole-kerlero-de-rosbo-9b7a9523",
+    "Justin Bourke": "https://www.linkedin.com/in/drjustinbourke"
+   }
   }
  },
  {
@@ -27599,7 +28518,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Chad Gordon": "https://www.linkedin.com/in/chad-gordon-do-fnps-35169142",
+    "Mike Maglin": "https://www.linkedin.com/in/michael-maglin-b36603",
+    "Oray Boston, Jr.": "https://www.linkedin.com/in/oray-boston-jr",
+    "Stephen Klasko, MD": "https://www.linkedin.com/in/sklasko",
+    "Brian Moran": "https://www.linkedin.com/in/bmoran"
+   }
   }
  },
  {
@@ -27689,7 +28615,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:13+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Tina Sampath": "https://www.linkedin.com/in/tina-sampath",
+    "Brian Murphy, PhD": "https://www.linkedin.com/in/brianemurphy",
+    "Siggi Saevarsson": "https://www.linkedin.com/in/siggi",
+    "Terry Reilly": "https://www.linkedin.com/in/terry-reilly-956a512",
+    "Alexandra Cowden": "https://www.linkedin.com/in/alexandra-c-838061222",
+    "Ian McCullough": "https://www.linkedin.com/in/ian-mccullough-8b7a8a"
+   }
   }
  },
  {
@@ -27811,7 +28745,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -27908,7 +28843,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr. Ewelina Kurtys": "https://www.linkedin.com/in/ewelinakurtys",
+    "Steve M. Potter, PhD": "https://www.linkedin.com/in/steve-m-potter-phd-73b33198",
+    "Bruce Davis": "https://www.linkedin.com/in/bruce-davis-43a079211"
+   }
   }
  },
  {
@@ -27974,7 +28914,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28029,7 +28970,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28106,7 +29048,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:25+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28182,7 +29125,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:26+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28258,7 +29202,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:27+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28364,7 +29309,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28455,7 +29401,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:34+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28527,7 +29474,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:34+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28595,7 +29543,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28661,7 +29610,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:36+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28734,7 +29684,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:39+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28837,7 +29788,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:41+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Jesse Christopher": "https://www.linkedin.com/in/jesse-christopher-a49171b2",
+    "Denise Genuit": "https://www.linkedin.com/in/denise-genuit-a708b476",
+    "Todd Johnson": "https://www.linkedin.com/in/todd-johnson-b23468ab",
+    "Brad Rabinovitz": "https://www.linkedin.com/in/brad-rabinovitz-bb63608",
+    "David Langer": "https://www.linkedin.com/in/david-langer-5264097",
+    "Timothy Scannell": "https://www.linkedin.com/in/timothy-scannell-ba322a61"
+   }
   }
  },
  {
@@ -28919,7 +29878,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -28991,7 +29951,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29085,7 +30046,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29164,7 +30126,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29256,7 +30219,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dorian Haci": "https://www.linkedin.com/in/dorianhaci",
+    "Timothy Constandinou": "https://www.linkedin.com/in/tgconstandinou",
+    "Andrew Jackson": "https://www.linkedin.com/in/andrew-jackson-9ab75ba3",
+    "Tim Denison": "https://www.linkedin.com/in/tim-denison-ph-d-969b6b7",
+    "Ian Williams": "https://www.linkedin.com/in/ian-williams-88b99137",
+    "Jonathan Casey": "https://www.linkedin.com/in/jonathan-casey-70292088"
+   }
   }
  },
  {
@@ -29339,7 +30310,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:54+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29412,7 +30384,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:56+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29475,7 +30448,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:34:56+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29570,7 +30544,13 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:02+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ross Tsukashima": "https://www.linkedin.com/in/ross-tsukashima-a187426",
+    "Alyssa Boasso, PhD": "https://www.linkedin.com/in/alyssa-boasso",
+    "Meredith Seaborn": "https://www.linkedin.com/in/meredith-seaborn",
+    "Erin Byrne Rousseau, PhD": "https://www.linkedin.com/in/erin-byrne-rousseau-phd-829134105"
+   }
   }
  },
  {
@@ -29655,7 +30635,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:02+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dror Talisman": "https://www.linkedin.com/in/dror-talisman",
+    "Oleg Aryutkin": "https://www.linkedin.com/in/oleg-aryutkin",
+    "Michal Gruberger": "https://www.linkedin.com/in/michalgruberger"
+   }
   }
  },
  {
@@ -29730,7 +30715,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:03+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -29870,7 +30856,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:04+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Dr Alexandra Bernadotte": "https://www.linkedin.com/in/alexandra-bernadotte-b2467730",
+    "Ivan Menshikov": "https://www.linkedin.com/in/ivan-menshikov-23798771",
+    "Sergey Musienko": "https://www.linkedin.com/in/sergeymusienko",
+    "Bert de Vries": "https://www.linkedin.com/in/bertdv",
+    "Jeff Beck": "https://www.linkedin.com/in/jeff-beck-6b5085196",
+    "Dr. Alexander Kuck": "https://www.linkedin.com/in/dr-alexander-kuck-1a146075"
+   }
   }
  },
  {
@@ -29964,7 +30958,10 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:10+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Priyanka Jain": "https://www.linkedin.com/in/priyankaja"
+   }
   }
  },
  {
@@ -30063,7 +31060,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30139,7 +31137,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30256,7 +31255,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:12+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30342,7 +31342,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30431,7 +31432,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:19+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Connor Glass": "https://www.linkedin.com/in/connor-glass-010124141",
+    "Arne Kreitz": "https://www.linkedin.com/in/arnekreitz",
+    "Ed Michael": "https://www.linkedin.com/in/edward-michael-3a8b0356",
+    "Mike Faltys": "https://www.linkedin.com/in/mike-faltys-488608",
+    "Bill Giles": "https://www.linkedin.com/in/bill-giles-971356b",
+    "Vinod Sharma, PhD": "https://www.linkedin.com/in/vinod-sharma-44264a5"
+   }
   }
  },
  {
@@ -30518,7 +31527,10 @@
    "linkedin_url": "https://www.linkedin.com/company/pieeg",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ildar Rakhmatulin": "https://www.linkedin.com/in/ildar-rakhmatulin-262a66112"
+   }
   }
  },
  {
@@ -30590,7 +31602,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:20+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30662,7 +31675,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30718,7 +31732,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:24+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30790,7 +31805,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:26+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30856,7 +31872,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:29+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -30947,7 +31964,12 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:33+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Blair Fraser, BSc": "https://www.linkedin.com/in/blairfraser",
+    "Martin Fuchs": "https://www.linkedin.com/in/fuchs-martin",
+    "Dr. med. univ. Thomas Rhomberg": "https://www.linkedin.com/in/thomas-rhomberg-5229ba22a"
+   }
   }
  },
  {
@@ -31069,7 +32091,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:33+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Franz BOZSAK, PhD": "https://www.linkedin.com/in/franzbozsak",
+    "Gor LEBEDEV, PhD": "https://www.linkedin.com/in/gor-lebedev",
+    "Cécile JOUCLAS": "https://www.linkedin.com/in/c%C3%A9cile-jouclas-b4a62641",
+    "Brian BURG, PhD": "https://www.linkedin.com/in/brianrburg",
+    "Abdul BARAKAT, PhD": "https://www.linkedin.com/in/abdul-barakat-53717a3a"
+   }
   }
  },
  {
@@ -31180,7 +32209,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:35+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Raj Narula, MD": "https://www.linkedin.com/in/rajnarula",
+    "Jason Bond": "https://www.linkedin.com/in/jjbond",
+    "Carl Dugart": "https://www.linkedin.com/in/carl-dugart",
+    "Kirtana Vedire, DMD": "https://www.linkedin.com/in/kirtanavedire",
+    "Chethan Sathya, MD, MSC": "https://www.linkedin.com/in/dr-chethan-sathya-md-00707441",
+    "Vineet Agrawal": "https://www.linkedin.com/in/vineet-agrawal-18919b"
+   }
   }
  },
  {
@@ -31265,7 +32302,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:35+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -31339,7 +32377,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:38+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -31432,7 +32471,17 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:41+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Alex Ksendzovsky MD, PhD": "https://www.linkedin.com/in/alexander-ksendzovsky-31732711",
+    "Alex Ksendzovsky": "https://www.linkedin.com/in/alexander-ksendzovsky-31732711",
+    "Jon Pomeraniec": "https://www.linkedin.com/in/jonathan-pomeraniec-785a294",
+    "Jon Pomeraniec MD, MBA": "https://www.linkedin.com/in/jonathan-pomeraniec-785a294",
+    "John Wittig, PhD": "https://www.linkedin.com/in/john-w-268b2653",
+    "William Barnes, PhD": "https://www.linkedin.com/in/william-h-barnes",
+    "Katie Greenfield": "https://www.linkedin.com/in/katie-greenfield-606904197",
+    "Vik Chaudhary": "https://www.linkedin.com/in/vikchaudhary"
+   }
   }
  },
  {
@@ -31536,7 +32585,14 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Benoit Larrat, PhD": "https://www.linkedin.com/in/benoit-larrat-phd-0b4913167",
+    "Anthony Novell, PhD": "https://www.linkedin.com/in/anthony-novell-01617094",
+    "Hamid Ouamara, PhD": "https://www.linkedin.com/in/hamid-ouamara-phd",
+    "Mario Arico, PhD": "https://www.linkedin.com/in/marioarico",
+    "Aurelie Monkam-Tchoualak": "https://www.linkedin.com/in/aurelie-monkam"
+   }
   }
  },
  {
@@ -31597,7 +32653,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -31689,7 +32746,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:44+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -31808,7 +32866,15 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:49+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {
+    "Ziv Peremen, PhD": "https://www.linkedin.com/in/zivperemen",
+    "Prof. Yael Hanein, PhD": "https://www.linkedin.com/in/yaelhanein",
+    "Yoni Mizrahi": "https://www.linkedin.com/in/yoni-mizrahi-94492342",
+    "Ilan Ron": "https://www.linkedin.com/in/ilan-ron",
+    "Deganit Barak-Shinar, PhD": "https://www.linkedin.com/in/deganit-barak-shinar-b9726b44",
+    "Guy Rosenthal": "https://www.linkedin.com/in/guy-rosenthal-b7247b16a"
+   }
   }
  },
  {
@@ -31878,7 +32944,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:50+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  },
  {
@@ -31973,7 +33040,8 @@
    "linkedin_url": "",
    "source": "company website",
    "updated_at": "2026-11-18T09:35:53+00:00",
-   "model": "claude-haiku-5-5"
+   "model": "claude-haiku-5-5",
+   "people_linkedin": {}
   }
  }
 ]

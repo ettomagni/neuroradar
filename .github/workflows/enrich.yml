@@ -11,6 +11,10 @@ on:
         description: "Direct calls instead of the Batches API (for small tests)"
         type: boolean
         default: false
+      people_links_only:
+        description: "Only refresh the people's LinkedIn links from company websites (no Claude calls)"
+        type: boolean
+        default: false
   schedule:
     # 1st of each month, after the daily run: refresh profiles older than 90 days
     - cron: "30 6 1 * *"
@@ -45,6 +49,7 @@ jobs:
           ARGS="--wait-min 60"
           [ -n "${{ inputs.limit }}" ] && ARGS="$ARGS --limit ${{ inputs.limit }}"
           [ "${{ inputs.no_batch }}" = "true" ] && ARGS="$ARGS --no-batch"
+          [ "${{ inputs.people_links_only }}" = "true" ] && ARGS="$ARGS --people-links"
           python3 scripts/enrich_llm.py $ARGS
       - name: Commit updated data
         if: always()

@@ -442,6 +442,35 @@ function jobRowSmall(j) {
   </li>`;
 }
 
+/* People: CEO, founders and leadership, each with their LinkedIn.
+   A direct link only when the company's own website links that profile;
+   otherwise a LinkedIn search for "name + company". */
+const personKey = (n) => n.split(",")[0].toLowerCase().replace(/\b(dr|prof|mr|ms|mrs)\.?\s+/g, "").replace(/\s+/g, " ").trim();
+function peopleHtml(c) {
+  const p = prof(c), li = p.people_linkedin || {};
+  const people = new Map();
+  const add = (name, role) => {
+    if (!name) return;
+    const k = personKey(name), cur = people.get(k);
+    if (cur) { if (role && !cur.roles.includes(role)) cur.roles.push(role); }
+    else people.set(k, { name, roles: role ? [role] : [], url: null });
+  };
+  if (p.ceo) add(p.ceo, "CEO");
+  (p.founders || []).forEach((n) => add(n, "Founder"));
+  (p.leadership || []).forEach((x) => add(x.name, x.role));
+  for (const [n, url] of Object.entries(li)) { const e = people.get(personKey(n)); if (e && safeUrl(url)) e.url = url; }
+  if (!people.size) return "";
+  // "CEO" + "Co-founder & CEO" -> keep the most descriptive roles only
+  const roles = (rs) => rs.filter((r) => !rs.some((o) => o !== r && o.toLowerCase().includes(r.toLowerCase()))).join(" · ");
+  return `<section><h3>People</h3><ul class="people">${[...people.values()].map((x) => {
+    const q = encodeURIComponent(`${x.name.split(",")[0]} ${c.name}`);
+    const link = x.url
+      ? `<a class="li-btn" href="${esc(x.url)}" target="_blank" rel="noopener" title="LinkedIn profile (linked on the company website)">in</a>`
+      : `<a class="li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=${q}" target="_blank" rel="noopener" title="Search on LinkedIn">in<i>⌕</i></a>`;
+    return `<li><div><b>${esc(x.name)}</b><span>${esc(roles(x.roles))}</span></div>${link}</li>`;
+  }).join("")}</ul></section>`;
+}
+
 /* ================= full profile (modal) ================= */
 function openProfile(c) {
   const p = prof(c), cat = CATEGORIES[c.category];
@@ -483,8 +512,7 @@ function openProfile(c) {
       <aside class="pf-side">
         <section><h3>Key facts</h3><dl class="facts one">${facts.map(([k, v]) =>
           `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join("")}</dl></section>
-        ${(p.leadership || []).length ? `<section><h3>Leadership</h3><ul class="people">${p.leadership.map((x) =>
-          `<li><b>${esc(x.name)}</b><span>${esc(x.role)}</span></li>`).join("")}</ul></section>` : ""}
+        ${peopleHtml(c)}
         ${related.length ? `<section><h3>Related companies</h3><div class="pills">${related.map((r) =>
           `<button class="pill link" data-related="${r.id}">${esc(r.name)}</button>`).join("")}</div></section>` : ""}
         <p class="note small">${p.updated_at

@@ -26,6 +26,7 @@ from anthropic.types.messages.batch_create_params import Request
 from claude_client import MODEL, USAGE, backend, can_batch, token_check, has_key, make_client, parse_response, schema_format, structured
 from netutil import DATA, Throttle, fetch_json, load_companies, save_json
 from pagetext import page_to_text
+from people_links import match_people, people_names
 from render import render_many
 
 ABOUT_KEYS = re.compile(r"about|team|leadership|management|company|who-we-are|our-story|founders|people|board", re.I)
@@ -98,8 +99,12 @@ def about_links(links: set[str], home: str) -> list[str]:
     return out[:2]
 
 
+RAW: dict[str, list[tuple[str, str]]] = {}  # company id -> [(html, url)] of the rendered pages
+
+
 def gather_pages(companies: list[dict]) -> dict[str, tuple[str, set[str]]]:
-    """Render homepages, then their about/team pages. Returns {id: (text, links)}."""
+    """Render homepages, then their about/team pages. Returns {id: (text, links)};
+    the raw HTML is kept in RAW for the LinkedIn matching."""
     homes = render_many([c["website"] for c in companies])
     second, texts = {}, {}
     for c in companies:
@@ -108,6 +113,7 @@ def gather_pages(companies: list[dict]) -> dict[str, tuple[str, set[str]]]:
             continue
         t, links = page_to_text(r.html, r.final_url, limit=8000)
         texts[c["id"]] = [f"# Homepage {r.final_url}\n{t}"], links
+        RAW[c["id"]] = [(r.html, r.final_url)]
         second[c["id"]] = about_links(links, r.final_url)
     extra = render_many([u for us in second.values() for u in us])
     out = {}
@@ -117,6 +123,7 @@ def gather_pages(companies: list[dict]) -> dict[str, tuple[str, set[str]]]:
             if r and r.status == 200:
                 t, l2 = page_to_text(r.html, r.final_url, limit=10000)
                 parts.append(f"# Page {r.final_url}\n{t}")
+                RAW[cid].append((r.html, r.final_url))
                 links |= l2
         out[cid] = ("\n\n".join(parts), links)
     return out
@@ -136,6 +143,13 @@ def blank(v):
     if isinstance(v, dict):
         return {k: blank(x) for k, x in v.items()}
     return v
+
+
+def add_people_links(cid: str, p: dict) -> dict:
+    """LinkedIn profiles of the profile's people, from links on the company's pages."""
+    if cid in RAW:
+        p["people_linkedin"] = match_people(people_names(p), RAW[cid])
+    return p
 
 
 def clean_profile(p: dict, links: set[str]) -> dict:
@@ -208,6 +222,20 @@ def main():
         apply_profiles(companies, profiles)
         save_json(DATA / "companies.json", companies)
         print(f"Repaired {len(profiles)} profiles")
+        return
+    if "--people-links" in args:  # LinkedIn links of the people only: render pages, no Claude calls
+        companies = load_companies()
+        todo = [c for c in companies if c.get("profile") and c.get("website") and only in (None, c["id"])][:limit]
+        print(f"Looking for people's LinkedIn links on {len(todo)} websites…", flush=True)
+        gather_pages(todo)
+        found = people = 0
+        for c in todo:
+            if c["id"] in RAW:
+                add_people_links(c["id"], c["profile"])
+                found += len(set(c["profile"]["people_linkedin"].values()))
+                people += len({" ".join(n.lower().split()) for n in people_names(c["profile"])})
+        save_json(DATA / "companies.json", companies)
+        print(f"Done: {found} LinkedIn profiles matched for about {people} people")
         return
     if not has_key():
         print("No Claude credentials: skipping profile enrichment.")
@@ -288,7 +316,7 @@ def main():
                     stats["errors"] += 1
                     continue
                 if out:
-                    profiles[cid] = clean_profile(out, links_by[cid])
+                    profiles[cid] = add_people_links(cid, clean_profile(out, links_by[cid]))
     else:
         from concurrent.futures import ThreadPoolExecutor
 
@@ -304,7 +332,7 @@ def main():
                     stats["errors"] += 1
                     print(f"  ! {c['name']}: {err}", flush=True)
                 elif out:
-                    profiles[c["id"]] = clean_profile(out, links)
+                    profiles[c["id"]] = add_people_links(c["id"], clean_profile(out, links))
 
     stats["profiles"] = len(profiles)
     apply_profiles(companies, profiles)
