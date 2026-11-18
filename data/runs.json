@@ -155,5 +155,73 @@
    },
    "equivalent_api_cost_usd": 0.0991
   }
+ },
+ {
+  "at": "2026-11-18T13:44:38+00:00",
+  "kind": "careers_llm",
+  "read": 167,
+  "unchanged": 0,
+  "errors": 3,
+  "switched_to_ats": 0,
+  "roles": 473,
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 160,
+   "refusals": 0,
+   "tokens": {
+    "input": 320,
+    "output": 94849,
+    "cache_read": 166920,
+    "cache_write": 404663
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0997
+  }
+ },
+ {
+  "at": "2026-11-18T13:49:51+00:00",
+  "kind": "careers",
+  "baseline": false,
+  "companies_checked": 210,
+  "companies_ok": 209,
+  "errors": {
+   "arbor-neurotech": "RuntimeError: lever: HTTP 0"
+  },
+  "jobs_open": 933,
+  "jobs_new": 5,
+  "jobs_closed": 9
+ },
+ {
+  "at": "2026-11-18T13:50:13+00:00",
+  "kind": "requirements",
+  "extracted": 300,
+  "no_text": 87,
+  "errors": 546,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 300,
+   "refusals": 0,
+   "tokens": {
+    "input": 604,
+    "output": 256455,
+    "cache_read": 426280,
+    "cache_write": 1976412
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.3796
+  }
  }
 ]
