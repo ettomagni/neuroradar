@@ -451,5 +451,70 @@
  "tokyo|usa": {
   "lat": 29.5494,
   "lng": -98.5322
+ },
+ "zaragoza|spain": {
+  "lat": 41.6916,
+  "lng": -0.9101
+ },
+ "lyon|france": {
+  "lat": 45.7578,
+  "lng": 4.832
+ },
+ "philadelphia|usa": {
+  "lat": 39.9527,
+  "lng": -75.1635
+ },
+ "baltimore|usa": {
+  "lat": 39.2909,
+  "lng": -76.6108
+ },
+ "belfast|uk": {
+  "lat": 54.5964,
+  "lng": -5.9302
+ },
+ "vevey|switzerland": {
+  "lat": 46.4603,
+  "lng": 6.8419
+ },
+ "cambridge|uk": {
+  "lat": 52.1976,
+  "lng": 0.1392
+ },
+ "cleveland, oh|usa": {
+  "lat": 41.4997,
+  "lng": -81.6937
+ },
+ "glattpark (opfikon)|switzerland": {
+  "lat": 47.4255,
+  "lng": 8.5601
+ },
+ "hayward|usa": {
+  "lat": 37.6688,
+  "lng": -122.0808
+ },
+ "서울특별시 송파구 (seoul, songpa-gu)|south korea": {
+  "lat": 37.5122,
+  "lng": 127.0753
+ },
+ "tsukuba|japan": {
+  "lat": 36.0833,
+  "lng": 140.0773
+ },
+ "cambridge, ma|usa": {
+  "lat": 42.3656,
+  "lng": -71.104
+ },
+ "edinburgh|uk": {
+  "lat": 55.9533,
+  "lng": -3.1884
+ },
+ "baltimore, md & san francisco, ca|usa": null,
+ "yokneam illit|israel": {
+  "lat": 32.6481,
+  "lng": 35.0944
+ },
+ "delft|netherlands": {
+  "lat": 51.9995,
+  "lng": 4.3627
  }
 }

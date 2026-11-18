@@ -26239,10 +26239,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.artiria-medical.com",
-  "city": null,
-  "lat": 47.01,
-  "lng": 8.4352,
-  "location_precision": "country",
+  "city": "Geneva",
+  "lat": 46.185,
+  "lng": 6.1334,
+  "location_precision": "city",
   "founded": "2019",
   "funding_stage": "Series A",
   "modality": "Endovascular",
@@ -26260,7 +26260,65 @@
   ],
   "careers_url": "https://www.artiria-medical.com/jobs",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Geneva",
+   "hq_country": "Switzerland",
+   "ceo": "Guillaume Petit-Pierre",
+   "founders": [
+    "Guillaume Petit-Pierre",
+    "Marc Boers"
+   ],
+   "leadership": [
+    {
+     "name": "Guillaume Petit-Pierre",
+     "role": "CEO and Co-Founder"
+    },
+    {
+     "name": "Marc Boers",
+     "role": "COO and Co-Founder"
+    },
+    {
+     "name": "Julien Cevey",
+     "role": "Quality Manager"
+    },
+    {
+     "name": "Benoît Dubath",
+     "role": "Senior R&D Engineer"
+    },
+    {
+     "name": "Hadrien Michaud",
+     "role": "R&D Manager"
+    },
+    {
+     "name": "Silvia Scarabelli",
+     "role": "Clinical & Regulatory Affairs Manager"
+    }
+   ],
+   "technology": "Artiria's SmartGUIDE is a 0.014 inch guidewire with a dynamic tip that the physician can bend and shape in situ, without hand-shaping the tip beforehand. A pusher button and a stepped locking system let the operator deflect the tip incrementally with one hand, and an adjustable handle can be repositioned along the proximal section. The device is designed to help navigate tortuous vessels in the brain during neurovascular procedures.",
+   "products": [
+    {
+     "name": "SmartGUIDE 0.014 guidewire",
+     "description": "Soft atraumatic-tip 0.014 in x 200 cm neurovascular guidewire with dynamic tip deflection, hydrophilic coating and single-hand control, commercially available in the US and Europe."
+    }
+   ],
+   "conditions": [
+    "Stroke (hemorrhagic and ischemic)",
+    "Neurovascular conditions",
+    "Minimally invasive neurovascular interventions"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2019",
+    "FDA cleared and CE marked",
+    "ISO 13485 certified (Artiria Medical SA)",
+    "Funded by the Swiss State Secretariat for Education, Research and Innovation (SERI)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:44+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "axite-tech",
@@ -26293,7 +26351,70 @@
   ],
   "careers_url": "https://www.axitetech.com/vacancies",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Charlotte Franenberg",
+   "founders": [
+    "Charlotte Franenberg",
+    "Ruchella Kock"
+   ],
+   "leadership": [
+    {
+     "name": "Charlotte Franenberg",
+     "role": "Co-Founder and CEO"
+    },
+    {
+     "name": "Ruchella Kock",
+     "role": "Co-Founder and CTO"
+    },
+    {
+     "name": "Dr. Arko Ghosh",
+     "role": "Scientific Advisor"
+    },
+    {
+     "name": "Dr. Roland Thijs",
+     "role": "Medical Advisor"
+    },
+    {
+     "name": "Sander Dijkhuis",
+     "role": "Data & Privacy Advisor"
+    },
+    {
+     "name": "Dirk van Moorselaar",
+     "role": "Data Scientist"
+    }
+   ],
+   "technology": "Axite builds software that takes EEG recorded by consumer-grade headbands, used outside the lab, and cleans the noise out of the signal. Each tap a participant makes on their own phone is recorded on the same clock as the EEG, so the brain activity before, during and after each action can be measured without a lab task. The processing engine then produces cognitive measures such as attention, cognitive load, frequency bands and theta/alpha ratios.",
+   "products": [
+    {
+     "name": "Axite Platform",
+     "description": "Dashboard, processing engine and API where research teams follow participants, send in EEG and receive cleaned cognitive scores; raw EEG and scores export in open formats."
+    },
+    {
+     "name": "Axite App (NeuroJournal)",
+     "description": "Remote EEG recording app that participants use at home with a consumer-grade headband and their own phone, logging taps alongside the EEG."
+    }
+   ],
+   "conditions": [
+    "Epilepsy (first indication for certified monitoring)",
+    "Alzheimer's disease",
+    "Other forms of dementia",
+    "Cognitive side effects of anti-seizure medication"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Spin-off from Leiden University; algorithms trained on over 400 hours of licensed Leiden EEG data plus 700 at-home recording sessions from 50+ participants",
+    "Developing the Axite App (NeuroJournal) as an EU MDR Class IIa medical device (Rule 11(b)), with FDA clearance in the US to follow; not yet certified",
+    "Co-funded by the European Union (Interreg) and featured on BNR Nieuwsradio's Zaken Doen",
+    "Developed with clinical partners SEIN, LUMC, Leiden University and patient organisation EpilepsieNL"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:47+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "bios-health",
@@ -26305,10 +26426,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.bios.health",
-  "city": null,
-  "lat": 52.8067,
-  "lng": -1.9715,
-  "location_precision": "country",
+  "city": "Cambridge",
+  "lat": 52.1988,
+  "lng": 0.1512,
+  "location_precision": "city",
   "founded": "2015",
   "funding_stage": "Series A",
   "modality": "Software",
@@ -26326,7 +26447,69 @@
   ],
   "careers_url": "https://www.bios.health/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Cambridge",
+   "hq_country": "United Kingdom",
+   "ceo": "Emil Hewage",
+   "founders": [
+    "Emil Hewage",
+    "Oliver Armitage"
+   ],
+   "leadership": [
+    {
+     "name": "Emil Hewage",
+     "role": "CEO & Founder"
+    },
+    {
+     "name": "Oliver Armitage",
+     "role": "Chief Scientific Officer & Founder"
+    },
+    {
+     "name": "Prof. Joanne Hackett",
+     "role": "BIOS Board Chair"
+    },
+    {
+     "name": "Patrick Porritt",
+     "role": "Chief Business Officer"
+    },
+    {
+     "name": "Paul Hughes",
+     "role": "Chief Operating Officer"
+    }
+   ],
+   "technology": "BIOS has built neural interfaces and AI software that can read and write the body's nervous-system signals, which the company calls neural 'code'. The aim is to measure these signals in real time, in both acute and chronic settings, to understand and correct faulty signals that can drive disease. Its Neural Dosing Platform combines high-quality neural recordings with AI and machine learning to personalise neural therapies.",
+   "products": [
+    {
+     "name": "Neural Dosing Platform",
+     "description": "Combines high-quality neural recordings with AI and ML to personalise neural therapies."
+    },
+    {
+     "name": "Proprietary neural interface and AI platform",
+     "description": "Measures and analyses neural data in real time in acute and chronic settings."
+    },
+    {
+     "name": "Autonomic Therapy Initiative (ATI)",
+     "description": "Programme to study causal links between the nervous system and cardiovascular disease and drive neural therapies."
+    }
+   ],
+   "conditions": [
+    "Cardiovascular diseases",
+    "Lifelong conditions",
+    "Pharmaceutical efficacy feedback via real-time neural data"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2015 by Cambridge University graduates Emil Hewage and Oliver Armitage",
+    "Named a top startup by TechCrunch in YC W'17",
+    "Top Healthcare Startup in Europe 2019",
+    "Wired Health EY Startup of the Year 2021"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:47+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "bitbrain",
@@ -26338,10 +26521,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.bitbrain.com/",
-  "city": null,
-  "lat": 40.3,
-  "lng": -2.9291,
-  "location_precision": "country",
+  "city": "Zaragoza",
+  "lat": 41.704,
+  "lng": -0.8985,
+  "location_precision": "city",
   "founded": "2010",
   "funding_stage": "Series A",
   "modality": "EEG",
@@ -26359,7 +26542,49 @@
   ],
   "careers_url": "https://www.bitbrain.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Zaragoza",
+   "hq_country": "Spain",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Bitbrain builds wireless and mobile EEG and body-sensing devices that record brain and physiological signals, such as ExG, galvanic skin response and blood volume pulse, often with several sensor types in one unit. Its software platforms synchronize data collection across more than 15 sensor modalities and then analyse the recordings, using AI-driven processing, to compute emotional, cognitive and behavioral metrics. The devices are designed to be easy to use outside the laboratory for research and applied projects.",
+   "products": [
+    {
+     "name": "Versatile Plus EEG",
+     "description": "EEG hardware with up to 64 channels for multimodal monitoring."
+    },
+    {
+     "name": "Dry-EEG",
+     "description": "Hardware EEG device family that records brain signals without water-based electrode gel."
+    },
+    {
+     "name": "Data collection software",
+     "description": "Software platform for managing, designing and synchronously collecting data across over 15 sensor modalities."
+    },
+    {
+     "name": "Data analysis software",
+     "description": "Software platform for data analysis and computation of emotional, cognitive and behavioral metrics."
+    }
+   ],
+   "conditions": [
+    "Neuroscience research across ergonomics, human factors and psychology",
+    "Applied studies in automotive and marketing",
+    "Research, tech and health professional use of brain and body monitoring"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2010 as a spin-off from a research team at the University of Zaragoza",
+    "Designs devices to ISO 13485 medical standards",
+    "Team has published 450+ scientific papers and been involved in 110+ public and private R&D projects",
+    "Recognized with more than 30 international awards"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:47+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "brainbit",
@@ -26391,7 +26616,53 @@
    "BrainCo"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:03+00:00"
+  "llm_checked_at": "2026-11-17T15:19:03+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "USA",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "BrainBit makes wearable EEG, EMG and ECG sensors, such as headbands, headphones and sensing belts, that pick up brain and body electrical signals in real time. Its software and SDKs process those signals and turn them into neurofeedback and biofeedback sessions, recordings and visualizations. The company says it is adding AI-driven analytics and an ontology-based brain knowledge base to adapt training to the user.",
+   "products": [
+    {
+     "name": "BrainBit Headband",
+     "description": "Wearable EEG headband listed among BrainBit's hardware; the site offers it for research and development purposes."
+    },
+    {
+     "name": "NeuroFit PRO",
+     "description": "Windows and mobile neurofeedback and biofeedback application."
+    },
+    {
+     "name": "NeuroREC",
+     "description": "Software for recording, visualization and workflow management of biosignals."
+    },
+    {
+     "name": "BrainAssistant",
+     "description": "Complete solution offered with BrainBit hardware; the site cites BrainAssistant integration for neurofeedback practices."
+    }
+   ],
+   "conditions": [
+    "Meditation",
+    "Sleep",
+    "Education",
+    "Business",
+    "Coaching",
+    "Psychotherapy",
+    "Other use cases (site states its products are non-medical and not intended to diagnose, treat or cure)"
+   ],
+   "team_size": "58 people",
+   "milestones": [
+    "Founded in 2015, based in California (team page)",
+    "Top 15 innovative companies in Silicon Valley by Worldwide Startup Competition Cup in 2025",
+    "Winner of the Global Recognition Award 2025",
+    "FCC-cleared and CE-marked devices (site claim)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:52+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "brain-q",
@@ -26424,7 +26695,64 @@
   ],
   "careers_url": "https://brainqtech.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Yotam Drechsler",
+   "founders": [
+    "Yotam Drechsler",
+    "Prof. Esther Shohami"
+   ],
+   "leadership": [
+    {
+     "name": "Yotam Drechsler",
+     "role": "Chief Executive Officer & Co-founder, Director"
+    },
+    {
+     "name": "Amir Salhuv",
+     "role": "Chief Technology Officer"
+    },
+    {
+     "name": "Jeffrey L. Saver, MD",
+     "role": "Medical Director"
+    },
+    {
+     "name": "Stacey Pugh",
+     "role": "Chair of the Board"
+    },
+    {
+     "name": "Prof. Esther Shohami",
+     "role": "Chief Scientific Officer & Co-founder"
+    },
+    {
+     "name": "Kevin Sheth",
+     "role": "Advisory Board"
+    }
+   ],
+   "technology": "BRAIN.Q uses artificial intelligence to analyze datasets of brain network activity and distill recurring neural activity patterns. These predefined patterns are then delivered to the patient through a wearable device (a helmet) that applies tailored, low-intensity, low-frequency electromagnetic stimulation. The stated aim is to support and speed up the brain's relearning of lost functions after stroke.",
+   "products": [
+    {
+     "name": "BRAIN.Q investigational therapy (helmet)",
+     "description": "Investigational wearable device delivering AI-tailored, low-intensity, low-frequency electromagnetic stimulation for stroke recovery, designed for use in the clinic or at home."
+    }
+   ],
+   "conditions": [
+    "Disability following ischemic stroke",
+    "Stroke rehabilitation and recovery"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Granted FDA Breakthrough Device Designation",
+    "First patient enrolled in the pivotal EMAGINE trial (December 2021)",
+    "Raised $40M to develop its home therapy device (August 2021)",
+    "Named \"Best New Technology Solution - Therapeutic\" in the 2024 Medtech Breakthrough Awards"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:55+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "cambridge-neurotech",
@@ -26456,7 +26784,46 @@
    "G.tec"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:04+00:00"
+  "llm_checked_at": "2026-11-17T15:19:04+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Cambridge NeuroTech makes silicon neural probes that record electrical activity from neurons in the brain, with a probe library intended to place electrodes on target brain areas. Its Double-Sided Probes put electrodes on both faces of the probe to capture more neurons from the same region. A miniature on-skull digital headstage, which the site says is implantable and reusable, digitises signals for 64 to 256 channels in freely behaving mice, removing bulky connectors.",
+   "products": [
+    {
+     "name": "Probes (Deep Array / Double-Sided Probes)",
+     "description": "Silicon neural probes with a comprehensive library for optimising electrode placement across brain areas, including double-sided designs with electrodes on both sides."
+    },
+    {
+     "name": "Miniature on-skull digital headstage",
+     "description": "Implantable, reusable headstage for 64 to 256 recording channels in freely behaving mice, compatible with all of the company's silicon neural probes."
+    },
+    {
+     "name": "nano-Drives",
+     "description": "Drives used to position probes; a user testimonial describes 3-D chronic probe stacks mounted on nano-Drives for combined imaging and electrophysiology."
+    },
+    {
+     "name": "MOUSEWALK",
+     "description": "Headfixed ambulation system listed on the site for head-fixed mice."
+    }
+   ],
+   "conditions": [
+    "Neuroscience research using electrophysiology in mice and rats"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Launched a new miniature on-skull digital headstage for 64 to 256 channels in freely behaving mice",
+    "Continues to make and ship its silicon neural probes and other neuro-tools, as stated on the homepage",
+    "Describes itself as supporting a global community of neuroscientists across academia and industry"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:55+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "carthera",
@@ -26468,10 +26835,10 @@
   "status": "active",
   "parent": null,
   "website": "https://carthera.eu",
-  "city": null,
-  "lat": 45.7337,
-  "lng": 2.5107,
-  "location_precision": "country",
+  "city": "Lyon",
+  "lat": 45.7494,
+  "lng": 4.8424,
+  "location_precision": "city",
   "founded": "2010",
   "funding_stage": "Series B",
   "modality": "Ultrasound",
@@ -26488,7 +26855,65 @@
    "TheraSonic"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:06+00:00"
+  "llm_checked_at": "2026-11-17T15:19:06+00:00",
+  "profile": {
+   "hq_city": "Lyon",
+   "hq_country": "France",
+   "ceo": "Frederic SOTTILINI",
+   "founders": [
+    "Alexandre Carpentier"
+   ],
+   "leadership": [
+    {
+     "name": "Frederic SOTTILINI",
+     "role": "CEO"
+    },
+    {
+     "name": "Carole DESSEAUX",
+     "role": "Chief Clinical Officer"
+    },
+    {
+     "name": "Michael CANNEY",
+     "role": "Chief Scientific Officer"
+    },
+    {
+     "name": "Matthieu CHOLVY",
+     "role": "Chief Technical Officer"
+    },
+    {
+     "name": "Oern STUGE",
+     "role": "Chairman of the Board"
+    },
+    {
+     "name": "Alexandre CARPENTIER, Pr., Ph.D.",
+     "role": "Founder; chairman of the scientific board"
+    }
+   ],
+   "technology": "SonoCloud® is an intracranial implant that emits low-intensity pulsed ultrasound into the brain. Gas microbubbles infused alongside the ultrasound oscillate under its pulses, which temporarily and reversibly opens the blood-brain barrier for several hours. Drugs given close to the sonication session can then reach brain tissue in higher concentrations.",
+   "products": [
+    {
+     "name": "SonoCloud®",
+     "description": "Intracranial implant that uses low-intensity pulsed ultrasound to temporarily open the blood-brain barrier so chemotherapy or other therapeutic agents can reach the brain."
+    }
+   ],
+   "conditions": [
+    "Glioblastoma",
+    "Brain metastases",
+    "Alzheimer's disease",
+    "SLA"
+   ],
+   "team_size": "29 full-time specialists",
+   "milestones": [
+    "Series B round reached €42M in total (December 2023)",
+    "Orphan Drug Designation from US and EU authorities for carboplatin in malignant glioma (May 2024)",
+    "Recruitment milestone of first 100 participants in SONOBIRD pivotal trial for recurrent glioblastoma (April 2025)",
+    "EMA expert panel endorsed Orphan Medical Device status for SonoCloud® system (July 2025)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:55+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "clee-medical",
@@ -26500,10 +26925,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cleemedical.com/",
-  "city": null,
-  "lat": 46.4563,
-  "lng": 7.9392,
-  "location_precision": "country",
+  "city": "Geneva",
+  "lat": 46.2046,
+  "lng": 6.161,
+  "location_precision": "city",
   "founded": "2024",
   "funding_stage": "Seed",
   "modality": "Others",
@@ -26520,7 +26945,63 @@
    "Cerebriu"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:04+00:00"
+  "llm_checked_at": "2026-11-17T15:19:04+00:00",
+  "profile": {
+   "hq_city": "Geneva",
+   "hq_country": "Switzerland",
+   "ceo": "Matthew Lapinski",
+   "founders": [
+    "Matthew Lapinski",
+    "Abed Hammoud"
+   ],
+   "leadership": [
+    {
+     "name": "Matthew Lapinski",
+     "role": "Co-founder and CEO"
+    },
+    {
+     "name": "Abed Hammoud",
+     "role": "Co-founder and CTO"
+    },
+    {
+     "name": "Jules Scholler",
+     "role": "Optical Systems Engineer"
+    },
+    {
+     "name": "Gary Evans",
+     "role": "Principal Engineer"
+    },
+    {
+     "name": "Alexandre Klaey",
+     "role": "Head of Software"
+    },
+    {
+     "name": "Charly Leprince",
+     "role": "Head of Quality and Regulatory"
+    }
+   ],
+   "technology": "Clee Medical is developing an imaging and sensing technology meant to give surgeons real-time, ultra-high-resolution views of the brain during an operation, without contrast agents or radiation. It is delivered through a disposable endoscopic probe that works alongside existing neurosurgical equipment, with machine learning and AI providing real-time guidance. The company describes it as filling the intraoperative imaging gap left by pre-operative MRI, which it says is often insufficient for precise targeting.",
+   "products": [
+    {
+     "name": "Clee Imaging",
+     "description": "Real-time, ultra-high-resolution intraoperative brain imaging platform using an OCT-based disposable endoscopic probe, described as in development."
+    }
+   ],
+   "conditions": [
+    "Brain surgery requiring precise intraoperative targeting",
+    "All stereotactic and functional neurosurgeries"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Ranked #11 in the 2026 Swiss Top 100 Startups",
+    "Closed Seed financing round to accelerate development of its real-time intraoperative brain imaging platform",
+    "Celebrated its first anniversary, citing rapid growth, clinical progress and technological achievement"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:33:59+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "coapt",
@@ -26553,7 +27034,46 @@
   ],
   "careers_url": "https://careers.hanger.com/us/en",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Coapt's system reads the tiny electrical signals (myoelectricity) that residual muscles produce on the skin, using an array of surface electrodes that cover the area of the underlying muscle contractions. Machine-learning algorithms decode these repeatable patterns in real time to work out which arm or hand movement the user intends. The system then tells the prosthesis to perform that movement, allowing control of multiple prosthetic functions.",
+   "products": [
+    {
+     "name": "Complete Control",
+     "description": "Pattern recognition-based intent decoder system that interprets residual muscle signals to control multiple upper-limb prosthetic movements."
+    },
+    {
+     "name": "Gen2 system",
+     "description": "Coapt's second-generation pattern recognition system, which includes the Control Coach AI companion."
+    },
+    {
+     "name": "Control Coach",
+     "description": "Artificial Intelligence companion that analyzes how users personalize their intent decoding and gives routine guidance on getting the best function from the prosthesis."
+    },
+    {
+     "name": "Control Companion",
+     "description": "Central hub app (iOS and Android) for clinicians and users, covering in-clinic setup through on-the-go refinements."
+    }
+   ],
+   "conditions": [
+    "Upper limb loss or difference (users of upper-limb prostheses)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "L6700 establishes a recognized pathway to coverage for Coapt's Gen2 pattern recognition technology",
+    "Coapt secured a new CMS code for upper-limb pattern recognition prostheses",
+    "Device is compatible with more than 800 upper-limb prosthesis combinations"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:00+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "cogitat",
@@ -26581,7 +27101,76 @@
    "No items found."
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:05+00:00"
+  "llm_checked_at": "2026-11-17T15:19:05+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Allan Ponniah",
+   "founders": [
+    "Allan Ponniah",
+    "Dimitrios Adamos",
+    "Stefanos Zafeiriou",
+    "Nikos Laskaris",
+    "Irene Kotsia",
+    "Yannis Panagakis"
+   ],
+   "leadership": [
+    {
+     "name": "Allan Ponniah",
+     "role": "Cofounder - CEO"
+    },
+    {
+     "name": "Dimitrios Adamos",
+     "role": "Cofounder - CTO"
+    },
+    {
+     "name": "Stefanos Zafeiriou",
+     "role": "Cofounder - Scientific Lead"
+    },
+    {
+     "name": "Nikos Laskaris",
+     "role": "Cofounder - Neuroinformatics Lead"
+    },
+    {
+     "name": "Irene Kotsia",
+     "role": "Cofounder - Data/ML Lead"
+    },
+    {
+     "name": "Yannis Panagakis",
+     "role": "Cofounder - AI/ML Lead"
+    }
+   ],
+   "technology": "Cogitat builds deep learning models that read EEG brainwave signals and translate them into digital commands, such as attention or movement control. The decoders are person-independent, so they can work on new users without long calibration sessions, and they are designed to run on any EEG headset or sensor configuration. The company also states that they tolerate real-world signal problems such as poor skin-sensor contact or sensor hardware failures. Its NeuroRVQ approach turns raw biosignals into compact tokens for small, efficient foundation models.",
+   "products": [
+    {
+     "name": "Brainwave decoders",
+     "description": "Deep learning decoders that interpret brain activity, from attention to movement control, across any EEG device."
+    },
+    {
+     "name": "NeuroRVQ",
+     "description": "Tokenization approach that converts raw biosignals into compact tokens for small, efficient EEG foundation models."
+    },
+    {
+     "name": "Hardware Compatibility",
+     "description": "Listing of EEG headsets and sensor hardware the decoders are designed to work with."
+    }
+   ],
+   "conditions": [
+    "Brain-computer interaction use cases such as attention decoding and movement control",
+    "Plug-and-play interaction without long user calibration"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Winner of the NeurIPS EEG Transfer Learning Competition, #1 in 'Benchmarks for EEG Transfer Learning'",
+    "NeuroRVQ ranked #1 on a five-task EEG benchmark",
+    "NeuroRVQ ranked top 3 of 30 on the EEG-Arena leaderboard",
+    "Cogitat is now part of Indivi (site announcement)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:03+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "cogwear",
@@ -26593,10 +27182,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cogweartech.com/",
-  "city": null,
-  "lat": 42.0515,
-  "lng": -92.4392,
-  "location_precision": "country",
+  "city": "Philadelphia",
+  "lat": 39.9367,
+  "lng": -75.1535,
+  "location_precision": "city",
   "founded": "2019",
   "funding_stage": "Seed",
   "modality": "EEG",
@@ -26614,7 +27203,74 @@
   ],
   "careers_url": "https://www.cogweartech.com/careers-1",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Philadelphia",
+   "hq_country": "USA",
+   "ceo": "David Yonce",
+   "founders": [
+    "Michael Platt",
+    "Arjun Ramakrishnan"
+   ],
+   "leadership": [
+    {
+     "name": "David Yonce",
+     "role": "CEO"
+    },
+    {
+     "name": "Michael Platt",
+     "role": "Co-founder & Chief Neuroscientist"
+    },
+    {
+     "name": "Arjun Ramakrishnan",
+     "role": "Co-founder & Principal Neuroscientist"
+    },
+    {
+     "name": "Ben Arcand",
+     "role": "Lead Hardware Engineer"
+    },
+    {
+     "name": "John Webb",
+     "role": "Sr. Neuroscientist"
+    },
+    {
+     "name": "David Ternes",
+     "role": "Lead Systems Engineer"
+    }
+   ],
+   "technology": "Cogwear uses a comfortable, fabric athletic headband with tiny sensors that pick up electrical signals from the wearer's brainwaves (EEG). The signals are processed with nanotechnology sensors, machine learning and noise filtering, and streamed to the Cogwear app. The app turns them into real-time brain measures such as alertness, fatigue, anxiety and calm, shown as trends over time that can be shared with a healthcare provider.",
+   "products": [
+    {
+     "name": "Cogwear headband",
+     "description": "A lightweight, fabric athletic headband with sensors that capture brainwave signals while the user goes about daily activities."
+    },
+    {
+     "name": "Cogwear app",
+     "description": "Shows real-time brain data and trends over time, and lets users share their dashboard with a healthcare provider, psychologist or coach."
+    },
+    {
+     "name": "Cogwear Life and Cogwear Health devices",
+     "description": "Devices the site says will be available for purchase in the future; no further details are given."
+    }
+   ],
+   "conditions": [
+    "Alzheimer's disease early detection",
+    "Behavioral health & brain injury",
+    "Athletic & human performance",
+    "Neuromarketing & consumer research"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Developed with neuroscience experts from the University of Pennsylvania and supported by the National Science Foundation",
+    "March 4, 2026: strategic partnership integrating its neuroscience into the WBC Muay Thai ecosystem",
+    "May 2026: hosted a congressional office visit at its St. Paul office on military brain health",
+    "Site carries a caution that the device is an investigational device limited by US federal law to investigational use"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:04+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "constellation",
@@ -26684,7 +27340,75 @@
   ],
   "careers_url": "https://controlbionics.com/careers/",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Jeremy Steele",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Jeremy Steele",
+     "role": "Chief Executive Officer"
+    },
+    {
+     "name": "Shannon Boothroyd",
+     "role": "Chief Financial Officer"
+    },
+    {
+     "name": "James Schorey",
+     "role": "Chief Technical Officer"
+    },
+    {
+     "name": "Todd Tyler",
+     "role": "President, North America"
+    },
+    {
+     "name": "Jeffrey Kitchen",
+     "role": "Director of Product"
+    },
+    {
+     "name": "Chris Feighner",
+     "role": "Director of Operations"
+    }
+   ],
+   "technology": "The platform uses non-invasive, surface EMG-based sensing to pick up physiological (neuromuscular) signals without surgery or implantation. Software then processes and analyses those signals in real time and turns them into measurable, decision-ready outcomes. The same underlying neural-signal technology is applied across performance, rehabilitation, research and assistive communication.",
+   "products": [
+    {
+     "name": "NeuroStrip",
+     "description": "Neural-signal device showcased at the PEAK 2026 conference for human performance applications."
+    },
+    {
+     "name": "NeuroNode",
+     "description": "Listed under Products & Devices; the pages give no further description."
+    },
+    {
+     "name": "NeuroNode Duo",
+     "description": "Listed under Products & Devices; the pages give no further description."
+    },
+    {
+     "name": "EyeGaze Duo",
+     "description": "Listed under Products & Devices; the pages give no further description."
+    }
+   ],
+   "conditions": [
+    "Rehabilitation (neuromuscular recovery)",
+    "Sports and human performance",
+    "Research and data collection",
+    "Assistive communication / AAC for people with complex physical needs or loss of speech, such as after brain injury"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Cleared or registered by FDA, TGA and CE for clinical use",
+    "Registered NDIS provider in Australia",
+    "Described as an ASX-listed entity with an independent board",
+    "Active in markets across Australia, the United States, Canada and Japan"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:12+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "cortical-labs",
@@ -26696,10 +27420,10 @@
   "status": "active",
   "parent": null,
   "website": "https://corticallabs.com",
-  "city": null,
-  "lat": -32.4904,
-  "lng": 145.2524,
-  "location_precision": "country",
+  "city": "Melbourne",
+  "lat": -37.8046,
+  "lng": 144.9796,
+  "location_precision": "city",
   "founded": "2019",
   "funding_stage": "Series A",
   "modality": "MEA",
@@ -26717,7 +27441,67 @@
   ],
   "careers_url": "https://corticallabs.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Melbourne",
+   "hq_country": "Australia",
+   "ceo": "Brett Kagan, PhD",
+   "founders": [
+    "Brett Kagan"
+   ],
+   "leadership": [
+    {
+     "name": "Brett Kagan, PhD",
+     "role": "CEO & Chief Scientist"
+    },
+    {
+     "name": "Andrew Doherty",
+     "role": "Chief Hardware Officer"
+    },
+    {
+     "name": "David Hogan",
+     "role": "Chief Technology Officer"
+    },
+    {
+     "name": "Brad Watmuff",
+     "role": "Head of Biology"
+    },
+    {
+     "name": "Nicole Kerlero de Rosbo",
+     "role": "Head of Collaborations and Grants"
+    },
+    {
+     "name": "Justin Bourke",
+     "role": "Head of Scientific Systems"
+    }
+   ],
+   "technology": "Cortical Labs grows real human neurons directly on custom silicon chips, so the living cells and the electronics form one system. The neurons are linked to a computer that sends them electrical inputs and reads their responses, letting them adapt and learn tasks. Users can deploy their own code to this biological hardware locally or through a remote cloud platform.",
+   "products": [
+    {
+     "name": "CL1",
+     "description": "The company's biological computer, described as the world's first code-deployable biological computer, using lab-grown neurons on silicon chips."
+    },
+    {
+     "name": "Cortical Cloud",
+     "description": "A biological cloud computing platform that lets users build and run technology on the neuron-based systems without their own specialized lab."
+    }
+   ],
+   "conditions": [
+    "Medical research and drug discovery",
+    "Personalized medicine",
+    "Enhanced cell therapies"
+   ],
+   "team_size": "",
+   "milestones": [
+    "In 2021, the company grew human neurons on a chip that learned to play Pong by sensing the ball's position and controlling a paddle.",
+    "Describes itself as the first team to demonstrate real-world applications of biological computing.",
+    "Launched the CL1 biological computer and the Cortical Cloud platform."
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:12+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "cranius-therapeutics",
@@ -26729,10 +27513,10 @@
   "status": "active",
   "parent": null,
   "website": "https://craniustherapeutics.com/",
-  "city": null,
-  "lat": 35.3319,
-  "lng": -98.9691,
-  "location_precision": "country",
+  "city": "Baltimore",
+  "lat": 39.3025,
+  "lng": -76.6104,
+  "location_precision": "city",
   "founded": "2021",
   "funding_stage": "Series A",
   "modality": "Others",
@@ -26749,7 +27533,74 @@
   ],
   "careers_url": "https://craniustherapeutics.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Baltimore",
+   "hq_country": "USA",
+   "ceo": "Mike Maglin",
+   "founders": [
+    "Dr. Chad Gordon"
+   ],
+   "leadership": [
+    {
+     "name": "Dr. Chad Gordon",
+     "role": "Founder; Executive Chairman"
+    },
+    {
+     "name": "Mike Maglin",
+     "role": "Chief Executive Officer"
+    },
+    {
+     "name": "Stephen Klasko, MD",
+     "role": "Board Chair (Executive in Residence, General Catalyst)"
+    },
+    {
+     "name": "Oray Boston, Jr.",
+     "role": "Board member; Worldwide President, J & J MedTech"
+    },
+    {
+     "name": "Brian Moran",
+     "role": "Board member; Founder & Former CEO, GovCIO"
+    },
+    {
+     "name": "Elliot Stone",
+     "role": "Board member; CEO, Medical Product Laboratories"
+    }
+   ],
+   "technology": "NeuroPASS is a skull-embedded implant designed to sit beneath the scalp in the temporal region, using space that the company says is otherwise unused. It is meant to give a repeatable route for delivering drugs directly to the brain, bypassing the blood-brain barrier that blocks most systemic drugs. The company reports that convective drug delivery across the brain was demonstrated preclinically with NeuroPASS, and the design is MRI-Conditional and modular across indications.",
+   "products": [
+    {
+     "name": "NeuroPASS™ platform",
+     "description": "A skull-embedded, MRI-Conditional, fully concealed cranial implant architecture for durable, repeatable direct-to-brain therapeutic delivery."
+    },
+    {
+     "name": "CraniUS® Plate",
+     "description": "The company's first FDA 510(k)-cleared product and the structural foundation of the NeuroPASS platform."
+    },
+    {
+     "name": "NeuroPASS™ 3 Cranial Drug Delivery System",
+     "description": "A cranial drug delivery system from the NeuroPASS platform, referenced in the company's news as having received a U.S. patent."
+    }
+   ],
+   "conditions": [
+    "Glioblastoma (GBM)",
+    "Alzheimer's disease",
+    "Parkinson's disease",
+    "Epilepsy",
+    "Chronic brain diseases requiring long-term CNS therapy"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Company founded in 2021 in Baltimore to develop the NeuroPASS cranial drug delivery platform",
+    "Series B financing of ~$20M in 2025 to prepare NeuroPASS for clinical studies",
+    "NIH awards up to $4M Blueprint Grant in 2026 for the skull-embedded platform",
+    "FDA 510(k) clearance for the CraniUS® Plate, the company's first cleared product"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:13+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "cumulus-neuroscience",
@@ -26761,10 +27612,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cumulusneuro.com/",
-  "city": null,
-  "lat": 52.157,
-  "lng": -2.8584,
-  "location_precision": "country",
+  "city": "Belfast",
+  "lat": 54.5996,
+  "lng": -5.915,
+  "location_precision": "city",
   "founded": "2015",
   "funding_stage": "Seed",
   "modality": "Biomarkers",
@@ -26781,7 +27632,65 @@
    "Icometrix"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:06+00:00"
+  "llm_checked_at": "2026-11-17T15:19:06+00:00",
+  "profile": {
+   "hq_city": "Belfast",
+   "hq_country": "UK",
+   "ceo": "Tina Sampath",
+   "founders": [
+    "Brian Murphy, PhD"
+   ],
+   "leadership": [
+    {
+     "name": "Tina Sampath",
+     "role": "CEO"
+    },
+    {
+     "name": "Brian Murphy, PhD",
+     "role": "Co-founder & CSO"
+    },
+    {
+     "name": "Siggi Saevarsson",
+     "role": "COO"
+    },
+    {
+     "name": "Terry Reilly",
+     "role": "SVP, Global Business Development"
+    },
+    {
+     "name": "Alexandra Cowden",
+     "role": "Head of Quality"
+    },
+    {
+     "name": "Ian McCullough",
+     "role": "Head of Product"
+    }
+   ],
+   "technology": "The NeuLogiq Platform pairs an easy-to-use wireless dry-EEG headset with tablet-based cognitive assessments that are synchronised to the brain recordings. It can be used in clinic or at home, so participants can complete repeated measurements over time. AI-powered analytics then interpret the combined data to produce objective, frequent measures of discrete brain functions.",
+   "products": [
+    {
+     "name": "NeuLogiq Platform",
+     "description": "A single, unified platform for frequent, reliable in-clinic and at-home longitudinal monitoring of discrete brain functions, designed for CNS clinical studies."
+    }
+   ],
+   "conditions": [
+    "Alzheimer's disease dementia",
+    "Amyotrophic lateral sclerosis",
+    "Frontotemporal dementia",
+    "CNS disorders in clinical development"
+   ],
+   "team_size": "",
+   "milestones": [
+    "EEG headset received FDA 510(k) clearance and UKCA mark (2023)",
+    "EEG headset won Red Dot Design Award, iF Design Award and Good Design Award (2023)",
+    "Named to PwC's UK Life Sciences Future50 list (2025)",
+    "Included in Fast Company's Most Innovative Companies 2024"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:13+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "eightsix-science",
@@ -26844,7 +27753,66 @@
    "NextMind (Snap AR)"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:07+00:00"
+  "llm_checked_at": "2026-11-17T15:19:07+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Steen Strand",
+   "founders": [
+    "Steen Strand",
+    "Dr Charles Nduka",
+    "Professor Hristijan Gjoreski"
+   ],
+   "leadership": [
+    {
+     "name": "Steen Strand",
+     "role": "Chief Executive Officer and Co-founder"
+    },
+    {
+     "name": "Dr Charles Nduka",
+     "role": "Founder and Chief Science Officer"
+    },
+    {
+     "name": "Professor Hristijan Gjoreski",
+     "role": "Chief Technology Officer and Co-founder"
+    },
+    {
+     "name": "Professor Hugo Critchley",
+     "role": "Scientific advisor (Brighton and Sussex Medical School)"
+    },
+    {
+     "name": "Professor Lord Ara Darzi",
+     "role": "Scientific advisor (Imperial College London)"
+    },
+    {
+     "name": "Professor Lisa Feldman Barrett",
+     "role": "Scientific advisor (Northeastern University)"
+    }
+   ],
+   "technology": "Sense is a platform that measures facial activity from eyewear made by third parties, without using cameras or capturing images. Its sensor data is turned into behavioral insight by machine learning models. The goal is to give AI systems and assistants a human-context signal about how people actually feel and respond in the moment.",
+   "products": [
+    {
+     "name": "Sense",
+     "description": "Facial Activity Intelligence platform that lives in third-party eyewear and measures facial activity to add human context to everyday moments beyond screens, clicks and chats."
+    }
+   ],
+   "conditions": [
+    "Contextual personalized recommendations",
+    "Helping AI assistants and agents understand user preferences",
+    "Supporting products and services based on how people feel and act"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Describes Sense as the first Facial Activity Intelligence platform",
+    "Dr Charles Nduka is first author on 35 issued patents and has 100 peer-reviewed publications",
+    "Professor Hristijan Gjoreski has written more than 100 papers on human behavior analytics, wearable computing and ambient intelligence",
+    "Executive team has over 60 years of combined experience across facial sensing, hardware, machine learning and behavioral science"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:20+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "finalspark",
@@ -26856,10 +27824,10 @@
   "status": "active",
   "parent": null,
   "website": "https://finalspark.com/neuroplatform/",
-  "city": null,
-  "lat": 46.9663,
-  "lng": 7.6114,
-  "location_precision": "country",
+  "city": "Vevey",
+  "lat": 46.4511,
+  "lng": 6.8355,
+  "location_precision": "city",
   "founded": "2014",
   "funding_stage": "Seed",
   "modality": "MEA",
@@ -26875,7 +27843,73 @@
    "3Brain"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:08+00:00"
+  "llm_checked_at": "2026-11-17T15:19:08+00:00",
+  "profile": {
+   "hq_city": "Vevey",
+   "hq_country": "Switzerland",
+   "ceo": "Dr. Fred Jordan and Dr. Martin Kutter (both listed as CO-CEO)",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Dr. Fred Jordan",
+     "role": "CO-CEO"
+    },
+    {
+     "name": "Dr. Martin Kutter",
+     "role": "CO-CEO"
+    },
+    {
+     "name": "Dr. Ewelina Kurtys",
+     "role": "SCIENTIST"
+    },
+    {
+     "name": "Prof. Luc Stoppini",
+     "role": "ADVISOR"
+    },
+    {
+     "name": "Steve M. Potter, PhD",
+     "role": "ADVISOR"
+    },
+    {
+     "name": "Bruce Davis",
+     "role": "PATENT LICENSING EXPERT"
+    }
+   ],
+   "technology": "FinalSpark grows human brain organoids, which are 3D neuronal cultures, and keeps them alive on its Neuroplatform. Researchers connect to the organoids remotely and use a Python programming interface to send electrical stimulation and record neural activity in real time. The platform also includes a digital notebook, data storage, and a large archive of recorded neuronal activity.",
+   "products": [
+    {
+     "name": "FinalSpark Neuroplatform",
+     "description": "Remote, 24/7 access to brain organoids with real-time neural stimulation and recording, a Python API, a digital notebook, and data storage and backup."
+    },
+    {
+     "name": "Shared plan",
+     "description": "Access to 4 shared organoids for one user on a shared platform."
+    },
+    {
+     "name": "Dedicated plan",
+     "description": "Access to 4 dedicated organoids for multiple users on a dedicated platform, priced on request."
+    },
+    {
+     "name": "Open neuronal activity data set",
+     "description": "Over 30 TB of recorded neuronal activity data, offered free to researchers on request."
+    }
+   ],
+   "conditions": [
+    "Biocomputing research",
+    "Neuroscience research using electrophysiology and multi-electrode array (MEA) experiments",
+    "Machine learning and robotics research on biological neural networks"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Over 30 TB of recorded neuronal activity data, available free to researchers",
+    "Publication: \"Open and remotely accessible Neuroplatform for research in wetware computing\"",
+    "Shared and Dedicated subscription plans offered, with 4 organoids in each"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:20+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "flourish",
@@ -26907,7 +27941,41 @@
    "MaxWell Biosystems"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:08+00:00"
+  "llm_checked_at": "2026-11-17T15:19:08+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "The site presents an AI chat interface where users type questions and get conversational answers. The pages do not describe the underlying models or how the system works internally.",
+   "products": [
+    {
+     "name": "Flourish chat assistant",
+     "description": "Conversational assistant for questions about health, nutrition, fitness, sleep, and longevity."
+    },
+    {
+     "name": "Blood analysis",
+     "description": "Section listed in the site navigation; the pages give no further detail about it."
+    }
+   ],
+   "conditions": [
+    "Health",
+    "Nutrition",
+    "Fitness",
+    "Sleep",
+    "Longevity"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Currently in live beta, per the homepage.",
+    "Site copyright is held by Lately.com LLC (© 2026)."
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:20+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "frontier-computing",
@@ -26919,10 +27987,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.frontier.site",
-  "city": null,
-  "lat": 51.6244,
-  "lng": -1.8081,
-  "location_precision": "country",
+  "city": "Cambridge",
+  "lat": 52.1908,
+  "lng": 0.15,
+  "location_precision": "city",
   "founded": "2026",
   "funding_stage": "Pre-seed",
   "modality": "MEA",
@@ -26940,7 +28008,29 @@
   ],
   "careers_url": "https://www.frontier.site/careers/mts-bio/",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Cambridge",
+   "hq_country": "UK",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Frontier grows large-scale living neuronal tissue in culture, using a tissue-culture approach that it says gets past the vascularisation limit that has kept wetware near 1M neurones. The biological networks learn in real time and keep memory at the cellular level. Third parties train on the systems through a training platform that sits above backprop, supported by the company's substrate, interfacing and cloud infrastructure.",
+   "products": [],
+   "conditions": [
+    "Biocomputing: training third-party models on grown biological neural networks"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Backed by Y Combinator (S26)",
+    "Early rollouts of neurones learning to play Frogger",
+    "92% cross rate after 1 hour of realtime learning (June 2026)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:20+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "general-sense",
@@ -26973,7 +28063,51 @@
   ],
   "careers_url": "https://www.canaery.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "ceo": "Gabriel Lavella, PhD",
+   "founders": [],
+   "hq_city": "",
+   "hq_country": "",
+   "leadership": [
+    {
+     "name": "Gabriel Lavella, PhD",
+     "role": "Chief Executive Officer"
+    },
+    {
+     "name": "Peter Ledochowitsch, PhD",
+     "role": "Chief Technology Officer"
+    },
+    {
+     "name": "Dmitry Rinberg, PhD",
+     "role": "Chief Science Advisor"
+    }
+   ],
+   "technology": "Canaery describes its technology as a nose-computer interface (NCI) that connects with an animal's natural sense of smell. It uses neurotechnology and artificial intelligence to read the scents entering an animal's olfactory system. The system then ranks those scents and highlights the ones the customer cares about.",
+   "products": [
+    {
+     "name": "Nose-Computer Interface (NCI)",
+     "description": "A neurotechnology platform that interfaces with a working animal's olfactory system and uses AI to prioritize the scents that matter to a customer."
+    }
+   ],
+   "conditions": [
+    "Detection of illicit contraband such as explosives, firearms and narcotics",
+    "Inspections for pests such as bed bugs and termites",
+    "Screening and diagnostics for cancer",
+    "Screening and diagnostics for Covid-19",
+    "Screening and diagnostics for Parkinson's disease"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Homepage notes that Canaery is now General Sense (rebrand)",
+    "Founded on five core ideas about odor molecules, detection limits of sensors and animals, and the value of a nose-computer interface",
+    "CEO Gabriel Lavella advised DARPA programs on early high-scale neural interfaces before the company was formed"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:25+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "great-lakes-neurotech",
@@ -26985,10 +28119,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.glneurotech.com",
-  "city": null,
-  "lat": 34.1609,
-  "lng": -98.8382,
-  "location_precision": "country",
+  "city": "Cleveland, OH",
+  "lat": 41.5033,
+  "lng": -81.7133,
+  "location_precision": "city",
   "founded": "2010",
   "funding_stage": "Non-dilutive",
   "modality": "Others",
@@ -27006,7 +28140,50 @@
   ],
   "careers_url": "https://www.glneurotech.com/about/careers/",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Cleveland, OH",
+   "hq_country": "USA",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "The company builds bioinstrumentation: wireless, body-worn sensors and monitors that capture physiological signals and send them to software for display, processing, and analysis. Its Kinesia systems assess movement symptoms through clinical, home, and web-based assessments so that changes in symptoms over time can be tracked. The BioRadio is a compact, user-worn wireless device used for general-purpose data acquisition.",
+   "products": [
+    {
+     "name": "Kinesia ONE",
+     "description": "Clinical, home, and web-based assessment system for tracking movement symptoms such as those in Parkinson's disease."
+    },
+    {
+     "name": "Kinesia 360",
+     "description": "Product in the Kinesia line of Parkinson's assessment systems, with its own web portal and user guides."
+    },
+    {
+     "name": "BioRadio",
+     "description": "Compact, user-worn wireless data acquisition device for research and laboratory education, used with BioCapture software."
+    },
+    {
+     "name": "KinesiaU",
+     "description": "Product line with separate information pages for patients and healthcare providers."
+    }
+   ],
+   "conditions": [
+    "Parkinson's disease",
+    "Movement disorders",
+    "Deep brain stimulation (DBS) programming",
+    "Telemedicine and in-home remote patient monitoring",
+    "Physiological monitoring for research and education"
+   ],
+   "team_size": "",
+   "milestones": [
+    "US patent awarded for using AI to measure movement disorder symptoms and adjust treatment",
+    "$2.1M NIH SBIR grant awarded for DBS programming",
+    "Announced a wireless smart earring for heart health monitoring (PPG Earring)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:26+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "g-tec",
@@ -27039,7 +28216,50 @@
   ],
   "careers_url": "https://www.gtec.at/2024/09/06/career-with-brain-computer-interfaces/",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "Austria",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "g.tec builds brain-computer interface (BCI) systems that combine hardware, software and application frameworks. Biosignal amplifiers and electrodes pick up brain, muscle and heart activity, and real-time software processes and decodes that signal, often with machine learning. The resulting output can drive applications such as neurorehabilitation, closed-loop brain stimulation and brain mapping.",
+   "products": [
+    {
+     "name": "g.HIAMP",
+     "description": "High-resolution biosignal amplifier for EEG and BCI acquisition."
+    },
+    {
+     "name": "Unicorn Hybrid Black",
+     "description": "Wearable wireless BCI platform for education, development and applied research."
+    },
+    {
+     "name": "recoveriX",
+     "description": "Closed-loop neurorehabilitation system for stroke and other neurological disorders."
+    },
+    {
+     "name": "g.LADYBIRD",
+     "description": "Ultra-flat active and passive TMS-EEG electrodes for EEG recording during transcranial magnetic stimulation."
+    }
+   ],
+   "conditions": [
+    "Stroke and neurological disorders (neurorehabilitation)",
+    "Disorders of consciousness",
+    "Neurosurgery and brain mapping",
+    "Neuroscience research and human-machine interaction"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Company journey began in 1999 with one of the first portable BCI systems, presented at the BCI Meeting in Rensselaerville, New York",
+    "330+ peer-reviewed publications, including in Nature and Frontiers",
+    "FDA 510(k) clearances listed for cortiQ, g.HIamp, g.Nautilus PRO, g.Estim PRO and g.Estim FES",
+    "Certified according to EN ISO 13485 for quality management"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:27+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "idun-technologies",
@@ -27051,10 +28271,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.iduntechnologies.com",
-  "city": null,
-  "lat": 46.3849,
-  "lng": 8.4838,
-  "location_precision": "country",
+  "city": "Glattpark (Opfikon)",
+  "lat": 47.4375,
+  "lng": 8.5649,
+  "location_precision": "city",
   "founded": "2017",
   "funding_stage": "Seed",
   "modality": "EEG",
@@ -27071,7 +28291,81 @@
    "NeuroX"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:09+00:00"
+  "llm_checked_at": "2026-11-17T15:19:09+00:00",
+  "profile": {
+   "hq_city": "Glattpark (Opfikon)",
+   "hq_country": "Switzerland",
+   "ceo": "Simon Bachmann",
+   "founders": [
+    "Séverine Gisin",
+    "Simon Bachmann"
+   ],
+   "leadership": [
+    {
+     "name": "Simon Bachmann",
+     "role": "Co-Founder & CEO"
+    },
+    {
+     "name": "Séverine Gisin",
+     "role": "Co-Founder & CCO"
+    },
+    {
+     "name": "Dr. Moritz Thielen",
+     "role": "CTO"
+    },
+    {
+     "name": "Andrea Fümm",
+     "role": "Lead Hardware & Electronics"
+    },
+    {
+     "name": "Dr. Katja Junker",
+     "role": "Lead Material"
+    },
+    {
+     "name": "Dr. Mark Melnykowycz",
+     "role": "Lead Product Design"
+    }
+   ],
+   "technology": "IDUN builds earbuds with dry, soft contact sensors made from its patented DRYODE material that sit in the ear canal and record the brain's electrical activity (EEG) without gel or skin preparation. The IDUN Guardian 4 has two in-ear EEG channels, a 250 Hz sampling rate and a 9-axis motion sensor, and it also plays audio. Raw signals are streamed over Bluetooth or Wi-Fi to apps, an SDK or an API, where built-in classifiers such as jaw clench, eye movement and frequency-band analysis interpret them.",
+   "products": [
+    {
+     "name": "IDUN Guardian 4",
+     "description": "Audio-capable earbuds that record in-ear EEG and movement (IMU) data, presold in 2026 as a consumer wellness and research device."
+    },
+    {
+     "name": "IDUN Web & Mobile Apps",
+     "description": "No-code apps (Android, iOS, web) to record, store, download (CSV), and live-stream EEG data and generate sleep and daytime reports."
+    },
+    {
+     "name": "Python SDK & Public API",
+     "description": "Developer access to real-time EEG, IMU and classifier output, with secure API-key authentication and LSL support."
+    },
+    {
+     "name": "Real-Time Classifiers",
+     "description": "Built-in analysis such as jaw clench detection, left/right eye movement tracking and FFT spectral decomposition of EEG signals."
+    }
+   ],
+   "conditions": [
+    "Consumer wellness and brain-data monitoring (not a medical device)",
+    "Sleep",
+    "Fatigue tracking and break management",
+    "Mindfulness, relaxation and calm",
+    "Hearing and listening effort",
+    "Gaming and safety applications",
+    "Cognitive readiness and workload"
+   ],
+   "team_size": "around 20 people",
+   "milestones": [
+    "Incorporated in 2017 as a spin-off from ETH Zürich",
+    "In 2020 pivoted from sensor materials to in-ear EEG earbuds",
+    "IDUN Guardian 4 presale offered; CE and FCC certification targeted for Q2 2026",
+    "Site states the Guardian 4 is not FDA-evaluated and is intended for research use only"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:29+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "intactis-bio",
@@ -27083,10 +28377,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.intactis.bio",
-  "city": null,
-  "lat": 38.0853,
-  "lng": -88.9333,
-  "location_precision": "country",
+  "city": "Salt Lake City",
+  "lat": 40.74,
+  "lng": -111.8892,
+  "location_precision": "city",
   "founded": "2024",
   "funding_stage": "Pre-seed",
   "modality": "MEA",
@@ -27103,7 +28397,66 @@
    "MaxWell Biosystems"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:09+00:00"
+  "llm_checked_at": "2026-11-17T15:19:09+00:00",
+  "profile": {
+   "hq_city": "Salt Lake City",
+   "hq_country": "USA",
+   "ceo": "Daniel Rodriguez-Granrose",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Daniel Rodriguez-Granrose",
+     "role": "CHIEF EXECUTIVE OFFICER, PhD"
+    },
+    {
+     "name": "Tim Cloutier",
+     "role": "CHIEF COMMERCIAL OFFICER, PhD"
+    },
+    {
+     "name": "Dana Xiadani",
+     "role": "SIGNAL PROCESS LEAD, MS"
+    },
+    {
+     "name": "Elissa Pastuzyn",
+     "role": "NEUROSCIENCE LEAD, PhD"
+    },
+    {
+     "name": "Glenna Wallis",
+     "role": "PRINCIPAL SCIENTIST, PhD"
+    },
+    {
+     "name": "Jordan Christensen",
+     "role": "PRINCIPAL TECHNOLOGY ADVISOR"
+    }
+   ],
+   "technology": "Intactis Bio grows custom neurons in the lab and connects them to silicon processors through a brain-machine interface. Datasets are converted into patterns of electrical pulses that are delivered to the neural tissue, and reward-based feedback is used to train the tissue to solve problems. The living system is designed to work alongside a standard AI/ML model while also exploring its own solutions.",
+   "products": [
+    {
+     "name": "Biohybrid Processing Unit (BPU)",
+     "description": "A rack-mountable AI accelerator with living neurons at its computational core, combining silicon computers and neurons for scalable, energy-efficient computation."
+    },
+    {
+     "name": "Biocomputation Alpha",
+     "description": "Intactis Bio's alpha program offering subsidized AI/ML services, with free analysis on its biocomputation platform for participants."
+    }
+   ],
+   "conditions": [
+    "AI/ML data processing",
+    "High-performance computing workloads",
+    "Drug discovery"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Leadership team cited with $900M+ in successful exits",
+    "CTO-level advisor Dr. Cloutier has led over $180M in venture fundraising across executive roles",
+    "Advisor Greg Horowitt has helped secure over $600M in venture financing",
+    "Intactis Bio is a resident of Altitude Lab, a Recursion Pharmaceuticals company"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:34+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "iota-biosciences",
@@ -27135,7 +28488,47 @@
   ],
   "careers_url": "https://iota.bio/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Mike Woods, MD",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Mike Woods, MD",
+     "role": "Chief Executive Officer"
+    },
+    {
+     "name": "Lusin Markaryan",
+     "role": "Senior Director of Regulatory Affairs"
+    },
+    {
+     "name": "Carmela Cusumano",
+     "role": "Director of Clinical Operations"
+    }
+   ],
+   "technology": "iota Biosciences builds bioelectronic devices, which use electrical signaling to diagnose or treat disease. The company's work is based on ultrasound technology originally invented at the University of California, Berkeley. The stated goal is to create devices that doctors can use to manage and treat disease.",
+   "products": [
+    {
+     "name": "Akyva device",
+     "description": "A bioelectronic device the company is bringing to market for patients with underactive bladder."
+    }
+   ],
+   "conditions": [
+    "Underactive bladder"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2017 to build on award-winning ultrasound technology invented at the University of California, Berkeley",
+    "Powered by Astellas, a global pharmaceutical company, through a partnership described on the About page",
+    "Developing Class III medical devices, per the Regulatory Affairs and Clinical Operations leadership descriptions"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:34+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "karavela-ai",
@@ -27168,7 +28561,42 @@
   ],
   "careers_url": "https://jobs.karavela.ai",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Karavela uses next-generation magnetic resonance imaging (MRI) to record brain activity while healthy participants perform naturalistic tasks. The resulting large dataset of brain dynamics is used to train a foundation model that learns what is common and what differs across individuals. The company's stated aim is to use these models to support AI-enhanced clinical trials in psychiatry and neurology and to advance brain decoding.",
+   "products": [
+    {
+     "name": "Cephalonauts One",
+     "description": "Karavela's first research study, recruiting healthy volunteers for a large brain MRI study."
+    },
+    {
+     "name": "NOEMA",
+     "description": "Listed under the Models section of the website; the pages give no further detail."
+    }
+   ],
+   "conditions": [
+    "Clinical trials in psychiatry",
+    "Clinical trials in neurology",
+    "Personalized treatment development",
+    "Brain decoding"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Announced a €2M+ pre-seed funding round",
+    "Collected 10,000+ hours of brain data",
+    "Recorded data from 1,000+ unique participants",
+    "Works with 10+ acquisition centers"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:36+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "koniku",
@@ -27180,10 +28608,10 @@
   "status": "active",
   "parent": null,
   "website": "https://koniku.com/",
-  "city": null,
-  "lat": 38.9424,
-  "lng": -103.3699,
-  "location_precision": "country",
+  "city": "Hayward",
+  "lat": 37.6608,
+  "lng": -122.07,
+  "location_precision": "city",
   "founded": "2015",
   "funding_stage": "Series B",
   "modality": "MEA",
@@ -27198,7 +28626,43 @@
    "3Brain"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:10+00:00"
+  "llm_checked_at": "2026-11-17T15:19:10+00:00",
+  "profile": {
+   "hq_city": "Hayward",
+   "hq_country": "USA",
+   "ceo": "",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Osh Agabi",
+     "role": "Presenter of the Konikore smell processor (named in the site's re:MARS talk description; no title stated)"
+    }
+   ],
+   "technology": "Koniku grows living neurons on silicon and engineers them with receptors for a given task, producing Biological Processing Units (BPUs). The neuron signals are read and converted into data that software can use. The first BPU branch is the smell processor, which reads airborne molecules and turns them into information a machine can act on.",
+   "products": [
+    {
+     "name": "BPU (Biological Processing Unit) platform",
+     "description": "A processor whose computing elements are living neurons grown on silicon; developers will be invited to build on it."
+    },
+    {
+     "name": "Konikore",
+     "description": "Koniku's smell processor, a BPU branch built to read chemistry and turn it into meaning; shown riding a robot dog in a live demo."
+    }
+   ],
+   "conditions": [
+    "Safety, security, intelligence and defence threat detection (e.g., explosives detection by airborne molecules)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Demonstrated Konikore at Amazon's re:MARS conference in Ojai, California (live demo on a robot dog)",
+    "Airport check-in scenario: flagged all 17 suitcase checks containing TATP, with 3 false alarms on 16 clean checks (91% accuracy across 33 checks)",
+    "Mobile, Alabama side-by-side test of Konikore and certified K9 units"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:36+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "kyma-neuro",
@@ -27230,7 +28694,48 @@
    "IDUN Technologies"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:10+00:00"
+  "llm_checked_at": "2026-11-17T15:19:10+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Kyma Band uses three EEG sensors across the forehead to pick up the brain's electrical activity, sending the signal wirelessly over Bluetooth LE. Over repeated everyday use, Kyma builds a personal model of the wearer's patterns and estimates states such as focus, stress, effort and cognitive load. Those estimated states can then be used as inputs for apps, games and AI, and the site says the device does not read words, images or thoughts.",
+   "products": [
+    {
+     "name": "Kyma Band",
+     "description": "Wireless brain-computer interface band with three forehead EEG sensors, rechargeable over USB-C, in preorder."
+    },
+    {
+     "name": "Kyma Studio",
+     "description": "Software for Mac and Windows that shows brain insights, records sessions and lets users describe an app idea that Kyma builds, wired to live signals."
+    },
+    {
+     "name": "Kyma mobile app",
+     "description": "Companion app for iPhone and Android that connects to the Kyma Band over Bluetooth."
+    },
+    {
+     "name": "Kyma Plus",
+     "description": "Planned optional subscription for deeper insights, with details to be shared before launch."
+    }
+   ],
+   "conditions": [
+    "Tracking focus, stress and cognitive load during daily activities",
+    "Using brain states as inputs for apps, games, AI agents and environments"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founding Batch of Kyma Bands is sold out; a waitlist is open for Batch 2",
+    "Kyma Band is still completing FCC equipment authorization, which delivery depends on",
+    "Founding Batch expected to ship in Q1 2027, to US and UK addresses for now",
+    "A developer platform is planned to open in winter for builders, developers and researchers"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:39+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "longeviti-neuro-solutions",
@@ -27242,10 +28747,10 @@
   "status": "active",
   "parent": null,
   "website": "http://www.longeviti.com",
-  "city": null,
-  "lat": 34.3258,
-  "lng": -100.5159,
-  "location_precision": "country",
+  "city": "Baltimore",
+  "lat": 39.2929,
+  "lng": -76.6184,
+  "location_precision": "city",
   "founded": "2016",
   "funding_stage": "Series A",
   "modality": "Ultrasound",
@@ -27263,7 +28768,77 @@
   ],
   "careers_url": "https://longeviti.com/careers/",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Baltimore",
+   "hq_country": "USA",
+   "ceo": "Jesse Christopher",
+   "founders": [
+    "Jesse Christopher"
+   ],
+   "leadership": [
+    {
+     "name": "Jesse Christopher",
+     "role": "CEO and Co-founder"
+    },
+    {
+     "name": "Denise Genuit",
+     "role": "Chief Administrative Officer, VP"
+    },
+    {
+     "name": "Todd Johnson",
+     "role": "VP Sales and Marketing"
+    },
+    {
+     "name": "Brad Rabinovitz",
+     "role": "Chief Operating Officer"
+    },
+    {
+     "name": "David Langer",
+     "role": "Chief Medical Officer"
+    },
+    {
+     "name": "Timothy Scannell",
+     "role": "Chair of the Board"
+    }
+   ],
+   "technology": "Longeviti's ClearFit AI platform pairs cranial implants with a Brain Ultrasound Interface (BUI). The implants are made to be sonolucent, so after surgery a clinician can use ultrasound through the skull instead of relying on CT scans. Handheld wireless ultrasound systems from partners Clarius Mobile Health and GE provide real-time imaging at the bedside or in clinic, which the company says reduces patient radiation exposure.",
+   "products": [
+    {
+     "name": "ClearFit Ti Ring",
+     "description": "Combines titanium fixation with a sonolucent cranial window for post-operative ultrasound access."
+    },
+    {
+     "name": "ClearFit OTS",
+     "description": "Sterilized off-the-shelf cranial implants in various shapes, sizes and curvatures that allow real-time bedside or clinic ultrasound imaging."
+    },
+    {
+     "name": "ClearFit Patient Specific",
+     "description": "Customized, patient-specific implantable platforms intended to correct and restore bony voids and defects of the cranium."
+    },
+    {
+     "name": "InvisiShunt and InvisiLead",
+     "description": "Low-profile cranial implants that restore the skull's natural contour while accommodating neurosurgical devices."
+    }
+   ],
+   "conditions": [
+    "Complex neurological disorders",
+    "Patients requiring brain surgery",
+    "Bony voids and defects of the cranium",
+    "Post-operative brain ultrasound monitoring"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Products described as FDA-cleared low-profile implants",
+    "CEO Jesse Christopher has brought multiple FDA-cleared implants to market and holds 10 patents",
+    "Company growth described as reaching a $100M valuation",
+    "Brad Rabinovitz secured an ICD-10-PCS code and launched three product platforms"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:41+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "looxid-labs",
@@ -27275,10 +28850,10 @@
   "status": "active",
   "parent": null,
   "website": "https://looxidlabs.com/",
-  "city": null,
-  "lat": 36.4,
-  "lng": 128.397,
-  "location_precision": "country",
+  "city": "서울특별시 송파구 (Seoul, Songpa-gu)",
+  "lat": 37.5262,
+  "lng": 127.0773,
+  "location_precision": "city",
   "founded": "2017",
   "funding_stage": "Series A",
   "modality": "EEG",
@@ -27295,7 +28870,57 @@
    "Emteq Labs"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:12+00:00"
+  "llm_checked_at": "2026-11-17T15:19:12+00:00",
+  "profile": {
+   "hq_city": "서울특별시 송파구 (Seoul, Songpa-gu)",
+   "hq_country": "South Korea",
+   "ceo": "채용욱",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "채용욱",
+     "role": "대표 (representative)"
+    },
+    {
+     "name": "채용욱",
+     "role": "개인정보관리책임자 (personal information manager)"
+    }
+   ],
+   "technology": "Looxid Labs uses EEG (brain-wave) signals, along with eye-tracking, as biosignal inputs to AI models. The company trains its AI on a large standard EEG database of age-specific cognitive brain-wave recordings (about 50,000 recordings, 600,000 minutes), then adapts a template-based model to each person's brain-wave characteristics. The cloud-based system analyzes brain states such as relaxation, balance and stress in near real time, once per second.",
+   "products": [
+    {
+     "name": "Link Band 2.0",
+     "description": "An ultra-light (50 g) 2-channel EEG wearable device for everyday cognitive analysis, aimed at healthcare, meditation, sports and education."
+    },
+    {
+     "name": "Mind Breeze",
+     "description": "A premium meditation class service based on brain-wave feedback, meant to help users objectively perceive changes in their mind."
+    },
+    {
+     "name": "Focus Mate",
+     "description": "A brain-science AI focus coach app that measures focus in real time and gives personalized feedback for B2C and B2B use."
+    }
+   ],
+   "conditions": [
+    "Early detection of dementia risk (validated with pharmaceutical companies and medical institutions)",
+    "Mental health and focus/productivity management",
+    "Cognitive health monitoring in daily life",
+    "Meditation and relaxation",
+    "Education and focus-based smart learning",
+    "Sports, manufacturing and wellness use cases"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Won CES Best Innovation Award in 2018 and an Innovation Award in 2022 at CES, the world's largest consumer electronics show",
+    "Holds what the site describes as the world's largest functional standard EEG database (50,000 recordings / 600,000 minutes)",
+    "Developed a brain-wave mobile healthcare MVP with a major insurance company",
+    "Founded in 2015"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:44+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "maxwell-biosystems",
@@ -27307,10 +28932,10 @@
   "status": "active",
   "parent": null,
   "website": "http://www.mxwbio.com/",
-  "city": null,
-  "lat": 46.5493,
-  "lng": 7.5681,
-  "location_precision": "country",
+  "city": "Zurich",
+  "lat": 47.3596,
+  "lng": 8.5226,
+  "location_precision": "city",
   "founded": "2016",
   "funding_stage": "Series A",
   "modality": "MEA",
@@ -27328,7 +28953,46 @@
   ],
   "careers_status": "custom_page",
   "careers_url": "https://www.mxwbio.com/careers",
-  "ats": null
+  "ats": null,
+  "profile": {
+   "hq_city": "Zurich",
+   "hq_country": "Switzerland",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "MaxWell's platforms use high-density microelectrode arrays (HD-MEAs), chips with a very large number of tiny electrodes on which cells such as neurons or organoids are grown. The electrodes pick up the electrical signals cells produce, at high spatial and temporal resolution, and can also deliver stimulation. This lets researchers observe activity from whole neuronal populations down to subcellular dynamics in in-vitro models.",
+   "products": [
+    {
+     "name": "MaxOne",
+     "description": "Single-well HD-MEA platform offering versatility and functionality in one compact device."
+    },
+    {
+     "name": "MaxTwo",
+     "description": "Multi-well HD-MEA system compatible with 6, 24 and 96-well plates for higher-throughput cell functional assays."
+    },
+    {
+     "name": "MaxLab Live",
+     "description": "All-in-one software for recording and analysing electrophysiology data from the HD-MEA platforms."
+    }
+   ],
+   "conditions": [
+    "Neurological diseases",
+    "Disease modeling",
+    "Pharmacology and toxicology",
+    "Neuronal cell cultures, organoids, brain slices and retina models"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2016 as an ETH Zurich spin-off",
+    "MaxOne launched in 2017 as the first switch-matrix HD-MEA with the highest electrode count on the market",
+    "MaxTwo 24-Well Plate launched in 2023 as the first HD-MEA in a 24-well plate format",
+    "Site reports 53+ publications and 13,335+ wells sold"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:44+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "mesotron",
@@ -27340,10 +29004,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.mesotron.io",
-  "city": null,
-  "lat": 36.2,
-  "lng": 139.5392,
-  "location_precision": "country",
+  "city": "Tsukuba",
+  "lat": 36.0969,
+  "lng": 140.0841,
+  "location_precision": "city",
   "founded": "2026",
   "funding_stage": "Pre-seed",
   "modality": "EEG",
@@ -27362,7 +29026,67 @@
   "careers_status": "custom_page",
   "llm_checked_at": "2026-11-17T15:19:13+00:00",
   "careers_url": "https://mesotron.io/recruit/",
-  "careers_found_by": "claude"
+  "careers_found_by": "claude",
+  "profile": {
+   "hq_city": "Tsukuba",
+   "hq_country": "Japan",
+   "ceo": "Shuntaro Sasai, Ph.D.",
+   "founders": [
+    "Shuntaro Sasai"
+   ],
+   "leadership": [
+    {
+     "name": "Shuntaro Sasai, Ph.D.",
+     "role": "FOUNDER / CEO"
+    },
+    {
+     "name": "Tetsuya Konishi, Ph.D.",
+     "role": "Creative Director"
+    },
+    {
+     "name": "Hikaru Yokoyama, Ph.D.",
+     "role": "Technical Advisor (Microneedle Electrodes)"
+    },
+    {
+     "name": "Takefumi Hiraki, Ph.D.",
+     "role": "Scientific Advisor (Associate Professor, University of Tsukuba)"
+    },
+    {
+     "name": "Akihiro Tagawa, Ph.D.",
+     "role": "Collaborator (Director General, Japan Atomic Energy Agency)"
+    },
+    {
+     "name": "Daiki Shimokawa, Ph.D.",
+     "role": "Collaborator (CEO, AILE, Inc.)"
+    }
+   ],
+   "technology": "Mesotron develops wearable brain-computer interface technology that reads EEG (brain wave) and body signals using a newly designed, high-sensitivity EEG sensor. A high-precision brain-decoding AI then infers what a person wants from those signals. The goal is to let people communicate and operate devices without surgically inserted electrodes, using a device that is simply worn.",
+   "products": [
+    {
+     "name": "Mesotron EAR",
+     "description": "A wearable BCI device intended to be worn and used anywhere, aimed at silent speech and thought-based communication without implanted electrodes."
+    }
+   ],
+   "conditions": [
+    "Assistive technology: communication and device control beyond physical constraints",
+    "Industrial HMI: hands-free operation in noisy or busy work settings",
+    "Robotic control: operating collaborative robots by thought",
+    "Secure communications: silent, quiet command transmission",
+    "Healthcare monitoring: constant monitoring of brain state",
+    "Wellness and meditation: real-time feedback on stress and focus"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Company founded on 2026年4月3日 (April 3, 2026)",
+    "Plans to accumulate 10,000 hours of EEG data at Japan and US sites from July 2026 to February 2027",
+    "BCI Award 2024 Finalist (world Top 12)",
+    "2025 Entropy Best Paper Award"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:49+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "mindrove",
@@ -27394,7 +29118,54 @@
    "Synchroni"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:13+00:00"
+  "llm_checked_at": "2026-11-17T15:19:13+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "The company's wireless, rechargeable sensors pick up electrical signals from the brain (EEG) or from muscles (EMG), using dry or semi-dry electrodes, and some models add motion or heart-rate sensing. Users can access the raw signal data through an SDK and feed it into their own workflows, and a Syncbox can synchronize up to four biosensors.",
+   "products": [
+    {
+     "name": "Armband",
+     "description": "8-channel EMG sensor armband for forearm muscle signals, used for gesture control, neural interface development and research."
+    },
+    {
+     "name": "Snaptic",
+     "description": "IMU-based gesture control device with motion sensors on the wrist and back of the hand, mostly for developers."
+    },
+    {
+     "name": "Vision",
+     "description": "8-channel EEG headset with high-quality dry electrodes for neurofeedback."
+    },
+    {
+     "name": "Beat",
+     "description": "2-channel ECG chest strap with integrated dry electrodes for heart signal tracking."
+    }
+   ],
+   "conditions": [
+    "Assistive tech",
+    "XR immersive interactions",
+    "Mental wellness",
+    "Sport science",
+    "Customer research",
+    "Worker safety",
+    "Education",
+    "Scientific research"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Each EEG or EMG sensor purchase includes the SDK and MindRove Connect software",
+    "Beat ECG chest strap is labeled NEW on the site",
+    "Products are offered with worldwide shipping",
+    "Site states devices are not intended to diagnose, treat, cure, or prevent diseases"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:49+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "mintneuro",
@@ -27427,7 +29198,66 @@
   ],
   "careers_url": "https://ats.sensewp.com/external/24c0e9a9-dccc-43df-a9bc-4b82bc549d1d",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Dorian Haci",
+   "founders": [
+    "Dorian Haci"
+   ],
+   "leadership": [
+    {
+     "name": "Dorian Haci",
+     "role": "Chief Executive Officer"
+    },
+    {
+     "name": "Timothy Constandinou",
+     "role": "Chief Technology Officer"
+    },
+    {
+     "name": "Andrew Jackson",
+     "role": "Chief Scientific Officer"
+    },
+    {
+     "name": "Tim Denison",
+     "role": "Chair"
+    },
+    {
+     "name": "Ian Williams",
+     "role": "VP of Research and Development"
+    },
+    {
+     "name": "Jonathan Casey",
+     "role": "VP of Operations and Quality"
+    }
+   ],
+   "technology": "MintNeuro designs small, ultra-low-power integrated circuits (chips) meant to sit inside the body or be worn on it as part of neural devices. The chips acquire neural signals such as EEG, EMG, ECoG and LFP, deliver electrical stimulation with built-in safety control, and process signals on the chip to reduce the amount of data sent out. They also handle power management and wireless data transfer.",
+   "products": [
+    {
+     "name": "MintNeuro modular chip platform",
+     "description": "Purpose-built semiconductor platform for neural devices, supporting signal acquisition, electrical stimulation with safety control, on-chip processing, and power and wireless management."
+    }
+   ],
+   "conditions": [
+    "Epilepsy (including drug-resistant epilepsy)",
+    "Parkinson's disease",
+    "Dementia",
+    "Depression",
+    "Mental health (brain-computer interface therapy, per news headline)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "October 2026: raised $5 million to scale its purpose-built chip platform for neural devices and brain-computer interfaces",
+    "January 31, 2025: won three UK Government ARIA awards to apply its chip technology to neural devices",
+    "December 4, 2024: won the ChipStart Company of the Year Award",
+    "January 27, 2023: secured a £1.4M collaborative grant to improve drug-resistant epilepsy care"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:53+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "navifus",
@@ -27459,7 +29289,58 @@
    "Attune Neurosciences"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:12+00:00"
+  "llm_checked_at": "2026-11-17T15:19:12+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [
+    "Hao-Li Liu, Ph.D."
+   ],
+   "leadership": [
+    {
+     "name": "Jen Chen, Ph.D",
+     "role": "Chief Strategy Officer"
+    },
+    {
+     "name": "Arthur Lung, Ph.D.",
+     "role": "Chairman of the Board"
+    },
+    {
+     "name": "Hao-Li Liu, Ph.D.",
+     "role": "Founder & Chief Technical Consultant"
+    }
+   ],
+   "technology": "NaviFUS uses transcranial focused ultrasound, guided by a neuronavigator, to aim sound energy at a chosen area of the brain without surgery. The ultrasound is used to temporarily open the blood-brain barrier so that CNS drugs can reach target tissue such as tumors, and it can also be used for neuromodulation. NAVIRFA is a separate optical 3D tracking kit and software that shows the spatial position of surgical needles during procedures.",
+   "products": [
+    {
+     "name": "NaviFUS System",
+     "description": "Neuronavigator-guided transcranial focused ultrasound system that opens the blood-brain barrier and supports neuromodulation; the site says it is in development and has passed preliminary safety testing."
+    },
+    {
+     "name": "NAVIRFA Needle Tracking System",
+     "description": "Optical 3D surgical guidance kit and software that visualizes the spatial position of surgical needles in vivo."
+    }
+   ],
+   "conditions": [
+    "Recurrent glioblastoma (rGBM) and other brain tumors",
+    "Drug-resistant epilepsy",
+    "Brain metastases",
+    "Alzheimer's disease (clinical trial approved in Australia)",
+    "Stroke rehabilitation"
+   ],
+   "team_size": "",
+   "milestones": [
+    "2015.12: NaviFUS System won the 12th National Innovation Award",
+    "2022.03: U.S. FDA pilot IDE approved for rGBM at Stanford University",
+    "2024.01: TFDA approved the pivotal FUS-BBB opening + Avastin rGBM clinical trial",
+    "2025.03: Listed on the Taipei Exchange (TPEX: 6872) on March 7, 2025"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:54+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "netholabs",
@@ -27496,7 +29377,43 @@
    "token": "netholabs"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 9
+  "open_jobs_at_detection": 9,
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Netholabs' systems continuously collect neural and behavioral data from living mammals, including humans. The company turns this data into cross-species datasets that capture how biological systems perceive, learn, adapt and act over time. These datasets are used to build foundation models of living organisms.",
+   "products": [
+    {
+     "name": "Experimental infrastructure",
+     "description": "Systems that collect continuous neural and behavioral data from living mammals, including humans."
+    },
+    {
+     "name": "Cross-species datasets",
+     "description": "Datasets on the dynamics behind intelligent behavior, offered for experimental collaborations or dataset access."
+    },
+    {
+     "name": "Foundation models of living organisms",
+     "description": "Models of how biological systems perceive, learn, adapt and act over time, aimed at neuroscience and frontier AI and robotics."
+    }
+   ],
+   "conditions": [
+    "Neuroscience and life-sciences research",
+    "Improving the capability and safety of frontier AI and robotics"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Backed by The Foresight Institute, PL Neuro, and The Survival and Flourishing Foundation",
+    "Also backed by private individuals, family offices, and venture capital firms",
+    "Hiring a range of roles for cross-disciplinary work over the coming months"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:56+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "neuramatrix",
@@ -27528,7 +29445,38 @@
    "MintNeuro"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:14+00:00"
+  "llm_checked_at": "2026-11-17T15:19:14+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "The company describes its system as a closed-loop neural ecosystem, described as an invasive brain-computer interface platform. High-precision sensing picks up neural signals, a dedicated chipset processes them, and adaptive control modulates activity in return. A seamless wearable interface and an AI-driven software suite, supported by large high-fidelity datasets, complete the loop.",
+   "products": [
+    {
+     "name": "NeXScope Series",
+     "description": "Next-generation research platform for frontier innovation."
+    },
+    {
+     "name": "NeXLive Series",
+     "description": "Wearable technology meant to enhance everyday living."
+    },
+    {
+     "name": "NeXPrime Series",
+     "description": "Clinical invention aimed at neurological health."
+    }
+   ],
+   "conditions": [
+    "Neurological health"
+   ],
+   "team_size": "",
+   "milestones": [],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:34:56+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "neurobionics",
@@ -27540,10 +29488,10 @@
   "status": "active",
   "parent": null,
   "website": "https://neurobionics.io/",
-  "city": null,
-  "lat": 38.0673,
-  "lng": -104.2834,
-  "location_precision": "country",
+  "city": "Cambridge, MA",
+  "lat": 42.3548,
+  "lng": -71.0848,
+  "location_precision": "city",
   "founded": "2023",
   "funding_stage": "Seed",
   "modality": "Endovascular",
@@ -27560,7 +29508,70 @@
    "Longeviti Neuro Solutions"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:27+00:00"
+  "llm_checked_at": "2026-11-17T15:19:27+00:00",
+  "profile": {
+   "hq_city": "Cambridge, MA",
+   "hq_country": "USA",
+   "ceo": "MJ Antonini, PhD",
+   "founders": [
+    "MJ Antonini",
+    "Nicki Driscoll",
+    "Polina Anikeeva"
+   ],
+   "leadership": [
+    {
+     "name": "MJ Antonini, PhD",
+     "role": "Founder, CEO"
+    },
+    {
+     "name": "Nicki Driscoll, PhD",
+     "role": "Founder, CTO"
+    },
+    {
+     "name": "Ross Tsukashima",
+     "role": "Head of Innovation"
+    },
+    {
+     "name": "Alyssa Boasso, PhD",
+     "role": "Sr. Director of Program Management"
+    },
+    {
+     "name": "Meredith Seaborn",
+     "role": "Sr. Director of Business Development and Product Strategy"
+    },
+    {
+     "name": "Erin Byrne Rousseau, PhD",
+     "role": "Senior Biomedical Engineer II, preclinical & clinical affairs"
+    }
+   ],
+   "technology": "NeuroBionics builds hair-thin, flexible bioelectronic fibers that sit inside the body and interact with tissue using electrical, chemical, and mechanical signals. The fibers can both sense and modulate the biological environment. For its evStim device, the fiber is delivered endovascularly, so stimulation is applied to the brain from inside a blood vessel instead of through open-brain surgery. The company's multifunctional fiber also supports electrical, optical, and chemical recording and stimulation in one integrated device.",
+   "products": [
+    {
+     "name": "evStim",
+     "description": "Endovascular device that delivers targeted brain stimulation from inside a blood vessel, aimed at expanding access to deep brain stimulation (DBS) without open-brain surgery."
+    },
+    {
+     "name": "IO Fiber",
+     "description": "Multifunctional bioelectronic fiber for researchers supporting electrical, optical, and chemical recording and stimulation in one device, trimmed to each protocol's specified length."
+    }
+   ],
+   "conditions": [
+    "Neurologic diseases",
+    "Deep brain stimulation (DBS) therapy delivery",
+    "Neuroscience research applications"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2023 by MJ Antonini, Nicki Driscoll, and Polina Anikeeva, who developed the fiber technology in Polina's Bioelectronics Lab at MIT",
+    "Company is preparing for its first-in-human study and regulatory submissions, per the team page",
+    "Leading the company's preparation for Series A funding, per the team page",
+    "Head of Innovation Ross Tsukashima is an inventor with 57 issued patents"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:02+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "neurobrave",
@@ -27592,7 +29603,60 @@
    "Subtle Medical"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:16+00:00"
+  "llm_checked_at": "2026-11-17T15:19:16+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Dror Talisman",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Dror Talisman",
+     "role": "CEO"
+    },
+    {
+     "name": "Oleg Aryutkin",
+     "role": "CTO"
+    },
+    {
+     "name": "Michal Gruberger",
+     "role": "PhD, CSO"
+    }
+   ],
+   "technology": "NeuroBrave builds AI software that takes signals from everyday wearables, biosensors and other neurotechnology devices. Its NeuroSpeed OS platform combines these sensor streams (sensor fusion) and processes them with deep neural networks to produce real-time cognitive-state and neuromarker outputs. The cleaned, processed sensory data is then offered as building blocks that businesses can plug into their own applications.",
+   "products": [
+    {
+     "name": "NeuroSpeed OS™",
+     "description": "End-to-end generic AI software platform intended to run on devices and make use of sensory data."
+    },
+    {
+     "name": "Sensor Fusion",
+     "description": "Combines sensor data from multiple sources for connectivity and new discoveries."
+    },
+    {
+     "name": "Cognitive States",
+     "description": "Real-time cognitive performance monitoring."
+    },
+    {
+     "name": "Neuro Insights",
+     "description": "Data-driven deep neural network analysis delivering insights."
+    }
+   ],
+   "conditions": [
+    "Personalized mental healthcare",
+    "Manufacturing productivity",
+    "Adaptive gaming experience"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Operates a Japan office (NeuroBrave 日本事務所) in Ginza, Chuo-ku, Tokyo",
+    "Offers a partner network for collaboration"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:02+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "neuroconcise",
@@ -27624,7 +29688,50 @@
    "Synchroni"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:16+00:00"
+  "llm_checked_at": "2026-11-17T15:19:16+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Damien Coyle",
+   "founders": [
+    "Damien Coyle"
+   ],
+   "leadership": [
+    {
+     "name": "Damien Coyle",
+     "role": "Founder and CEO"
+    }
+   ],
+   "technology": "NeuroCONCISE builds wearable EEG hardware called FlexEEG, a slim, flexible electronics case that records brainwaves and can be concealed inside ordinary headwear. The signals are sent wirelessly to AI-driven software that runs locally or in the cloud. The software translates brain activity, such as imagined movement or focus on visual or auditory stimuli, into commands, control signals or neurofeedback.",
+   "products": [
+    {
+     "name": "FlexEEG",
+     "description": "Wearable, patent-pending EEG headset with an embedded flexible electronics case, fitted cap, electrode array and wireless connection, sold as a ready-to-use package."
+    },
+    {
+     "name": "NeuroCONCISE Neurotechnology Platform",
+     "description": "AI-driven software suite with apps for general neurotechnology users, neurogamers, clinicians and patients, offering realtime analytics and local or cloud-based operation."
+    }
+   ],
+   "conditions": [
+    "Brain injury: clinical assessment and diagnosis, including assessing unresponsive patients",
+    "Augmentative and assistive communication for people with no or limited movement",
+    "Stroke rehabilitation via neurofeedback",
+    "Spinal cord injury: interacting with technology and gaming (Cybathlon)",
+    "Brain-computer interfacing, neurofeedback, neuroscience research, gaming and sport"
+   ],
+   "team_size": "",
+   "milestones": [
+    "FlexEEG technology developed over 17 years, with patent pending status",
+    "Winner of the overall inaugural IET and E&T Innovation of the Year Award 2018",
+    "Two international AI awards and a nomination for the BCI Award in 2015",
+    "Ongoing clinical trials for several applications"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:03+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "neuroone",
@@ -27692,7 +29799,79 @@
     "token": "nimbus",
     "reason": "namesake, checked by hand"
    }
-  ]
+  ],
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Dr Alexandra Bernadotte",
+   "founders": [
+    "Dr Alexandra Bernadotte",
+    "Ivan Menshikov",
+    "Sergey Musienko"
+   ],
+   "leadership": [
+    {
+     "name": "Dr Alexandra Bernadotte",
+     "role": "CEO · Co-founder"
+    },
+    {
+     "name": "Ivan Menshikov",
+     "role": "CTO · Co-founder"
+    },
+    {
+     "name": "Sergey Musienko",
+     "role": "CPO · Co-founder"
+    },
+    {
+     "name": "Bert de Vries",
+     "role": "Research Advisor"
+    },
+    {
+     "name": "Jeff Beck",
+     "role": "Research Advisor"
+    },
+    {
+     "name": "Dr. Alexander Kuck",
+     "role": "Research Advisor"
+    }
+   ],
+   "technology": "Nimbus runs its software engine on RxInfer, a reactive message-passing framework for Bayesian inference, and it can freeze a large pretrained EEG encoder while adapting a small calibrated Bayesian head to a new user. The adaptation and inference run locally on the user's machine in under 20 ms, with no cloud round trips. The Bayesian model reports calibrated uncertainty, which lets the system suppress unreliable outputs such as those caused by blinks or noise.",
+   "products": [
+    {
+     "name": "Nimbus Studio",
+     "description": "Visual BCI canvas for designing pipelines with 7 foundation backbones, 30+ EEG headsets, and one-click Python export."
+    },
+    {
+     "name": "Nimbus MCP",
+     "description": "Open-source MCP server with 63 tools that connects Claude Code, Cursor, and Codex to 90+ datasets, benchmark sweeps, and BIDS exports."
+    },
+    {
+     "name": "Personalizer & Conductor",
+     "description": "Adaptive layer that freezes encoders and adapts a Bayesian head on-device, with runtime drift diagnosis and safety bounds."
+    },
+    {
+     "name": "Nimbus SDK (nimbus-bci)",
+     "description": "Python and Julia (NimbusSDK.jl) runtime for sub-20ms real-time EEG decoding and online personalization with a scikit-learn-style API."
+    }
+   ],
+   "conditions": [
+    "Real-time neurofeedback",
+    "Closed-loop control",
+    "BCI research and benchmarking",
+    "Cross-session EEG personalization / reducing calibration fatigue"
+   ],
+   "team_size": "",
+   "milestones": [
+    "arXiv preprint 'Universal BCI Personalization: One API for Frozen EEG Trunks' (arXiv:2607.22397)",
+    "Head updates stated to be ~23× cheaper than fine-tuning the trunk",
+    "Partnership with Lazy Dynamics, core developers of RxInfer",
+    "Sub-20ms local Python and Julia runtimes; site claims 10x lower latency than traditional deep learning pipelines"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:04+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "nubrain",
@@ -27725,7 +29904,68 @@
   ],
   "careers_url": "https://www.nubrain.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [
+    "Priyanka Jain",
+    "Ingo Marquardt"
+   ],
+   "leadership": [
+    {
+     "name": "Priyanka Jain",
+     "role": "Co-founder"
+    },
+    {
+     "name": "Ingo Marquardt",
+     "role": "Co-founder"
+    },
+    {
+     "name": "Dr. Mario Archilla",
+     "role": "Neurosurgeon, Advisor"
+    },
+    {
+     "name": "Dr. Mario Senden",
+     "role": "Professor, Maastricht University (Advisor)"
+    },
+    {
+     "name": "Dr. Abhijit Mishra",
+     "role": "Professor, Texas University (Advisor)"
+    }
+   ],
+   "technology": "Nubrain uses non-invasive EEG, recorded with dry electrodes, to read brain activity while people view or silently read content. A contrastive decoder learns to align these EEG signals with the word embeddings of language models, so the signal can be matched to words, text, speech or images. The company says this approach works on new users not seen during training and improves as more data is collected.",
+   "products": [
+    {
+     "name": "OB-1 (OB1)",
+     "description": "A thought-decoding model that translates EEG signals into identifiable objects and text."
+    },
+    {
+     "name": "EEG headset",
+     "description": "Nubrain's EEG headset, offered to early-access users."
+    },
+    {
+     "name": "Human Mind API",
+     "description": "An API offered alongside the headset for building hands-free, voice-free applications."
+    }
+   ],
+   "conditions": [
+    "Non-invasive decoding of thoughts into text, speech and images",
+    "Hands-free, voice-free applications"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Over 500,000 EEG recordings collected, with data collection operations in Berlin and New York",
+    "Preprint on silent-reading decoding from dry-electrode EEG, using about 240k word presentations and about 49 hours of recorded EEG",
+    "OB-1 shows zero-shot brain decoding, performing on users not seen during training",
+    "Backed by angel investors including Malte Ubl (CTO at Vercel), Dimitris Tsementzis and Philippe Brule (CTO at Restack)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:10+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "openbci",
@@ -27758,7 +29998,73 @@
   ],
   "careers_url": "https://openbci.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Conor Russomanno",
+   "founders": [
+    "Conor Russomanno"
+   ],
+   "leadership": [
+    {
+     "name": "Conor Russomanno",
+     "role": "CEO & Co-Founder"
+    },
+    {
+     "name": "Shirley Zhang",
+     "role": "Chief Operations Officer"
+    },
+    {
+     "name": "Joseph Artuso",
+     "role": "President & Chief Commercial Officer (CCO)"
+    },
+    {
+     "name": "Blake Larkin",
+     "role": "Head of Hardware"
+    },
+    {
+     "name": "Amy Kruse, PhD",
+     "role": "Advisor"
+    },
+    {
+     "name": "Paul Sajda",
+     "role": "Advisor"
+    }
+   ],
+   "technology": "OpenBCI makes open-source biosensing hardware and software that record electrical and physiological signals from the body, such as brain activity (EEG), muscle activity (EMG), skin conductance (EDA), heart signals (PPG) and eye movement. Its latest platform, Galea, puts these sensors into a single headset that is paired with augmented and virtual reality. The goal is to give researchers and developers a way to read and respond to the user's brain and body signals in mixed-reality settings.",
+   "products": [
+    {
+     "name": "Galea",
+     "description": "A hardware and software headset that integrates EEG, EMG, EDA, PPG and eye-tracking with mixed reality (AR/VR)."
+    },
+    {
+     "name": "NeuroFly Software",
+     "description": "Drone-control software used for an onstage drone flight at TED, now available free and open source."
+    },
+    {
+     "name": "Cyton (+Daisy)",
+     "description": "OpenBCI biosensing board referenced on the site as the hardware used with cEEGrid around-the-ear electrode arrays."
+    }
+   ],
+   "conditions": [
+    "ALS (amyotrophic lateral sclerosis): BCI-based maintenance of communication, via the BCI4ALS academic course",
+    "Brain-computer interface research and education",
+    "Silent speech interfaces using EMG signals",
+    "Mixed reality and human-computer interaction research"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Galea headset listed as \"Available Now\" on the homepage",
+    "NeuroFly Software used by Christian Bayerlein for an onstage drone flight at TED, now free and open source",
+    "OpenBCI research cited in 19 projects and counting",
+    "BCI4ALS multi-institute academic course is built entirely on OpenBCI hardware"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:12+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "open-neurotech",
@@ -27789,7 +30095,52 @@
    "OpenBCI"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:16+00:00"
+  "llm_checked_at": "2026-11-17T15:19:16+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "The COSMIIC System is a fully implantable neuromodulation platform that delivers electrical stimulation to nerve tissue to treat conditions. It is built from modular power, stimulation, and recording units that can be adapted to a given therapy and kept the same from benchtop testing through human studies. The company makes its PCB designs, firmware, and regulatory documentation openly available, so labs can build on them without licensing.",
+   "products": [
+    {
+     "name": "Development Kits",
+     "description": "Benchtop system with an SDK for developing and testing stimulation algorithms; listed from $5K."
+    },
+    {
+     "name": "Animal Grade Systems",
+     "description": "Low-cost fully implantable version for preclinical animal studies; listed from $15–20K."
+    },
+    {
+     "name": "Human Grade Systems",
+     "description": "Fully implantable system for FDA IDE first-in-human studies; listed from $50K."
+    },
+    {
+     "name": "Services",
+     "description": "Technical integration and regulatory support, including IDE submission strategy and device customization."
+    }
+   ],
+   "conditions": [
+    "Paralysis",
+    "Chronic pain",
+    "Incontinence / bladder dysfunction",
+    "Spasticity",
+    "Depression",
+    "Autonomic disorders (including cardiac and sympathetic activity)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "10 humans implanted with the platform",
+    "3 FDA IDE approvals",
+    "16 active pilots",
+    "Deployed across research groups in the US and Europe"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:12+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "orbit",
@@ -27837,10 +30188,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.oymotion.com/en/indexen",
-  "city": null,
-  "lat": 33.5079,
-  "lng": 116.8682,
-  "location_precision": "country",
+  "city": "Shanghai",
+  "lat": 31.2497,
+  "lng": 121.4896,
+  "location_precision": "city",
   "founded": "2015",
   "funding_stage": "Series C+",
   "modality": "Motor prosthetics",
@@ -27858,7 +30209,55 @@
   ],
   "careers_url": "https://www.oymotion.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Shanghai",
+   "hq_country": "China",
+   "ceo": "Neo Ni",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Neo Ni",
+     "role": "CEO"
+    }
+   ],
+   "technology": "OYMotion develops non-invasive brain-computer interfaces and AI tools that decode neural and biometric signals. Its bio-sensors pick up muscle and brain electrical activity, and AI algorithms classify those patterns into commands. These signals drive robotic bionic hands, prosthetics, exoskeletons and EEG devices.",
+   "products": [
+    {
+     "name": "ROHand",
+     "description": "Highly sensitive dexterous robotic hand that simulates human hand movements for grasping, used in humanoid robots, inspection robots and prosthetics."
+    },
+    {
+     "name": "OHand",
+     "description": "Bionic prosthetic hand designed for upper limb amputees, with elbow, wrist and hand control via software settings."
+    },
+    {
+     "name": "Bio-Sensors",
+     "description": "Low-cost, portable, low-power, high-precision biometric sensor technology."
+    },
+    {
+     "name": "Smart-Rehab",
+     "description": "Lightweight finger rehabilitation exoskeleton supporting active and passive training for home and clinical use."
+    }
+   ],
+   "conditions": [
+    "Upper limb amputation",
+    "Hand function impairment from stroke and nerve injury",
+    "Muscle atrophy and weak strength recovery",
+    "Rehabilitation medicine"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Holds over 60 patents, including more than 10 invention patents",
+    "Strategic cooperation with MicroPort NeuroScientific announced 2026.06.09",
+    "Strategic partnership with HBO to explore European prosthetics and rehabilitation market, announced 2026.05.26",
+    "ROHAND native haptic sensation recognized at ICRA 2026"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:12+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "panda-surgical",
@@ -27870,10 +30269,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.panda-surgical.com",
-  "city": null,
-  "lat": 52.479,
-  "lng": 0.8082,
-  "location_precision": "country",
+  "city": "London",
+  "lat": 51.505,
+  "lng": -0.1278,
+  "location_precision": "city",
   "founded": "2022",
   "funding_stage": "Seed",
   "modality": "Others",
@@ -27890,7 +30289,61 @@
    "Resolve Stroke"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:18+00:00"
+  "llm_checked_at": "2026-11-17T15:19:18+00:00",
+  "profile": {
+   "hq_city": "London",
+   "hq_country": "UK",
+   "ceo": "Manios Dimitrakakis",
+   "founders": [
+    "Manios Dimitrakakis",
+    "Hani Marcus",
+    "Dan Stoyanov"
+   ],
+   "leadership": [
+    {
+     "name": "Manios Dimitrakakis",
+     "role": "CEO & Co-Founder"
+    },
+    {
+     "name": "Hani Marcus",
+     "role": "CMO & Co-founder"
+    },
+    {
+     "name": "Dan Stoyanov",
+     "role": "Scientific Advisor & Co-Founder"
+    },
+    {
+     "name": "Craig Marshall",
+     "role": "Chairman of the Board"
+    },
+    {
+     "name": "George Dwyer",
+     "role": "Tech Lead"
+    }
+   ],
+   "technology": "Victor is a handheld surgical platform that pairs artificial intelligence with robotics to support minimally invasive surgery. Its AI provides real-time anatomy recognition and orientation help, such as anatomy segmentation and surgery phase recognition, so the surgeon knows more about the tissue ahead. A 3 mm articulated instrument adds dexterity that conventional endoscopic tools lack, reaching through narrow openings and confined spaces.",
+   "products": [
+    {
+     "name": "Victor",
+     "description": "A handheld AI-and-robotics surgical platform with a 3 mm articulated instrument, aimed at endoscopic brain and spine surgery; not yet available for sale and not approved by the FDA or other regulators."
+    }
+   ],
+   "conditions": [
+    "Endoscopic brain surgery, including skull base, cranial and ventricular approaches to tumours",
+    "Endoscopic spine surgery, including decompression and discectomy"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Awarded Innovate UK Biomedical Catalyst funding (September 2026) to develop an AI co-pilot for robotic neurosurgery in an 18-month collaboration with UCLH",
+    "Craig Marshall named Chairman of the Board (August 2026)",
+    "Victor is being evaluated alongside surgeons and patients following the IDEAL framework for surgical innovation",
+    "Company is a University College London spin-out; the Victor device is not yet for sale and not approved or evaluated by the FDA or other regulators"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:19+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "phantom-neuro",
@@ -27922,7 +30375,64 @@
    "Cogitat"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:18+00:00"
+  "llm_checked_at": "2026-11-17T15:19:18+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Connor Glass",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Connor Glass",
+     "role": "President / CEO"
+    },
+    {
+     "name": "Mike Faltys",
+     "role": "Chief Technology Officer"
+    },
+    {
+     "name": "Bill Giles",
+     "role": "Chief Financial Officer"
+    },
+    {
+     "name": "Vinod Sharma, PhD",
+     "role": "Head of Clinical & Scientific Affairs"
+    },
+    {
+     "name": "Arne Kreitz",
+     "role": "Director"
+    },
+    {
+     "name": "Ed Michael",
+     "role": "Director"
+    }
+   ],
+   "technology": "A minimally invasive sensor placed just under the skin picks up signals directly from muscles. Real-time signal processing with proprietary AI turns this raw movement data into precise, intuitive commands for robotic devices. On-device machine learning is personalized to each user's physiology so the control adapts to them over time.",
+   "products": [
+    {
+     "name": "Phantom X",
+     "description": "A subcutaneous muscle-computer interface that gives robotic systems natural control in real-world environments; described as an investigational device."
+    }
+   ],
+   "conditions": [
+    "Limb loss and limb difference",
+    "Lower extremity amputations (including from diabetes)",
+    "Significant disabilities",
+    "Prosthetic control",
+    "Robotics and human augmentation (future application)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "$25 million in investment from institutional and strategic investors",
+    "Phantom X is an investigational device, limited to investigational use under US law and to clinical investigation in Australia",
+    "Ongoing and upcoming clinical studies, with a patient registry for volunteers",
+    "Technical advisors include Tom Oxley, MD, PhD (Founder & CEO, Synchron) and Geoff Ling, MD, PhD (Founding Director, DARPA BTO)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:19+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "pieeg",
@@ -27934,10 +30444,10 @@
   "status": "active",
   "parent": null,
   "website": "https://pieeg.com",
-  "city": null,
-  "lat": 53.6927,
-  "lng": -3.2648,
-  "location_precision": "country",
+  "city": "Edinburgh",
+  "lat": 55.9425,
+  "lng": -3.1688,
+  "location_precision": "city",
   "founded": "2022",
   "funding_stage": "Non-dilutive",
   "modality": "EEG",
@@ -27955,7 +30465,61 @@
   ],
   "careers_url": "https://www.pieeg.com/job",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Edinburgh",
+   "hq_country": "UK",
+   "ceo": "",
+   "founders": [
+    "Ildar Rakhmatulin",
+    "Youssef El Abbassi"
+   ],
+   "leadership": [
+    {
+     "name": "Ildar Rakhmatulin",
+     "role": "Co-Founder & Lead Engineer"
+    },
+    {
+     "name": "Youssef El Abbassi",
+     "role": "Co-Founder & CTO"
+    }
+   ],
+   "technology": "PiEEG makes low-cost biosignal boards, such as the PiEEG-8 shield for Raspberry Pi, that read EEG, EMG and ECG at 24-bit resolution and up to 500 Hz. The boards use the ADS1299 chip and connect to a host computer over the Pi's GPIO header or USB/BLE. PiEEG Server then streams, records and analyses the signals over WebSocket, LSL and OSC, and the platform also offers browser-based access and AI tools.",
+   "products": [
+    {
+     "name": "PiEEG-8",
+     "description": "8-channel Raspberry Pi shield that turns the Pi into a biosignal lab for EEG, EMG and ECG."
+    },
+    {
+     "name": "PiEEG Cloud Platform",
+     "description": "Zero-install brain-computer interface that runs in the browser."
+    },
+    {
+     "name": "PiEEG XR",
+     "description": "Neural face interface for VR headsets."
+    },
+    {
+     "name": "Aura VR",
+     "description": "EMG and IMU wristband for XR."
+    }
+   ],
+   "conditions": [
+    "Research, education and engineering use",
+    "Neuroscience labs, XR/VR and robotics applications",
+    "Not a medical device"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2022",
+    "NVIDIA Inception startup program member",
+    "Launched PiEEG on CrowdSupply and raised 5× the initial goal",
+    "Cited in 11 academic papers and featured in 28 media outlets"
+   ],
+   "linkedin_url": "https://www.linkedin.com/company/pieeg",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:20+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "piramidal",
@@ -27992,7 +30556,42 @@
    "token": "piramidalinc"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 3
+  "open_jobs_at_detection": 3,
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Piramidal builds \"brain foundation models,\" large AI models pretrained on about 4 million hours of EEG (brain electrical recordings) and described as having 20B parameters. Because the representations are invariant, the models transfer across electrode montages, hardware, subjects and clinical conditions with little fine-tuning, and they need far fewer human labels for new tasks. The same underlying model powers the company's EEG products, including seizure detection and monitoring workflows.",
+   "products": [
+    {
+     "name": "Marcy",
+     "description": "A clinical-grade EEG agent that monitors, flags and reviews EEG recordings in real time."
+    },
+    {
+     "name": "Fabryc",
+     "description": "Enterprise AI infrastructure for real-time tracking of hundreds of EEGs, connecting multi-site neural data into one device-agnostic platform."
+    }
+   ],
+   "conditions": [
+    "Epilepsy and seizure detection",
+    "Status epilepticus",
+    "ICU EEG monitoring",
+    "Neurology EEG interpretation"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Pretrained on 4 million hours of EEG, stated on the homepage",
+    "Marcy: pending 510(k) submission, not available for sale in the U.S.",
+    "Partnership with Cleveland Clinic on real-time EEG interpretation in the ICU (Apr 2026)",
+    "Partnership with IntraNerve Neuroscience to develop scalable EEG monitoring (Apr 2026)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:20+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "pison-technology",
@@ -28004,10 +30603,10 @@
   "status": "active",
   "parent": null,
   "website": "https://pison.com/",
-  "city": null,
-  "lat": 44.4432,
-  "lng": -89.2381,
-  "location_precision": "country",
+  "city": "Boston",
+  "lat": 42.3668,
+  "lng": -71.0466,
+  "location_precision": "city",
   "founded": "2016",
   "funding_stage": "Pre-seed",
   "modality": "ExG",
@@ -28029,7 +30628,42 @@
    "token": "pison"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 1
+  "open_jobs_at_detection": 1,
+  "profile": {
+   "hq_city": "Boston",
+   "hq_country": "USA",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Pison's wearable reads the electrical signals passing between the brain and the muscles, which the company calls electroneurography (ENG), and combines them with conventional body data. Its sensor suite and AI software continuously learn the wearer's nervous system to estimate cognitive state. The output is analytics on readiness, focus, fatigue and sleep, along with cognitive training.",
+   "products": [
+    {
+     "name": "Pison Platform",
+     "description": "Analytics platform giving real-time insight into cognitive state (readiness, mental agility, focus), time-of-day patterns, and physiological and sleep metrics."
+    },
+    {
+     "name": "Timex Waveband",
+     "description": "Wearable included at no additional cost with Pison membership options."
+    }
+   ],
+   "conditions": [
+    "Cognitive performance monitoring (readiness, mental agility, focus)",
+    "Mental fatigue and time-of-day cognitive patterns",
+    "Sleep tracking and recovery",
+    "Athletic and military performance"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Backed by DoD, as shown on the homepage",
+    "Technology described as trusted in military research and used by the Army",
+    "Has pioneered electroneurography (ENG), per the About Us page",
+    "Lifetime Membership offered at $499 for a limited time"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:24+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "prima-mente",
@@ -28066,7 +30700,26 @@
    "token": "Prima%20Mente"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 1
+  "open_jobs_at_detection": 1,
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Prima Mente describes itself as an AI biology company that generates its own biological data. It uses that data to build general-purpose biological foundation models, which are large AI models meant to be applied across many biology tasks. The company says it turns the resulting discoveries into research and clinical outcomes.",
+   "products": [],
+   "conditions": [
+    "Neurological disease",
+    "Brain health and enhancement"
+   ],
+   "team_size": "",
+   "milestones": [],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:24+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "psyonic",
@@ -28078,10 +30731,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.psyonic.io/",
-  "city": null,
-  "lat": 32.6262,
-  "lng": -101.5237,
-  "location_precision": "country",
+  "city": "San Diego",
+  "lat": 32.6973,
+  "lng": -117.1594,
+  "location_precision": "city",
   "founded": "2015",
   "funding_stage": "Series A",
   "modality": "EMG",
@@ -28098,7 +30751,47 @@
   ],
   "careers_url": "https://www.psyonic.io/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "San Diego",
+   "hq_country": "USA",
+   "ceo": "Aadeel Akhtar",
+   "founders": [
+    "Aadeel Akhtar"
+   ],
+   "leadership": [
+    {
+     "name": "Aadeel Akhtar",
+     "role": "Founder & CEO"
+    }
+   ],
+   "technology": "The Ability Hand is a bionic hand that senses touch and uses a patented motor control and sensory feedback system to respond quickly to the user. Its design is compliant and tendon-driven, with sensored brushless motors, which the company says lets it deliver more performance at a lower cost than similar hands. The company also reports the hand is over twice as fast as any bionic hand on the market.",
+   "products": [
+    {
+     "name": "Ability Hand (for humans)",
+     "description": "A touch-sensing bionic hand designed for people with limb differences, described as fast, intuitive and affordable."
+    },
+    {
+     "name": "Ability Hand (for robots)",
+     "description": "The same hand platform offered for robots, which the site describes as supercharging robots with advanced capabilities."
+    }
+   ],
+   "conditions": [
+    "Limb differences",
+    "Upper-limb amputation (transradial amputees)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "2021 MIT Technology Review 35 Innovators Under 35",
+    "2020 mHUB Product of the Year",
+    "2020 NSF Phase II SBIR Grant - $937k",
+    "2019 8VC Social Innovator's Cup Winner - $8k"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:26+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "quantanosis",
@@ -28110,10 +30803,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.quantanosis.ai",
-  "city": null,
-  "lat": 42.7474,
-  "lng": -104.7192,
-  "location_precision": "country",
+  "city": "Austin",
+  "lat": 30.2645,
+  "lng": -97.739,
+  "location_precision": "city",
   "founded": "2020",
   "funding_stage": "Seed",
   "modality": "Ultrasound",
@@ -28130,7 +30823,41 @@
    "Carthera"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:19+00:00"
+  "llm_checked_at": "2026-11-17T15:19:19+00:00",
+  "profile": {
+   "hq_city": "Austin",
+   "hq_country": "USA",
+   "ceo": "",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Dr. Ameer Hassan",
+     "role": "Featured under 'Built by clinically and operationally experienced founders' on the About Us page"
+    }
+   ],
+   "technology": "Quantanosis describes a portable, non-invasive, operator-independent robotic histotripsy device that combines diagnostic imaging with automated histotripsy therapy. AI-driven software guides the device, and the company says it can diagnose a stroke and start treatment in under two minutes. The stated goal is to dissolve blood clots in the brain for acute ischemic stroke without surgery or a wire.",
+   "products": [
+    {
+     "name": "Quantanosis.ai platform",
+     "description": "Portable, AI-powered, non-invasive robotic histotripsy device for stroke detection and clot treatment; still under development and not FDA-cleared."
+    }
+   ],
+   "conditions": [
+    "Acute ischemic stroke caused by a blood clot in the brain",
+    "Stroke detection and treatment"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2020",
+    "Raised $4M+ (described as a $4M SAFE) from 30+ leading stroke experts",
+    "Independent testing conducted by Seleon in Fall 2023",
+    "FDA Q-Sub completed; IDE pathway initiated"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:29+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "rhovica-neuroimaging",
@@ -28162,7 +30889,66 @@
    "Resolve Stroke"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:20+00:00"
+  "llm_checked_at": "2026-11-17T15:19:20+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "Switzerland",
+   "ceo": "Dr. med. Martin Hlavica",
+   "founders": [
+    "Dr. med. Martin Hlavica",
+    "Dr. med. univ. Thomas Rhomberg"
+   ],
+   "leadership": [
+    {
+     "name": "Dr. med. Martin Hlavica",
+     "role": "Neurosurgeon, Co-Founder & Chief Executive Officer (CEO)"
+    },
+    {
+     "name": "Dr. med. univ. Thomas Rhomberg",
+     "role": "Neurosurgeon, Co-Founder & Chief Medical Officer (CMO)"
+    },
+    {
+     "name": "Blair Fraser, BSc",
+     "role": "Chief Business Officer (CBO)"
+    },
+    {
+     "name": "Saeid Kasiri, PhD",
+     "role": "Chief Technology Officer (CTO)"
+    },
+    {
+     "name": "Martin Fuchs",
+     "role": "Vice President Quality, Governance & Compliance"
+    },
+    {
+     "name": "Nicolas Guggenheim, PhD",
+     "role": "Business Advisor"
+    }
+   ],
+   "technology": "Rhovica's technology embeds miniaturized sensors in an instrument, specifically an external ventricular drain catheter, so it can continuously capture live data from inside the brain. This produces real-time imaging of the brain without any external imaging equipment. The goal is to replace reliance on pre-operative CT scans, which can become unreliable during surgery because brain shift changes the anatomy.",
+   "products": [
+    {
+     "name": "SoNav™",
+     "description": "An external ventricular drain (EVD) catheter with integrated miniaturized sensors that gives real-time visualization of the brain ventricles at the bedside, supporting fast, secure placement and monitoring of elevated ICP after insertion."
+    }
+   ],
+   "conditions": [
+    "Brain emergencies such as severe trauma and brain bleeding",
+    "Elevated intracranial pressure (ICP) emergencies",
+    "External ventricular drain (EVD) placement in neurosurgery",
+    "Acute hemorrhages"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Winner of Venture Kick's first stage, CHF 10,000 (March 2022) and CHF 150,000 for SoNav development (December 2022)",
+    "Raised CHF 2.3M (EUR 2.5M) in a financing round led by M2care, with Kickfund, Valuemaker and business angels (August 2025)",
+    "Won the 2025 Swiss Excellence Product Award, startups category, for the patented SoNav™ system (September 2025)",
+    "One of three winners of the Ypsomed Innovation Award 2026 for SoNav™ (January 2026)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:33+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "robeaute",
@@ -28226,7 +31012,65 @@
   ],
   "careers_url": "https://www.sensome.com/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Franz BOZSAK, PhD",
+   "founders": [
+    "Franz BOZSAK, PhD",
+    "Abdul BARAKAT, PhD"
+   ],
+   "leadership": [
+    {
+     "name": "Franz BOZSAK, PhD",
+     "role": "CEO and co-founder"
+    },
+    {
+     "name": "Gor LEBEDEV, PhD",
+     "role": "CTO & COO"
+    },
+    {
+     "name": "Cécile JOUCLAS",
+     "role": "CFO"
+    },
+    {
+     "name": "Brian BURG, PhD",
+     "role": "CIO"
+    },
+    {
+     "name": "Abdul BARAKAT, PhD",
+     "role": "Chief Scientific Advisor and co-founder, CNRS Director of Research, AXA Professor at Ecole polytechnique"
+    }
+   ],
+   "technology": "Sensome embeds a microchip-based bio-impedance sensor, which it describes as the world's smallest impedance-based tissue sensor, into minimally invasive medical devices. The sensor measures the electrical impedance of tissue in situ, during the procedure. The company's software turns these measurements into real-time, easy-to-interpret information that helps physicians make treatment decisions.",
+   "products": [
+    {
+     "name": "Clotild Smart Guidewire System",
+     "description": "Tissue-sensing neurovascular guidewire for real-time blood clot characterization during treatment of acute ischemic stroke; investigational and not approved for commercial use."
+    },
+    {
+     "name": "Tissue-sensing technology platform",
+     "description": "Embeddable bio-impedance sensing platform for minimally invasive devices, applied to stroke, lung cancer biopsy and peripheral vascular intervention."
+    }
+   ],
+   "conditions": [
+    "Acute ischemic stroke",
+    "Lung cancer (biopsy guidance)",
+    "Peripheral vascular disease"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Clotild is undergoing regulatory activities targeting commercialization in the EU, US and Japan",
+    "Successfully completed a first-in-human study of Clotild",
+    "Clinical feasibility study showed tissue-sensing can differentiate healthy lung from cancerous tissue in biopsy",
+    "Clinical feasibility study showed tissue-sensing can detect fresh clot in blocked peripheral blood vessels"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:33+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "sevaro",
@@ -28263,7 +31107,81 @@
    "token": "sevaro"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 1
+  "open_jobs_at_detection": 1,
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Raj Narula, MD",
+   "founders": [
+    "Raj Narula, MD"
+   ],
+   "leadership": [
+    {
+     "name": "Raj Narula, MD",
+     "role": "Founder & CEO"
+    },
+    {
+     "name": "Jason Bond",
+     "role": "CFO & SVP of Strategy"
+    },
+    {
+     "name": "Carl Dugart",
+     "role": "CTO"
+    },
+    {
+     "name": "Kirtana Vedire, DMD",
+     "role": "COO"
+    },
+    {
+     "name": "Chethan Sathya, MD, MSC",
+     "role": "Chief Physician Executive"
+    },
+    {
+     "name": "Vineet Agrawal",
+     "role": "Head of Growth"
+    }
+   ],
+   "technology": "Sevaro delivers virtual neurology through Synapse AI, a single integrated platform that connects with a hospital's existing systems and lets its neurologists work alongside in-house clinical teams. The platform adds AI-powered tools and intelligent analytics across the patient journey, with human neurologists making the clinical decisions. Its Premium Analytics layer connects to data warehouses and handles data management and security.",
+   "products": [
+    {
+     "name": "Synapse AI",
+     "description": "Integrated AI-powered virtual neurology platform used by Sevaro neurologists and connected to hospitals' existing technologies."
+    },
+    {
+     "name": "Premium Analytics",
+     "description": "Analytics layer offering data integrations, data management, and security and privacy tools."
+    },
+    {
+     "name": "iOS app",
+     "description": "Mobile app for iOS listed among Sevaro's products."
+    },
+    {
+     "name": "Android app",
+     "description": "Mobile app for Android listed among Sevaro's products."
+    }
+   ],
+   "conditions": [
+    "Acute stroke and telestroke care",
+    "Acute neurology",
+    "Inpatient neurohospitalist care",
+    "Remote EEG interpretation",
+    "Neuro-intensive care",
+    "Neuro-rehabilitation",
+    "Post-acute stroke coordination",
+    "Outpatient neurology clinic care"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Powered over 1 million clinical interactions through Synapse AI",
+    "24/7 telestroke care with less than 45 second response times",
+    "Serves hospitals across the nation, per the site",
+    "Non-profit StatSeva brings U.S. doctors to villages worldwide using Sevaro's telemedicine technology"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:35+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "starfish-neuroscience",
@@ -28300,7 +31218,55 @@
    "token": "starfishneuroscience"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 1
+  "open_jobs_at_detection": 1,
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [
+    "Rebekah Englishbee",
+    "Gabe Newell"
+   ],
+   "leadership": [
+    {
+     "name": "Rebekah Englishbee",
+     "role": "COO & Co-founder"
+    },
+    {
+     "name": "Gabe Newell",
+     "role": "Co-founder"
+    },
+    {
+     "name": "Alan Degenhart",
+     "role": "Neuroengineer"
+    },
+    {
+     "name": "Anna Hegedus",
+     "role": "IT Architect"
+    },
+    {
+     "name": "Mark Murphy",
+     "role": "Neural Engineer"
+    },
+    {
+     "name": "Nicole Petersen",
+     "role": "Neuroscientist"
+    }
+   ],
+   "technology": "The company develops minimally invasive interfaces that connect with the brain and body, including distributed neural interfaces, improved transcranial magnetic stimulation (TMS) instrumentation, and precision thermal modulation. The site describes these as foundational technologies meant to move new interaction methods from the lab into real-world use. The pages do not give further technical detail on how the devices work.",
+   "products": [],
+   "conditions": [
+    "Neurological disorders",
+    "Psychiatric disorders",
+    "Oncology (via precision thermal modulation)"
+   ],
+   "team_size": "",
+   "milestones": [],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:35+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "synchroni",
@@ -28312,10 +31278,10 @@
   "status": "active",
   "parent": null,
   "website": "https://synchroni.co/",
-  "city": null,
-  "lat": 40.3269,
-  "lng": -84.9961,
-  "location_precision": "country",
+  "city": "Toronto",
+  "lat": 43.6411,
+  "lng": -79.3759,
+  "location_precision": "city",
   "founded": "2024",
   "funding_stage": "Pre-seed",
   "modality": "EEG",
@@ -28332,7 +31298,49 @@
    "Anthriq"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:21+00:00"
+  "llm_checked_at": "2026-11-17T15:19:21+00:00",
+  "profile": {
+   "hq_city": "Toronto",
+   "hq_country": "Canada",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Synchroni builds wearable, multi-modal biosignal instruments that record brain (EEG), muscle (EMG), heart (ECG), respiration, pulse/blood oxygen and motion signals together. A companion recording application, the NeuralScale Recorder, connects to all of its devices so that several signal types are captured in one synchronized session. The company also collects datasets to a customer's protocol on its own instruments and verifies the recordings.",
+   "products": [
+    {
+     "name": "Orion",
+     "description": "Research-grade EEG capture system with 16-, 24- and 32-channel versions, flexible for many types of recording."
+    },
+    {
+     "name": "Nura",
+     "description": "Lightweight, portable EEG and ECG capture device for recording on the go and remote neurofeedback sessions."
+    },
+    {
+     "name": "Force",
+     "description": "Research-grade EMG armband with built-in gesture recognition (EMG and motion)."
+    },
+    {
+     "name": "NeuralScale Recorder",
+     "description": "Recording software that works with all Synchroni instruments out of the box and captures EEG, EMG, ECG, PPG, SpO₂, respiration and motion together."
+    }
+   ],
+   "conditions": [
+    "Academic and research studies (e.g., ERP studies, algorithm and foundational model development)",
+    "Neurofeedback training in clinics and for remote clients",
+    "Brain-computer interface prototyping (e.g., brain typing dataset)"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Music Stimuli auditory ERP dataset available: 28 subjects, 30 recordings",
+    "Motor Imagery dataset with 20+ subjects in collection",
+    "Released datasets are free for academic research",
+    "Nura is stated to already be in daily use in neurofeedback clinics"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:38+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "the-biological-computing-co",
@@ -28344,7 +31352,7 @@
   "status": "active",
   "parent": null,
   "website": "https://www.tbc.co",
-  "city": null,
+  "city": "Baltimore, MD & San Francisco, CA",
   "lat": 43.8126,
   "lng": -105.2953,
   "location_precision": "country",
@@ -28369,7 +31377,63 @@
    "token": "tbc"
   },
   "careers_status": "ats",
-  "open_jobs_at_detection": 2
+  "open_jobs_at_detection": 2,
+  "profile": {
+   "hq_city": "Baltimore, MD & San Francisco, CA",
+   "hq_country": "USA",
+   "ceo": "Alex Ksendzovsky MD, PhD",
+   "founders": [
+    "Alex Ksendzovsky",
+    "Jon Pomeraniec"
+   ],
+   "leadership": [
+    {
+     "name": "Alex Ksendzovsky MD, PhD",
+     "role": "CEO & Co-Founder"
+    },
+    {
+     "name": "Jon Pomeraniec MD, MBA",
+     "role": "COO & Co-Founder"
+    },
+    {
+     "name": "John Wittig, PhD",
+     "role": "VP of Engineering"
+    },
+    {
+     "name": "William Barnes, PhD",
+     "role": "VP of Technology"
+    },
+    {
+     "name": "Katie Greenfield",
+     "role": "VP of Finance and Operations"
+    },
+    {
+     "name": "Vik Chaudhary",
+     "role": "VP of Products & Partnerships"
+    }
+   ],
+   "technology": "TBC grows real neurons in lab cultures, stimulates them with encoded electrical signals, and measures how they respond to find useful computational principles. Those principles are then turned into lightweight software that runs on standard AI hardware, not on living cells. The software layer wraps around each diffusion transformer block after training and adds less than 0.1% to the underlying model.",
+   "products": [
+    {
+     "name": "mischief 1",
+     "description": "Ultra-fast AI video generation model, described as the world's first neuron-derived video model, offered at a low price on leading marketplaces."
+    }
+   ],
+   "conditions": [
+    "AI video generation"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Working with Amazon Web Services to scale its first model across AWS Trainium, Amazon SageMaker AI and AWS Marketplace",
+    "Site claims its first video model runs 5x faster, at 80% lower cost, with 0.1% more parameters",
+    "Describes its first model as the world's first neuron-derived video model",
+    "Co-founders Alex Ksendzovsky and Jon Pomeraniec were neurosurgeons and neuroscientists before founding TBC"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:41+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "therasonic",
@@ -28381,10 +31445,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.therasonic.fr",
-  "city": null,
-  "lat": 46.1662,
-  "lng": 5.2726,
-  "location_precision": "country",
+  "city": "Paris",
+  "lat": 48.8681,
+  "lng": 2.322,
+  "location_precision": "city",
   "founded": "2023",
   "funding_stage": "Pre-seed",
   "modality": "Ultrasound",
@@ -28402,7 +31466,78 @@
   ],
   "careers_url": "https://therasonic.fr/fr/careers/",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Paris",
+   "hq_country": "France",
+   "ceo": "Benoit Larrat, PhD",
+   "founders": [
+    "Benoit Larrat, PhD",
+    "Anthony Novell, PhD"
+   ],
+   "leadership": [
+    {
+     "name": "Benoit Larrat, PhD",
+     "role": "Fondateur et Président (Founder & CEO, TheraSonic)"
+    },
+    {
+     "name": "Anthony Novell, PhD",
+     "role": "Fondateur et Directeur scientifique"
+    },
+    {
+     "name": "Hamid Ouamara, PhD",
+     "role": "Directeur technique"
+    },
+    {
+     "name": "Mario Arico, PhD",
+     "role": "Directeur des Opérations"
+    },
+    {
+     "name": "Aurelie Monkam-Tchoualak",
+     "role": "Responsable Qualité et Affaires réglementaires"
+    },
+    {
+     "name": "Geraldine Le Duc",
+     "role": "Présidente du comité stratégique"
+    }
+   ],
+   "technology": "TheraSonic's non-invasive device uses focused, low-intensity ultrasound aimed at a specific spot in the brain to temporarily open the blood-brain barrier. This lets therapeutic agents that would normally be blocked reach targeted brain regions. Real-time dosimetry is used to keep the disruption safe so that treatments can be repeated, neuronavigation provides precise targeting, and a robotic platform can treat multiple targets or large volumes in a single session.",
+   "products": [
+    {
+     "name": "Non-invasive TheraSonic device",
+     "description": "Focused low-intensity ultrasound system that transiently disrupts the blood-brain barrier to deliver therapeutics to targeted brain areas."
+    },
+    {
+     "name": "Real-time dosimetry solution",
+     "description": "Monitoring component intended to keep the blood-brain barrier disruption safe for repeated treatments."
+    },
+    {
+     "name": "Neuro-navigation solution",
+     "description": "Targeting component intended to ensure precise ultrasound targeting within the brain."
+    },
+    {
+     "name": "Robotic platform",
+     "description": "Platform that enables treatment of multiple targets and large brain volumes in one session."
+    }
+   ],
+   "conditions": [
+    "Neurological diseases",
+    "Brain diseases",
+    "Brain cancers",
+    "Drug delivery to the brain across the blood-brain barrier"
+   ],
+   "team_size": "",
+   "milestones": [
+    "2024: Founded as a spin-off from CEA and CNRS research",
+    "2024: Raised €1M pre-seed round led by M2Care and Gustave Roussy",
+    "2026: Received official authorisation for its First-in-Human clinical trial sponsored by Gustave Roussy hospital",
+    "2026: Winner of the France Biotech Jeune Entreprise HealthTech trophy"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:44+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "vonova",
@@ -28435,7 +31570,35 @@
   ],
   "careers_url": "https://www.youtube.com/watch?v=CfYh1rydP1w",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Vonova's approach uses the body's venous system as a route to the brain, so devices reach the brain surface through blood vessels rather than through a surgical opening in the skull. The Cerebro Platform is a minimally invasive neurovascular system that is guided by real-time imaging as it moves through the vessels. Once positioned, it delivers diagnostic or therapeutic treatment to the brain.",
+   "products": [
+    {
+     "name": "Cerebro Platform",
+     "description": "A minimally invasive neurovascular system, guided by real-time imaging, that navigates the blood vessels to deliver therapy to the brain without neurosurgery."
+    }
+   ],
+   "conditions": [
+    "Chronic subdural hematomas",
+    "Neuropathic pain",
+    "Epilepsy"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Announced its successful seed financing for its brain access technology",
+    "Featured in a NeuroRevolution article on its cerebral catheter technology"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:44+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "wearable-devices",
@@ -28447,10 +31610,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.wearabledevices.co.il/",
-  "city": null,
-  "lat": 32.2487,
-  "lng": 35.0656,
-  "location_precision": "country",
+  "city": "Yokneam Illit",
+  "lat": 32.6281,
+  "lng": 35.0912,
+  "location_precision": "city",
   "founded": "2014",
   "funding_stage": "Public",
   "modality": "EMG",
@@ -28468,7 +31631,66 @@
   ],
   "careers_url": "https://www.wearabledevices.co.il/about/careers",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "Yokneam Illit",
+   "hq_country": "Israel",
+   "ceo": "Asher Dahan",
+   "founders": [
+    "Asher Dahan",
+    "Guy Wagner",
+    "Leeor Langer"
+   ],
+   "leadership": [
+    {
+     "name": "Asher Dahan",
+     "role": "Chief Executive Officer, Director"
+    },
+    {
+     "name": "Guy Wagner",
+     "role": "Chief Scientific, President and Director"
+    },
+    {
+     "name": "Leeor Langer",
+     "role": "Chief Technology Officer"
+    }
+   ],
+   "technology": "Wearable Devices uses non-invasive neural sensing in a wristband: sensors pick up the muscle and nerve signals in the wrist that come from subtle finger movements. Adaptive AI models then decode those signals into gestures or intent, which are used as touchless input for digital devices. The company also builds a neural data platform meant to capture and learn from these bio-signals over time.",
+   "products": [
+    {
+     "name": "Mudra Band",
+     "description": "A smart band for iOS users that brings gesture control to the Apple Watch."
+    },
+    {
+     "name": "Mudra Link",
+     "description": "A wristband offering neural gesture control for other platforms, including AR/XR headsets, PCs and Android systems."
+    },
+    {
+     "name": "Mudra Dev-Kit Program",
+     "description": "An enterprise developer kit with hardware bands, SDKs, APIs and signal tools for integrating neural sensing into third-party products."
+    }
+   ],
+   "conditions": [
+    "Touchless gesture control for consumer and XR devices",
+    "Biometric security",
+    "Robotics",
+    "Defence",
+    "Sport analytics",
+    "Automotive",
+    "Industry 4.0"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Founded in 2014; listed on Nasdaq as WLDS",
+    "Neural control commercially available since 2023, used by thousands of users worldwide",
+    "Holds granted and pending patents in the US and internationally",
+    "Introduced what it describes as the world's first wrist-worn neural interfaces (Mudra Band and Mudra Link)"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:44+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "wise",
@@ -28532,7 +31754,62 @@
   ],
   "careers_url": "https://xtrodes.applytojob.com/apply",
   "ats": null,
-  "careers_status": "custom_page"
+  "careers_status": "custom_page",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "Ziv Peremen, PhD",
+   "founders": [],
+   "leadership": [
+    {
+     "name": "Ziv Peremen, PhD",
+     "role": "CEO"
+    },
+    {
+     "name": "Prof. Yael Hanein, PhD",
+     "role": "CTO"
+    },
+    {
+     "name": "Yoni Mizrahi",
+     "role": "CFO"
+    },
+    {
+     "name": "Ilan Ron",
+     "role": "VP R&D"
+    },
+    {
+     "name": "Deganit Barak-Shinar, PhD",
+     "role": "VP Clinical Affairs & Regulation"
+    },
+    {
+     "name": "Guy Rosenthal",
+     "role": "Director of Operation"
+    }
+   ],
+   "technology": "X-trodes builds Smart Skin, a flexible, ultra-thin, medical-grade skin patch carrying a multi-electrode array. The patch attaches to almost any area of the skin and records surface electrophysiological signals such as EEG, EMG and ECG at multiple sites at once. The underlying IP was developed over about a decade at Prof. Yael Hanein's Neuro Engineering lab, and the aim is to collect this data continuously while people go about their everyday lives rather than only in clinical settings.",
+   "products": [
+    {
+     "name": "Smart Skin",
+     "description": "A medical-grade, flexible and ultra-thin skin patch with a single multi-electrode array that records EEG, EMG and ECG signals from multiple sites in real-life settings."
+    }
+   ],
+   "conditions": [
+    "Sleep monitoring and sleep screening at home",
+    "Facial EMG for human-machine interfaces",
+    "Real-world electrophysiological monitoring for healthcare"
+   ],
+   "team_size": "",
+   "milestones": [
+    "FDA clearance achieved",
+    "Exclusive EIC Grant and EIC Award",
+    "1st Award for the EY journey pitch",
+    "X-trodes and WD successfully delivered a neural interface system for dynamic, real-world environments"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:49+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "zander-labs",
@@ -28544,10 +31821,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.zanderlabs.com/",
-  "city": null,
-  "lat": 51.6691,
-  "lng": 5.8054,
-  "location_precision": "country",
+  "city": "Delft",
+  "lat": 52.0159,
+  "lng": 4.3435,
+  "location_precision": "city",
   "founded": "2016",
   "funding_stage": "Non-dilutive",
   "modality": "EEG",
@@ -28564,7 +31841,45 @@
    "Synchroni"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:21+00:00"
+  "llm_checked_at": "2026-11-17T15:19:21+00:00",
+  "profile": {
+   "hq_city": "Delft",
+   "hq_country": "Netherlands",
+   "ceo": "",
+   "founders": [],
+   "leadership": [],
+   "technology": "Zander Labs records brain activity with non-invasive EEG hardware (Zypher) worn during real-world tasks, producing time-synchronized EEG data. Its decoding software uses universal classifiers that work across people and environments to convert raw EEG into time-aligned cognitive states, mapped in a multidimensional mental state space. Those signals are then fed into AI pipelines as reward signals and evaluation metrics to help train and align models.",
+   "products": [
+    {
+     "name": "Zypher EEG hardware",
+     "description": "Mobile, low-setup-time EEG hardware for large-scale capture of brain activity during real-world tasks."
+    },
+    {
+     "name": "Decoding software",
+     "description": "Turns raw EEG into time-aligned cognitive states using universal classifiers mapped in multidimensional mental state space (MDMS)."
+    },
+    {
+     "name": "NAFAS",
+     "description": "Unobtrusive mobile EEG electrode project using flex-printed electrodes placed on hairless areas."
+    }
+   ],
+   "conditions": [
+    "Physical AI: training embodied systems on operator intent for manipulation, teleoperation and shared autonomy",
+    "Automotive: in-cabin driver and passenger cognitive states to validate autonomous driving",
+    "Personal AI: feedback streams for aligning models and agents to the human in the loop"
+   ],
+   "team_size": "35+ engineers and scientists, including 18 PhDs",
+   "milestones": [
+    "2023: Germany's Agency for Innovation in Cybersecurity (Cyberagentur) signed a 30 million euro contract to develop neuroadaptive technology",
+    "2025: First results from NAFAS unobtrusive mobile EEG electrodes recovered known event-related brain responses",
+    "2026: Press release on a fully integrated brain-computer interface system with real-time recognition of mental states",
+    "Encord Data Lab announced a partnership with Zander Labs"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:50+00:00",
+   "model": "claude-haiku-5-5"
+  }
  },
  {
   "id": "zeta-surgical",
@@ -28596,6 +31911,69 @@
    "Resolve Stroke"
   ],
   "careers_status": "not_found",
-  "llm_checked_at": "2026-11-17T15:19:22+00:00"
+  "llm_checked_at": "2026-11-17T15:19:22+00:00",
+  "profile": {
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
+   "founders": [
+    "Dr. Wiliiam Gormley"
+   ],
+   "leadership": [
+    {
+     "name": "Dr. Wiliiam Gormley",
+     "role": "ZETA Co-founder"
+    },
+    {
+     "name": "Dr. Matthew McGirt",
+     "role": "ZETA Chief Strategy Officer"
+    },
+    {
+     "name": "Dr. Shan Siddiqi",
+     "role": "Zeta Advisor"
+    },
+    {
+     "name": "Dr. Elad Levy",
+     "role": "ZETA Advisor"
+    },
+    {
+     "name": "Dr. Aimee Degaetano",
+     "role": "ZETA Advisor"
+    },
+    {
+     "name": "Dr. Ress Cosgrove",
+     "role": "zeta advisor"
+    }
+   ],
+   "technology": "ZETA is a frameless, real-time image-guided navigation system for neurosurgery and neuromodulation. It tracks the patient's head movement continuously, about 20 times per second, so instruments stay aligned to the brain without cranial pins, head fixation, or general anesthesia. The system is compact and mobile, and it is designed to be set up quickly in operating rooms, emergency settings, and ambulatory centers.",
+   "products": [
+    {
+     "name": "ZETA 1 (ZETA Cranial Navigation System)",
+     "description": "Frameless, real-time neuronavigation for spatial positioning of neurosurgical instruments in cranial surgery, per the site's indication statement."
+    },
+    {
+     "name": "Zeta TMS Robotic System (Zeta TMS Navigation System)",
+     "description": "Navigated, robotic system for transcranial magnetic stimulation that the site says has FDA 510(k) clearance."
+    }
+   ],
+   "conditions": [
+    "External ventricular drain (ventriculostomy)",
+    "Brain biopsy",
+    "Transcranial magnetic stimulation (TMS) therapy",
+    "Tumor resection (e.g., cavernoma resection)",
+    "Major Depressive Disorder and other neurological conditions"
+   ],
+   "team_size": "",
+   "milestones": [
+    "Jul 2026: Zeta TMS Robotic System received FDA 510(k) clearance (K261471), classified as a Class II stereotaxic instrument",
+    "Jun 2026: First patient treated with the FDA-cleared Zeta TMS Navigation System at a HOPE Therapeutics clinic in Sarasota",
+    "Oct 2026: Announced collaboration with DARPA in support of the Phase 3 SPARC-TMS clinical study",
+    "Breakthrough clinical study in bedside external ventricular drain cases reported on the site"
+   ],
+   "linkedin_url": "",
+   "source": "company website",
+   "updated_at": "2026-11-18T09:35:53+00:00",
+   "model": "claude-haiku-5-5"
+  }
  }
 ]
