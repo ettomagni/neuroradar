@@ -47,5 +47,32 @@
    },
    "est_cost_usd": 0.0
   }
+ },
+ {
+  "at": "2026-11-18T08:44:33+00:00",
+  "kind": "profiles",
+  "profiles": 0,
+  "no_pages": 0,
+  "errors": 3,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 3,
+   "refusals": 0,
+   "tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0
+  }
  }
 ]
