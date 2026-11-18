@@ -23,7 +23,7 @@ from urllib.parse import urlparse
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
 from anthropic.types.messages.batch_create_params import Request
 
-from claude_client import MODEL, USAGE, can_batch, has_key, make_client, parse_response, schema_format, structured
+from claude_client import MODEL, USAGE, backend, can_batch, token_check, has_key, make_client, parse_response, schema_format, structured
 from netutil import DATA, Throttle, fetch_json, load_companies, save_json
 from pagetext import page_to_text
 from render import render_many
@@ -179,6 +179,8 @@ def main():
     if not has_key():
         print("No Claude credentials: skipping profile enrichment.")
         return
+    if backend() == "cli":
+        print("Claude backend: subscription (Claude Code) ·", token_check(), flush=True)
     client = make_client()
     companies = load_companies()
     started = now_iso()

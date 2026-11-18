@@ -137,8 +137,18 @@ def structured(client, system: str, user: str, schema: dict,
     return parse_response(resp)
 
 
+def token_check() -> str:
+    """Describe the OAuth token without revealing it (length + prefix check)."""
+    raw = os.environ.get("CLAUDE_CODE_OAUTH_TOKEN", "")
+    clean = "".join(raw.split())
+    return (f"token length {len(raw)} (without spaces/line breaks: {len(clean)}), "
+            f"starts with sk-ant-oat01-: {clean.startswith('sk-ant-oat01-')}")
+
+
 def _structured_cli(system: str, user: str, schema: dict):
     env = {k: v for k, v in os.environ.items() if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
+    # a token copied from a wrapped terminal line often carries line breaks/spaces
+    env["CLAUDE_CODE_OAUTH_TOKEN"] = "".join(env.get("CLAUDE_CODE_OAUTH_TOKEN", "").split())
     cmd = [claude_bin(), "-p", "--model", CLI_MODEL, "--output-format", "json",
            "--json-schema", json.dumps(schema), "--system-prompt", system,
            "--tools", "", "--no-session-persistence", "--max-turns", "3"]
