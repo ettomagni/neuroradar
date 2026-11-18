@@ -292,7 +292,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.biologicinputoutputsystems.com/",
-  "city": "\"\"",
   "lat": 39.1161,
   "lng": -99.618,
   "location_precision": "country",
@@ -314,8 +313,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:41+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Josh Miller",
    "founders": [
     "Jacob A. George, Ph.D.",
@@ -361,7 +360,7 @@
     "Prosthetics",
     "Other advanced technologies (stated as broader potential)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "2021–2022: Biologic Input Output Systems incorporated and licensed the IP technology.",
     "2023: Chief Scientist Jake George, Ph.D., explained the closed-loop system for motor control and sensory feedback, referring to BIOS as the startup that has licensed the system technology.",
@@ -383,7 +382,6 @@
   "status": "active",
   "parent": null,
   "website": "https://blackrockneurotech.com/",
-  "city": null,
   "lat": 41.9673,
   "lng": -96.1769,
   "location_precision": "country",
@@ -506,7 +504,7 @@
   "profile": {
    "hq_city": "Boston, Massachusetts",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Prof. Deblina Sarkar"
    ],
@@ -587,7 +585,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cognixion.com/",
-  "city": null,
   "lat": 41.9418,
   "lng": -99.5028,
   "location_precision": "country",
@@ -774,7 +771,7 @@
   "profile": {
    "hq_city": "Genova",
    "hq_country": "Italy",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -793,7 +790,7 @@
     "Restoring lost neurological functions (general aim; no specific condition named)",
     "Healthcare brain-computer interfaces (no specific condition named)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "SiNAPS probes use patented technology",
     "Project co-financed by the Liguria Region PR FESR 2021/2027 programme (2024 digitalisation call)",
@@ -815,7 +812,6 @@
   "status": "active",
   "parent": null,
   "website": "https://epianeuro.com",
-  "city": null,
   "lat": 43.9171,
   "lng": -95.7706,
   "location_precision": "country",
@@ -898,7 +894,6 @@
   "status": "active",
   "parent": null,
   "website": "https://fluentbci.com/",
-  "city": "\"\"",
   "lat": -31.9902,
   "lng": 148.6128,
   "location_precision": "country",
@@ -921,8 +916,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Dr. Tim Mahoney",
    "founders": [
     "Dr. Tim Mahoney",
@@ -1187,7 +1182,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.merge.io/blog",
-  "city": "\"\"",
   "lat": 44.3504,
   "lng": -92.512,
   "location_precision": "country",
@@ -1214,9 +1208,9 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 34,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Merge Labs is developing brain-computer interfaces that connect with neurons using molecules rather than electrodes. The approach uses deep-reaching modalities such as ultrasound to transmit and receive information, so no implants go into brain tissue. The stated aim is high bandwidth and broad brain coverage that integrate with advanced AI.",
@@ -1226,7 +1220,7 @@
     "Restoring lost abilities",
     "Supporting healthier brain states"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Merge Labs introduced as a research lab (blog post dated Jan 15, 2026)",
     "Describes itself as a Public Benefit Corporation"
@@ -1247,7 +1241,6 @@
   "status": "active",
   "parent": null,
   "website": "https://morphlabs.tech",
-  "city": null,
   "lat": 44.5076,
   "lng": -99.404,
   "location_precision": "country",
@@ -1389,7 +1382,7 @@
   "profile": {
    "hq_city": "上海市",
    "hq_country": "China",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The company develops brain-computer interface (BCI) hardware and solutions, covering both non-invasive and minimally invasive products. Its systems record brain electrical activity with high-density EEG (up to 1024 leads, sampling up to 16 kHz) and event-related potential techniques. The data are used for clinical diagnosis, neuroscience research, and controlling external devices such as robotic arms or typing interfaces.",
@@ -1442,7 +1435,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neuralink.com/",
-  "city": null,
   "lat": 45.2481,
   "lng": -95.0407,
   "location_precision": "country",
@@ -1510,7 +1502,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neurosoft-bio.com/",
-  "city": null,
   "lat": 46.6885,
   "lng": 8.9414,
   "location_precision": "country",
@@ -1631,7 +1622,7 @@
   "profile": {
    "hq_city": "Shanghai",
    "hq_country": "China",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Dr. Tiger H. Tao"
    ],
@@ -1666,7 +1657,7 @@
     "Stroke",
     "Other severe neurological disorders with motor or language impairment"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Won the SAIL Award, the highest award at the World Artificial Intelligence Conference (July 2021)",
     "Obtained Class II medical device registration for its digital EEG device (December 2023)",
@@ -1849,7 +1840,7 @@
    "conditions": [
     "Profound blindness (vision restoration)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Raised pre-seed and seed financing from top-tier investors",
     "Actively fundraising for next funding round (per homepage)"
@@ -1870,7 +1861,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.precisionneuro.io/",
-  "city": "\"\"",
   "lat": 38.5342,
   "lng": -105.7555,
   "location_precision": "country",
@@ -1893,9 +1883,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The company develops a brain-computer interface, a thin implant that sits on the surface of the brain and reads its electrical activity. It is described as a high-bandwidth digital connection with the brain that is designed to be removable and upgradable without damaging brain tissue. The system is used so people with paralysis can operate digital devices using only their thoughts, and the site says it will later expand to more regions of the brain.",
@@ -1908,7 +1898,7 @@
    "conditions": [
     "Paralysis (enabling people to operate digital devices using thoughts)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FDA 510(k) clearance for the Layer 7 cortical interface",
     "100+ implanted clinical study patients",
@@ -1931,7 +1921,6 @@
   "status": "active",
   "parent": null,
   "website": "https://revision-implant.com/",
-  "city": null,
   "lat": 50.2949,
   "lng": 4.2679,
   "location_precision": "country",
@@ -2025,10 +2014,10 @@
   "status": "active",
   "parent": null,
   "website": "https://www.ruten-neuro.com/",
-  "city": "Tokyo / California / Illinois",
-  "lat": 36.4527,
-  "lng": -86.4329,
-  "location_precision": "country",
+  "city": "Tokyo",
+  "lat": 29.5322,
+  "lng": -98.5318,
+  "location_precision": "city",
   "founded": "2016",
   "funding_stage": "Seed",
   "modality": "Intracortical",
@@ -2047,7 +2036,7 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:42+00:00",
   "profile": {
-   "hq_city": "Tokyo / California / Illinois",
+   "hq_city": "Tokyo",
    "hq_country": "",
    "ceo": "Kazutaka Takahashi, Ph.D.",
    "founders": [
@@ -2249,7 +2238,7 @@
   "profile": {
    "hq_city": "Shanghai",
    "hq_country": "China",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "StairMed develops an invasive brain-computer interface built around an ultra-flexible micro-nano electrode, about 1 μm thick, whose mechanical properties are said to be similar to brain tissue. The electrode records neural activity at single-cell resolution and is paired with an implant that has no internal battery and is powered wirelessly through an integrated power and communication coil. The implant is housed in titanium alloy or zirconia ceramic, and its brain control software supports training protocols that aim to restore motor ability.",
@@ -2285,7 +2274,7 @@
     "Blindness",
     "Deafness"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Describes itself as the only flexible brain-controlled implant product in China",
     "States it conducted the first BCI-related IIT research globally",
@@ -2432,7 +2421,7 @@
   "profile": {
    "hq_city": "New York City",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Synaptrix builds non-invasive brain-computer interfaces by combining EEG hardware, large neural datasets, and deep learning models designed for brain signals. Its software models try to reconstruct high-resolution neural activity from scalp EEG recordings, aiming to recover more information than conventional EEG captures. The company's stated goal is to close the gap between non-invasive systems and implants, with the aim of controlling devices such as a powered wheelchair from brain signals.",
@@ -2481,7 +2470,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.synchron.com/",
-  "city": "\"\"",
   "lat": 32.2655,
   "lng": -102.9396,
   "location_precision": "country",
@@ -2504,9 +2492,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Synchron builds implantable brain-computer interfaces that are delivered through blood vessels rather than open brain surgery. The device is guided through the jugular vein like a stent, so no cutting through the skull is needed. The company says this catheter-based approach is meant to let neural interfaces scale the way cardiac stents and pacemakers already do.",
@@ -2572,7 +2560,7 @@
   "profile": {
    "hq_city": "Beijing",
    "hq_country": "China",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Zhiran Medical develops an invasive brain-computer interface built on ultra-thin flexible electrodes that are implanted into the brain to pick up neural signals. The implanted signal acquisition device and wireless system transmit these signals out of the body. Decoding algorithms then interpret the recorded brain activity, and a dedicated electrode-implantation robot is used to place the electrodes.",
@@ -2621,7 +2609,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.affectablesleep.com",
-  "city": "\"\"",
   "lat": -30.0,
   "lng": 146.291,
   "location_precision": "country",
@@ -2644,9 +2631,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -2683,7 +2670,7 @@
     "Immune regulation and physical/mental recovery",
     "Stress hormone regulation and emotional resilience"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Built on more than a decade of research and over 50 peer-reviewed studies in slow-wave enhancement (per site)",
     "UltraSleep stimulation is patent-pending (per site)",
@@ -2706,7 +2693,6 @@
   "status": "active",
   "parent": null,
   "website": "https://aoramind.com",
-  "city": "\"\"",
   "lat": 40.6562,
   "lng": -96.573,
   "location_precision": "country",
@@ -2728,9 +2714,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:45+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The AORA Nano is a small, behind-the-ear wearable that uses ECG electrodes and PPG sensors (measuring heart rate, HRV and SpO₂) to pick up weak signals from the body. Ultra-low-noise analog circuitry and hardware filters clean these signals, which are then digitized and processed on the device by an nRF54L15 system-on-chip. The results are sent to an external device over Bluetooth Low Energy 5.4 so the wearer can see real-time insights about cognitive load, recovery and burnout risk.",
@@ -2746,7 +2732,7 @@
     "Neural recovery",
     "Burnout risk / early signs of overload"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "AORA Nano open for pre-order; customers can join the first batch",
     "30-day money-back guarantee on AORA Nano",
@@ -2769,7 +2755,6 @@
   "status": "active",
   "parent": null,
   "website": "https://apolloneuro.com",
-  "city": null,
   "lat": 37.3651,
   "lng": -97.0925,
   "location_precision": "country",
@@ -2857,7 +2842,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.atlaswearable.com",
-  "city": null,
   "lat": 37.0257,
   "lng": -94.8111,
   "location_precision": "country",
@@ -2913,7 +2897,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.audicin.com",
-  "city": "\"\"",
   "lat": 62.0,
   "lng": 26.8556,
   "location_precision": "country",
@@ -2935,8 +2918,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:45+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Laura Avonius",
    "founders": [
     "Laura Avonius",
@@ -2989,7 +2972,7 @@
     "Focus and performance enhancement",
     "Nervous system resilience"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "4.9 stars on the App Store",
     "Offers a 30-day free trial",
@@ -3012,7 +2995,6 @@
   "status": "active",
   "parent": null,
   "website": "https://aweartech.com",
-  "city": null,
   "lat": 41.0954,
   "lng": -97.8958,
   "location_precision": "country",
@@ -3108,7 +3090,6 @@
   "status": "active",
   "parent": null,
   "website": "https://getbia.com",
-  "city": null,
   "lat": 47.5,
   "lng": -75.8388,
   "location_precision": "country",
@@ -3232,7 +3213,7 @@
   "profile": {
    "hq_city": "Somerville",
    "hq_country": "United States",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "BrainCo develops non-invasive brain-computer interface (BCI) technology that lets the brain communicate directly with digital devices. Its wearable EEG-based products read brain signals and, according to the company, process user biometric data locally on the device. The company combines neuroscience, machine learning and design to build cognitive training, wellness and bionic-limb applications.",
@@ -3261,7 +3242,7 @@
     "Sleep and meditation/stress wellness",
     "Athletes and stressed employees (wellness)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Describes itself as a pioneering unicorn in the brain-computer interface arena",
     "Completed an Agreed Upon Principles (AUP) compliance audit of its systems by Assured Information Solutions, LLC (per company statement)",
@@ -3371,7 +3352,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.brnlit.ai/en",
-  "city": null,
   "lat": 47.1482,
   "lng": 8.0633,
   "location_precision": "country",
@@ -3663,7 +3643,6 @@
   "status": "acquired",
   "parent": "Meta",
   "website": "https://tech.facebook.com/reality-labs/",
-  "city": null,
   "lat": 40.1598,
   "lng": -90.558,
   "location_precision": "country",
@@ -3809,7 +3788,6 @@
   "status": "active",
   "parent": null,
   "website": "https://elemindtech.com",
-  "city": "\"\"",
   "lat": 37.6349,
   "lng": -90.2988,
   "location_precision": "country",
@@ -3831,8 +3809,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:49+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Meredith Perry",
    "founders": [
     "Meredith Perry",
@@ -3893,7 +3871,7 @@
     "Essential tremor (site says it has been used to suppress it)",
     "Pain threshold, anesthesia augmentation and memory formation (research uses named on the About page)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Clinically shown to help 76% of study participants fall asleep significantly faster",
     "Backed by 5 years of research, testing, and clinical trials",
@@ -3941,7 +3919,7 @@
   "profile": {
    "hq_city": "Hangzhou",
    "hq_country": "China",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The company makes lightweight wearable EEG devices using nanometer flexible electronics to monitor brain activity during sleep; the site says its main device weighs only 4 grams. The EEG monitoring is combined with closed-loop sound-wave regulation, which is meant to improve deep sleep, cognitive ability and circadian rhythm, and can be linked to smart-home devices. Separately, its neurointeractive bracelet reads electrical muscle signals to recognize more than 50 fine single-finger movements.",
@@ -3970,7 +3948,7 @@
     "Chronic disease management",
     "Rehabilitation medicine (bracelet)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "2021.10: EEG sleep monitor began small-scale mass production; company reports over 60 related patents",
     "2023.6: Core EEG sleep monitor obtained Class II Medical Device Registration certificate",
@@ -3993,7 +3971,6 @@
   "status": "active",
   "parent": null,
   "website": "https://haloneuroscience.com/",
-  "city": "\"\"",
   "lat": 41.0948,
   "lng": -89.6509,
   "location_precision": "country",
@@ -4015,9 +3992,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:50+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Halo is a headset that uses gentle transcranial direct current stimulation (tDCS), passing a weak electrical current through the scalp. The site says this electrical stimulation is precisely targeted at the prefrontal cortex, which it describes as the brain's control hub for mood, focus, and sleep. The company says the aim is to encourage neuroplasticity and calm stress-related overactivity, though these are the company's own claims.",
@@ -4068,7 +4045,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.i-brain.tech",
-  "city": "\"\"",
   "lat": 31.6254,
   "lng": 35.2229,
   "location_precision": "country",
@@ -4091,8 +4067,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Dr. Konstantin Sonkin",
    "founders": [],
    "leadership": [
@@ -4142,7 +4118,7 @@
     "Player skill development and cognitive/tactical training",
     "Cognitive assessment of athletes"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Innovation of the Year Award winner with Juventus FC",
     "Clients across LaLiga, Serie A and MLS clubs, per the About page",
@@ -4165,7 +4141,6 @@
   "status": "active",
   "parent": null,
   "website": "https://lyeons.com/",
-  "city": "\"\"",
   "lat": 40.0831,
   "lng": -88.5585,
   "location_precision": "country",
@@ -4188,8 +4163,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Lucy Jung",
    "founders": [
     "Lucy Jung"
@@ -4256,7 +4231,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.mavehealth.com/",
-  "city": null,
   "lat": 23.4245,
   "lng": 79.991,
   "location_precision": "country",
@@ -4327,7 +4301,6 @@
   "status": "active",
   "parent": null,
   "website": "http://mendi.io/",
-  "city": "\"\"",
   "lat": 57.6813,
   "lng": 15.8145,
   "location_precision": "country",
@@ -4349,9 +4322,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:49+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Mendi is a wearable headband that uses functional near-infrared spectroscopy (fNIRS) sensors on the forehead to measure blood flow and oxygenation in the prefrontal cortex. The companion app turns this live brain signal into a training game, so the game responds when the user's prefrontal cortex activates during focus. The site says repeated sessions are meant to strengthen the neural pathways behind attention over time, and it gives each session a focus score.",
@@ -4371,7 +4344,7 @@
     "Mood and emotional balance",
     "General wellbeing (site positions Mendi as a wellness device, not a medical device; ADHD is mentioned only in a customer testimonial and a disclaimer saying it is not intended to diagnose or treat ADHD)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Record-breaking launch on Kickstarter and Indiegogo, described as the most funded and pre-ordered product in brain and mental health categories",
     "Funded in part by the EU Horizon 2020 research and innovation programme, grant agreement No 888409",
@@ -4394,7 +4367,6 @@
   "status": "active",
   "parent": null,
   "website": "https://choosemuse.com/",
-  "city": "\"\"",
   "lat": 49.1471,
   "lng": -75.1308,
   "location_precision": "country",
@@ -4417,8 +4389,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Jean-Michel Fournier",
    "founders": [
     "Ariel Garten",
@@ -4470,7 +4442,7 @@
     "Burnout in healthcare professionals (Mayo Clinic study cited)",
     "OCD (8-week study cited)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "InteraXon was founded in 2007 to bring EEG technology from the lab to the world",
     "Muse launched its first brain-sensing headband in 2014",
@@ -4522,7 +4494,7 @@
   "profile": {
    "hq_city": "New York, NY",
    "hq_country": "US",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Aziz Kaddan",
     "Anas Abu Mukh"
@@ -4562,7 +4534,7 @@
     "PTSD (mentioned in user testimonials)",
     "Depression (mentioned in provider bios)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Founded in 2014 by Aziz Kaddan and Anas Abu Mukh",
     "Over 1,600,000 neurotherapy sessions completed by tens of thousands of users",
@@ -4783,7 +4755,6 @@
   "status": "active",
   "parent": null,
   "website": "http://neuronic.com/",
-  "city": "\"\"",
   "lat": 51.3447,
   "lng": -2.3431,
   "location_precision": "country",
@@ -4805,9 +4776,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:52+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The company describes its offering as light therapy and photobiomodulation, which means applying light to the head to support brain function. Its blog is titled around brain health and photobiomodulation research. The pages do not give further technical detail on the device or wavelengths.",
@@ -4816,7 +4787,7 @@
     "Daily brain health",
     "Cognitive support"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [],
    "linkedin_url": "",
    "source": "company website",
@@ -4834,7 +4805,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neurosity.co/",
-  "city": "\"\"",
   "lat": 32.2112,
   "lng": -97.4098,
   "location_precision": "country",
@@ -4857,8 +4827,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "AJ Keller",
    "founders": [
     "AJ Keller",
@@ -5020,7 +4990,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neuvanalife.com/",
-  "city": "\"\"",
   "lat": 46.0062,
   "lng": -96.136,
   "location_precision": "country",
@@ -5043,9 +5012,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Xen is an ear-worn device that delivers gentle electrical pulses to the vagus nerve through the ear, where a branch of the nerve is reachable. The user pairs the device with the Neuvana app over Bluetooth, then chooses a preset (Sleep, Calm, or Focus) or builds a custom session by adjusting waveform, session length, and intensity. The site says the stimulation is meant to support the body's natural relaxation response, with 15 to 30 minutes of daily use recommended.",
@@ -5072,7 +5041,7 @@
     "Sleep quality (falling asleep, deep and REM sleep)",
     "Focus and mental clarity"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Xen is HSA and FSA eligible with no prescription required, per the site",
     "Offers a 30-day money-back guarantee",
@@ -5120,7 +5089,7 @@
   "profile": {
    "hq_city": "Paris",
    "hq_country": "France",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "NextMind developed non-invasive brain-computer interface (BCI) technology. It monitors neural activity to infer what a user intends to do with a computing interface. This lets a user activate a virtual button simply by focusing on it. According to the site, the technology does not read thoughts or send signals to the brain.",
@@ -5150,7 +5119,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nextsense.io/",
-  "city": null,
   "lat": 43.2363,
   "lng": -103.3367,
   "location_precision": "country",
@@ -5350,7 +5318,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nudge.com/",
-  "city": null,
   "lat": 35.7652,
   "lng": -87.6806,
   "location_precision": "country",
@@ -5406,7 +5373,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nuromova.com",
-  "city": null,
   "lat": 22.33,
   "lng": 114.15,
   "location_precision": "country",
@@ -5480,7 +5446,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nuropod.com",
-  "city": null,
   "lat": 51.7143,
   "lng": -3.4824,
   "location_precision": "country",
@@ -5528,7 +5493,6 @@
   "status": "active",
   "parent": null,
   "website": "https://prophetic.com",
-  "city": null,
   "lat": 46.5704,
   "lng": -97.4614,
   "location_precision": "country",
@@ -5594,7 +5558,6 @@
   "status": "active",
   "parent": null,
   "website": "https://uk.pulsetto.tech/pages/home-2",
-  "city": null,
   "lat": 55.3,
   "lng": 23.9,
   "location_precision": "country",
@@ -5684,7 +5647,6 @@
   "status": "active",
   "parent": null,
   "website": "https://sabi.com",
-  "city": null,
   "lat": 45.9258,
   "lng": -100.8581,
   "location_precision": "country",
@@ -5950,10 +5912,9 @@
   "status": "active",
   "parent": null,
   "website": "http://somneesleep.com",
-  "city": "\"\"",
-  "lat": 39.7681,
-  "lng": -100.4659,
-  "location_precision": "city",
+  "lat": 46.9248,
+  "lng": -98.9626,
+  "location_precision": "country",
   "founded": "2017",
   "funding_stage": "Seed",
   "modality": "tDCS/tES",
@@ -5972,9 +5933,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:53+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Four UC Berkeley scientists (unnamed on the pages)"
    ],
@@ -6121,7 +6082,6 @@
   "status": "active",
   "parent": null,
   "website": "https://sond.com",
-  "city": null,
   "lat": 31.5767,
   "lng": -100.7192,
   "location_precision": "country",
@@ -6224,7 +6184,6 @@
   "status": "active",
   "parent": null,
   "website": "https://sychedelic.com/",
-  "city": null,
   "lat": 20.3966,
   "lng": 74.3462,
   "location_precision": "country",
@@ -6320,7 +6279,6 @@
   "status": "active",
   "parent": null,
   "website": "https://temple.com/",
-  "city": null,
   "lat": 18.9446,
   "lng": 81.4613,
   "location_precision": "country",
@@ -6477,7 +6435,6 @@
   "status": "active",
   "parent": null,
   "website": "https://vagustim.io/",
-  "city": "\"\"",
   "lat": 39.0,
   "lng": 33.0,
   "location_precision": "country",
@@ -6499,8 +6456,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:55+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Ali Can Erk",
    "founders": [
     "Ali Veysel Özden, MD, PhD",
@@ -6562,7 +6519,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.vielight.com",
-  "city": "\"\"",
   "lat": 44.2441,
   "lng": -74.7445,
   "location_precision": "country",
@@ -6585,8 +6541,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Lew Lim",
    "founders": [
     "Lew Lim"
@@ -6635,7 +6591,7 @@
     "Sleep, calm and systemic wellness",
     "Athletic performance and recovery"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Vielight Neuro won a $4.6M US Department of Defense grant, expanding on neuroimaging research with the University of Utah",
     "30+ published research studies with Vielight technology, covering 800+ participants",
@@ -6658,7 +6614,6 @@
   "status": "active",
   "parent": null,
   "website": "https://vitalneuro.com",
-  "city": null,
   "lat": 41.0907,
   "lng": -107.1134,
   "location_precision": "country",
@@ -6760,7 +6715,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.wisear.io/",
-  "city": "\"\"",
   "lat": 48.3132,
   "lng": 0.6468,
   "location_precision": "country",
@@ -6782,15 +6736,15 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:56+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
-   "technology": "\"\"",
+   "technology": "",
    "products": [],
    "conditions": [],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [],
    "linkedin_url": "",
    "source": "company website",
@@ -6912,7 +6866,7 @@
   "profile": {
    "hq_city": "Kwun Tong, Kowloon",
    "hq_country": "Hong Kong",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "ZenoWell is a non-invasive wearable that uses transcutaneous auricular vagus nerve stimulation (taVNS): a patented electrode on the ear delivers gentle electrical pulses to the branches of the vagus nerve. The stimulation is paired with the Zeno app, which can take a quick face scan and read heart rate, HRV and sleep data from the Zenoband Mobi. An AI coach uses these signals, daily check-ins and session history to suggest stimulation modes and routines.",
@@ -7156,7 +7110,6 @@
   "status": "active",
   "parent": null,
   "website": "https://auralanalytics.com",
-  "city": "\"\"",
   "lat": 37.8074,
   "lng": -98.6478,
   "location_precision": "country",
@@ -7176,9 +7129,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:17:58+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Aural Analytics uses speech signal processing and cognitive-linguistic analysis to extract measures of brain health from a person's voice. Patients record speech samples on a mobile device, from clinic or home, and the cloud platform analyzes them. The outputs are objective, repeatable metrics intended to help clinicians monitor neurological health and spot problems earlier.",
@@ -7215,7 +7168,6 @@
   "status": "active",
   "parent": null,
   "website": "https://beacon.bio",
-  "city": "\"\"",
   "lat": 40.7611,
   "lng": -93.3116,
   "location_precision": "country",
@@ -7243,8 +7195,8 @@
   "open_jobs_at_detection": 23,
   "ats_found_by": "probe",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Jacob Donoghue, MD, PhD",
    "founders": [
     "Jacob Donoghue, MD, PhD",
@@ -7297,7 +7249,7 @@
     "Idiopathic hypersomnia and narcolepsy",
     "Pharmacotherapy development across Phase 1-4 clinical trials"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Analyzed over 2M hours of EEG data (site homepage)",
     "Supported 40+ clinical trials (site homepage)",
@@ -7320,10 +7272,9 @@
   "status": "active",
   "parent": null,
   "website": "https://bioserenity.ai",
-  "city": "\"\"",
-  "lat": 46.5954,
-  "lng": 1.8791,
-  "location_precision": "city",
+  "lat": 47.055,
+  "lng": 1.6771,
+  "location_precision": "country",
   "founded": "2014",
   "funding_stage": "Series B",
   "modality": "EEG",
@@ -7346,7 +7297,7 @@
   },
   "careers_status": "ats_unsupported",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "France",
    "ceo": "Emmanuel Mougeotte",
    "founders": [],
@@ -7448,7 +7399,7 @@
   "profile": {
    "hq_city": "Kongens Lyngby",
    "hq_country": "Denmark",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "BC-1 is a portable, Bluetooth-connected EEG device that records brain activity at the point of care. BrainCapture's app automates the standard EEG exam so that non-specialist staff, such as nurses, can collect high-quality recordings after a short training. The recordings are sent through a cloud platform to a centralized site where neurological experts can read and diagnose them remotely.",
@@ -7472,7 +7423,7 @@
     "Non-convulsive seizures in ICU patients",
     "Neurological conditions (general)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "BC-1 is CE MDR certified for acute and critical care use",
     "Featured in a BBC feature (page links to 'BrainCapture's BBC Feature')"
@@ -7925,7 +7876,7 @@
   "profile": {
    "hq_city": "Naxxar",
    "hq_country": "Malta",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The BrainTrip System uses a short resting EEG, an 8-minute, non-invasive recording of the brain's electrical activity. The recording is analysed automatically within minutes to produce two results: BrainAge, the brain's functional age, and CogniScore, a 0–100 cognitive-health score. The site presents these as objective measures drawn from brain activity rather than questionnaires or self-reported scales.",
@@ -7948,7 +7899,7 @@
     "Longevity and prevention programmes in clinics",
     "Tracking lifestyle-related changes in brain health (sleep, stress, recovery) over time"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "CogniScore is a CE-marked medical device, stated to meet EU requirements for safety, health and environmental protection",
     "CogniScore stated performance: 96% specificity and 88% sensitivity",
@@ -7971,7 +7922,6 @@
   "status": "active",
   "parent": null,
   "website": "https://cambridgecognition.com",
-  "city": null,
   "lat": 52.5077,
   "lng": -2.4594,
   "location_precision": "country",
@@ -8044,7 +7994,7 @@
   "profile": {
    "hq_city": "Lillerød",
    "hq_country": "Denmark",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Cebreo makes wearable EEG devices, mainly in-ear earbuds, that record brain electrical activity in a person's everyday environment, including during sleep. The data is collected at home or in daily life rather than in a clinic. An AI-powered study and analytics platform then manages the studies, tracks data quality and participant adherence, and analyzes the recordings to produce digital biomarkers.",
@@ -8071,7 +8021,7 @@
     "Sleep monitoring",
     "Degenerative and neurological conditions (progression monitoring)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Ongoing longitudinal case studies with NeuroBuds in REM sleep behavior disorder and Parkinson's disease, excessive daytime sleepiness, chronic pain with insomnia, and Alzheimer's disease",
     "Offers certified EEG annotations (expert-led manual reviews) as part of trial support",
@@ -8122,7 +8072,7 @@
   "profile": {
    "hq_city": "Sunnyvale",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Ceribell uses a portable, single-use EEG headband connected to a handheld recorder, which any trained provider can apply at the bedside in under five minutes. The proprietary Clarity AI algorithm analyzes the brain signals about every 10 seconds and tracks seizure burden over a rolling five-minute window. When sustained seizure activity is detected, the device issues a visual and audible alert so bedside teams can review the EEG and act quickly.",
@@ -8151,7 +8101,7 @@
     "Neonatal seizures (Clarity cleared for neonates)",
     "Acute care neurological monitoring in ICU, emergency department, neurology, pediatric ICU and neonatal ICU"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FDA 510(k) cleared for indicating suspected seizure activity",
     "In 2023, Clarity became the first AI software cleared by the FDA to diagnose electrographic status epilepticus in adults at the bedside",
@@ -8174,7 +8124,6 @@
   "status": "active",
   "parent": null,
   "website": "https://cognoa.com",
-  "city": "\"\"",
   "lat": 34.936,
   "lng": -95.9737,
   "location_precision": "country",
@@ -8197,9 +8146,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Cognoa develops digital diagnostics aimed at early childhood development and pediatric behavioral health. Its Canvas Dx product lets clinicians evaluate children with developmental concerns remotely, using a digital, data-driven assessment instead of waiting for specialty-center visits. The company describes its approach as objective, whole-child and built on \"responsible AI.\"",
@@ -8521,7 +8470,6 @@
   "status": "active",
   "parent": null,
   "website": "https://epiwatch.com/",
-  "city": "\"\"",
   "lat": 39.257,
   "lng": -89.56,
   "location_precision": "country",
@@ -8543,9 +8491,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:01+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "EpiWatch runs passively on the Apple Watch and paired iPhone to monitor for tonic-clonic (convulsive) seizures. When it detects one, it sends alerts to the user's designated caregiver contacts so they can respond quickly. The company describes the app as FDA-cleared and available only by prescription.",
@@ -8560,7 +8508,7 @@
     "Tonic-clonic seizures",
     "Reducing risk of SUDEP (Sudden Unexpected Death in Epilepsy)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FDA-cleared; described as the first and only FDA-cleared seizure detection app for Apple Watch",
     "Phase 3 study of patients 5 and older detected 46 of 47 tonic-clonic seizures (reported August 2026)",
@@ -8614,7 +8562,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.eyszlab.com",
-  "city": null,
   "lat": 42.2198,
   "lng": -101.0167,
   "location_precision": "country",
@@ -8805,7 +8752,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.fireflyneuro.com/",
-  "city": "\"\"",
   "lat": 43.2384,
   "lng": -92.2467,
   "location_precision": "country",
@@ -8826,8 +8772,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Greg Lipschitz",
    "founders": [],
    "leadership": [
@@ -8892,7 +8838,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.hemispheric.ai",
-  "city": null,
   "lat": 31.7488,
   "lng": 34.5592,
   "location_precision": "country",
@@ -8966,7 +8911,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.kandu.com",
-  "city": "\"\"",
   "lat": 33.3687,
   "lng": -96.5626,
   "location_precision": "country",
@@ -8993,8 +8937,8 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 25,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Leo Petrossian",
    "founders": [
     "Kirsten Carroll (described as Founder and Chief Executive Officer of Kandu Health)"
@@ -9041,7 +8985,7 @@
     "Chronic upper extremity deficit / upper limb recovery after stroke",
     "Health-related social needs of stroke survivors (stroke navigation)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "IpsiHand is described as the first and only FDA-cleared brain-computer interface therapy for upper extremity stroke recovery in the home.",
     "Randomized BCI-REHAB trial: IpsiHand NNT of 2.2; 55.5% of patients achieved MCID in the first 12 weeks vs 9.6% on a home exercise program.",
@@ -9064,7 +9008,6 @@
   "status": "active",
   "parent": null,
   "website": "https://kinesixvr.com/",
-  "city": "\"\"",
   "lat": 45.7526,
   "lng": -76.773,
   "location_precision": "country",
@@ -9086,8 +9029,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Nicolás Jiménez",
    "founders": [
     "Benjamin Peralta",
@@ -9133,7 +9076,7 @@
     "Postural control and scapular stability training",
     "Patients in several stages of rehabilitation, including critically ill patients (per a testimonial)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Site states it is used and trusted by neurorehabilitation centers (client names not listed in the page text)",
     "Founder Nicolás Jiménez was interviewed on FM Universo 93.7 (Chile), Entrepreneurial Universe program, dated January 2024 and posted 28/05/2025",
@@ -9156,10 +9099,9 @@
   "status": "active",
   "parent": null,
   "website": "https://kneu.com",
-  "city": "\"\"",
-  "lat": 54.7172,
-  "lng": -3.2938,
-  "location_precision": "city",
+  "lat": 52.6431,
+  "lng": -3.3196,
+  "location_precision": "country",
   "founded": "2022",
   "funding_stage": "Seed",
   "modality": "Biomarkers",
@@ -9178,7 +9120,7 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:03+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "UK",
    "ceo": "Caroline Cake",
    "founders": [
@@ -9222,7 +9164,7 @@
     "Parkinson's disease",
     "Dementia"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "MHRA-registered technology, per the homepage",
     "Backed by over a decade of Oxford-led research and clinical validation",
@@ -9244,7 +9186,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.linushealth.com",
-  "city": "\"\"",
   "lat": 44.7786,
   "lng": -96.728,
   "location_precision": "country",
@@ -9267,8 +9208,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "David Bates, PhD",
    "founders": [
     "David Bates, PhD",
@@ -9645,7 +9586,7 @@
     "Autism (ASD)",
     "Non-verbal children regulation and communication support"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Patented EEG headset (stated on homepage)",
     "Successful results after 5-6 sessions (stated on homepage)",
@@ -9862,7 +9803,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neuralight.ai",
-  "city": "\"\"",
   "lat": 31.9387,
   "lng": 35.3468,
   "location_precision": "country",
@@ -9885,8 +9825,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Edmund Ben Ami",
    "founders": [
     "Edmund Ben Ami (Co-Founder and CEO)",
@@ -9930,7 +9870,7 @@
     "Parkinson's disease (clinical trial with Mission Therapeutics)",
     "Precision mental health care (partnership with Asha Neuromodulation Clinics, Deep TMS network in India)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Named one of TIME's World's Top HealthTech Companies 2026 (Sep 17, 2026)",
     "Won Fast Company's World Changing Ideas Award for brain function measurement innovation (Jul 14, 2026)",
@@ -10167,7 +10107,7 @@
   "profile": {
    "hq_city": "Amsterdam",
    "hq_country": "Netherlands",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Neurocast is a platform for passive, remote brain health monitoring that aims to run in everyday life without requiring effort from the user. It is designed to collect real-world data on a person's mental, physical, and social brain health without invasive procedures. The site says the platform is clinically validated and built with privacy by design.",
@@ -10195,7 +10135,7 @@
     "Academic research",
     "Depression, Alzheimer's disease, and stroke (cited as rising conditions in the site's statistics, not as explicit targets)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Neurocast is a JLabs alumni company",
     "Platform is described as clinically validated and used in pharma clinical trials and academic research",
@@ -10508,7 +10448,7 @@
   "profile": {
    "hq_city": "Bristol",
    "hq_country": "UK",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Professor John Terry FMedSci",
     "Dr Wessel Woldman"
@@ -10674,7 +10614,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.neurotrack.com/",
-  "city": "\"\"",
   "lat": 39.5026,
   "lng": -104.9094,
   "location_precision": "country",
@@ -10696,8 +10635,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:06+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Elli Kaplan",
    "founders": [
     "Elli Kaplan",
@@ -10775,7 +10714,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.neuroventis.care/",
-  "city": null,
   "lat": 50.4902,
   "lng": 5.1207,
   "location_precision": "country",
@@ -10828,10 +10766,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neurowyzr.com/",
-  "city": "\"\"",
-  "lat": 1.3651,
-  "lng": 103.8003,
-  "location_precision": "city",
+  "lat": 1.35,
+  "lng": 103.82,
+  "location_precision": "country",
   "founded": "2019",
   "funding_stage": "Seed",
   "modality": "Biomarkers",
@@ -10850,7 +10787,7 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:07+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "Singapore",
    "ceo": "Pang Sze Yunn",
    "founders": [],
@@ -10989,7 +10926,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.oculogica.com/",
-  "city": "\"\"",
   "lat": 45.7817,
   "lng": -99.3372,
   "location_precision": "country",
@@ -11012,8 +10948,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Rosina Samadani, Ph.D.",
    "founders": [
     "Uzma Samadani, M.D., Ph.D."
@@ -11209,7 +11145,7 @@
   "profile": {
    "hq_city": "Utrecht",
    "hq_country": "Netherlands",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Purple Gaze makes a portable eye tracker that records where and how a person's eyes move at high speed. It connects to a standard laptop over USB, and the device processes eye data on the device itself. Researchers can run custom experiments written in Python, and the device captures fast movements such as saccades as well as fixational eye movements.",
@@ -11227,7 +11163,7 @@
     "UX research",
     "Marketing research"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FOXIE offers sampling rates up to 815 Hz",
     "Applications for the Fall 2026 cohort of the Research Support Program are open (limited subsidies)",
@@ -11340,7 +11276,6 @@
   "status": "active",
   "parent": null,
   "website": "http://runelabs.io/",
-  "city": "\"\"",
   "lat": 35.8676,
   "lng": -105.2346,
   "location_precision": "country",
@@ -11363,8 +11298,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Amy Gordon Franzen",
    "founders": [],
    "leadership": [
@@ -11461,7 +11396,7 @@
   "profile": {
    "hq_city": "West Chester",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Opeolu Adeoye",
     "George Shaw",
@@ -11511,7 +11446,7 @@
     "Continuous brain injury monitoring in hospitals",
     "Field and emergency triage of brain injury"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "An FDA pivotal trial of the hospital monitoring device is underway at multiple sites, following first-in-human pilot studies.",
     "Device is pending FDA De Novo review and is not yet cleared for clinical use.",
@@ -11534,7 +11469,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.senseye.co",
-  "city": "\"\"",
   "lat": 39.1626,
   "lng": -85.597,
   "location_precision": "country",
@@ -11559,8 +11493,8 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 2,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "David Zakariaie",
    "founders": [
     "David Zakariaie"
@@ -11627,10 +11561,9 @@
   "status": "active",
   "parent": null,
   "website": "http://somareality.com",
-  "city": "\"\"",
-  "lat": 47.6104,
-  "lng": 14.133,
-  "location_precision": "city",
+  "lat": 47.9821,
+  "lng": 13.9814,
+  "location_precision": "country",
   "founded": "2020",
   "funding_stage": "Seed",
   "modality": "Biomarkers",
@@ -11649,9 +11582,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:10+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "Austria",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -11711,7 +11644,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.synchneuro.com",
-  "city": "\"\"",
   "lat": 47.5826,
   "lng": -96.7343,
   "location_precision": "country",
@@ -11733,9 +11665,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:09+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [
     "Casey Halpern, MD",
     "Emily Mirro, MS, MBA"
@@ -11780,7 +11712,7 @@
     "Stress",
     "Activity levels"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Study enrolling now (per homepage)",
     "Founder Dr. Casey Halpern's research found a strong correlation between EEG patterns and glucose changes",
@@ -12090,10 +12022,9 @@
   "status": "active",
   "parent": null,
   "website": "http://www.viewmind.com/",
-  "city": "\"\"",
-  "lat": 39.7941,
-  "lng": -100.4479,
-  "location_precision": "city",
+  "lat": 30.6276,
+  "lng": -99.6306,
+  "location_precision": "country",
   "founded": "2016",
   "funding_stage": "Series A",
   "modality": "Biomarkers",
@@ -12113,7 +12044,7 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "United States",
    "ceo": "Mark Edwards",
    "founders": [
@@ -12168,7 +12099,7 @@
     "Clinical evaluation and longitudinal monitoring in neurology and memory care",
     "Detection of early functional change in clinical research studies"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "20 years of fundamental R&D in eye-movement neuroscience and cognition",
     "80+ peer-reviewed publications with 3,000+ citations",
@@ -12191,7 +12122,6 @@
   "status": "active",
   "parent": null,
   "website": "http://vistimlabs.com/",
-  "city": null,
   "lat": 43.28,
   "lng": -86.0168,
   "location_precision": "country",
@@ -12538,7 +12468,7 @@
     "Emergency and critical care EEG monitoring",
     "Outpatient and routine EEG"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "ZETO ONE cleared under 510(k) K233403 and New Wave cleared under 510(k) K260455, per the site's regulatory caution notice",
     "Launched NeuroPulse, described as the first AI-powered status epilepticus software for full-montage EEG, in collaboration with encevis",
@@ -12561,7 +12491,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.brainkey.ai",
-  "city": null,
   "lat": 35.8186,
   "lng": -95.0786,
   "location_precision": "country",
@@ -12661,7 +12590,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.brainomix.com/",
-  "city": null,
   "lat": 52.2064,
   "lng": -1.5431,
   "location_precision": "country",
@@ -12755,10 +12683,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.brainquant.ch",
-  "city": "\"\"",
-  "lat": 46.7826,
-  "lng": 8.2288,
-  "location_precision": "city",
+  "lat": 46.622,
+  "lng": 8.6088,
+  "location_precision": "country",
   "founded": "2025",
   "funding_stage": "Pre-seed",
   "modality": "(f)MRI",
@@ -12777,7 +12704,7 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:12+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "Switzerland",
    "ceo": "Marwan Senhaji",
    "founders": [],
@@ -12810,7 +12737,7 @@
     "Alzheimer's disease",
     "Early detection of structural and blood-flow changes in the brain"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Built on 3 years of research and development as a neuro quantification tool at the Wyss Center for Bio and Neuro Engineering",
     "Has academic and clinical partnerships across western Switzerland",
@@ -13003,7 +12930,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cercamagnetics.com",
-  "city": "\"\"",
   "lat": 53.2152,
   "lng": -1.8723,
   "location_precision": "country",
@@ -13026,8 +12952,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "David Woolger",
    "founders": [
     "Dr. Elena Boto",
@@ -13331,7 +13257,7 @@
   "profile": {
    "hq_city": "Louisville",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Cognision produces brain-based biomarkers by recording physiological brain activity with qEEG (quantitative electroencephalography) and ERP (event-related potential) testing. The resulting measurements are meant to give objective, sensitive and reliable indicators of cognitive function. The site says these measures can be used by clinicians to assess patients and by pharmaceutical companies across drug development.",
@@ -13370,7 +13296,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.comind.io/",
-  "city": null,
   "lat": 51.8666,
   "lng": -1.0349,
   "location_precision": "country",
@@ -13455,7 +13380,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cortivision.com",
-  "city": "\"\"",
   "lat": 52.7165,
   "lng": 18.1297,
   "location_precision": "country",
@@ -13477,9 +13401,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:15+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Cortivision makes portable functional near-infrared spectroscopy (fNIRS) systems. Small infrared LEDs send light into the scalp and skull, and detectors measure how much returns after passing through brain tissue. Changes in the absorption of that light reveal shifts in oxygenated and deoxygenated hemoglobin, which indicate how active a brain region is. The company also builds its own analysis software and sells DOT (high-density tomographic) configurations.",
@@ -13511,7 +13435,7 @@
     "Movement, sports and rehabilitation studies",
     "Aerospace and extreme-condition research"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Spectrum fNIRS was the first fNIRS ever used in space for brain activity research, during the Ax-2 and Ax-3 missions to the ISS.",
     "The company states its fNIRS system is now permanent equipment on the International Space Station.",
@@ -13534,7 +13458,6 @@
   "status": "active",
   "parent": null,
   "website": "https://deepspin.io",
-  "city": null,
   "lat": 49.8862,
   "lng": 10.3553,
   "location_precision": "country",
@@ -13725,7 +13648,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.emotiv.com/",
-  "city": "\"\"",
   "lat": 43.0413,
   "lng": -99.049,
   "location_precision": "country",
@@ -13748,9 +13670,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Emotiv describes its offering as wireless EEG (electroencephalography) solutions and \"advanced brain data.\" The site presents this as a cognitive AI infrastructure and brain data platform, which suggests brain signals are collected and then processed with AI. The pages do not describe the hardware or the algorithms in more detail.",
@@ -13761,7 +13683,7 @@
     }
    ],
    "conditions": [],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [],
    "linkedin_url": "",
    "source": "company website",
@@ -13779,7 +13701,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.emvisionmedical.com/",
-  "city": null,
   "lat": -27.6525,
   "lng": 147.0782,
   "location_precision": "country",
@@ -13980,7 +13901,7 @@
   "profile": {
    "hq_city": "Salt Lake City",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Mark Lehmkuhle, PhD"
    ],
@@ -14052,10 +13973,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.gowerlabs.co.uk",
-  "city": "\"\"",
-  "lat": 54.6908,
-  "lng": -3.2858,
-  "location_precision": "city",
+  "lat": 53.2542,
+  "lng": -0.3222,
+  "location_precision": "country",
   "founded": "2013",
   "funding_stage": "Non-dilutive",
   "modality": "fNIRS",
@@ -14074,7 +13994,7 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:17+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "UK",
    "ceo": "Dr Nick Everdell",
    "founders": [
@@ -14129,7 +14049,6 @@
   "status": "active",
   "parent": null,
   "website": "https://hyperfine.io",
-  "city": "\"\"",
   "lat": 40.8023,
   "lng": -102.5535,
   "location_precision": "country",
@@ -14153,9 +14072,9 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 12,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The Swoop system is a portable, AI-powered brain MRI that uses a magnet with a fraction of the field strength of conventional MRI (ultra-low-field, 0.064T). Optive AI software uses deep learning to reconstruct images, reducing noise and blur to give sharper anatomical detail. The system plugs into a standard outlet, can be moved to the point of care, and is designed to be operated by any trained healthcare professional.",
@@ -14502,7 +14421,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.kernel.com/",
-  "city": "\"\"",
   "lat": 42.8842,
   "lng": -90.653,
   "location_precision": "country",
@@ -14524,9 +14442,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:17+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [
     "Bryan Johnson"
    ],
@@ -14550,7 +14468,7 @@
    "conditions": [
     "Brain health measurement and research use only; the site states its systems are not intended to diagnose, treat or manage any disease"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Founded in 2016 by Bryan Johnson",
     "Site claims the largest fNIRS database ever created (scan count not rendered in the page text)",
@@ -14573,7 +14491,6 @@
   "status": "active",
   "parent": null,
   "website": "https://myndspan.com/",
-  "city": "\"\"",
   "lat": 51.7313,
   "lng": -2.7933,
   "location_precision": "country",
@@ -14595,8 +14512,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:19+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Caitlin Baltzer",
    "founders": [
     "Caitlin Baltzer (Co-Founder)",
@@ -14658,7 +14575,6 @@
   "status": "active",
   "parent": null,
   "website": "https://naox-technologies.com",
-  "city": "\"\"",
   "lat": 45.9077,
   "lng": 3.984,
   "location_precision": "country",
@@ -14680,8 +14596,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:19+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Hugo Dinh",
    "founders": [
     "Hugo Dinh",
@@ -14732,7 +14648,7 @@
     "Clinical research",
     "Consumer wellness monitoring (concentration, relaxation, vigilance)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Company founded in 2018 by Hugo Dinh and Michel Le Van Quyen",
     "NAOX LINK described as the first in-ear EEG device authorized by the FDA",
@@ -14865,7 +14781,7 @@
   "profile": {
    "hq_city": "Seoul",
    "hq_country": "South Korea",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -15040,10 +14956,9 @@
   "status": "active",
   "parent": null,
   "website": "https://o8t.com",
-  "city": "\"\"",
-  "lat": -24.7845,
-  "lng": 134.755,
-  "location_precision": "city",
+  "lat": -33.8428,
+  "lng": 142.6956,
+  "location_precision": "country",
   "founded": "2019",
   "funding_stage": "Series C+",
   "modality": "Software",
@@ -15063,7 +14978,7 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "Australia",
    "ceo": "Stephen Scheeler",
    "founders": [
@@ -15254,7 +15169,7 @@
   "profile": {
    "hq_city": "La Tronche",
    "hq_country": "France",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Pixyl uses AI algorithms to analyze brain MRI scans and flag anomalies and changes over time. The software runs on fast computing infrastructure, so an analysis finishes in under five minutes. It needs only a minimal MR protocol and is designed to plug into the radiology workflow, as a Gleamer company.",
@@ -15268,7 +15183,7 @@
     "Neuroinflammatory disorders",
     "Neurodegenerative disorders"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FDA clearance (class II) for Pixyl.Neuro",
     "CE-marked as a class IIa medical device under the European Medical Device Regulations (MDR)"
@@ -15382,7 +15297,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.qmenta.com/",
-  "city": null,
   "lat": 40.8071,
   "lng": -86.3502,
   "location_precision": "country",
@@ -15436,7 +15350,6 @@
   "status": "active",
   "parent": null,
   "website": "https://quantalx.com/",
-  "city": null,
   "lat": 31.393,
   "lng": 35.1241,
   "location_precision": "country",
@@ -15621,7 +15534,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.subtlemedical.com",
-  "city": null,
   "lat": 44.6225,
   "lng": -87.7591,
   "location_precision": "country",
@@ -15725,7 +15637,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.synaptivemedical.com/",
-  "city": "\"\"",
   "lat": 48.8046,
   "lng": -81.6785,
   "location_precision": "country",
@@ -15748,9 +15659,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -15802,7 +15713,7 @@
     "Brain tumors (as described in case study)",
     "Epilepsy (mentioned in case study)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Synaptive is now part of Globus Medical (per homepage announcement)",
     "Adopted by 100+ top centers worldwide, including 6 of the top 10 U.S. neurosurgery hospitals",
@@ -16020,7 +15931,7 @@
   "profile": {
    "hq_city": "Allerød",
    "hq_country": "Denmark",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "UNEEG's system uses a small subcutaneous implant, the UNEEG SubQ, with three electrodes that records EEG (brain electrical activity) continuously as patients go about their daily lives. The recorded data is sent through a remote patient monitoring platform, where it is analysed to detect electrographic seizures and to produce longitudinal reports on seizure burden and sleep. The company says this gives clinicians objective, long-term data that is not available from standard short-term tools.",
@@ -16089,7 +16000,7 @@
   "profile": {
    "hq_city": "Wellington",
    "hq_country": "New Zealand",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Wellumio's Axana is a portable, AI-enhanced magnetic resonance (MR) brain scanner intended to be taken to the patient rather than the patient going to a fixed imaging suite. The site says this removes the imaging bottlenecks that delay stroke diagnosis. By getting diagnostic information earlier, the company says Axana aims to support faster thrombolysis at local sites and faster transfer for thrombectomy when needed.",
@@ -16102,7 +16013,7 @@
    "conditions": [
     "Acute stroke"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [],
    "linkedin_url": "",
    "source": "company website",
@@ -16144,7 +16055,7 @@
   "profile": {
    "hq_city": "Lausanne",
    "hq_country": "Switzerland",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Aleva Neurotherapeutics describes its system as a high-resolution neurostimulation platform that aims to deliver therapy with high selectivity. Its directSTIM technology uses rounded electrodes, which the company says improves how precisely stimulation is targeted.",
@@ -16173,7 +16084,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.amber-tx.com",
-  "city": null,
   "lat": 52.6,
   "lng": -1.3091,
   "location_precision": "country",
@@ -16263,7 +16173,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.ampahealth.com/",
-  "city": null,
   "lat": 38.7514,
   "lng": -97.8081,
   "location_precision": "country",
@@ -16352,7 +16261,6 @@
   "status": "active",
   "parent": null,
   "website": "https://aneuvo.com/",
-  "city": null,
   "lat": 38.1533,
   "lng": -94.2872,
   "location_precision": "country",
@@ -16436,7 +16344,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.attuneneuro.com/",
-  "city": null,
   "lat": 41.1767,
   "lng": -95.1216,
   "location_precision": "country",
@@ -16510,7 +16417,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.aurenar.com",
-  "city": null,
   "lat": 38.4694,
   "lng": -92.8938,
   "location_precision": "country",
@@ -16601,7 +16507,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.bioness.com",
-  "city": null,
   "lat": 36.9592,
   "lng": -93.3608,
   "location_precision": "country",
@@ -16870,7 +16775,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cadenceneuro.com",
-  "city": null,
   "lat": 37.9672,
   "lng": -100.1641,
   "location_precision": "country",
@@ -16958,7 +16862,6 @@
   "status": "active",
   "parent": null,
   "website": "https://calahealth.com",
-  "city": "\"\"",
   "lat": 42.254,
   "lng": -97.7529,
   "location_precision": "country",
@@ -16986,9 +16889,9 @@
   "open_jobs_at_detection": 10,
   "ats_found_by": "probe",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The pages name the Cala TAPS Therapy as a treatment for essential tremor, delivered through the Cala kIQ Plus device. The excerpts provided do not describe how the therapy works physiologically or how the device operates. The pages also mention a Cala TRIO System in site navigation, without further detail.",
@@ -17005,7 +16908,7 @@
    "conditions": [
     "Essential tremor"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Cala kIQ Plus device with Cala TAPS Therapy announced as now available on the website"
    ],
@@ -17096,7 +16999,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.cefaly.com",
-  "city": null,
   "lat": 50.8379,
   "lng": 4.3624,
   "location_precision": "country",
@@ -17191,7 +17093,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.ceregate.com/",
-  "city": "\"\"",
   "lat": 51.0,
   "lng": 10.9945,
   "location_precision": "country",
@@ -17214,8 +17115,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Matthias Puls",
    "founders": [],
    "leadership": [
@@ -17242,7 +17143,7 @@
     "Restoring and reimagining human senses (as stated on the homepage)",
     "Therapeutic solutions in neuromodulation (general, no specific condition named)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [],
    "linkedin_url": "",
    "source": "company website",
@@ -17260,7 +17161,6 @@
   "status": "active",
   "parent": null,
   "website": "https://cerevia.care",
-  "city": "\"\"",
   "lat": 35.6206,
   "lng": -97.5635,
   "location_precision": "country",
@@ -17282,9 +17182,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:30+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Cerevia describes a closed-loop, image-guided network neuromodulation platform that combines fMRI with AI-driven personalization and \"M/L\" (as written on the site). The system uses brain imaging to guide where and how stimulation is applied to brain networks, adjusting in a feedback loop. The company says the approach is non-invasive and intended to treat dementia at scale.",
@@ -17319,7 +17219,6 @@
   "status": "active",
   "parent": null,
   "website": "https://charconeurotech.com/",
-  "city": "\"\"",
   "lat": 51.9927,
   "lng": -2.1193,
   "location_precision": "country",
@@ -17342,8 +17241,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Andrew Mullen",
    "founders": [],
    "leadership": [
@@ -17388,7 +17287,7 @@
     "Motor symptoms such as stiffness, slowness and unsteadiness",
     "Gait and balance problems, freezing and falls risk"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Pre-published clinical trial (QMUL double-blind, sham-controlled, randomised study on MedRxiv) reporting improved motor and non-motor outcomes in Parkinson's",
     "Site states CUE1+ has been independently shown to improve motor symptoms common in Parkinson's",
@@ -17435,7 +17334,7 @@
   "profile": {
    "hq_city": "Scotts Valley",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The Neural Sleeve is a wearable device with AI-powered smart sensors that measure leg movement and deliver electrical stimulation to muscles. Its MultiStim technology is described as understanding the wearer's intention and customizing stimulation patterns for activities of daily living. The system adapts in real time to help restore mobility and retrain muscle movement, with the stated aim of activating functional muscle movement and relaxing muscle spasms.",
@@ -17501,7 +17400,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.clarity-technologies.com/",
-  "city": "\"\"",
   "lat": 35.8246,
   "lng": -93.372,
   "location_precision": "country",
@@ -17522,8 +17420,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:29+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Raphael Certain",
    "founders": [
     "Raphael Certain",
@@ -17571,7 +17469,7 @@
     "Other neurodegenerative diseases",
     "Memory loss and cognitive decline"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Feasibility clinical trial in Alzheimer's patients showed meaningful acute memory gains and no serious adverse events",
     "Site cites over a decade of peer-reviewed evidence for 40 Hz gamma stimulation",
@@ -17687,10 +17585,9 @@
   "status": "active",
   "parent": null,
   "website": "https://coherenceneuro.com",
-  "city": "\"\"",
-  "lat": 54.7216,
-  "lng": -3.2834,
-  "location_precision": "city",
+  "lat": 52.8938,
+  "lng": -2.7721,
+  "location_precision": "country",
   "founded": "2022",
   "funding_stage": "Series A",
   "modality": "Others",
@@ -17710,7 +17607,7 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "UK",
    "ceo": "Ben Woodington, PhD",
    "founders": [
@@ -17791,7 +17688,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.connectoma.com",
-  "city": null,
   "lat": 40.9879,
   "lng": -4.6846,
   "location_precision": "country",
@@ -17963,7 +17859,6 @@
   "status": "active",
   "parent": null,
   "website": "https://curonix.com/intl/",
-  "city": null,
   "lat": 41.025,
   "lng": -101.0797,
   "location_precision": "country",
@@ -18128,7 +18023,7 @@
     "Brain dysfunction and its treatment (mentioned in the CSO's bio)",
     "Precision therapies (no specific medical conditions named)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Read/Write Labs™ debuted its industry-first AI platform that writes code for the brain (homepage news item)",
     "Over 30 granted and pending patents globally",
@@ -18247,7 +18142,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.electrocore.com/",
-  "city": null,
   "lat": 37.0347,
   "lng": -101.3334,
   "location_precision": "country",
@@ -18348,7 +18242,6 @@
   "status": "active",
   "parent": null,
   "website": "https://encoratherapeutics.com/",
-  "city": "\"\"",
   "lat": 41.7692,
   "lng": -90.986,
   "location_precision": "country",
@@ -18370,9 +18263,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:31+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [
     "Daniel Carballo",
     "Allison Davanzo",
@@ -18437,7 +18330,6 @@
   "status": "active",
   "parent": null,
   "website": "https://eneura.com",
-  "city": "\"\"",
   "lat": 39.596,
   "lng": -102.1643,
   "location_precision": "country",
@@ -18459,9 +18351,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:32+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -18744,10 +18636,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.flowneuroscience.com",
-  "city": "\"\"",
-  "lat": 59.6754,
-  "lng": 14.5173,
-  "location_precision": "city",
+  "lat": 60.4553,
+  "lng": 13.4454,
+  "location_precision": "country",
   "founded": "2016",
   "funding_stage": "Series A",
   "modality": "tDCS/tES",
@@ -18766,9 +18657,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:35+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "Sweden",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Daniel Månsson",
     "Erik Rehn"
@@ -18819,7 +18710,7 @@
     "Depression symptoms",
     "Mental illness (general mental wellness)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Launched Flow in January 2016",
     "Trustpilot rating of 4.4 out of 5 (stated on homepage)",
@@ -18842,7 +18733,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.GrayMatters-health.com",
-  "city": "\"\"",
   "lat": 32.0059,
   "lng": 35.0857,
   "location_precision": "country",
@@ -18862,8 +18752,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:34+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Oded Kraft",
    "founders": [
     "Oded Kraft",
@@ -19032,7 +18922,6 @@
   "status": "active",
   "parent": null,
   "website": "http://innercosmos.ai",
-  "city": null,
   "lat": 44.3116,
   "lng": -94.236,
   "location_precision": "country",
@@ -19148,7 +19037,7 @@
   "profile": {
    "hq_city": "Copenhagen",
    "hq_country": "Denmark",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Insai builds wearables that record brain and body signals at home, such as sleep EEG from a headband and muscle activity (EMG) and movement from a sleeve. An AI analysis layer then stages sleep every 30 seconds and extracts markers for sleep, cortical function, autonomic regulation and motor activity. Each result is returned with its method and a signal-quality score so researchers can reproduce it.",
@@ -19198,7 +19087,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.insellar.com",
-  "city": null,
   "lat": 50.7387,
   "lng": 7.8529,
   "location_precision": "country",
@@ -19346,7 +19234,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.magnetictides.com",
-  "city": null,
   "lat": 42.128,
   "lng": -102.4704,
   "location_precision": "country",
@@ -19438,10 +19325,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.magnusmedical.com",
-  "city": "\"\"",
-  "lat": 39.7817,
-  "lng": -100.4419,
-  "location_precision": "city",
+  "lat": 33.2602,
+  "lng": -93.9345,
+  "location_precision": "country",
   "founded": "2021",
   "funding_stage": "Series B",
   "modality": "TMS",
@@ -19465,7 +19351,7 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 2,
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "USA",
    "ceo": "Achal Singh Achrol",
    "founders": [
@@ -19676,7 +19562,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.marbles.health/",
-  "city": "\"\"",
   "lat": 18.4279,
   "lng": 78.2418,
   "location_precision": "country",
@@ -19698,9 +19583,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:37+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "ease uses transcranial direct current stimulation (tDCS), which delivers a gentle electrical current through the scalp to stimulate brain regions involved in emotional and cognitive regulation. The system also tracks real-time EEG brain activity so a clinician can guide treatment. Built-in safety checks monitor each session.",
@@ -19741,7 +19626,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.mobia.com",
-  "city": "\"\"",
   "lat": 36.7396,
   "lng": -88.7471,
   "location_precision": "country",
@@ -19764,8 +19648,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Richard Foust",
    "founders": [
     "Jordan Curnes",
@@ -19926,7 +19810,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.nalumed.com/",
-  "city": null,
   "lat": 42.1544,
   "lng": -89.1563,
   "location_precision": "country",
@@ -19991,7 +19874,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nervonik.com/",
-  "city": null,
   "lat": 40.2741,
   "lng": -103.8341,
   "location_precision": "country",
@@ -20077,7 +19959,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neubond.co.uk",
-  "city": null,
   "lat": 53.2769,
   "lng": -3.202,
   "location_precision": "country",
@@ -20194,7 +20075,7 @@
   "profile": {
    "hq_city": "Szeged",
    "hq_country": "Hungary",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Neunos is developing an implantable seizure suppression system based on Oscillotherapy™, which uses transcranial electrical stimulation. The system is meant to detect the onset of an epileptic seizure automatically and then stimulate the brain to terminate it. Its steerable pulses are described as delivering precisely timed counter-waves to the disrupted brain activity, with therapy stopping once the episode ends.",
@@ -20235,7 +20116,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neupulse.co",
-  "city": "\"\"",
   "lat": 51.4182,
   "lng": -1.1621,
   "location_precision": "country",
@@ -20257,8 +20137,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:47+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Paul Cable",
    "founders": [
     "Professor Stephen Jackson",
@@ -20475,7 +20355,7 @@
   "profile": {
    "hq_city": "Calgary",
    "hq_country": "Canada",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Claire Dixon",
     "Pierre Wijdenes"
@@ -20537,7 +20417,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neuraworx.com/",
-  "city": null,
   "lat": 38.8014,
   "lng": -87.8151,
   "location_precision": "country",
@@ -20621,7 +20500,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neuraxis.com",
-  "city": "\"\"",
   "lat": 43.4679,
   "lng": -101.8954,
   "location_precision": "country",
@@ -20643,9 +20521,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:42+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "NeurAxis's proprietary Percutaneous Electrical Nerve Field Stimulation (PENFS) applies electrical stimulation through the skin, delivered by a drug-free, non-surgical device worn behind the ear. The company's stated premise is that functional abdominal pain involves abnormal gut-brain processing, citing abnormal activation of the amygdala in IBS studies. The device is intended to address that pain pathway without medication or surgery.",
@@ -20674,7 +20552,7 @@
     "Chronic constipation (RED testing and evaluation)",
     "Pediatric chronic abdominal pain and other DGBI-related conditions (under clinical trial)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "AMA Category I CPT code in effect as of January 8, 2026, establishing a permanent reimbursement pathway",
     "First-ever FDA clearance for treatment of pain in functional dyspepsia with associated nausea in the adult population (October 24, 2025)",
@@ -20721,7 +20599,7 @@
   "profile": {
    "hq_city": "Montpellier",
    "hq_country": "France",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "David Andreu",
     "David Guiraud"
@@ -20756,7 +20634,7 @@
     "Restoration of upper limb and hand grasping function",
     "Other neuromuscular sensory-motor pathologies (planned future applications)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Founded in 2018 as a spin-off from INRIA and the University of Montpellier",
     "Preliminary clinical study results published in Nature Scientific Reports",
@@ -21240,7 +21118,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.neurolief.com/",
-  "city": "\"\"",
   "lat": 31.9631,
   "lng": 34.4351,
   "location_precision": "country",
@@ -21262,8 +21139,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:51+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Scott Drees",
    "founders": [
     "Amit Dar"
@@ -21309,7 +21186,7 @@
     "Major Depressive Disorder (adults with inadequate response to at least one antidepressant)",
     "Migraine"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Proliv Rx is described on the site as the first and only FDA-approved prescription neuromodulation therapy for MDD that can be delivered outside traditional clinical settings",
     "87% of patients with prior inadequate antidepressant response showed improvement of one or more depression severity levels after a 16-week program (site-reported outcome)",
@@ -21332,7 +21209,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neurolifetech.com",
-  "city": null,
   "lat": 33.2334,
   "lng": -100.1525,
   "location_precision": "country",
@@ -21510,7 +21386,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neuromod.com/",
-  "city": null,
   "lat": 53.8939,
   "lng": -7.0381,
   "location_precision": "country",
@@ -21692,7 +21567,7 @@
   "profile": {
    "hq_city": "Mountain View",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "The RNS System is an implanted, brain-responsive neuromodulation device. It monitors the brain's electrical activity and detects the abnormal activity that precedes seizures, then delivers treatment directly at the seizure source. It also records EEG data that clinicians can review to track seizure trends and triggers.",
@@ -21712,7 +21587,7 @@
     "Focal epilepsy in adolescents aged 12-17 (RESPONSE study)",
     "Lennox-Gastaut Syndrome (feasibility study)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "RNS System described on the site as the only FDA-approved epilepsy device delivering brain-responsive treatment",
     "December 8, 2025: positive 18-month NAUTILUS trial results in idiopathic generalized epilepsy, showing a 77% median reduction in generalized tonic-clonic seizures",
@@ -21908,7 +21783,6 @@
   "status": "active",
   "parent": null,
   "website": "https://neurovalens.com/",
-  "city": null,
   "lat": 52.9516,
   "lng": -3.7971,
   "location_precision": "country",
@@ -22011,7 +21885,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neuspera.com/",
-  "city": "\"\"",
   "lat": 33.9287,
   "lng": -89.8386,
   "location_precision": "country",
@@ -22032,8 +21905,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:50+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Dave Van Meter",
    "founders": [
     "Alexander J. Yeh, Ph.D."
@@ -22075,7 +21948,7 @@
     "Urinary urge incontinence (UUI)",
     "Overactive bladder (OAB)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FDA approval of the first integrated sacral neuromodulation (iSNM) system for urinary urge incontinence, June 2025",
     "First implants of the neuromodulation device in its two-stage pivotal clinical trial for urinary urgency incontinence",
@@ -22098,7 +21971,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.neuvotion.com",
-  "city": "\"\"",
   "lat": 33.7384,
   "lng": -102.017,
   "location_precision": "country",
@@ -22120,8 +21992,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:50+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Chad Bouton, PhD",
    "founders": [
     "Chad Bouton, PhD"
@@ -22172,7 +22044,7 @@
     "Spinal cord injury",
     "A wide range of neurological conditions (restoring function and independence)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Core neural bypass science and technology validated in multiple clinical studies; latest appeared on the cover of Nature Medicine",
     "NeuStim launching soon in US clinical settings",
@@ -22295,7 +22167,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nexalin.com",
-  "city": null,
   "lat": 39.7244,
   "lng": -86.9489,
   "location_precision": "country",
@@ -22381,10 +22252,9 @@
   "status": "active",
   "parent": null,
   "website": "http://www.nexstim.com",
-  "city": "\"\"",
-  "lat": 63.2392,
-  "lng": 25.9169,
-  "location_precision": "city",
+  "lat": 60.5824,
+  "lng": 25.765,
+  "location_precision": "country",
   "founded": "2000",
   "funding_stage": "Public",
   "modality": "TMS",
@@ -22404,9 +22274,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "Finland",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Nexstim makes navigated transcranial magnetic stimulation (nTMS) systems, which use magnetic pulses applied to the scalp to stimulate brain tissue without surgery. The system uses 3D imaging and navigation to aim the stimulation at a specific brain area. It also estimates the electric field and the dose the patient receives. The company says this allows more accurate and personalized targeting.",
@@ -22434,7 +22304,7 @@
     "Obsessive-compulsive disorder",
     "Pain relief"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Sept 4, 2026: a European university hospital ordered the NBS 6 system",
     "Oct 29, 2026: Nexstim received an order for the NBS 6 system from a Finnish hospital",
@@ -22550,10 +22420,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.noctrixhealth.com/",
-  "city": "\"\"",
-  "lat": 39.7693,
-  "lng": -100.4419,
-  "location_precision": "city",
+  "lat": 45.1043,
+  "lng": -91.1685,
+  "location_precision": "country",
   "founded": "2018",
   "funding_stage": "Acquired",
   "modality": "Nerve stimulator",
@@ -22577,7 +22446,7 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 20,
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "USA",
    "ceo": "Shriram Raghunathan",
    "founders": [],
@@ -22618,7 +22487,7 @@
     "Restless legs syndrome (RLS)",
     "Chronic neurological disorders (broader company focus)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "June 2020: Granted FDA Breakthrough Device Designation",
     "April 2023: De Novo request granted",
@@ -22698,7 +22567,7 @@
   "profile": {
    "hq_city": "Mont-Saint-Guibert",
    "hq_country": "Belgium",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [
     "Robert Taub"
    ],
@@ -22762,7 +22631,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.onwd.com",
-  "city": "\"\"",
   "lat": 52.6454,
   "lng": 5.2046,
   "location_precision": "country",
@@ -22785,8 +22653,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Dave Marver",
    "founders": [],
    "leadership": [
@@ -23088,10 +22956,9 @@
   "status": "active",
   "parent": null,
   "website": "https://pmneuro.com",
-  "city": "\"\"",
-  "lat": 39.7957,
-  "lng": -100.4467,
-  "location_precision": "city",
+  "lat": 38.1517,
+  "lng": -86.4428,
+  "location_precision": "country",
   "founded": "2014",
   "funding_stage": "Non-dilutive",
   "modality": "tDCS/tES",
@@ -23111,9 +22978,9 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "PathMaker's approach is multi-site direct current stimulation (Multi-Site DCS), a non-invasive form of neuromodulation delivered from outside the body. The company says it is designed to suppress overactive neurons and activate the cell's protein-degradation pathways. The stated goal is to restore damaged neural pathways by normalizing overactivity and reducing protein aggregation in motor neurons.",
@@ -23131,7 +22998,7 @@
     "ALS (amyotrophic lateral sclerosis)",
     "Other serious neurological disorders"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Describes itself as a clinical-stage neuromodulation company",
     "Cites extensive pre-clinical animal studies and human clinical studies",
@@ -23336,7 +23203,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.qvbio.co.uk",
-  "city": "\"\"",
   "lat": 53.7335,
   "lng": 0.0924,
   "location_precision": "country",
@@ -23358,8 +23224,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:53+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Carl Daintree",
    "founders": [
     "Dr Chris Bullock",
@@ -23598,7 +23464,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.reemergeinc.com",
-  "city": "\"\"",
   "lat": 46.131,
   "lng": -91.9284,
   "location_precision": "country",
@@ -23620,8 +23485,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:55+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Todd Langevin",
    "founders": [
     "Nicholas Schiff, MD",
@@ -23681,7 +23546,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.saludamedical.com/international/",
-  "city": null,
   "lat": -28.4185,
   "lng": 149.9999,
   "location_precision": "country",
@@ -23841,7 +23705,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.samphireneuro.com",
-  "city": null,
   "lat": 52.4567,
   "lng": -4.1418,
   "location_precision": "country",
@@ -23942,7 +23805,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.sana.io",
-  "city": "\"\"",
   "lat": 31.3151,
   "lng": -98.4465,
   "location_precision": "country",
@@ -23965,8 +23827,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Richard Hanbury",
    "founders": [],
    "leadership": [
@@ -24030,7 +23892,6 @@
   "status": "active",
   "parent": null,
   "website": "https://sanmai.tech",
-  "city": "\"\"",
   "lat": 43.3982,
   "lng": -87.4858,
   "location_precision": "country",
@@ -24053,15 +23914,15 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
-   "technology": "\"\"",
+   "technology": "",
    "products": [],
    "conditions": [],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [],
    "linkedin_url": "",
    "source": "company website",
@@ -24079,10 +23940,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.secondwaveus.com/",
-  "city": "\"\"",
-  "lat": 39.7637,
-  "lng": -100.4335,
-  "location_precision": "city",
+  "lat": 32.7488,
+  "lng": -89.5723,
+  "location_precision": "country",
   "founded": "2019",
   "funding_stage": "Series A",
   "modality": "Ultrasound",
@@ -24101,7 +23961,7 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "USA",
    "ceo": "Anuj Bhardwaj",
    "founders": [],
@@ -24133,7 +23993,7 @@
     "Chronic conditions",
     "Other neural and cellular pathway disorders (unspecified)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Describes its product as an investigational device, limited by US federal law to investigational use",
     "Team brings decades of experience in ultrasound technology, neural and immune modulation, and medical product development",
@@ -24429,7 +24289,6 @@
   "status": "active",
   "parent": null,
   "website": "http://www.sinapticatx.com",
-  "city": null,
   "lat": 34.726,
   "lng": -86.9575,
   "location_precision": "country",
@@ -24517,10 +24376,9 @@
   "status": "active",
   "parent": null,
   "website": "https://www.sonomind.com/",
-  "city": "\"\"",
-  "lat": 46.5922,
-  "lng": 1.8991,
-  "location_precision": "city",
+  "lat": 45.6249,
+  "lng": -0.0486,
+  "location_precision": "country",
   "founded": "2024",
   "funding_stage": "Series A",
   "modality": "Ultrasound",
@@ -24539,9 +24397,9 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:18:58+00:00",
   "profile": {
-   "hq_city": "\"\"",
+   "hq_city": "",
    "hq_country": "France",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "SONOMIND uses focused ultrasound delivered to the brain to modulate deep regions involved in depression, which the company describes as transcranial deep ultrasound neuromodulation. A patient-specific acoustic metalens is made for each patient to correct the sound distortions caused by the skull. The company says this allows precise targeting with a non-invasive approach, and its core technology is based on 3 patents and software licensed exclusively from INSERM.",
@@ -24555,7 +24413,7 @@
     "Depression",
     "Treatment-resistant depression"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "61% reduction in depressive symptoms after 5 days of treatment in 5 patients with severe treatment-resistant depression, per a cited Brain Stimulation article",
     "Technology developed from 25 years of research at the Physmed laboratory",
@@ -24578,7 +24436,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.sononeu.com",
-  "city": null,
   "lat": 42.0062,
   "lng": -86.0352,
   "location_precision": "country",
@@ -24686,7 +24543,7 @@
   "profile": {
    "hq_city": "Helsinki",
    "hq_country": "Finland",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Sooma tDCS is a brain stimulation system based on transcranial direct current stimulation (tDCS), which passes a weak, constant electrical current through electrodes placed on the head. The pages say it is used by clinicians to treat depressive disorders and chronic pain, either in the clinic or at home. The company also offers remote monitoring through its Sooma Portal.",
@@ -24707,7 +24564,7 @@
     "Knee osteoarthritis",
     "Chronic neuropathic pain"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Established in 2013 as Sooma Oy; Sooma tDCS first launched in 2014",
     "Described as the first and only MDR-approved tDCS treatment system to date",
@@ -24982,7 +24839,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.spiro-medical.com",
-  "city": "\"\"",
   "lat": 47.0529,
   "lng": -92.9777,
   "location_precision": "country",
@@ -25005,8 +24861,8 @@
   "careers_url": "https://www.spiromedical.com/contact.html",
   "ats": null,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Rinda Sama",
    "founders": [],
    "leadership": [
@@ -25046,7 +24902,7 @@
     "Severe, uncontrolled asthma",
     "Severe respiratory conditions (company's stated focus area)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "$67M Series A funding round closed January 2026",
     "Backed by investors including Andera Partners, Omega Funds, Sherpa Healthcare Partners, HSG, NLVC, Hero Enterprise and SuperNova Invest",
@@ -25069,7 +24925,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.sprpainrelief.com/",
-  "city": "\"\"",
   "lat": 34.6346,
   "lng": -105.2577,
   "location_precision": "country",
@@ -25091,8 +24946,8 @@
   "careers_url": "https://www.sprpainrelief.com/careers",
   "ats": null,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Maria E. Bennett",
    "founders": [
     "Maria E. Bennett"
@@ -25135,7 +24990,7 @@
     "Acute and chronic pain in the back and/or extremities",
     "Headache and neck pain (expanded on-label indication)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "2016: FDA 510(k) clearance for the first-generation SPRINT PNS System",
     "2019: Treated 1,000th patient",
@@ -25379,7 +25234,7 @@
   "profile": {
    "hq_city": "Austin",
    "hq_country": "USA",
-   "ceo": "\"\"",
+   "ceo": "",
    "founders": [],
    "leadership": [
     {
@@ -25743,7 +25598,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.waveneuro.com/",
-  "city": "\"\"",
   "lat": 47.8366,
   "lng": -94.282,
   "location_precision": "country",
@@ -25765,8 +25619,8 @@
   "careers_status": "not_found",
   "llm_checked_at": "2026-11-17T15:19:00+00:00",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Fred Walke",
    "founders": [],
    "leadership": [
@@ -25805,7 +25659,7 @@
    "conditions": [
     "Post-traumatic stress disorder (PTSD) in adults"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "FDA clearance for the MeRT System for treatment of adults with PTSD, announced June 2026 (510(k) K260402)",
     "Clinical trial supporting clearance: average 52% reduction in PTSD symptom severity",
@@ -26015,7 +25869,6 @@
   "status": "active",
   "parent": null,
   "website": "https://alephneuro.com",
-  "city": "\"\"",
   "lat": 39.0,
   "lng": -95.3879,
   "location_precision": "country",
@@ -26038,18 +25891,18 @@
   "careers_url": "https://alephneuro.com/careers",
   "ats": null,
   "profile": {
-   "ceo": "\"\"",
+   "ceo": "",
    "conditions": [
     "No medical condition is named. The site envisions direct communication of thoughts (\"latents\") beyond words, and fast recall of memories, including photographic recollection and making films by moving a finger."
    ],
    "founders": [],
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "leadership": [],
    "linkedin_url": "",
    "milestones": [],
    "products": [],
-   "team_size": "\"\"",
+   "team_size": "",
    "technology": "[\"The homepage shows a brain imaged through the skull using ultrasound, which is the sensing approach the site illustrates. Aleph Neuro describes itself as a research lab building new brain interfaces. The site does not explain the method in detail and points to a separate \\\"technical approach\\\" page that was not provided.\"]",
    "source": "company website",
    "updated_at": "2026-11-18T09:25:53+00:00",
@@ -26066,7 +25919,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.alljoined.com/",
-  "city": "\"\"",
   "lat": 39.5565,
   "lng": -96.7817,
   "location_precision": "country",
@@ -26092,9 +25944,9 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 5,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [],
    "leadership": [],
    "technology": "Alljoined builds non-invasive brain-computer interfaces that read neural signals, mainly EEG recorded with consumer-grade hardware, to decode what a person is seeing or feeling. Its ENIGMA model learns a shared visual representation across many brains, so it can adapt to a new user in minutes rather than hours. The company describes the goal as an interface that captures human thought and state of mind so AI systems can stay aligned with user needs and intentions.",
@@ -26143,7 +25995,6 @@
   "status": "active",
   "parent": null,
   "website": "https://nexstem.ai/",
-  "city": "\"\"",
   "lat": 21.0,
   "lng": 79.2369,
   "location_precision": "country",
@@ -26166,8 +26017,8 @@
   "ats": null,
   "careers_status": "custom_page",
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
    "ceo": "Siddhant Dangi",
    "founders": [
     "Siddhant Dangi",
@@ -26223,7 +26074,7 @@
     "Gaming and immersive media",
     "Sleep, respiratory care and neuro-monitoring (cited in a testimonial)"
    ],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Renamed from Nexstem to Anthriq (announced January 13, 2026)",
     "Announced Project Kinesis, a research project on human-machine interaction (December 22, 2025)",
@@ -26246,7 +26097,6 @@
   "status": "active",
   "parent": null,
   "website": "https://www.arborneuroscience.org",
-  "city": "\"\"",
   "lat": 39.6728,
   "lng": -93.6295,
   "location_precision": "country",
@@ -26273,9 +26123,9 @@
   "careers_status": "ats",
   "open_jobs_at_detection": 33,
   "profile": {
-   "hq_city": "\"\"",
-   "hq_country": "\"\"",
-   "ceo": "\"\"",
+   "hq_city": "",
+   "hq_country": "",
+   "ceo": "",
    "founders": [
     "Sumner Norman",
     "Tyson Aflalo",
@@ -26307,7 +26157,7 @@
     }
    ],
    "conditions": [],
-   "team_size": "\"\"",
+   "team_size": "",
    "milestones": [
     "Founded in 2023 by Sumner Norman, Tyson Aflalo, and Will Biederman as Forest Neurotech; now renamed Arbor Neuroscience, a nonprofit Focused Research Organization within Convergent Research",
     "First studies underway, including a clinical study with Barking, Havering and Redbridge University Hospitals NHS Trust and the University of Plymouth, funded by ARIA",
@@ -26330,7 +26180,6 @@
   "status": "active",
   "parent": null,
   "website": "https://arctop.com/",
-  "city": null,
   "lat": 39.791,
   "lng": -98.4661,
   "location_precision": "country",

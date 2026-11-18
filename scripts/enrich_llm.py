@@ -33,7 +33,7 @@ REFRESH_DAYS = 90
 BATCH_MIN = 20
 
 SYSTEM = """You build a factual profile of a neurotechnology company from pages of its own website.
-Use only what the pages state. Never guess names, numbers or places; use "" or [] when the pages do not say.
+Use only what the pages state. Never guess names, numbers or places; when the pages do not say, leave the field empty (an empty string or an empty list), never write placeholders like "unknown" or quotes.
 - hq_city / hq_country: the headquarters (or main office) as written on the site.
 - ceo: the person the site names as CEO (or "Chief Executive Officer"); "" if not named.
 - founders: people the site calls founders/co-founders.
@@ -122,7 +122,26 @@ def gather_pages(companies: list[dict]) -> dict[str, tuple[str, set[str]]]:
     return out
 
 
+PLACEHOLDERS = {'""', "''", "n/a", "na", "none", "unknown", "not stated", "not specified", "not mentioned", "-", "—", "null"}
+
+
+def blank(v):
+    """Turn placeholder answers ('""', 'unknown', …) into real empties, recursively."""
+    if isinstance(v, str):
+        v = v.strip()
+        return "" if v.lower() in PLACEHOLDERS else v
+    if isinstance(v, list):
+        out = [blank(x) for x in v]
+        return [x for x in out if x and (not isinstance(x, dict) or x.get("name"))]
+    if isinstance(v, dict):
+        return {k: blank(x) for k, x in v.items()}
+    return v
+
+
 def clean_profile(p: dict, links: set[str]) -> dict:
+    p = blank(p)
+    # "Tokyo / California" -> "Tokyo": the first place named is the one we geocode
+    p["hq_city"] = re.split(r"\s*(?:/|;|\||\band\b)\s*", p.get("hq_city", ""))[0].strip(" ,")
     li = p.get("linkedin_url", "").strip()
     p["linkedin_url"] = li if li in links and "linkedin.com" in li else ""
     p["leadership"] = p.get("leadership", [])[:6]
@@ -176,6 +195,20 @@ def main():
     limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
     only = args[args.index("--only") + 1] if "--only" in args else None
     wait_min = float(args[args.index("--wait-min") + 1]) if "--wait-min" in args else 30
+    if "--repair" in args:  # re-clean stored profiles + re-geocode, no Claude calls
+        companies = load_companies()
+        profiles = {}
+        for c in companies:
+            if c.get("profile"):
+                keep = {k: c["profile"][k] for k in ("source", "updated_at", "model") if k in c["profile"]}
+                links = {c["profile"]["linkedin_url"]} if c["profile"].get("linkedin_url") else set()
+                profiles[c["id"]] = {**clean_profile(dict(c["profile"]), links), **keep}
+                if not profiles[c["id"]]["hq_city"]:
+                    c.pop("city", None)
+        apply_profiles(companies, profiles)
+        save_json(DATA / "companies.json", companies)
+        print(f"Repaired {len(profiles)} profiles")
+        return
     if not has_key():
         print("No Claude credentials: skipping profile enrichment.")
         return

@@ -11,7 +11,6 @@
   "lat": 50.6092,
   "lng": 3.0163
  },
- "\"\"|\"\"": null,
  "boston, massachusetts|usa": {
   "lat": 42.3588,
   "lng": -71.0578
@@ -121,10 +120,6 @@
   "lat": 40.7127,
   "lng": -74.006
  },
- "\"\"|usa": {
-  "lat": 39.7837,
-  "lng": -100.4459
- },
  "cleveland|usa": {
   "lat": 41.4997,
   "lng": -81.6937
@@ -140,10 +135,6 @@
  "mountain view|usa": {
   "lat": 37.3894,
   "lng": -122.0832
- },
- "\"\"|france": {
-  "lat": 46.6034,
-  "lng": 1.8883
  },
  "kongens lyngby|denmark": {
   "lat": 55.7719,
@@ -185,10 +176,6 @@
   "lat": 50.9304,
   "lng": 5.3378
  },
- "\"\"|uk": {
-  "lat": 54.7024,
-  "lng": -3.2766
- },
  "ede|netherlands": {
   "lat": 52.0717,
   "lng": 5.7455
@@ -225,10 +212,6 @@
   "lat": 29.652,
   "lng": -82.325
  },
- "\"\"|singapore": {
-  "lat": 1.3571,
-  "lng": 103.8195
- },
  "oro verde|argentina": {
   "lat": -31.8237,
   "lng": -60.5159
@@ -249,25 +232,13 @@
   "lat": 39.9597,
   "lng": -75.6045
  },
- "\"\"|austria": {
-  "lat": 47.594,
-  "lng": 14.1246
- },
  "palo alto, ca|usa": {
   "lat": 37.4443,
   "lng": -122.1598
  },
- "\"\"|united states": {
-  "lat": 39.7837,
-  "lng": -100.4459
- },
  "raleigh|usa": {
   "lat": 35.7804,
   "lng": -78.6391
- },
- "\"\"|switzerland": {
-  "lat": 46.7986,
-  "lng": 8.232
  },
  "gdansk|poland": {
   "lat": 54.3707,
@@ -317,10 +288,6 @@
   "lat": 34.0537,
   "lng": -118.2428
  },
- "\"\"|australia": {
-  "lat": -24.7761,
-  "lng": 134.755
- },
  "la tronche|france": {
   "lat": 45.209,
   "lng": 5.7457
@@ -364,10 +331,6 @@
  "brooklyn|usa": {
   "lat": 40.6526,
   "lng": -73.9497
- },
- "\"\"|sweden": {
-  "lat": 59.675,
-  "lng": 14.5209
  },
  "golden valley|usa": {
   "lat": 46.9318,
@@ -416,10 +379,6 @@
  "cologno monzese|italy": {
   "lat": 45.5286,
   "lng": 9.2782
- },
- "\"\"|finland": {
-  "lat": 63.2468,
-  "lng": 25.9209
  },
  "allston|usa": {
   "lat": 42.353,
@@ -488,5 +447,9 @@
  "pfäffikon|switzerland": {
   "lat": 47.4031,
   "lng": 8.7957
+ },
+ "tokyo|usa": {
+  "lat": 29.5494,
+  "lng": -98.5322
  }
 }
