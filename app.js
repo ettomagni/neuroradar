@@ -442,6 +442,8 @@ function jobRowSmall(j) {
   </li>`;
 }
 
+const isNewCompany = (c) => c.added_at && Date.now() - new Date(c.added_at) < 30 * 864e5;
+
 /* People: CEO, founders and leadership, each with their LinkedIn.
    A direct link only when the company's own website links that profile;
    otherwise a LinkedIn search for "name + company". */
@@ -606,7 +608,7 @@ function renderDash() {
     const site = safeUrl(c.website), careers = safeUrl(c.careers_url);
     return `<article class="co" style="--c:${cat.color}">
       <header>${avatar(c)}
-        <div class="co-title"><h3>${esc(c.name)}</h3>
+        <div class="co-title"><h3>${esc(c.name)}${isNewCompany(c) ? ` <span class="new-co" title="Added from the Neurofounders start-up map on ${esc(c.added_at)}">New</span>` : ""}</h3>
           <div class="sub">${esc(locationText(c))}${c.founded ? " · " + esc(c.founded) : ""}</div></div>
         ${n ? `<span class="count${hasNewJobs(c) ? " new" : ""}" title="Open roles">${n} role${n === 1 ? "" : "s"}</span>` : ""}
       </header>

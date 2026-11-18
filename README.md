@@ -20,6 +20,7 @@ Then open http://localhost:5173 (it needs a server: the JSON does not load from 
 |---|---|---|
 | `build_seed.py` | creates `data/companies.json` from the company list (local file, not in the repo) — **overwrites enrichment** | once, at the start |
 | `enrich_profiles.py` | from each Neurofounders profile: website, founding year, modality, form factor, invasiveness, indication, users, regulatory stage, funding | once (cached in `data/cache/`) |
+| `discover_companies.py` | checks the Neurofounders start-up map for companies that are new since the last run and adds them (category, country, website, technical fields; tagged "New" for 30 days). No Claude calls; companies that leave the map are only reported | Mondays, first weekly step |
 | `find_careers.py` | finds the careers page and ATS from the company website (Greenhouse, Lever, Ashby, Workable, Personio, Recruitee, SmartRecruiters, BambooHR, Breezy) | Mondays, retries unresolved companies |
 | `probe_ats.py` | for companies with no visible ATS: queries the Greenhouse/Ashby/Lever APIs directly; a board is accepted only if the full company name or domain appears in its postings and they are about neurotech. Namesakes rejected by hand go in `ats_rejected` | Mondays, after `find_careers.py` |
 | `fetch_jobs.py` | downloads roles from each ATS, diffs them with yesterday, flags new/closed | every morning |

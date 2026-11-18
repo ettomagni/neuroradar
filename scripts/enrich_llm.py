@@ -9,7 +9,8 @@ data/geocode_cache.json) so the pin moves from the country centre to the city.
 Bulk runs use the Message Batches API (50% cheaper); an unfinished batch is saved
 in data/profile_batch.json and collected on the next run.
 
-Usage: python3 scripts/enrich_llm.py [--limit N] [--only ID] [--no-batch] [--refresh] [--wait-min M]
+Usage: python3 scripts/enrich_llm.py [--limit N] [--only ID] [--no-batch] [--refresh] [--missing-only]
+                                     [--wait-min M] [--people-links] [--repair]
 """
 import hashlib
 import json
@@ -272,7 +273,8 @@ def main():
 
     stale = (datetime.now(timezone.utc) - timedelta(days=REFRESH_DAYS)).isoformat()
     todo = [c for c in companies if c.get("website") and only in (None, c["id"])
-            and ("--refresh" in args or (c.get("profile") or {}).get("updated_at", "") < stale)][:limit]
+            and ("--refresh" in args or (c.get("profile") or {}).get("updated_at", "") < stale)
+            and not ("--missing-only" in args and c.get("profile"))][:limit]
     print(f"Profiles to build: {len(todo)} · rendering websites…", flush=True)
     pages = gather_pages(todo)
     work = [(c, *pages[c["id"]]) for c in todo if c["id"] in pages and len(pages[c["id"]][0]) > 300]

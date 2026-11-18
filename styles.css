@@ -403,3 +403,5 @@ select option { background: var(--panel-solid); }
   .bar-row { grid-template-columns: 120px 1fr 24px; }
   .tabs .tab { padding: 7px 10px; }
 }
+.new-co { display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 999px; background: rgba(52, 211, 153, .15);
+  color: #34d399; font-size: 10.5px; font-weight: 600; vertical-align: middle; letter-spacing: .02em; }

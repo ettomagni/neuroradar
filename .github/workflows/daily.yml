@@ -34,12 +34,14 @@ jobs:
           pip install -q anthropic playwright && python -m playwright install --with-deps chromium
           npm install -g @anthropic-ai/claude-code
 
-      - name: Weekly - find careers pages / ATS for unresolved companies (Mondays or manual run)
+      - name: Weekly - new companies on the start-up map, careers pages / ATS (Mondays or manual run)
         run: |
           if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python3 scripts/discover_companies.py || echo "Start-up map check skipped"   # new companies, no Claude calls
             python3 scripts/find_careers.py
             python3 scripts/probe_ats.py
             python3 scripts/careers_llm.py --discover   # finds careers links only; each company re-checked at most monthly
+            python3 scripts/enrich_llm.py --missing-only --no-batch   # profiles (CEO, people's LinkedIn, city) for companies without one
           fi
 
       - name: Claude reads custom careers pages that changed
