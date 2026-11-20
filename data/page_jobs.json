@@ -70,14 +70,14 @@
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "252e63628ccdb0c8",
-  "checked_at": "2026-11-19T14:16:03+00:00",
+  "hash": "e7cbd26f1451de10",
+  "checked_at": "2026-11-20T13:57:25+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
  "cortec": {
-  "hash": "c6a554ecffc734f0",
-  "checked_at": "2026-11-19T14:16:06+00:00",
+  "hash": "35bf922686b13c85",
+  "checked_at": "2026-11-20T13:57:29+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://cortec-neuro.com/career"
@@ -425,21 +425,21 @@
   "source_url": "https://www.precisionneuro.io/careers"
  },
  "science-corp": {
-  "hash": "ce66b7f9c9957ef9",
-  "checked_at": "2026-11-18T13:47:35+00:00",
+  "hash": "56d09a7524178586",
+  "checked_at": "2026-11-20T13:57:28+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://science.xyz/careers/"
  },
  "stairmed": {
-  "hash": "c89fd4c80eb33762",
-  "checked_at": "2026-11-18T13:47:35+00:00",
+  "hash": "5aa148ba795e89c5",
+  "checked_at": "2026-11-20T13:57:25+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
  "synchron": {
-  "hash": "df19246792305e33",
-  "checked_at": "2026-11-19T14:16:09+00:00",
+  "hash": "49c71c84ccbf2040",
+  "checked_at": "2026-11-20T13:57:30+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -594,11 +594,11 @@
   "source_url": "https://brymapp.com/careers"
  },
  "ctrl-labs": {
-  "hash": "9a3f6a24da9cef61",
-  "checked_at": "2026-11-19T14:16:10+00:00",
+  "hash": "07e602c4f8deceb1",
+  "checked_at": "2026-11-20T13:57:28+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
-  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUCz-tVrF__5XshZwV_9BPdjx78_H9pEJJRPbAiXHZTJlQIiEBk5DGB3JIE4x1IBKk1NBxF10dBywO8CMWGah6cED6ViB2NIXUwJ8FQv8tIoC-MeDQ"
+  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAyFrtgKaqyL8KEWwwzR4f5lzvyo8jix31jgTI8-XuvmGmNPC6KIKgKfonovmZK_XUbmTXMsGjZb1FS2smTkguieU7dUvDoAdW8DPLF3vzILngMUQ"
  },
  "flectothink": {
   "hash": "96304c961c74a40e",
@@ -716,17 +716,33 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "5eda4c365f53605d",
-  "checked_at": "2026-11-19T14:16:13+00:00",
+  "hash": "5a3744e3a84fa82a",
+  "checked_at": "2026-11-20T13:57:31+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
  },
  "nextmind": {
-  "hash": "4ba660d94568a05d",
-  "checked_at": "2026-11-19T14:17:12+00:00",
+  "hash": "ee97dfb3358b1a0d",
+  "checked_at": "2026-11-20T13:58:10+00:00",
   "page_kind": "job_listings",
   "jobs": [
+   {
+    "title": "Director, Policy Communications & Public Affairs",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Washington",
+    "department": "Communications",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Manager, Policy Communications & Public Affairs",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Washington",
+    "department": "Communications",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
    {
     "title": "Senior Manager, Advertising",
     "url": "https://careers.snap.com/jobs?lang=en-US",
@@ -757,14 +773,6 @@
     "location": "Vienna",
     "department": "Corporate",
     "employment_type": "Intern",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Data Scientist, Level 4",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
-    "department": "Data & Analytics",
-    "employment_type": "Regular",
     "work_mode": "unknown"
    },
    {
@@ -811,14 +819,6 @@
     "title": "Cloud Software Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Zurich",
-    "department": "Engineering",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Computational Imaging Engineer",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Boulder; Los Angeles; Palo Alto",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1320,7 +1320,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Software Engineer, ML Infrastructure, ML Platform Level 5",
+    "title": "Software Engineer, ML Infrastructure, ML Platform, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Palo Alto",
     "department": "Engineering",
@@ -1331,7 +1331,7 @@
     "title": "Software Engineer, Specs C++, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Palo Alto",
-    "department": "Engineering",
+    "department": "SPECS",
     "employment_type": "Regular",
     "work_mode": "unknown"
    },
@@ -1339,7 +1339,7 @@
     "title": "Software Engineer, Specs Lenses C++, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Palo Alto; San Francisco",
-    "department": "Engineering",
+    "department": "Other",
     "employment_type": "Regular",
     "work_mode": "unknown"
    },
@@ -1347,7 +1347,7 @@
     "title": "Staff Product Quality Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Shenzhen",
-    "department": "Engineering",
+    "department": "SPECS",
     "employment_type": "Regular",
     "work_mode": "unknown"
    },
@@ -1355,6 +1355,14 @@
     "title": "Staff Security Engineer, Level 6, Application Security",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Palo Alto",
+    "department": "Engineering",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Staff Security Engineer, Level 6, Offensive Security",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Los Angeles; Palo Alto",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1395,7 +1403,7 @@
     "title": "Technical Operations Manufacturing Electrical Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Taipei City",
-    "department": "Engineering",
+    "department": "SPECS",
     "employment_type": "Regular",
     "work_mode": "unknown"
    },
@@ -1467,7 +1475,7 @@
     "title": "Application Engineer, CRM Technology, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Los Angeles; Palo Alto",
-    "department": "Information Technology",
+    "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
    },
@@ -1696,7 +1704,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Lead, SMC Advertiser Growth (Brand Ads)",
+    "title": "Lead, SMC Advertiser Growth",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Austin; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
     "department": "Product",
@@ -1755,6 +1763,14 @@
     "title": "Senior Marketing Scientist, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Los Angeles; New York; San Francisco",
+    "department": "Product",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Senior Product Researcher",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Los Angeles",
     "department": "Product",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1931,6 +1947,22 @@
     "title": "Client Partner, SMC",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Austin; Los Angeles; New York",
+    "department": "Sales",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Creative Strategist",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Los Angeles",
+    "department": "Sales",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Creative Strategy Lead",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Los Angeles; New York",
     "department": "Sales",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2240,15 +2272,15 @@
   "source_url": "https://www.prophetic.com/careers"
  },
  "sens-ai": {
-  "hash": "c934caa09c996d7d",
-  "checked_at": "2026-11-19T14:16:16+00:00",
+  "hash": "98528cbfaa35c444",
+  "checked_at": "2026-11-20T13:57:32+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "UX & Graphic Designer",
     "url": "https://sens.ai/careers",
     "location": "Vancouver, BC, Canada",
-    "department": "Marketing & Product",
+    "department": "Marketing and Product",
     "employment_type": "Full-Time, Employment or Contract",
     "work_mode": "remote"
    }
@@ -2302,8 +2334,8 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "2f2ea8341b2b899a",
-  "checked_at": "2026-11-19T14:16:16+00:00",
+  "hash": "1f2ac0735792929e",
+  "checked_at": "2026-11-20T13:57:32+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
@@ -2582,8 +2614,8 @@
   "source_url": "https://linushealth.com/about/careers"
  },
  "machine-medicine": {
-  "hash": "650a9c916f631b11",
-  "checked_at": "2026-11-18T13:48:04+00:00",
+  "hash": "060e991e3ca94ab9",
+  "checked_at": "2026-11-20T13:57:33+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2897,8 +2929,8 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "92f49e467e89fa31",
-  "checked_at": "2026-11-18T13:48:26+00:00",
+  "hash": "5279add1c8d7ef3d",
+  "checked_at": "2026-11-20T13:57:35+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
@@ -3279,8 +3311,8 @@
   "source_url": "https://tiposi.com/careers"
  },
  "uneeg-medical": {
-  "hash": "ca2922b8f86f5939",
-  "checked_at": "2026-11-18T13:48:41+00:00",
+  "hash": "d614475dc29cc784",
+  "checked_at": "2026-11-20T13:57:36+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3541,8 +3573,8 @@
   "source_url": "https://bionessmedical.com/careers/"
  },
  "brainsway": {
-  "hash": "40d3ea2e7213b00a",
-  "checked_at": "2026-11-19T14:16:24+00:00",
+  "hash": "594d047b341dc8f9",
+  "checked_at": "2026-11-20T13:57:37+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/brainsway"
@@ -3624,15 +3656,15 @@
   "source_url": "https://cordancemedical.com/our-culture/"
  },
  "curonix": {
-  "hash": "ce69ad978b07089c",
-  "checked_at": "2026-11-19T14:16:26+00:00",
+  "hash": "d6f18e8f0057d91d",
+  "checked_at": "2026-11-20T13:57:38+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://curonix.com/"
  },
  "dandelion-science": {
-  "hash": "73ac2ac4fddda5a6",
-  "checked_at": "2026-11-19T14:16:27+00:00",
+  "hash": "5f129ebeb9f87643",
+  "checked_at": "2026-11-20T13:57:39+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/readwritelabs"
@@ -4117,8 +4149,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "9aabc6c1021eed87",
-  "checked_at": "2026-11-19T14:16:33+00:00",
+  "hash": "80b42686da163c91",
+  "checked_at": "2026-11-20T13:57:39+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4163,8 +4195,8 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "2b543350f5cfadf4",
-  "checked_at": "2026-11-19T14:16:35+00:00",
+  "hash": "3c082ce563a89b1f",
+  "checked_at": "2026-11-20T13:57:42+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4288,8 +4320,8 @@
   "source_url": "https://www.stimcardio.com/careers"
  },
  "surf-therapeutics": {
-  "hash": "cdf7e54245d9a385",
-  "checked_at": "2026-11-19T14:16:35+00:00",
+  "hash": "474fe2ed5914ebe6",
+  "checked_at": "2026-11-20T13:57:42+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/surf-therapeutics"
@@ -4472,8 +4504,8 @@
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "25ad2b609802082d",
-  "checked_at": "2026-11-19T14:16:36+00:00",
+  "hash": "e4d84549df52b4dc",
+  "checked_at": "2026-11-20T13:57:43+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4848,13 +4880,13 @@
   "source_url": "https://www.nubrain.com/"
  },
  "openbci": {
-  "hash": "7f242e46b09eccad",
-  "checked_at": "2026-11-18T13:49:46+00:00",
+  "hash": "49427cd7494477bb",
+  "checked_at": "2026-11-20T13:57:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Hardware Engineering Technician (part-time)",
-    "url": "https://openbci.com/careers",
+    "url": "https://openbci.com/careers/",
     "location": "Brooklyn, NY - USA",
     "department": "Hardware",
     "employment_type": "part-time",
@@ -4862,7 +4894,7 @@
    },
    {
     "title": "Senior Electrical Engineer",
-    "url": "https://openbci.com/careers",
+    "url": "https://openbci.com/careers/",
     "location": "Brooklyn, NY - USA",
     "department": "Hardware",
     "employment_type": "",
@@ -4870,14 +4902,14 @@
    },
    {
     "title": "Senior Embedded Systems Engineer",
-    "url": "https://openbci.com/careers",
+    "url": "https://openbci.com/careers/",
     "location": "Brooklyn, NY - USA",
     "department": "Firmware",
     "employment_type": "",
     "work_mode": "onsite"
    }
   ],
-  "source_url": "https://openbci.com/careers"
+  "source_url": "https://openbci.com/careers/"
  },
  "oymotion-technology": {
   "hash": "b18e1bf884de7eee",
@@ -4886,8 +4918,8 @@
   "jobs": []
  },
  "pieeg": {
-  "hash": "7e5ec04a1c7e8d16",
-  "checked_at": "2026-11-19T14:16:37+00:00",
+  "hash": "2677586e7cfdc878",
+  "checked_at": "2026-11-20T13:57:44+00:00",
   "page_kind": "general_application_only",
   "jobs": [],
   "source_url": "https://www.pieeg.com/job"
@@ -4914,8 +4946,8 @@
   "source_url": "https://therasonic.fr/fr/careers/"
  },
  "vonova": {
-  "hash": "1070e25efe4bd151",
-  "checked_at": "2026-11-19T14:16:38+00:00",
+  "hash": "38989a90e94c3f1a",
+  "checked_at": "2026-11-20T13:57:45+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.youtube.com/watch?v=CfYh1rydP1w"
