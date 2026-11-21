@@ -355,5 +355,71 @@
    },
    "equivalent_api_cost_usd": 0.1867
   }
+ },
+ {
+  "at": "2026-11-21T13:19:03+00:00",
+  "kind": "careers_llm",
+  "read": 33,
+  "unchanged": 134,
+  "errors": 3,
+  "switched_to_ats": 0,
+  "roles": 252,
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 32,
+   "refusals": 0,
+   "tokens": {
+    "input": 64,
+    "output": 36664,
+    "cache_read": 29960,
+    "cache_write": 118802
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0335
+  }
+ },
+ {
+  "at": "2026-11-21T13:22:25+00:00",
+  "kind": "careers",
+  "baseline": false,
+  "companies_checked": 211,
+  "companies_ok": 211,
+  "errors": {},
+  "jobs_open": 941,
+  "jobs_new": 48,
+  "jobs_closed": 34
+ },
+ {
+  "at": "2026-11-21T13:22:29+00:00",
+  "kind": "requirements",
+  "extracted": 47,
+  "no_text": 1,
+  "errors": 0,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 47,
+   "refusals": 0,
+   "tokens": {
+    "input": 98,
+    "output": 44740,
+    "cache_read": 65612,
+    "cache_write": 255495
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.055
+  }
  }
 ]
