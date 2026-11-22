@@ -7,8 +7,8 @@
   "source_url": "https://abilityneuro.com/careers/"
  },
  "blackrock-neurotech": {
-  "hash": "162989a656b1ed68",
-  "checked_at": "2026-11-18T13:47:29+00:00",
+  "hash": "87c020461a091351",
+  "checked_at": "2026-11-22T13:12:37+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -63,15 +63,15 @@
   "source_url": "https://blackrockneurotech.com/careers/"
  },
  "cahira-technologies": {
-  "hash": "203bbc2ab0d5adf0",
-  "checked_at": "2026-11-21T13:21:22+00:00",
+  "hash": "ec87c7ab6691ee93",
+  "checked_at": "2026-11-22T13:12:36+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "6db03a3741ff4f33",
-  "checked_at": "2026-11-21T13:21:17+00:00",
+  "hash": "62c2575264d6a69b",
+  "checked_at": "2026-11-22T13:12:33+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -586,11 +586,11 @@
   "source_url": "https://brymapp.com/careers"
  },
  "ctrl-labs": {
-  "hash": "07e602c4f8deceb1",
-  "checked_at": "2026-11-20T13:57:28+00:00",
+  "hash": "54afdb4be4edc211",
+  "checked_at": "2026-11-22T13:12:36+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
-  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAyFrtgKaqyL8KEWwwzR4f5lzvyo8jix31jgTI8-XuvmGmNPC6KIKgKfonovmZK_XUbmTXMsGjZb1FS2smTkguieU7dUvDoAdW8DPLF3vzILngMUQ"
+  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUC9P-hWiRLDJ3b02pZx7MHW0jfbT1p-0aA1MYcCkWhWW7ncN57PhZkX8_GvEHfv1I9VgA12iTpT0MKQUDkY0Oo_thqSfgNgbhgbBTqMwhRA5CQtrw"
  },
  "flectothink": {
   "hash": "96304c961c74a40e",
@@ -600,8 +600,8 @@
   "source_url": "https://www.flexolinkai.com/pc/pc-en/index.html"
  },
  "i-braintech": {
-  "hash": "bc8412ecb6478a54",
-  "checked_at": "2026-11-21T13:21:28+00:00",
+  "hash": "ce95a0093f299b79",
+  "checked_at": "2026-11-22T13:12:39+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -678,15 +678,15 @@
   "jobs": []
  },
  "muse": {
-  "hash": "05fbc94c6e8b63fc",
-  "checked_at": "2026-11-21T13:21:27+00:00",
+  "hash": "fa80532414260519",
+  "checked_at": "2026-11-22T13:12:39+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Customer Care Team Lead",
     "url": "https://choosemuse.com/pages/careers",
     "location": "Toronto, Ontario",
-    "department": "",
+    "department": "Customer Care",
     "employment_type": "",
     "work_mode": "remote"
    }
@@ -708,8 +708,8 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "cd5ea21cfdf21792",
-  "checked_at": "2026-11-21T13:21:27+00:00",
+  "hash": "0f980525d1af9e49",
+  "checked_at": "2026-11-22T13:12:39+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
@@ -2318,8 +2318,8 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "d65f0b791a28a783",
-  "checked_at": "2026-11-21T13:21:33+00:00",
+  "hash": "b7f870321f4478be",
+  "checked_at": "2026-11-22T13:12:39+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
@@ -2690,8 +2690,8 @@
   "source_url": "https://neuroeventlabs.com/careers"
  },
  "neuronostics": {
-  "hash": "21dd3404a4d8385b",
-  "checked_at": "2026-11-19T14:16:19+00:00",
+  "hash": "4d5e3d5e4b31f599",
+  "checked_at": "2026-11-22T13:12:41+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://www.neuronostics.com/careers/"
@@ -2905,15 +2905,15 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "92f49e467e89fa31",
-  "checked_at": "2026-11-21T13:21:40+00:00",
+  "hash": "c61a397e9e8263ba",
+  "checked_at": "2026-11-22T13:12:42+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
  },
  "cerebriu": {
-  "hash": "0d51d911a41d0780",
-  "checked_at": "2026-11-21T13:21:41+00:00",
+  "hash": "bcefc1d9f70a118b",
+  "checked_at": "2026-11-22T13:12:41+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://www.cerebriu.com/resources/join-us/"
@@ -3112,8 +3112,8 @@
   "source_url": "https://www.synaptivemedical.com/careers"
  },
  "theta-neurotech": {
-  "hash": "f5bec64dcd8c8457",
-  "checked_at": "2026-11-21T13:21:42+00:00",
+  "hash": "1598d843fed9f20a",
+  "checked_at": "2026-11-22T13:12:42+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search/?position=1&pageNum=0"
@@ -3287,8 +3287,8 @@
   "source_url": "https://tiposi.com/careers"
  },
  "uneeg-medical": {
-  "hash": "d614475dc29cc784",
-  "checked_at": "2026-11-20T13:57:36+00:00",
+  "hash": "ca2922b8f86f5939",
+  "checked_at": "2026-11-22T13:12:44+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3579,8 +3579,8 @@
   "source_url": "https://charconeurotech.com/about/"
  },
  "cionic": {
-  "hash": "243e46dabb1c0eac",
-  "checked_at": "2026-11-21T13:21:46+00:00",
+  "hash": "9c1a9f6ef1403421",
+  "checked_at": "2026-11-22T13:12:44+00:00",
   "page_kind": "general_application_only",
   "jobs": [],
   "source_url": "https://careers.cionic.com/"
@@ -3641,8 +3641,8 @@
   "source_url": "https://cordancemedical.com/our-culture/"
  },
  "curonix": {
-  "hash": "d6f18e8f0057d91d",
-  "checked_at": "2026-11-20T13:57:38+00:00",
+  "hash": "ce69ad978b07089c",
+  "checked_at": "2026-11-22T13:12:45+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://curonix.com/"
@@ -3694,8 +3694,8 @@
   "source_url": "https://www.electrocore.com/careers/"
  },
  "grey-matter-neurosciences": {
-  "hash": "73297aef8fb91c8e",
-  "checked_at": "2026-11-21T13:21:48+00:00",
+  "hash": "ec193d8033f84fc8",
+  "checked_at": "2026-11-22T13:12:46+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3710,8 +3710,8 @@
   "source_url": "https://greymatterneurosciences.com/careers/"
  },
  "inspire-medical-systems": {
-  "hash": "59b8a5ff68ae0c5f",
-  "checked_at": "2026-11-21T13:21:49+00:00",
+  "hash": "509ae92e875b401c",
+  "checked_at": "2026-11-22T13:12:47+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.inspiresleep.com/en-us/careers/"
@@ -4134,8 +4134,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "25c188807bd95ac4",
-  "checked_at": "2026-11-21T13:21:53+00:00",
+  "hash": "4534a967b5949ea0",
+  "checked_at": "2026-11-22T13:12:46+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4180,12 +4180,12 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "38e3f091c7b6f31c",
-  "checked_at": "2026-11-21T13:21:57+00:00",
+  "hash": "97f700b7f01ffb68",
+  "checked_at": "2026-11-22T13:12:49+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
-    "title": "Operations Analyst I",
+    "title": "Talent Acquisition Manager",
     "url": "https://setpointmedical.com/company/#careers",
     "location": "",
     "department": "",
@@ -4201,10 +4201,34 @@
     "work_mode": "unknown"
    },
    {
+    "title": "Market Access Specialist (I - II)",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Vice President, Human Resources",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Operations Analyst I",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
     "title": "Technical Writer (Contract)",
     "url": "https://setpointmedical.com/company/#careers",
     "location": "",
-    "department": "Manufacturing Engineering and Operations",
+    "department": "",
     "employment_type": "Contract",
     "work_mode": "unknown"
    },
@@ -4223,37 +4247,13 @@
     "department": "",
     "employment_type": "",
     "work_mode": "unknown"
-   },
-   {
-    "title": "IT Manager",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Talent Acquisition Manager",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Market Access Specialist (I - II)",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
    }
   ],
   "source_url": "https://setpointmedical.com/company/#careers"
  },
  "sononeu": {
-  "hash": "d743df7ddae9dfd0",
-  "checked_at": "2026-11-21T13:21:57+00:00",
+  "hash": "8e864c0d0e3a075c",
+  "checked_at": "2026-11-22T13:12:48+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4489,8 +4489,8 @@
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "78c88488476d6525",
-  "checked_at": "2026-11-21T13:22:02+00:00",
+  "hash": "b795bb5181afbc55",
+  "checked_at": "2026-11-22T13:12:50+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4903,8 +4903,8 @@
   "jobs": []
  },
  "pieeg": {
-  "hash": "7e5ec04a1c7e8d16",
-  "checked_at": "2026-11-21T13:22:01+00:00",
+  "hash": "2677586e7cfdc878",
+  "checked_at": "2026-11-22T13:12:49+00:00",
   "page_kind": "general_application_only",
   "jobs": [],
   "source_url": "https://www.pieeg.com/job"
@@ -4931,8 +4931,8 @@
   "source_url": "https://therasonic.fr/fr/careers/"
  },
  "vonova": {
-  "hash": "60d78549de1ed12a",
-  "checked_at": "2026-11-21T13:22:02+00:00",
+  "hash": "8944d8a92cd48149",
+  "checked_at": "2026-11-22T13:12:50+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.youtube.com/watch?v=CfYh1rydP1w"
@@ -4945,10 +4945,19 @@
   "source_url": "https://www.wearabledevices.co.il/about/careers"
  },
  "x-trodes": {
-  "hash": "78037e0132eafdea",
-  "checked_at": "2026-11-19T14:16:39+00:00",
-  "page_kind": "no_open_roles",
-  "jobs": [],
+  "hash": "c24e085198d02b2c",
+  "checked_at": "2026-11-22T13:12:51+00:00",
+  "page_kind": "job_listings",
+  "jobs": [
+   {
+    "title": "Clinical Application Specialist",
+    "url": "https://xtrodes.applytojob.com/apply",
+    "location": "Herzliya, Israel",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   }
+  ],
   "source_url": "https://xtrodes.applytojob.com/apply"
  },
  "mesotron": {
