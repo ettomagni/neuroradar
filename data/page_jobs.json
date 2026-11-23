@@ -7,8 +7,8 @@
   "source_url": "https://abilityneuro.com/careers/"
  },
  "blackrock-neurotech": {
-  "hash": "87c020461a091351",
-  "checked_at": "2026-11-22T13:12:37+00:00",
+  "hash": "162989a656b1ed68",
+  "checked_at": "2026-11-23T15:53:25+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -63,15 +63,15 @@
   "source_url": "https://blackrockneurotech.com/careers/"
  },
  "cahira-technologies": {
-  "hash": "ec87c7ab6691ee93",
-  "checked_at": "2026-11-22T13:12:36+00:00",
+  "hash": "221b01bc6f3c17eb",
+  "checked_at": "2026-11-23T15:53:24+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "62c2575264d6a69b",
-  "checked_at": "2026-11-22T13:12:33+00:00",
+  "hash": "6ad290cc282ab22a",
+  "checked_at": "2026-11-23T15:53:21+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -600,8 +600,8 @@
   "source_url": "https://www.flexolinkai.com/pc/pc-en/index.html"
  },
  "i-braintech": {
-  "hash": "ce95a0093f299b79",
-  "checked_at": "2026-11-22T13:12:39+00:00",
+  "hash": "bc8412ecb6478a54",
+  "checked_at": "2026-11-23T15:53:27+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -678,15 +678,15 @@
   "jobs": []
  },
  "muse": {
-  "hash": "fa80532414260519",
-  "checked_at": "2026-11-22T13:12:39+00:00",
+  "hash": "9456923b6f944c34",
+  "checked_at": "2026-11-23T15:53:25+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Customer Care Team Lead",
     "url": "https://choosemuse.com/pages/careers",
     "location": "Toronto, Ontario",
-    "department": "Customer Care",
+    "department": "",
     "employment_type": "",
     "work_mode": "remote"
    }
@@ -708,15 +708,15 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "0f980525d1af9e49",
-  "checked_at": "2026-11-22T13:12:39+00:00",
+  "hash": "a4551c2b1bf1a8ee",
+  "checked_at": "2026-11-23T15:53:27+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
  },
  "nextmind": {
-  "hash": "a748171a9bfb69ea",
-  "checked_at": "2026-11-21T13:22:25+00:00",
+  "hash": "35244ede45d43673",
+  "checked_at": "2026-11-23T15:54:10+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -1608,14 +1608,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "UK Head of Marketing",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "London",
-    "department": "Marketing",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Global Industry Lead, Retail SPECS",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Boulder; Chandler; New York; Santa Monica; Sunnyvale",
@@ -1640,7 +1632,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Technical Partner Manager, Enterprise Solutions",
+    "title": "Technical Partner Manager, Enterprise Solutions SPECS",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Sunnyvale",
     "department": "Partnerships",
@@ -2318,8 +2310,8 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "b7f870321f4478be",
-  "checked_at": "2026-11-22T13:12:39+00:00",
+  "hash": "b3f79a97de810427",
+  "checked_at": "2026-11-23T15:53:27+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
@@ -2643,8 +2635,8 @@
   "source_url": "https://neurobell.com/careers/"
  },
  "neurocast": {
-  "hash": "2a6ee726a5e9bbdd",
-  "checked_at": "2026-11-21T13:21:37+00:00",
+  "hash": "04fc5c0cd3b10103",
+  "checked_at": "2026-11-23T15:53:30+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2690,8 +2682,8 @@
   "source_url": "https://neuroeventlabs.com/careers"
  },
  "neuronostics": {
-  "hash": "4d5e3d5e4b31f599",
-  "checked_at": "2026-11-22T13:12:41+00:00",
+  "hash": "21dd3404a4d8385b",
+  "checked_at": "2026-11-23T15:53:29+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://www.neuronostics.com/careers/"
@@ -2835,8 +2827,8 @@
   "source_url": "https://zeto-inc.com/careers/"
  },
  "brainkey": {
-  "hash": "5e69d001deda0508",
-  "checked_at": "2026-11-18T13:48:21+00:00",
+  "hash": "f2e35dd2639aa3e0",
+  "checked_at": "2026-11-23T15:53:30+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.brainkey.ai/careers"
@@ -2905,17 +2897,26 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "c61a397e9e8263ba",
-  "checked_at": "2026-11-22T13:12:42+00:00",
+  "hash": "f331d34e3902eb2a",
+  "checked_at": "2026-11-23T15:53:32+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
  },
  "cerebriu": {
-  "hash": "bcefc1d9f70a118b",
-  "checked_at": "2026-11-22T13:12:41+00:00",
-  "page_kind": "no_open_roles",
-  "jobs": [],
+  "hash": "74a5c4bcb8a0f0ab",
+  "checked_at": "2026-11-23T15:53:32+00:00",
+  "page_kind": "job_listings",
+  "jobs": [
+   {
+    "title": "Clinical Solutions Specialist",
+    "url": "https://www.cerebriu.com/resources/join-us/",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   }
+  ],
   "source_url": "https://www.cerebriu.com/resources/join-us/"
  },
  "elda-braintech": {
@@ -3112,8 +3113,8 @@
   "source_url": "https://www.synaptivemedical.com/careers"
  },
  "theta-neurotech": {
-  "hash": "1598d843fed9f20a",
-  "checked_at": "2026-11-22T13:12:42+00:00",
+  "hash": "cf5aca27c48c6a2b",
+  "checked_at": "2026-11-23T15:53:33+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search/?position=1&pageNum=0"
@@ -3558,8 +3559,8 @@
   "source_url": "https://bionessmedical.com/careers/"
  },
  "brainsway": {
-  "hash": "594d047b341dc8f9",
-  "checked_at": "2026-11-20T13:57:37+00:00",
+  "hash": "90d2ad9ab0ec41ba",
+  "checked_at": "2026-11-23T15:53:37+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/brainsway"
@@ -3694,8 +3695,8 @@
   "source_url": "https://www.electrocore.com/careers/"
  },
  "grey-matter-neurosciences": {
-  "hash": "ec193d8033f84fc8",
-  "checked_at": "2026-11-22T13:12:46+00:00",
+  "hash": "c4bb251e6e2dfaad",
+  "checked_at": "2026-11-23T15:53:36+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3710,8 +3711,8 @@
   "source_url": "https://greymatterneurosciences.com/careers/"
  },
  "inspire-medical-systems": {
-  "hash": "509ae92e875b401c",
-  "checked_at": "2026-11-22T13:12:47+00:00",
+  "hash": "59b8a5ff68ae0c5f",
+  "checked_at": "2026-11-23T15:53:36+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.inspiresleep.com/en-us/careers/"
@@ -4134,8 +4135,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "4534a967b5949ea0",
-  "checked_at": "2026-11-22T13:12:46+00:00",
+  "hash": "dd11032f26cef21f",
+  "checked_at": "2026-11-23T15:53:38+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4180,8 +4181,8 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "97f700b7f01ffb68",
-  "checked_at": "2026-11-22T13:12:49+00:00",
+  "hash": "fb037f6eb6487b64",
+  "checked_at": "2026-11-23T15:53:40+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4489,8 +4490,8 @@
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "b795bb5181afbc55",
-  "checked_at": "2026-11-22T13:12:50+00:00",
+  "hash": "6e8d4dc66c34e1ab",
+  "checked_at": "2026-11-23T15:53:40+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4565,8 +4566,8 @@
   "source_url": "https://craniustherapeutics.com/careers"
  },
  "frontier-computing": {
-  "hash": "23f3c5cd407466b4",
-  "checked_at": "2026-11-18T13:49:36+00:00",
+  "hash": "5a42898c6bdb1f2f",
+  "checked_at": "2026-11-23T15:53:42+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4658,18 +4659,10 @@
   "source_url": "https://iota.bio/careers"
  },
  "karavela-ai": {
-  "hash": "c75a4007316ede27",
-  "checked_at": "2026-11-18T13:49:42+00:00",
+  "hash": "c32b98d97fd2c629",
+  "checked_at": "2026-11-23T15:53:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
-   {
-    "title": "Research Scientist / Engineer Intern",
-    "url": "https://jobs.karavela.ai/",
-    "location": "Paris, France",
-    "department": "Research",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
    {
     "title": "Senior Research Scientist - Generative Models Fine-tuning & Post-training",
     "url": "https://jobs.karavela.ai/",
@@ -4735,11 +4728,19 @@
     "work_mode": "unknown"
    },
    {
+    "title": "Research Scientist / Engineer Intern",
+    "url": "https://jobs.karavela.ai/",
+    "location": "Paris, France",
+    "department": "Internships",
+    "employment_type": "Internship",
+    "work_mode": "unknown"
+   },
+   {
     "title": "Full-stack Engineer Intern",
     "url": "https://jobs.karavela.ai/",
     "location": "Paris, France",
     "department": "Internships",
-    "employment_type": "",
+    "employment_type": "Internship",
     "work_mode": "unknown"
    }
   ],
@@ -4786,8 +4787,8 @@
   "source_url": "https://longeviti.com/careers/"
  },
  "maxwell-biosystems": {
-  "hash": "90e0c7e601a2b2cf",
-  "checked_at": "2026-11-18T13:49:42+00:00",
+  "hash": "60b7ca85d76c6dc2",
+  "checked_at": "2026-11-23T15:53:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4796,14 +4797,6 @@
     "location": "Zurich, Switzerland",
     "department": "",
     "employment_type": "Internship",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "R&D Engineer Intern (6 months)",
-    "url": "https://www.mxwbio.com/careers",
-    "location": "Zurich, Switzerland",
-    "department": "",
-    "employment_type": "Full-time",
     "work_mode": "unknown"
    },
    {
@@ -4834,12 +4827,20 @@
   "source_url": "https://www.mxwbio.com/careers"
  },
  "mintneuro": {
-  "hash": "120c715e627f936f",
-  "checked_at": "2026-11-18T13:49:45+00:00",
+  "hash": "cba00ab5596db54a",
+  "checked_at": "2026-11-23T15:53:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Senior Digital Verification Engineer",
+    "url": "https://ats.sensewp.com/external/24c0e9a9-dccc-43df-a9bc-4b82bc549d1d",
+    "location": "Hammersmith, London (United Kingdom)",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "hybrid"
+   },
+   {
+    "title": "Senior Digital Design Engineer",
     "url": "https://ats.sensewp.com/external/24c0e9a9-dccc-43df-a9bc-4b82bc549d1d",
     "location": "Hammersmith, London (United Kingdom)",
     "department": "",
@@ -4903,8 +4904,8 @@
   "jobs": []
  },
  "pieeg": {
-  "hash": "2677586e7cfdc878",
-  "checked_at": "2026-11-22T13:12:49+00:00",
+  "hash": "228582bc3d3280f1",
+  "checked_at": "2026-11-23T15:53:47+00:00",
   "page_kind": "general_application_only",
   "jobs": [],
   "source_url": "https://www.pieeg.com/job"
@@ -4931,8 +4932,8 @@
   "source_url": "https://therasonic.fr/fr/careers/"
  },
  "vonova": {
-  "hash": "8944d8a92cd48149",
-  "checked_at": "2026-11-22T13:12:50+00:00",
+  "hash": "c3256fb6511b8762",
+  "checked_at": "2026-11-23T15:53:47+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.youtube.com/watch?v=CfYh1rydP1w"
@@ -4983,5 +4984,11 @@
    }
   ],
   "source_url": "https://herp.careers/v1/mesotron"
+ },
+ "sound-wave-innovation": {
+  "hash": "303de4f737269d25",
+  "checked_at": "2026-11-23T15:53:37+00:00",
+  "page_kind": "empty_page",
+  "jobs": []
  }
 }

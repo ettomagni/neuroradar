@@ -487,5 +487,98 @@
    },
    "equivalent_api_cost_usd": 0.0016
   }
+ },
+ {
+  "at": "2026-11-23T15:50:51+00:00",
+  "kind": "profiles",
+  "profiles": 0,
+  "no_pages": 16,
+  "errors": 0,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 0,
+   "refusals": 0,
+   "tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0
+  }
+ },
+ {
+  "at": "2026-11-23T15:51:03+00:00",
+  "kind": "careers_llm",
+  "read": 27,
+  "unchanged": 142,
+  "errors": 2,
+  "switched_to_ats": 0,
+  "roles": 231,
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 25,
+   "refusals": 0,
+   "tokens": {
+    "input": 50,
+    "output": 27448,
+    "cache_read": 22470,
+    "cache_write": 106704
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0273
+  }
+ },
+ {
+  "at": "2026-11-23T15:54:10+00:00",
+  "kind": "careers",
+  "baseline": false,
+  "companies_checked": 212,
+  "companies_ok": 212,
+  "errors": {},
+  "jobs_open": 940,
+  "jobs_new": 4,
+  "jobs_closed": 6
+ },
+ {
+  "at": "2026-11-23T15:54:19+00:00",
+  "kind": "requirements",
+  "extracted": 3,
+  "no_text": 1,
+  "errors": 0,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 3,
+   "refusals": 0,
+   "tokens": {
+    "input": 6,
+    "output": 1947,
+    "cache_read": 0,
+    "cache_write": 14956
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0028
+  }
  }
 ]

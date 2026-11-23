@@ -1990,23 +1990,6 @@
   "extracted_at": "2026-11-18T13:52:16+00:00",
   "model": "claude-haiku-5-5"
  },
- "nextmind:page:4be0fbd9ff78": {
-  "seniority": "director",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "sales_marketing",
-  "visa_sponsorship": "not_stated",
-  "salary": "\"\"",
-  "summary": "Leads marketing for the UK market, based in London; the posting gives no responsibilities or requirements beyond the title, team (Marketing), type (Regular) and location.",
-  "text_hash": "10f68ab1e358",
-  "extracted_at": "2026-11-18T13:52:20+00:00",
-  "model": "claude-haiku-5-5"
- },
  "nextmind:page:f7392631abae": {
   "seniority": "unknown",
   "employment_type": "unknown",
@@ -5991,23 +5974,6 @@
   "salary": "\"\"",
   "summary": "Lead the Florida/Georgia region for Mobia Medical's Vivistim (Paired VNS) chronic stroke neuromodulation therapy; the posting does not list specific duties, requirements, or compensation.",
   "text_hash": "91e871ce3abd",
-  "extracted_at": "2026-11-19T14:18:15+00:00",
-  "model": "claude-haiku-5-5"
- },
- "maxwell-biosystems:page:559c078a97ab": {
-  "seniority": "intern",
-  "employment_type": "internship",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "hardware_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Six-month R&D engineering internship in Zurich supporting MaxWell's high-density microelectrode array (HD-MEA) technology; the posting gives no detailed responsibilities or requirements, and its listing tags the role \"Full-time\" despite the \"Intern (6 months)\" title.",
-  "text_hash": "2f69497f8e8f",
   "extracted_at": "2026-11-19T14:18:15+00:00",
   "model": "claude-haiku-5-5"
  },
@@ -11461,40 +11427,6 @@
   "summary": "Sell and drive adoption of the RNS System in the New York territory by building relationships with epileptologists, neurologists, and neurosurgeons, educating clinicians and patients, and growing patient referrals.",
   "text_hash": "65b4b90e34f1",
   "extracted_at": "2026-11-19T14:22:01+00:00",
-  "model": "claude-haiku-5-5"
- },
- "neuropace:greenhouse:6112765004": {
-  "seniority": "junior",
-  "employment_type": "full-time",
-  "work_mode": "onsite",
-  "degree_required": "bachelor",
-  "degree_fields": [
-   "Life Sciences",
-   "Business"
-  ],
-  "min_years_experience": 1,
-  "required_skills": [
-   "Medical device sales experience",
-   "Consultative / solution-need selling",
-   "Clinical workflow understanding",
-   "Verbal and written communication",
-   "Presentation skills",
-   "Salesforce CRM",
-   "Valid driver's license",
-   "Travel up to 80%"
-  ],
-  "preferred_skills": [
-   "Class III implantable device experience",
-   "Neurology or neuromodulation exposure",
-   "Surgical specialty exposure",
-   "Caspio"
-  ],
-  "domain": "sales_marketing",
-  "visa_sponsorship": "not_stated",
-  "salary": "$156K at Plan",
-  "summary": "Drive sales and market development for the RNS System in the Los Angeles territory by building relationships with epilepsy clinicians, educating customers, and managing patient referrals.",
-  "text_hash": "fd0e20fa6ad0",
-  "extracted_at": "2026-11-19T14:22:03+00:00",
   "model": "claude-haiku-5-5"
  },
  "neuropace:greenhouse:6255862004": {
@@ -17853,31 +17785,6 @@
   "extracted_at": "2026-11-20T14:00:38+00:00",
   "model": "claude-haiku-5-5"
  },
- "hemispheric:greenhouse:5026723101": {
-  "seniority": "mid",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": 3,
-  "required_skills": [
-   "Python",
-   "Interactive or real-time application development",
-   "C++, Rust, Go, C#, or Swift (at least one)"
-  ],
-  "preferred_skills": [
-   "Game engines",
-   "ML workflows",
-   "Research team experience"
-  ],
-  "domain": "software_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Design and build scientifically-driven interactive experiences for the brain data collection platform and foundation models.",
-  "text_hash": "939183d5e894",
-  "extracted_at": "2026-11-20T14:00:38+00:00",
-  "model": "claude-haiku-5-5"
- },
  "hemispheric:greenhouse:4998305101": {
   "seniority": "unknown",
   "employment_type": "unknown",
@@ -17984,29 +17891,6 @@
   "salary": "",
   "summary": "Own digital lead generation for two Israeli EEG data-collection sites, generating more than 1,000 new participant leads per month through Meta and TikTok campaigns and short-form video.",
   "text_hash": "44973578c341",
-  "extracted_at": "2026-11-20T14:00:43+00:00",
-  "model": "claude-haiku-5-5"
- },
- "hemispheric:greenhouse:4970802101": {
-  "seniority": "unknown",
-  "employment_type": "unknown",
-  "work_mode": "onsite",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [
-   "Clinical research participant recruitment",
-   "Experience working with patients or participants with mental health disorders",
-   "Leadership",
-   "Communication",
-   "Problem-solving"
-  ],
-  "preferred_skills": [],
-  "domain": "research_science",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Oversee clinical research shifts and participant recruitment for Hemispheric's EEG-based diagnostics work in a fast-paced technical environment.",
-  "text_hash": "49acbb7f10d7",
   "extracted_at": "2026-11-20T14:00:43+00:00",
   "model": "claude-haiku-5-5"
  },
@@ -21872,23 +21756,6 @@
   "extracted_at": "2026-11-21T13:22:39+00:00",
   "model": "claude-haiku-5-5"
  },
- "nextmind:page:6d4d44f14ef2": {
-  "seniority": "unknown",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "business_operations",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Listed under Snap's Partnerships team (SPECS) in Bellevue or Sunnyvale; the posting gives only the title and locations, with no responsibilities or requirements stated.",
-  "text_hash": "9c70974af270",
-  "extracted_at": "2026-11-21T13:22:39+00:00",
-  "model": "claude-haiku-5-5"
- },
  "nextmind:page:99d16fba696f": {
   "seniority": "lead",
   "employment_type": "unknown",
@@ -23114,6 +22981,67 @@
   "summary": "Sets SetPoint Medical's overall people strategy and leads all Human Resources functions as a trusted executive reporting to the CEO.",
   "text_hash": "cd17a318ad40",
   "extracted_at": "2026-11-22T13:12:58+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "mintneuro:page:a5e52f13a44f": {
+  "status": "no_text",
+  "extracted_at": "2026-11-23T15:54:20+00:00"
+ },
+ "nextmind:page:1b956f3603e9": {
+  "seniority": "unknown",
+  "employment_type": "unknown",
+  "work_mode": "unknown",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [],
+  "preferred_skills": [],
+  "domain": "business_operations",
+  "visa_sponsorship": "not_stated",
+  "salary": "\"\"",
+  "summary": "Manage technical partnerships for Snap's SPECS enterprise solutions; the posting is only a careers-page listing (Partnerships team, Regular, Bellevue or Sunnyvale) with no description, requirements, or compensation.",
+  "text_hash": "c1fce48560a8",
+  "extracted_at": "2026-11-23T15:54:24+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "hemispheric:greenhouse:5044081101": {
+  "seniority": "lead",
+  "employment_type": "unknown",
+  "work_mode": "onsite",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [
+   "Clinical research participant recruitment",
+   "Experience with mental health patient populations",
+   "Leadership",
+   "Communication",
+   "Problem-solving"
+  ],
+  "preferred_skills": [],
+  "domain": "clinical",
+  "visa_sponsorship": "not_stated",
+  "salary": "",
+  "summary": "Lead participant recruitment and oversee clinical research shifts for EEG-based diagnostics work in a fast-paced technical environment.",
+  "text_hash": "49acbb7f10d7",
+  "extracted_at": "2026-11-23T15:54:24+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "cerebriu:page:57b845b96586": {
+  "seniority": "unknown",
+  "employment_type": "unknown",
+  "work_mode": "unknown",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [],
+  "preferred_skills": [],
+  "domain": "other",
+  "visa_sponsorship": "not_stated",
+  "salary": "",
+  "summary": "Clinical Solutions Specialist role at Cerebriu, a brain-MRI AI company; the posting gives only a teaser and no responsibilities, qualifications, location, or employment terms.",
+  "text_hash": "32b57ed59b73",
+  "extracted_at": "2026-11-23T15:54:24+00:00",
   "model": "claude-haiku-5-5"
  }
 }

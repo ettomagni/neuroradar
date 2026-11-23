@@ -25400,7 +25400,7 @@
    "Cognito Therapeutics",
    "NeuroEM Therapeutics"
   ],
-  "careers_status": "not_found",
+  "careers_status": "custom_page",
   "llm_checked_at": "2026-11-17T15:19:00+00:00",
   "profile": {
    "hq_city": "Tokyo",
@@ -25463,7 +25463,9 @@
    "updated_at": "2026-11-18T09:25:28+00:00",
    "model": "claude-haiku-5-5",
    "people_linkedin": {}
-  }
+  },
+  "careers_url": "https://sw-innovation.com/maintenance.html",
+  "ats": null
  },
  {
   "id": "spark-biomedical",
@@ -28880,7 +28882,7 @@
    "FinalSpark",
    "MaxWell Biosystems"
   ],
-  "careers_status": "not_found",
+  "careers_status": "site_http_0",
   "llm_checked_at": "2026-11-17T15:19:08+00:00",
   "profile": {
    "hq_city": "",
@@ -30778,7 +30780,7 @@
    "Purple Gaze",
    "NeuroBrave"
   ],
-  "careers_status": "site_http_0",
+  "careers_status": "not_found",
   "ats_rejected": [
    {
     "type": "greenhouse",
@@ -30865,7 +30867,8 @@
     "Jeff Beck": "https://www.linkedin.com/in/jeff-beck-6b5085196",
     "Dr. Alexander Kuck": "https://www.linkedin.com/in/dr-alexander-kuck-1a146075"
    }
-  }
+  },
+  "llm_checked_at": "2026-11-23T15:50:50+00:00"
  },
  {
   "id": "nubrain",
