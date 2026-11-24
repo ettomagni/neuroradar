@@ -7,8 +7,8 @@
   "source_url": "https://abilityneuro.com/careers/"
  },
  "blackrock-neurotech": {
-  "hash": "162989a656b1ed68",
-  "checked_at": "2026-11-23T15:53:25+00:00",
+  "hash": "87c020461a091351",
+  "checked_at": "2026-11-24T15:41:53+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -63,15 +63,15 @@
   "source_url": "https://blackrockneurotech.com/careers/"
  },
  "cahira-technologies": {
-  "hash": "221b01bc6f3c17eb",
-  "checked_at": "2026-11-23T15:53:24+00:00",
+  "hash": "cf5aca27c48c6a2b",
+  "checked_at": "2026-11-24T15:41:52+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "6ad290cc282ab22a",
-  "checked_at": "2026-11-23T15:53:21+00:00",
+  "hash": "1e1b335bf2675503",
+  "checked_at": "2026-11-24T15:41:49+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -353,8 +353,8 @@
   "source_url": "https://www.phosphoenix.nl/news-and-events/"
  },
  "precision-neuroscience": {
-  "hash": "65065fe32423358e",
-  "checked_at": "2026-11-19T14:16:08+00:00",
+  "hash": "89b484198e772583",
+  "checked_at": "2026-11-24T15:41:55+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -402,7 +402,7 @@
     "url": "https://www.precisionneuro.io/careers",
     "location": "New York, New York",
     "department": "Firmware",
-    "employment_type": "Intern",
+    "employment_type": "",
     "work_mode": "unknown"
    },
    {
@@ -412,13 +412,21 @@
     "department": "Product",
     "employment_type": "",
     "work_mode": "unknown"
+   },
+   {
+    "title": "ML Intern",
+    "url": "https://www.precisionneuro.io/careers",
+    "location": "New York, New York",
+    "department": "Machine Learning",
+    "employment_type": "",
+    "work_mode": "unknown"
    }
   ],
   "source_url": "https://www.precisionneuro.io/careers"
  },
  "science-corp": {
-  "hash": "391c7df3d20c9da8",
-  "checked_at": "2026-11-21T13:21:22+00:00",
+  "hash": "ad7bd92383fab9a2",
+  "checked_at": "2026-11-24T15:41:53+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://science.xyz/careers/"
@@ -586,11 +594,11 @@
   "source_url": "https://brymapp.com/careers"
  },
  "ctrl-labs": {
-  "hash": "54afdb4be4edc211",
-  "checked_at": "2026-11-22T13:12:36+00:00",
+  "hash": "fa39ae98351412d9",
+  "checked_at": "2026-11-24T15:41:54+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
-  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUC9P-hWiRLDJ3b02pZx7MHW0jfbT1p-0aA1MYcCkWhWW7ncN57PhZkX8_GvEHfv1I9VgA12iTpT0MKQUDkY0Oo_thqSfgNgbhgbBTqMwhRA5CQtrw"
+  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAhPbX6WZY2JmCP_IwDPWXqbsQtMlO4LDArvNDFKzQGPRoeWd_GMLdmIenlgvJdqOKlpcYoiYWgrIeSyK-k5OME0KTiWpfFeTyPq--bYastctU55A"
  },
  "flectothink": {
   "hash": "96304c961c74a40e",
@@ -600,8 +608,8 @@
   "source_url": "https://www.flexolinkai.com/pc/pc-en/index.html"
  },
  "i-braintech": {
-  "hash": "bc8412ecb6478a54",
-  "checked_at": "2026-11-23T15:53:27+00:00",
+  "hash": "7950cfd24a37a1c9",
+  "checked_at": "2026-11-24T15:41:58+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -678,15 +686,15 @@
   "jobs": []
  },
  "muse": {
-  "hash": "9456923b6f944c34",
-  "checked_at": "2026-11-23T15:53:25+00:00",
+  "hash": "726a9e4f7098e48e",
+  "checked_at": "2026-11-24T15:41:56+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Customer Care Team Lead",
     "url": "https://choosemuse.com/pages/careers",
     "location": "Toronto, Ontario",
-    "department": "",
+    "department": "Customer Care",
     "employment_type": "",
     "work_mode": "remote"
    }
@@ -694,8 +702,8 @@
   "source_url": "https://choosemuse.com/pages/careers"
  },
  "neurable": {
-  "hash": "93c1a41373039cf9",
-  "checked_at": "2026-11-19T14:16:13+00:00",
+  "hash": "1db18f4299c7236d",
+  "checked_at": "2026-11-24T15:41:57+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.neurable.com/"
@@ -708,15 +716,15 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "a4551c2b1bf1a8ee",
-  "checked_at": "2026-11-23T15:53:27+00:00",
+  "hash": "2ff88e06c8e1f0a3",
+  "checked_at": "2026-11-24T15:41:58+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
  },
  "nextmind": {
-  "hash": "35244ede45d43673",
-  "checked_at": "2026-11-23T15:54:10+00:00",
+  "hash": "933e2fe9a718b8cd",
+  "checked_at": "2026-11-24T15:42:49+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -752,14 +760,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Executive Assistant - 1 year FTC",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Abingdon",
-    "department": "Corporate",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Spectacles Student Worker -Software Engineer, Embedded",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Vienna",
@@ -778,7 +778,7 @@
    {
     "title": "Lead Data Scientist, Core, Level 6",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Data & Analytics",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -786,7 +786,7 @@
    {
     "title": "Senior Business Intelligence Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Data & Analytics",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -840,7 +840,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Design Engineer, Core Snapchat",
+    "title": "Design Engineer, Core",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Los Angeles",
     "department": "Engineering",
@@ -858,7 +858,7 @@
    {
     "title": "Director, Software Engineering, Product Eng",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -890,7 +890,7 @@
    {
     "title": "Electrical Engineer, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -898,7 +898,7 @@
    {
     "title": "Electrical Engineer, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Boulder; Los Angeles; Palo Alto",
+    "location": "Boulder; Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -952,14 +952,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Global Supply Manager (Silicon / OSAT)",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Palo Alto",
-    "department": "Engineering",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Integrated Circuit Design Verification Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Vancouver",
@@ -978,7 +970,7 @@
    {
     "title": "Machine Learning Engineer, Generative ML, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; New York; Palo Alto",
+    "location": "Los Angeles; New York; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1016,17 +1008,9 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Manager, Security Engineering, Identity Access Management",
+    "title": "Manager, Security Engineering, Production",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles",
-    "department": "Engineering",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Manager, Security Engineering, Production Security",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1034,7 +1018,7 @@
    {
     "title": "Manager, Software Engineering",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1042,7 +1026,7 @@
    {
     "title": "Manager, Software Engineering, Maps",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; New York; Palo Alto; San Francisco; Seattle",
+    "location": "Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1059,14 +1043,6 @@
     "title": "Materials Engineer, Optical Substrate",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Abingdon",
-    "department": "Engineering",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Mechatronics Engineer",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Vienna",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1098,7 +1074,7 @@
    {
     "title": "Principal Machine Learning Engineer, Platform Integrity, Level 7",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1106,7 +1082,7 @@
    {
     "title": "Principal Machine Learning Engineer, Signals and Measurement",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; Seattle",
+    "location": "Bellevue; Los Angeles; New York; Seattle; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1114,7 +1090,7 @@
    {
     "title": "Principal Software Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1146,7 +1122,7 @@
    {
     "title": "Privacy Engineer, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto",
+    "location": "Bellevue; Los Angeles; New York; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1194,7 +1170,7 @@
    {
     "title": "Security Engineer, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1202,7 +1178,7 @@
    {
     "title": "Security Engineer, Level 5, Detection & Response",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1210,7 +1186,7 @@
    {
     "title": "Security Engineer, Level 5, Offensive Security",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1226,7 +1202,7 @@
    {
     "title": "Software Engineer, Android, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1234,7 +1210,7 @@
    {
     "title": "Software Engineer, Android, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1242,15 +1218,7 @@
    {
     "title": "Software Engineer, Augmented Reality, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto; San Francisco",
-    "department": "Engineering",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Software Engineer, Backend, Level 4",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Los Angeles; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1258,7 +1226,7 @@
    {
     "title": "Software Engineer, Backend, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1290,7 +1258,7 @@
    {
     "title": "Software Engineer, Full Stack, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1298,7 +1266,7 @@
    {
     "title": "Software Engineer, Full Stack, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1306,7 +1274,7 @@
    {
     "title": "Software Engineer, iOS, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1322,7 +1290,7 @@
    {
     "title": "Software Engineer, ML Infrastructure, ML Platform Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1330,7 +1298,7 @@
    {
     "title": "Software Engineer, Specs C++, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1338,7 +1306,7 @@
    {
     "title": "Software Engineer, Specs Lenses C++, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1354,7 +1322,7 @@
    {
     "title": "Staff Security Engineer, Level 6, Application Security",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1362,7 +1330,7 @@
    {
     "title": "Staff Security Engineer, Level 6, Offensive Security",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1370,7 +1338,7 @@
    {
     "title": "Staff Software Engineer, Ads Signals and Measurement",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto",
+    "location": "Bellevue; Los Angeles; New York; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1378,7 +1346,7 @@
    {
     "title": "Staff Software Engineer, Android, Content",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1386,7 +1354,7 @@
    {
     "title": "Staff Software Engineer, Backend, Level 6",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1394,7 +1362,7 @@
    {
     "title": "Staff Software Engineer, Spam and Abuse",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Palo Alto; Santa Monica",
+    "location": "Bellevue; Santa Monica; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1410,7 +1378,7 @@
    {
     "title": "Thermal Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1466,7 +1434,7 @@
    {
     "title": "Application Engineer, CRM Technology, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Information Technology",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1474,7 +1442,7 @@
    {
     "title": "Applications Engineer, Level 3",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; Palo Alto",
+    "location": "Los Angeles; Sunnyvale",
     "department": "Information Technology",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1570,7 +1538,7 @@
    {
     "title": "Manager, SMC Marketing (B2B)",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Austin; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
+    "location": "Austin; Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Marketing",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1602,7 +1570,7 @@
    {
     "title": "Senior SMC Marketing Specialist (Paid Media)",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "New York; Palo Alto; San Francisco",
+    "location": "New York; San Francisco; Sunnyvale",
     "department": "Marketing",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1642,7 +1610,7 @@
    {
     "title": "Lead, Workday Integration Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "People",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1674,7 +1642,7 @@
    {
     "title": "Lead, Product Marketing Manager - Brand",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; New York; Palo Alto; San Francisco; Seattle",
+    "location": "Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Product",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1682,7 +1650,7 @@
    {
     "title": "Lead, Product Marketing Manager - Measurement",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Product",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1690,7 +1658,7 @@
    {
     "title": "Lead, SMC Advertiser Growth",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Austin; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
+    "location": "Austin; Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Product",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1698,7 +1666,7 @@
    {
     "title": "Product Manager, Ad Tech",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Chicago; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Chicago; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Product",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1786,24 +1754,8 @@
    {
     "title": "Staff Product Manager, Ads Measurement",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Chicago; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Chicago; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Product",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Staff, SMC Revenue Growth",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Austin; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
-    "department": "Product",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Lead Program Management, SMC Operations",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Austin; Los Angeles; New York; Palo Alto; San Francisco; Seattle",
-    "department": "Program/Project Management",
     "employment_type": "Regular",
     "work_mode": "unknown"
    },
@@ -1842,7 +1794,7 @@
    {
     "title": "Staff Research Scientist, Research",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto; San Francisco; Seattle",
+    "location": "Bellevue; Los Angeles; San Francisco; Seattle; Sunnyvale",
     "department": "Research",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2000,14 +1952,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Manager, Client Partner",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Chicago; Los Angeles; New York; Seattle",
-    "department": "Sales",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Senior Account Manager",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "London",
@@ -2090,7 +2034,7 @@
    {
     "title": "Staff, SMC Scaled Solutions",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Sales",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2114,7 +2058,7 @@
    {
     "title": "Manager, Technical Advertiser Solutions - SMC",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto",
+    "location": "Bellevue; Los Angeles; New York; Sunnyvale",
     "department": "Sales Operations",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2154,7 +2098,7 @@
    {
     "title": "Senior Manager, GTM Architect",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; New York; Palo Alto; San Francisco",
+    "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Sales Operations",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2184,9 +2128,17 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Security Technical Program Manager , Threat Informed Defense",
+    "title": "Senior Manager, Corporate Development",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Los Angeles; New York; San Francisco",
+    "department": "Strategy",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Security Technical Program Manager, Threat Informed Defense",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Technical Program Manager",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2202,7 +2154,7 @@
    {
     "title": "Security Technical Program Manager, Risk & Compliance, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles; Palo Alto",
+    "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Technical Program Manager",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2218,7 +2170,7 @@
    {
     "title": "Technical Program Manager, Monetization",
     "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; New York; Palo Alto; Santa Monica",
+    "location": "Bellevue; New York; Santa Monica; Sunnyvale",
     "department": "Technical Program Manager",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2264,8 +2216,8 @@
   "source_url": "https://sens.ai/careers"
  },
  "sharper-sense": {
-  "hash": "0352a7e630055b02",
-  "checked_at": "2026-11-18T13:47:53+00:00",
+  "hash": "167bc710bd2a0b55",
+  "checked_at": "2026-11-24T15:42:01+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2310,15 +2262,15 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "b3f79a97de810427",
-  "checked_at": "2026-11-23T15:53:27+00:00",
+  "hash": "0dee0dfb2565ddcb",
+  "checked_at": "2026-11-24T15:41:59+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
  },
  "alto-neuroscience": {
-  "hash": "4a21c430bd654c93",
-  "checked_at": "2026-11-19T14:16:19+00:00",
+  "hash": "cad86a254187a45a",
+  "checked_at": "2026-11-24T15:42:03+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2395,6 +2347,14 @@
    },
    {
     "title": "Senior Manager, Clinical Operations: People & Functional Leadership",
+    "url": "https://altoneuroscience.com/careers/",
+    "location": "Mountain View, CA",
+    "department": "Business Operations",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Software Engineer",
     "url": "https://altoneuroscience.com/careers/",
     "location": "Mountain View, CA",
     "department": "Business Operations",
@@ -2682,8 +2642,8 @@
   "source_url": "https://neuroeventlabs.com/careers"
  },
  "neuronostics": {
-  "hash": "21dd3404a4d8385b",
-  "checked_at": "2026-11-23T15:53:29+00:00",
+  "hash": "4d5e3d5e4b31f599",
+  "checked_at": "2026-11-24T15:42:01+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://www.neuronostics.com/careers/"
@@ -2827,8 +2787,8 @@
   "source_url": "https://zeto-inc.com/careers/"
  },
  "brainkey": {
-  "hash": "f2e35dd2639aa3e0",
-  "checked_at": "2026-11-23T15:53:30+00:00",
+  "hash": "5e69d001deda0508",
+  "checked_at": "2026-11-24T15:42:03+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.brainkey.ai/careers"
@@ -2897,8 +2857,8 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "f331d34e3902eb2a",
-  "checked_at": "2026-11-23T15:53:32+00:00",
+  "hash": "92f49e467e89fa31",
+  "checked_at": "2026-11-24T15:42:04+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
@@ -3288,8 +3248,8 @@
   "source_url": "https://tiposi.com/careers"
  },
  "uneeg-medical": {
-  "hash": "ca2922b8f86f5939",
-  "checked_at": "2026-11-22T13:12:44+00:00",
+  "hash": "d614475dc29cc784",
+  "checked_at": "2026-11-24T15:42:07+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3432,8 +3392,8 @@
   "source_url": "https://www.wellumio.com/careers"
  },
  "ampa-health": {
-  "hash": "a329448fb8e7b2fc",
-  "checked_at": "2026-11-19T14:16:23+00:00",
+  "hash": "d42f32751a3e359f",
+  "checked_at": "2026-11-24T15:42:07+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3453,7 +3413,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Client Onboarding & Events Coordinator",
+    "title": "Events & Client Onboarding Coordinator",
     "url": "https://www.ampahealth.com/careers",
     "location": "Remote (United States)",
     "department": "Growth",
@@ -3543,8 +3503,8 @@
   "source_url": "https://www.attuneneuro.com/careers"
  },
  "bioness-medical": {
-  "hash": "1337d8b62012dabc",
-  "checked_at": "2026-11-21T13:21:43+00:00",
+  "hash": "179cac4aa2886406",
+  "checked_at": "2026-11-24T15:42:06+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3559,8 +3519,8 @@
   "source_url": "https://bionessmedical.com/careers/"
  },
  "brainsway": {
-  "hash": "90d2ad9ab0ec41ba",
-  "checked_at": "2026-11-23T15:53:37+00:00",
+  "hash": "594d047b341dc8f9",
+  "checked_at": "2026-11-24T15:42:10+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/brainsway"
@@ -3573,8 +3533,8 @@
   "source_url": "https://www.ceregate.com/career/"
  },
  "charco-neurotech": {
-  "hash": "61b7af6b111d74f8",
-  "checked_at": "2026-11-21T13:21:44+00:00",
+  "hash": "303c2f4de343aa7a",
+  "checked_at": "2026-11-24T15:42:09+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://charconeurotech.com/about/"
@@ -3642,8 +3602,8 @@
   "source_url": "https://cordancemedical.com/our-culture/"
  },
  "curonix": {
-  "hash": "ce69ad978b07089c",
-  "checked_at": "2026-11-22T13:12:45+00:00",
+  "hash": "d6f18e8f0057d91d",
+  "checked_at": "2026-11-24T15:42:10+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://curonix.com/"
@@ -3695,8 +3655,8 @@
   "source_url": "https://www.electrocore.com/careers/"
  },
  "grey-matter-neurosciences": {
-  "hash": "c4bb251e6e2dfaad",
-  "checked_at": "2026-11-23T15:53:36+00:00",
+  "hash": "f499f66332cc2b2c",
+  "checked_at": "2026-11-24T15:42:12+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3711,8 +3671,8 @@
   "source_url": "https://greymatterneurosciences.com/careers/"
  },
  "inspire-medical-systems": {
-  "hash": "59b8a5ff68ae0c5f",
-  "checked_at": "2026-11-23T15:53:36+00:00",
+  "hash": "509ae92e875b401c",
+  "checked_at": "2026-11-24T15:42:15+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.inspiresleep.com/en-us/careers/"
@@ -3732,10 +3692,18 @@
   "source_url": "https://mainstaymedical.com/careers/"
  },
  "mobia-medical": {
-  "hash": "36af657b83602f89",
-  "checked_at": "2026-11-18T13:49:04+00:00",
+  "hash": "2dc446dbced1e1e3",
+  "checked_at": "2026-11-24T15:42:16+00:00",
   "page_kind": "job_listings",
   "jobs": [
+   {
+    "title": "Vice President, Clinical & Medical Affairs",
+    "url": "https://www.mobia.com/careers/",
+    "location": "Fridley, MN",
+    "department": "Clinical",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
    {
     "title": "Regional Director (Florida/Georgia)",
     "url": "https://www.mobia.com/careers/",
@@ -3894,10 +3862,18 @@
   "source_url": "https://www.neuronoff.com/employment"
  },
  "neuros-medical": {
-  "hash": "43bb02a9073bb328",
-  "checked_at": "2026-11-21T13:21:53+00:00",
+  "hash": "58b4aadb5fc03fd8",
+  "checked_at": "2026-11-24T15:42:16+00:00",
   "page_kind": "job_listings",
   "jobs": [
+   {
+    "title": "Clinical Specialist, Tennessee & Kentucky",
+    "url": "https://www.neurosmedical.com/employment",
+    "location": "Tennessee & Kentucky",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
    {
     "title": "Territory Manager, Houston & South Texas",
     "url": "https://www.neurosmedical.com/employment",
@@ -4010,8 +3986,8 @@
   "source_url": "https://www.openwater.health/careers-1"
  },
  "panaxium": {
-  "hash": "540842db5c48f0a2",
-  "checked_at": "2026-11-18T13:49:11+00:00",
+  "hash": "cec1dd8894884f55",
+  "checked_at": "2026-11-24T15:42:19+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4135,8 +4111,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "dd11032f26cef21f",
-  "checked_at": "2026-11-23T15:53:38+00:00",
+  "hash": "4534a967b5949ea0",
+  "checked_at": "2026-11-24T15:42:18+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4181,8 +4157,8 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "fb037f6eb6487b64",
-  "checked_at": "2026-11-23T15:53:40+00:00",
+  "hash": "4130616129dd9c3f",
+  "checked_at": "2026-11-24T15:42:20+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4490,8 +4466,8 @@
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "6e8d4dc66c34e1ab",
-  "checked_at": "2026-11-23T15:53:40+00:00",
+  "hash": "5b5766b852bb2d76",
+  "checked_at": "2026-11-24T15:42:22+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4545,8 +4521,8 @@
   "source_url": "https://www.cogweartech.com/careers-1"
  },
  "control-bionics": {
-  "hash": "a3ac07e690e1385b",
-  "checked_at": "2026-11-18T13:49:32+00:00",
+  "hash": "a24833ab2d8b45cf",
+  "checked_at": "2026-11-24T15:42:21+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://controlbionics.com/careers/"
@@ -4932,8 +4908,8 @@
   "source_url": "https://therasonic.fr/fr/careers/"
  },
  "vonova": {
-  "hash": "c3256fb6511b8762",
-  "checked_at": "2026-11-23T15:53:47+00:00",
+  "hash": "a5855e6a441f6e15",
+  "checked_at": "2026-11-24T15:42:22+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.youtube.com/watch?v=CfYh1rydP1w"

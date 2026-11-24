@@ -580,5 +580,73 @@
    },
    "equivalent_api_cost_usd": 0.0028
   }
+ },
+ {
+  "at": "2026-11-24T15:39:33+00:00",
+  "kind": "careers_llm",
+  "read": 33,
+  "unchanged": 133,
+  "errors": 5,
+  "switched_to_ats": 0,
+  "roles": 261,
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 32,
+   "refusals": 0,
+   "tokens": {
+    "input": 64,
+    "output": 34926,
+    "cache_read": 31030,
+    "cache_write": 113226
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0319
+  }
+ },
+ {
+  "at": "2026-11-24T15:42:49+00:00",
+  "kind": "careers",
+  "baseline": false,
+  "companies_checked": 212,
+  "companies_ok": 211,
+  "errors": {
+   "altoida": "RuntimeError: lever: HTTP 404"
+  },
+  "jobs_open": 940,
+  "jobs_new": 67,
+  "jobs_closed": 67
+ },
+ {
+  "at": "2026-11-24T15:43:09+00:00",
+  "kind": "requirements",
+  "extracted": 67,
+  "no_text": 0,
+  "errors": 0,
+  "mode": "direct",
+  "usage": {
+   "backend": "cli",
+   "model": "haiku",
+   "calls": 67,
+   "refusals": 0,
+   "tokens": {
+    "input": 136,
+    "output": 60607,
+    "cache_read": 89754,
+    "cache_write": 483091
+   },
+   "batch_tokens": {
+    "input": 0,
+    "output": 0,
+    "cache_read": 0,
+    "cache_write": 0
+   },
+   "equivalent_api_cost_usd": 0.0916
+  }
  }
 ]
