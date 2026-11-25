@@ -7,8 +7,8 @@
   "source_url": "https://abilityneuro.com/careers/"
  },
  "blackrock-neurotech": {
-  "hash": "87c020461a091351",
-  "checked_at": "2026-11-24T15:41:53+00:00",
+  "hash": "162989a656b1ed68",
+  "checked_at": "2026-11-25T15:26:32+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -70,8 +70,8 @@
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "1e1b335bf2675503",
-  "checked_at": "2026-11-24T15:41:49+00:00",
+  "hash": "78998a698fc189a4",
+  "checked_at": "2026-11-25T15:26:27+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -90,8 +90,8 @@
   "source_url": "https://fluentbci.com/careers/"
  },
  "gestala": {
-  "hash": "4587c765ec3e402d",
-  "checked_at": "2026-11-18T13:47:36+00:00",
+  "hash": "2ea7f3255fa6c1f7",
+  "checked_at": "2026-11-25T15:26:35+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -152,6 +152,14 @@
    },
    {
     "title": "Clinical Project Manager",
+    "url": "https://www.gestala.com/joinus",
+    "location": "Chengdu",
+    "department": "Clinical",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Clinical Field Engineer",
     "url": "https://www.gestala.com/joinus",
     "location": "Chengdu",
     "department": "Clinical",
@@ -346,15 +354,15 @@
   "source_url": "https://paradromics.com/careers/"
  },
  "phosphoenix": {
-  "hash": "a4745fbcece77ae7",
-  "checked_at": "2026-11-18T13:47:32+00:00",
-  "page_kind": "no_open_roles",
+  "hash": "90e29ab710ce2c52",
+  "checked_at": "2026-11-25T15:26:31+00:00",
+  "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.phosphoenix.nl/news-and-events/"
  },
  "precision-neuroscience": {
-  "hash": "89b484198e772583",
-  "checked_at": "2026-11-24T15:41:55+00:00",
+  "hash": "3727947f8a952407",
+  "checked_at": "2026-11-25T15:26:33+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -362,6 +370,14 @@
     "url": "https://www.precisionneuro.io/careers",
     "location": "New York, New York",
     "department": "Mechanical Engineering",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Senior Quality Reliability Engineer",
+    "url": "https://www.precisionneuro.io/careers",
+    "location": "Addison, Texas",
+    "department": "Quality",
     "employment_type": "",
     "work_mode": "unknown"
    },
@@ -402,7 +418,7 @@
     "url": "https://www.precisionneuro.io/careers",
     "location": "New York, New York",
     "department": "Firmware",
-    "employment_type": "",
+    "employment_type": "Intern",
     "work_mode": "unknown"
    },
    {
@@ -418,7 +434,7 @@
     "url": "https://www.precisionneuro.io/careers",
     "location": "New York, New York",
     "department": "Machine Learning",
-    "employment_type": "",
+    "employment_type": "Intern",
     "work_mode": "unknown"
    }
   ],
@@ -432,14 +448,14 @@
   "source_url": "https://science.xyz/careers/"
  },
  "stairmed": {
-  "hash": "5aa148ba795e89c5",
-  "checked_at": "2026-11-20T13:57:25+00:00",
+  "hash": "c89fd4c80eb33762",
+  "checked_at": "2026-11-25T15:26:31+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
  "synchron": {
-  "hash": "df19246792305e33",
-  "checked_at": "2026-11-21T13:21:23+00:00",
+  "hash": "70f7b94565cedfcf",
+  "checked_at": "2026-11-25T15:26:36+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -476,6 +492,14 @@
    },
    {
     "title": "Mechanical Engineering Manager - Advanced Medical Devices",
+    "url": "https://synchron.com/careers",
+    "location": "San Diego, CA",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Microfabrication Engineering Manager",
     "url": "https://synchron.com/careers",
     "location": "San Diego, CA",
     "department": "",
@@ -548,8 +572,8 @@
   "source_url": "https://apolloneuro.applytojob.com/"
  },
  "bia-neuroscience": {
-  "hash": "72ad19a02ebd7d94",
-  "checked_at": "2026-11-19T14:16:09+00:00",
+  "hash": "589e2a88376c306b",
+  "checked_at": "2026-11-25T15:26:35+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://getbia.com/careers"
@@ -594,11 +618,11 @@
   "source_url": "https://brymapp.com/careers"
  },
  "ctrl-labs": {
-  "hash": "fa39ae98351412d9",
-  "checked_at": "2026-11-24T15:41:54+00:00",
+  "hash": "8b22ba2276cea891",
+  "checked_at": "2026-11-25T15:26:35+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
-  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAhPbX6WZY2JmCP_IwDPWXqbsQtMlO4LDArvNDFKzQGPRoeWd_GMLdmIenlgvJdqOKlpcYoiYWgrIeSyK-k5OME0KTiWpfFeTyPq--bYastctU55A"
+  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAwqKcMs1aN6-3T_smGDN0UqdJvggvV5gGPZ5L_Cb8zPhvytwRuwHd3CMrDcnRGPCCqaurvaVwwRgrsFfxOGsRgX_t6rr6tSk4qCL6gBgyCSwbyRg"
  },
  "flectothink": {
   "hash": "96304c961c74a40e",
@@ -608,8 +632,8 @@
   "source_url": "https://www.flexolinkai.com/pc/pc-en/index.html"
  },
  "i-braintech": {
-  "hash": "7950cfd24a37a1c9",
-  "checked_at": "2026-11-24T15:41:58+00:00",
+  "hash": "ce95a0093f299b79",
+  "checked_at": "2026-11-25T15:26:39+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -686,15 +710,15 @@
   "jobs": []
  },
  "muse": {
-  "hash": "726a9e4f7098e48e",
-  "checked_at": "2026-11-24T15:41:56+00:00",
+  "hash": "c4378e1b87f1d460",
+  "checked_at": "2026-11-25T15:26:38+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Customer Care Team Lead",
     "url": "https://choosemuse.com/pages/careers",
     "location": "Toronto, Ontario",
-    "department": "Customer Care",
+    "department": "",
     "employment_type": "",
     "work_mode": "remote"
    }
@@ -716,15 +740,15 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "2ff88e06c8e1f0a3",
-  "checked_at": "2026-11-24T15:41:58+00:00",
+  "hash": "1561f10fc161997f",
+  "checked_at": "2026-11-25T15:26:39+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
  },
  "nextmind": {
-  "hash": "933e2fe9a718b8cd",
-  "checked_at": "2026-11-24T15:42:49+00:00",
+  "hash": "1efb47f96ae8f043",
+  "checked_at": "2026-11-25T15:27:36+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -827,14 +851,6 @@
     "title": "Computer Vision Engineer, Data Capture",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Vienna",
-    "department": "Engineering",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Custom IC Layout Engineer",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Vancouver",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -952,6 +968,14 @@
     "work_mode": "unknown"
    },
    {
+    "title": "Global Supply Manager (Silicon / OSAT)",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Sunnyvale",
+    "department": "Engineering",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
     "title": "Integrated Circuit Design Verification Engineer",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Vancouver",
@@ -1008,7 +1032,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Manager, Security Engineering, Production",
+    "title": "Manager, Security Engineering, Production Security",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Los Angeles; Sunnyvale",
     "department": "Engineering",
@@ -1200,6 +1224,14 @@
     "work_mode": "unknown"
    },
    {
+    "title": "Silicon Architect",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Eindhoven",
+    "department": "Engineering",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
     "title": "Software Engineer, Android, Level 4",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; New York; San Francisco; Sunnyvale",
@@ -1307,6 +1339,14 @@
     "title": "Software Engineer, Specs Lenses C++, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; San Francisco; Sunnyvale",
+    "department": "Engineering",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Solutions Engineer",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Singapore",
     "department": "Engineering",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1536,7 +1576,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Manager, SMC Marketing (B2B)",
+    "title": "Manager, SMC",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Austin; Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
     "department": "Marketing",
@@ -1600,7 +1640,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Technical Partner Manager, Enterprise Solutions SPECS",
+    "title": "Technical Partner Manager, Enterprise Solutions",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Sunnyvale",
     "department": "Partnerships",
@@ -1659,14 +1699,6 @@
     "title": "Lead, SMC Advertiser Growth",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Austin; Los Angeles; New York; San Francisco; Seattle; Sunnyvale",
-    "department": "Product",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Product Manager, Ad Tech",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Chicago; Los Angeles; New York; San Francisco; Sunnyvale",
     "department": "Product",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -1752,6 +1784,14 @@
     "work_mode": "unknown"
    },
    {
+    "title": "Staff Product Manager, Ad Tech",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Bellevue; Chicago; Los Angeles; New York; San Francisco; Sunnyvale",
+    "department": "Product",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
     "title": "Staff Product Manager, Ads Measurement",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Chicago; Los Angeles; New York; San Francisco; Sunnyvale",
@@ -1832,14 +1872,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Associate Agency Partner",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "New York",
-    "department": "Sales",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Associate Client Partner",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Los Angeles; New York",
@@ -1875,14 +1907,6 @@
     "title": "Client Partner - Business Development - Russian and/or Ukrainian language",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "London",
-    "department": "Sales",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Client Partner, SMC",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Austin; Los Angeles; New York",
     "department": "Sales",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2072,14 +2096,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Sales Operations Coordinator",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Chicago; Los Angeles; New York",
-    "department": "Sales Operations",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Sales Operations Lead",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Mumbai",
@@ -2136,7 +2152,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Security Technical Program Manager, Threat Informed Defense",
+    "title": "Security Technical Program Manager , Threat Informed Defense",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Sunnyvale",
     "department": "Technical Program Manager",
@@ -2155,6 +2171,14 @@
     "title": "Security Technical Program Manager, Risk & Compliance, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Sunnyvale",
+    "department": "Technical Program Manager",
+    "employment_type": "Regular",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Technical Program Manager - Level 4",
+    "url": "https://careers.snap.com/jobs?lang=en-US",
+    "location": "Los Angeles; Palo Alto",
     "department": "Technical Program Manager",
     "employment_type": "Regular",
     "work_mode": "unknown"
@@ -2200,15 +2224,15 @@
   "source_url": "https://www.prophetic.com/careers"
  },
  "sens-ai": {
-  "hash": "c934caa09c996d7d",
-  "checked_at": "2026-11-21T13:21:34+00:00",
+  "hash": "98528cbfaa35c444",
+  "checked_at": "2026-11-25T15:26:41+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "UX & Graphic Designer",
     "url": "https://sens.ai/careers",
     "location": "Vancouver, BC, Canada",
-    "department": "Marketing & Product",
+    "department": "Marketing and Product",
     "employment_type": "Full-Time, Employment or Contract",
     "work_mode": "remote"
    }
@@ -2262,15 +2286,15 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "0dee0dfb2565ddcb",
-  "checked_at": "2026-11-24T15:41:59+00:00",
+  "hash": "beb7d2cc5716ae54",
+  "checked_at": "2026-11-25T15:26:41+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
  },
  "alto-neuroscience": {
-  "hash": "cad86a254187a45a",
-  "checked_at": "2026-11-24T15:42:03+00:00",
+  "hash": "52f55b32d0dd3017",
+  "checked_at": "2026-11-25T15:26:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2338,14 +2362,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Senior Manager, CMC Quality Assurance",
-    "url": "https://altoneuroscience.com/careers/",
-    "location": "Mountain View, CA",
-    "department": "Business Operations",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Senior Manager, Clinical Operations: People & Functional Leadership",
     "url": "https://altoneuroscience.com/careers/",
     "location": "Mountain View, CA",
@@ -2388,8 +2404,8 @@
   "source_url": "https://braincheck.com/about/careers/"
  },
  "brainify-ai": {
-  "hash": "5c7b6fb568771d13",
-  "checked_at": "2026-11-18T13:47:53+00:00",
+  "hash": "7f8ba0f515acd465",
+  "checked_at": "2026-11-25T15:26:41+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -2426,8 +2442,8 @@
   "source_url": "https://www.brainscope.com/careers"
  },
  "cambridge-cognition": {
-  "hash": "cf4ae110432172e1",
-  "checked_at": "2026-11-21T13:21:38+00:00",
+  "hash": "b9adfe3e4e3e3c2b",
+  "checked_at": "2026-11-25T15:26:46+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2439,25 +2455,17 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Intern Placement",
-    "url": "https://careers.cambridgecognition.com/",
-    "location": "Bottisham Office",
-    "department": "Science",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Japanese Linguistic Consultant",
     "url": "https://careers.cambridgecognition.com/",
-    "location": "Fully Remote",
-    "department": "Remote Employees in Canada",
+    "location": "Remote Employees in Canada",
+    "department": "",
     "employment_type": "",
     "work_mode": "remote"
    },
    {
     "title": "Bulgarian Transcriptionist and Speech Recognition QA",
     "url": "https://careers.cambridgecognition.com/",
-    "location": "Bottisham Office / Fully Remote",
+    "location": "Bottisham Office",
     "department": "",
     "employment_type": "",
     "work_mode": "remote"
@@ -2465,10 +2473,18 @@
    {
     "title": "Polish Transcriptionist and Speech Recognition QA",
     "url": "https://careers.cambridgecognition.com/",
-    "location": "Bottisham Office / Fully Remote",
+    "location": "Bottisham Office",
     "department": "",
     "employment_type": "",
     "work_mode": "remote"
+   },
+   {
+    "title": "Senior Product Manager, Clinical",
+    "url": "https://careers.cambridgecognition.com/",
+    "location": "Bottisham Office",
+    "department": "Product",
+    "employment_type": "",
+    "work_mode": "hybrid"
    }
   ],
   "source_url": "https://careers.cambridgecognition.com/"
@@ -2481,8 +2497,8 @@
   "source_url": "https://www.cortechs.ai/careers/"
  },
  "empatica": {
-  "hash": "db36820a852a080b",
-  "checked_at": "2026-11-21T13:21:39+00:00",
+  "hash": "2a28839f6fc806c6",
+  "checked_at": "2026-11-25T15:26:46+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2510,10 +2526,10 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Sales Manager Neurology",
+    "title": "Sales Manager",
     "url": "https://www.empatica.com/careers",
     "location": "Boston, United States",
-    "department": "Sales",
+    "department": "Neurology Sales",
     "employment_type": "",
     "work_mode": "unknown"
    }
@@ -2542,8 +2558,8 @@
   "source_url": "https://linushealth.com/about/careers"
  },
  "machine-medicine": {
-  "hash": "060e991e3ca94ab9",
-  "checked_at": "2026-11-20T13:57:33+00:00",
+  "hash": "cbbb5c73c52b76b4",
+  "checked_at": "2026-11-25T15:26:48+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2734,15 +2750,15 @@
   "source_url": "https://runelabs.io/careers"
  },
  "time-is-brain": {
-  "hash": "ba00a76e5773642d",
-  "checked_at": "2026-11-18T13:48:19+00:00",
+  "hash": "547b8caeaf17a5c0",
+  "checked_at": "2026-11-25T15:26:52+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
-    "title": "TECHNICAL SUPPORT SERVICE (SAT)",
+    "title": "Technical Support Service (SAT)",
     "url": "https://www.tibtimeisbrain.com/job-opportunities/",
     "location": "",
-    "department": "",
+    "department": "Technical Support",
     "employment_type": "",
     "work_mode": "unknown"
    },
@@ -2750,7 +2766,7 @@
     "title": "Hardware & Firmware Engineer",
     "url": "https://www.tibtimeisbrain.com/job-opportunities/",
     "location": "",
-    "department": "",
+    "department": "R&D",
     "employment_type": "",
     "work_mode": "hybrid"
    },
@@ -2758,7 +2774,7 @@
     "title": "Machine Learning Engineer",
     "url": "https://www.tibtimeisbrain.com/job-opportunities/",
     "location": "",
-    "department": "",
+    "department": "R&D",
     "employment_type": "",
     "work_mode": "hybrid"
    }
@@ -2857,8 +2873,8 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "92f49e467e89fa31",
-  "checked_at": "2026-11-24T15:42:04+00:00",
+  "hash": "5279add1c8d7ef3d",
+  "checked_at": "2026-11-25T15:26:49+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
@@ -3019,20 +3035,20 @@
   "source_url": "https://www.qmenta.com/jobs"
  },
  "quantalx-neuroscience": {
-  "hash": "101ebab06be4cc72",
-  "checked_at": "2026-11-18T13:48:34+00:00",
+  "hash": "811beb6b3ec8df79",
+  "checked_at": "2026-11-25T15:26:50+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.quantalx.com/about"
  },
  "subtle-medical": {
-  "hash": "b5ff2b0c564f6755",
-  "checked_at": "2026-11-18T13:48:37+00:00",
+  "hash": "93ca69611f5b2f86",
+  "checked_at": "2026-11-25T15:26:53+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Senior Platform Engineer",
-    "url": "https://subtlemedical.com/careers/",
+    "url": "https://subtlemedical.com/careers",
     "location": "USA",
     "department": "Engineering",
     "employment_type": "",
@@ -3040,15 +3056,15 @@
    },
    {
     "title": "Machine Learning Software Engineer",
-    "url": "https://subtlemedical.com/careers/",
-    "location": "SF Bay area",
+    "url": "https://subtlemedical.com/careers",
+    "location": "SF Bay area USA",
     "department": "Engineering",
     "employment_type": "",
     "work_mode": "unknown"
    },
    {
     "title": "Director, People and Culture",
-    "url": "https://subtlemedical.com/careers/",
+    "url": "https://subtlemedical.com/careers",
     "location": "",
     "department": "G&A",
     "employment_type": "",
@@ -3056,21 +3072,21 @@
    },
    {
     "title": "Head of International Sales",
-    "url": "https://subtlemedical.com/careers/",
+    "url": "https://subtlemedical.com/careers",
     "location": "Europe",
     "department": "Sales",
     "employment_type": "",
     "work_mode": "remote"
    }
   ],
-  "source_url": "https://subtlemedical.com/careers/"
+  "source_url": "https://subtlemedical.com/careers"
  },
  "synaptive-medical": {
-  "hash": "f77dbbf5c952e3b7",
-  "checked_at": "2026-11-18T13:48:38+00:00",
+  "hash": "5e60592821326a04",
+  "checked_at": "2026-11-25T15:26:55+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
-  "source_url": "https://www.synaptivemedical.com/careers"
+  "source_url": "https://www.globusmedical.com/about/careers/"
  },
  "theta-neurotech": {
   "hash": "cf5aca27c48c6a2b",
@@ -3519,8 +3535,8 @@
   "source_url": "https://bionessmedical.com/careers/"
  },
  "brainsway": {
-  "hash": "594d047b341dc8f9",
-  "checked_at": "2026-11-24T15:42:10+00:00",
+  "hash": "90d2ad9ab0ec41ba",
+  "checked_at": "2026-11-25T15:26:56+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/brainsway"
@@ -3533,8 +3549,8 @@
   "source_url": "https://www.ceregate.com/career/"
  },
  "charco-neurotech": {
-  "hash": "303c2f4de343aa7a",
-  "checked_at": "2026-11-24T15:42:09+00:00",
+  "hash": "bcf989887ddfc426",
+  "checked_at": "2026-11-25T15:26:56+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://charconeurotech.com/about/"
@@ -3547,8 +3563,8 @@
   "source_url": "https://careers.cionic.com/"
  },
  "coherence-neuro": {
-  "hash": "b9d750c528b6085d",
-  "checked_at": "2026-11-18T13:48:55+00:00",
+  "hash": "e386786b170b2d80",
+  "checked_at": "2026-11-25T15:26:59+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3560,20 +3576,12 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Electrical Engineer, Implant Electronics",
-    "url": "https://www.coherenceneuro.com/careers",
-    "location": "San Francisco",
-    "department": "Implant Engineering",
-    "employment_type": "Full Time",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Principal Electrical Engineer, Implant Electronics",
     "url": "https://www.coherenceneuro.com/careers",
     "location": "San Francisco",
-    "department": "",
+    "department": "Product Development",
     "employment_type": "Full Time",
-    "work_mode": "unknown"
+    "work_mode": "onsite"
    },
    {
     "title": "Senior Design Assurance Engineer",
@@ -3655,8 +3663,8 @@
   "source_url": "https://www.electrocore.com/careers/"
  },
  "grey-matter-neurosciences": {
-  "hash": "f499f66332cc2b2c",
-  "checked_at": "2026-11-24T15:42:12+00:00",
+  "hash": "df24605a7b0f03cb",
+  "checked_at": "2026-11-25T15:26:59+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3671,8 +3679,8 @@
   "source_url": "https://greymatterneurosciences.com/careers/"
  },
  "inspire-medical-systems": {
-  "hash": "509ae92e875b401c",
-  "checked_at": "2026-11-24T15:42:15+00:00",
+  "hash": "a6e4fb7536bb6183",
+  "checked_at": "2026-11-25T15:26:59+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.inspiresleep.com/en-us/careers/"
@@ -3685,17 +3693,25 @@
   "source_url": "https://www.magnetictides.com/joinus"
  },
  "mainstay-medical": {
-  "hash": "bdf8d2b6a64f1802",
-  "checked_at": "2026-11-21T13:21:49+00:00",
+  "hash": "0abc44b53cf78fd5",
+  "checked_at": "2026-11-25T15:27:01+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://mainstaymedical.com/careers/"
  },
  "mobia-medical": {
-  "hash": "2dc446dbced1e1e3",
-  "checked_at": "2026-11-24T15:42:16+00:00",
+  "hash": "bbceb1ef726aff07",
+  "checked_at": "2026-11-25T15:27:06+00:00",
   "page_kind": "job_listings",
   "jobs": [
+   {
+    "title": "Product Manager",
+    "url": "https://www.mobia.com/careers/",
+    "location": "Newport Beach, CA",
+    "department": "Strategy & Growth",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
    {
     "title": "Vice President, Clinical & Medical Affairs",
     "url": "https://www.mobia.com/careers/",
@@ -3761,6 +3777,14 @@
     "work_mode": "unknown"
    },
    {
+    "title": "Territory Manager - Cleveland, OH",
+    "url": "https://www.mobia.com/careers/",
+    "location": "Cleveland, OH",
+    "department": "Sales",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
     "title": "Therapy Development Specialist (Dallas)",
     "url": "https://www.mobia.com/careers/",
     "location": "Dallas, TX",
@@ -3796,6 +3820,14 @@
     "title": "Therapy Development Specialist (Virginia Beach)",
     "url": "https://www.mobia.com/careers/",
     "location": "Virginia Beach, VA",
+    "department": "Sales",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Therapy Development Specialist - Columbus, OH",
+    "url": "https://www.mobia.com/careers/",
+    "location": "Columbus, OH",
     "department": "Sales",
     "employment_type": "",
     "work_mode": "unknown"
@@ -3862,10 +3894,18 @@
   "source_url": "https://www.neuronoff.com/employment"
  },
  "neuros-medical": {
-  "hash": "58b4aadb5fc03fd8",
-  "checked_at": "2026-11-24T15:42:16+00:00",
+  "hash": "315ec8a1de4c15f5",
+  "checked_at": "2026-11-25T15:27:04+00:00",
   "page_kind": "job_listings",
   "jobs": [
+   {
+    "title": "Clinical Specialist, North & South Carolina",
+    "url": "https://www.neurosmedical.com/employment",
+    "location": "North & South Carolina",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
    {
     "title": "Clinical Specialist, Tennessee & Kentucky",
     "url": "https://www.neurosmedical.com/employment",
@@ -3891,7 +3931,7 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Program Manager, Training & Education",
+    "title": "Medical Education & Sales Training Program Manager",
     "url": "https://www.neurosmedical.com/employment",
     "location": "",
     "department": "",
@@ -4034,8 +4074,8 @@
   "source_url": "https://pmneuro.com/about-us/careers/"
  },
  "precisis": {
-  "hash": "a93ab95567b06de4",
-  "checked_at": "2026-11-18T13:49:13+00:00",
+  "hash": "d8eecc38fd433286",
+  "checked_at": "2026-11-25T15:27:04+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4048,6 +4088,14 @@
    },
    {
     "title": "HR Specialist",
+    "url": "https://precisis.de/en/career/",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "(Senior) Expert Clinical Evaluation",
     "url": "https://precisis.de/en/career/",
     "location": "",
     "department": "",
@@ -4111,8 +4159,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "4534a967b5949ea0",
-  "checked_at": "2026-11-24T15:42:18+00:00",
+  "hash": "1fe721a73928a720",
+  "checked_at": "2026-11-25T15:27:06+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4157,10 +4205,58 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "4130616129dd9c3f",
-  "checked_at": "2026-11-24T15:42:20+00:00",
+  "hash": "12431cb21dc92fd1",
+  "checked_at": "2026-11-25T15:27:09+00:00",
   "page_kind": "job_listings",
   "jobs": [
+   {
+    "title": "Operations Analyst I",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Clinical Manager, Safety and Compliance",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Clinical Manager, Post-Market Studies and Registries",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Technical Writer (Contract)",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "Contract",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Customer Success Specialist I",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
+   {
+    "title": "Sr. Administrative Assistant",
+    "url": "https://setpointmedical.com/company/#careers",
+    "location": "",
+    "department": "",
+    "employment_type": "",
+    "work_mode": "unknown"
+   },
    {
     "title": "Talent Acquisition Manager",
     "url": "https://setpointmedical.com/company/#careers",
@@ -4187,38 +4283,6 @@
    },
    {
     "title": "Vice President, Human Resources",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Operations Analyst I",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Technical Writer (Contract)",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "Contract",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Clinical Manager, Post-Market Studies and Registries",
-    "url": "https://setpointmedical.com/company/#careers",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Clinical Manager, Safety and Compliance",
     "url": "https://setpointmedical.com/company/#careers",
     "location": "",
     "department": "",
@@ -4434,23 +4498,15 @@
   "source_url": "https://www.bitbrain.com/careers"
  },
  "brain-q": {
-  "hash": "28434790d8453482",
-  "checked_at": "2026-11-18T13:49:33+00:00",
+  "hash": "864865670f39959f",
+  "checked_at": "2026-11-25T15:27:12+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Sales & Patient Enrollment Representative",
     "url": "https://brainqtech.com/careers",
-    "location": "",
+    "location": "Israel",
     "department": "Sales",
-    "employment_type": "Full-time",
-    "work_mode": "hybrid"
-   },
-   {
-    "title": "Patient Success Specialist",
-    "url": "https://brainqtech.com/careers",
-    "location": "Modi’in",
-    "department": "Patient Success",
     "employment_type": "Full-time",
     "work_mode": "hybrid"
    },
@@ -4461,13 +4517,21 @@
     "department": "Clinical & research",
     "employment_type": "Full-time",
     "work_mode": "unknown"
+   },
+   {
+    "title": "Director of Clinical & Regulatory Affairs",
+    "url": "https://brainqtech.com/careers",
+    "location": "Tel Aviv, Israel",
+    "department": "",
+    "employment_type": "Full time",
+    "work_mode": "hybrid"
    }
   ],
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "5b5766b852bb2d76",
-  "checked_at": "2026-11-24T15:42:22+00:00",
+  "hash": "6d424c03d1bd2f9c",
+  "checked_at": "2026-11-25T15:27:11+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4528,8 +4592,8 @@
   "source_url": "https://controlbionics.com/careers/"
  },
  "cortical-labs": {
-  "hash": "10c2ad07b3c791e6",
-  "checked_at": "2026-11-18T13:49:34+00:00",
+  "hash": "8831614d33f45ebd",
+  "checked_at": "2026-11-25T15:27:11+00:00",
   "page_kind": "general_application_only",
   "jobs": [],
   "source_url": "https://corticallabs.com/careers"
@@ -4542,8 +4606,8 @@
   "source_url": "https://craniustherapeutics.com/careers"
  },
  "frontier-computing": {
-  "hash": "5a42898c6bdb1f2f",
-  "checked_at": "2026-11-23T15:53:42+00:00",
+  "hash": "602fe23bf8ac361e",
+  "checked_at": "2026-11-25T15:27:14+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4880,8 +4944,8 @@
   "jobs": []
  },
  "pieeg": {
-  "hash": "228582bc3d3280f1",
-  "checked_at": "2026-11-23T15:53:47+00:00",
+  "hash": "6c38bb1c10154638",
+  "checked_at": "2026-11-25T15:27:14+00:00",
   "page_kind": "general_application_only",
   "jobs": [],
   "source_url": "https://www.pieeg.com/job"
@@ -4908,8 +4972,8 @@
   "source_url": "https://therasonic.fr/fr/careers/"
  },
  "vonova": {
-  "hash": "a5855e6a441f6e15",
-  "checked_at": "2026-11-24T15:42:22+00:00",
+  "hash": "99d2380d7e3d3fcc",
+  "checked_at": "2026-11-25T15:27:14+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.youtube.com/watch?v=CfYh1rydP1w"
