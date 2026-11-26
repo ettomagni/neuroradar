@@ -211,10 +211,6 @@
   "status": "no_text",
   "extracted_at": "2026-11-18T13:50:37+00:00"
  },
- "arbor-neurotech:lever:bc008a90-c524-4723-9cc6-536987e3ee2f": {
-  "status": "no_text",
-  "extracted_at": "2026-11-18T13:50:37+00:00"
- },
  "arbor-neurotech:lever:571a9816-f599-4185-a497-2d5434c305cd": {
   "status": "no_text",
   "extracted_at": "2026-11-18T13:50:37+00:00"
@@ -324,10 +320,6 @@
   "extracted_at": "2026-11-18T13:50:37+00:00"
  },
  "arbor-neurotech:lever:cb348584-c619-427e-8a17-30e9ea4750a2": {
-  "status": "no_text",
-  "extracted_at": "2026-11-18T13:50:37+00:00"
- },
- "arbor-neurotech:lever:405f0b71-46d5-48a8-9f4d-b02de4aaeeb4": {
   "status": "no_text",
   "extracted_at": "2026-11-18T13:50:37+00:00"
  },
@@ -1829,23 +1821,6 @@
   "extracted_at": "2026-11-18T13:52:08+00:00",
   "model": "claude-haiku-5-5"
  },
- "paradromics:page:38a49f67b6ed": {
-  "seniority": "junior",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "other",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Junior IT Administrator role in Austin, TX to support Paradromics' IT systems; the posting contains only the job title and location, with no responsibilities or requirements listed.",
-  "text_hash": "62b2c0df535a",
-  "extracted_at": "2026-11-18T13:52:08+00:00",
-  "model": "claude-haiku-5-5"
- },
  "paradromics:page:91fccd85c171": {
   "seniority": "unknown",
   "employment_type": "unknown",
@@ -2462,23 +2437,6 @@
   "summary": "Senior Account Manager (Sales, London) at Snap Inc.; the posting is only a careers-directory listing with no role description, responsibilities, or requirements, so the duties are not specified.",
   "text_hash": "10f68ab1e358",
   "extracted_at": "2026-11-18T13:53:39+00:00",
-  "model": "claude-haiku-5-5"
- },
- "nextmind:page:2aa0b21eb261": {
-  "seniority": "unknown",
-  "employment_type": "full-time",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "other",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Program-manage security and privacy access work within Snap's Engineering organization for the Security Technical Program Manager, Engineering Privacy & Access role; the posting text contains only the title, team, type (Regular), and locations (Bellevue; Los Angeles), with no duties or requirements listed.",
-  "text_hash": "10f68ab1e358",
-  "extracted_at": "2026-11-18T13:53:42+00:00",
   "model": "claude-haiku-5-5"
  },
  "nextmind:page:6f719c54dae0": {
@@ -10225,40 +10183,6 @@
   "extracted_at": "2026-11-19T14:22:01+00:00",
   "model": "claude-haiku-5-5"
  },
- "neuropace:greenhouse:6255860004": {
-  "seniority": "junior",
-  "employment_type": "unknown",
-  "work_mode": "remote",
-  "degree_required": "bachelor",
-  "degree_fields": [
-   "Life Sciences",
-   "Business"
-  ],
-  "min_years_experience": 1,
-  "required_skills": [
-   "Medical device sales",
-   "Consultative selling",
-   "Clinical workflow knowledge",
-   "Verbal and written communication",
-   "Presentation skills",
-   "Business development",
-   "Valid driver's license",
-   "Willingness to travel approximately 80%"
-  ],
-  "preferred_skills": [
-   "Class III implantable device experience",
-   "Neurology or neuromodulation exposure",
-   "Surgical specialty exposure",
-   "Patient education"
-  ],
-  "domain": "sales_marketing",
-  "visa_sponsorship": "not_stated",
-  "salary": "$156K at Plan - $90K Base",
-  "summary": "Drive sales and market development for the RNS System in the Grand Rapids territory by building relationships with epileptologists, neurologists, and neurosurgeons, educating clinicians and patients, and supporting surgical cases and patient programming.",
-  "text_hash": "bf1aa65bb35a",
-  "extracted_at": "2026-11-19T14:22:08+00:00",
-  "model": "claude-haiku-5-5"
- },
  "neuropace:greenhouse:6255859004": {
   "seniority": "junior",
   "employment_type": "unknown",
@@ -10593,58 +10517,6 @@
   "extracted_at": "2026-11-19T14:22:17+00:00",
   "model": "claude-haiku-5-5"
  },
- "neuralink:greenhouse:7655221003": {
-  "seniority": "unknown",
-  "employment_type": "full-time",
-  "work_mode": "onsite",
-  "degree_required": "bachelor",
-  "degree_fields": [
-   "Computer Science"
-  ],
-  "min_years_experience": -1,
-  "required_skills": [
-   "Full-stack software engineering",
-   "Ruby on Rails",
-   "React",
-   "TypeScript",
-   "User-centered software development",
-   "Production software ownership"
-  ],
-  "preferred_skills": [],
-  "domain": "software_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "$135,000—$216,000 USD",
-  "summary": "Build and own the software that tracks inventory, assembly, calibration, and verification for neurosurgical robot manufacturing, working closely with robot and surgical engineers.",
-  "text_hash": "8f26ea9d77b1",
-  "extracted_at": "2026-11-19T14:22:17+00:00",
-  "model": "claude-haiku-5-5"
- },
- "neuralink:greenhouse:7656401003": {
-  "seniority": "unknown",
-  "employment_type": "full-time",
-  "work_mode": "onsite",
-  "degree_required": "bachelor",
-  "degree_fields": [
-   "Computer Science"
-  ],
-  "min_years_experience": -1,
-  "required_skills": [
-   "Full-stack software engineering",
-   "Ruby on Rails",
-   "React",
-   "TypeScript",
-   "User-facing software development",
-   "Stakeholder collaboration"
-  ],
-  "preferred_skills": [],
-  "domain": "software_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "$135,000—$216,000 USD",
-  "summary": "Build and own the software stack for pathology and histology operations, including specimen tracking, a browser-based whole-slide image viewer, annotation tools, and ML annotation pipelines.",
-  "text_hash": "de9a92f807a8",
-  "extracted_at": "2026-11-19T14:22:18+00:00",
-  "model": "claude-haiku-5-5"
- },
  "neuralink:greenhouse:8014659003": {
   "seniority": "unknown",
   "employment_type": "full-time",
@@ -10705,34 +10577,6 @@
   "salary": "$119,000—$200,000 USD",
   "summary": "Build and maintain the software for Neuralink's implant, charger SDK, manufacturing acceptance, verification testing, recorder, and monitoring systems.",
   "text_hash": "85a92d023812",
-  "extracted_at": "2026-11-19T14:22:20+00:00",
-  "model": "claude-haiku-5-5"
- },
- "neuralink:greenhouse:6521585003": {
-  "seniority": "mid",
-  "employment_type": "full-time",
-  "work_mode": "onsite",
-  "degree_required": "bachelor",
-  "degree_fields": [
-   "Computer Science"
-  ],
-  "min_years_experience": 1,
-  "required_skills": [
-   "Software engineering",
-   "Team leadership",
-   "Product ownership",
-   "Full-stack development",
-   "Data engineering",
-   "Requirements gathering",
-   "Iterative delivery",
-   "UI/UX design"
-  ],
-  "preferred_skills": [],
-  "domain": "software_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "\"\"",
-  "summary": "Own end-to-end development of full-stack and data platform tools that aggregate and visualize neural, histology, and manufacturing data for Neuralink's engineering and experimentation teams.",
-  "text_hash": "e4696ea0d631",
   "extracted_at": "2026-11-19T14:22:20+00:00",
   "model": "claude-haiku-5-5"
  },
@@ -16712,54 +16556,6 @@
   "summary": "Lead architecture and development of Epia Neuro's patient- and clinician-facing Android applications for a brain-computer interface and soft robotic glove, while setting UI technical direction within a regulated medical-device quality system.",
   "text_hash": "c2b17fec2e40",
   "extracted_at": "2026-11-20T14:00:49+00:00",
-  "model": "claude-haiku-5-5"
- },
- "epia-neuro:ashby:15fc5b66-87f3-4f6b-829c-8c0da6c29372": {
-  "seniority": "senior",
-  "employment_type": "full-time",
-  "work_mode": "onsite",
-  "degree_required": "unknown",
-  "degree_fields": [
-   "Electrical Engineering",
-   "Computer Engineering"
-  ],
-  "min_years_experience": 6,
-  "required_skills": [
-   "Electrical architecture ownership",
-   "Analog, digital, and mixed-signal circuit design",
-   "MCU-based systems",
-   "Power architecture",
-   "Communication interfaces",
-   "PCBA development",
-   "Schematic capture",
-   "Signal/power integrity",
-   "Embedded C/C++",
-   "Python",
-   "Hardware/firmware debugging",
-   "Regulated design process (design verification, risk analysis, requirements traceability)"
-  ],
-  "preferred_skills": [
-   "Class II/III medical device experience",
-   "Active implantables",
-   "IEC 60601-1",
-   "ISO 14708",
-   "ISO 14971",
-   "IEC 62304",
-   "Ultra-low-power design",
-   "Inductive power",
-   "BLE",
-   "Biopotential/neural signal acquisition",
-   "Low-noise analog design",
-   "Stimulation circuitry",
-   "Contract manufacturer scale-up",
-   "Automated test systems"
-  ],
-  "domain": "hardware_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Own electrical architecture and PCBA design for Epia's implantable and external neurotech systems, leading the transition from research prototype to manufacturable Class III medical device.",
-  "text_hash": "bc2af3bc1930",
-  "extracted_at": "2026-11-20T14:00:51+00:00",
   "model": "claude-haiku-5-5"
  },
  "epia-neuro:ashby:c013bfea-405d-435e-897e-b2f386728c21": {
@@ -23041,27 +22837,6 @@
   "extracted_at": "2026-11-25T15:28:18+00:00",
   "model": "claude-haiku-5-5"
  },
- "cambridge-cognition:page:2b10f49f9b81": {
-  "seniority": "unknown",
-  "employment_type": "unknown",
-  "work_mode": "remote",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [
-   "Polish language",
-   "Transcription",
-   "Speech recognition QA"
-  ],
-  "preferred_skills": [],
-  "domain": "other",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Transcribe Polish-language speech and quality-check speech recognition output for Cambridge Cognition's voice-based assessment work. The posting gives no detailed responsibilities, requirements, or pay; the job listing says \"Fully Remote\" while the location header says \"Bottisham Office\".",
-  "text_hash": "61a989940e21",
-  "extracted_at": "2026-11-25T15:28:18+00:00",
-  "model": "claude-haiku-5-5"
- },
  "cambridge-cognition:page:cb719f108920": {
   "seniority": "unknown",
   "employment_type": "unknown",
@@ -23215,6 +22990,98 @@
   "summary": "As the main developer of Meridial's image processing software, you will own real-time and offline pipelines for motion correction, segmentation, registration and activity extraction in London, working directly with neuroscientists at the microscope (the posting lists Arbor Neurotech as company but describes Meridial, a focused research organisation).",
   "text_hash": "69cf70ee05e3",
   "extracted_at": "2026-11-25T15:28:28+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "sevaro:ashby:039d8e31-8fb6-429a-848a-bad90229be12": {
+  "seniority": "junior",
+  "employment_type": "full-time",
+  "work_mode": "remote",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [
+   "Medical, healthcare, or health tech knowledge (or demonstrated interest)",
+   "AI tools (ChatGPT, Claude, or similar)",
+   "HubSpot or comparable CRM",
+   "Outbound phone and email prospecting",
+   "Relationship building and trust-building",
+   "Written and verbal communication",
+   "Pipeline management and organization",
+   "Self-discipline and resilience"
+  ],
+  "preferred_skills": [
+   "Sales or business development experience",
+   "Hospital, health system, clinic, or healthcare technology experience",
+   "Telehealth, telestroke, or specialty care familiarity",
+   "Sales engagement or AI sales tools"
+  ],
+  "domain": "sales_marketing",
+  "visa_sponsorship": "not_stated",
+  "salary": "\"\"",
+  "summary": "Prospect by phone and email to hospital and health system leaders, book discovery meetings and demos for the Business Development team, and manage outreach pipeline in HubSpot.",
+  "text_hash": "c83c80c159d8",
+  "extracted_at": "2026-11-26T14:56:46+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "epia-neuro:ashby:c3419190-2c51-4434-94ee-8f67c8830cb9": {
+  "seniority": "junior",
+  "employment_type": "full-time",
+  "work_mode": "onsite",
+  "degree_required": "bachelor",
+  "degree_fields": [
+   "mechanical engineering",
+   "electrical engineering",
+   "software engineering",
+   "biomedical engineering"
+  ],
+  "min_years_experience": 1,
+  "required_skills": [
+   "eQMS administration",
+   "ISO 13485",
+   "FDA QMSR",
+   "document control",
+   "change control",
+   "training administration",
+   "supplier qualification",
+   "dimensional inspection",
+   "basic software proficiency",
+   "technical writing"
+  ],
+  "preferred_skills": [
+   "Arena eQMS",
+   "Jira",
+   "ERP systems",
+   "records management",
+   "GD&T",
+   "engineering drawing interpretation",
+   "vision inspection systems",
+   "21 CFR Part 820",
+   "medical device industry experience",
+   "startup experience"
+  ],
+  "domain": "regulatory_quality",
+  "visa_sponsorship": "not_stated",
+  "salary": "\"\"",
+  "summary": "Administer and optimize the eQMS (Arena), document and change control, training, and supplier qualification, while performing hands-on quality inspections and leading improvement projects for a Class III implantable BCI company.",
+  "text_hash": "5c35dc4f30c2",
+  "extracted_at": "2026-11-26T14:56:47+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "cambridge-cognition:page:759e0f3fad9e": {
+  "seniority": "unknown",
+  "employment_type": "unknown",
+  "work_mode": "hybrid",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [],
+  "preferred_skills": [],
+  "domain": "clinical",
+  "visa_sponsorship": "not_stated",
+  "salary": "\"\"",
+  "summary": "Manages clinical data for Cambridge Cognition's Data Management function at the Bottisham Office; the posting gives no detailed duties or requirements beyond the title, department, and hybrid work mode.",
+  "text_hash": "2a532f7ee8b9",
+  "extracted_at": "2026-11-26T14:56:47+00:00",
   "model": "claude-haiku-5-5"
  }
 }

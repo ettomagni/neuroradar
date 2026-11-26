@@ -63,15 +63,15 @@
   "source_url": "https://blackrockneurotech.com/careers/"
  },
  "cahira-technologies": {
-  "hash": "cf5aca27c48c6a2b",
-  "checked_at": "2026-11-24T15:41:52+00:00",
+  "hash": "3e4bf1fb7d92ff67",
+  "checked_at": "2026-11-26T14:55:33+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "78998a698fc189a4",
-  "checked_at": "2026-11-25T15:26:27+00:00",
+  "hash": "c0088ce8423ac883",
+  "checked_at": "2026-11-26T14:55:30+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -234,8 +234,8 @@
   "source_url": "https://en.neuroxess.com/join-us/"
  },
  "paradromics": {
-  "hash": "160349bc031df2ff",
-  "checked_at": "2026-11-21T13:21:29+00:00",
+  "hash": "9145b3862f6767f6",
+  "checked_at": "2026-11-26T14:55:38+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -275,7 +275,7 @@
     "url": "https://paradromics.com/careers/",
     "location": "Austin, TX",
     "department": "Marketing",
-    "employment_type": "",
+    "employment_type": "Internship",
     "work_mode": "unknown"
    },
    {
@@ -311,14 +311,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Jr. IT Administrator",
-    "url": "https://paradromics.com/careers/",
-    "location": "Austin, TX",
-    "department": "IT",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Equipment Engineer",
     "url": "https://paradromics.com/careers/",
     "location": "Austin, TX",
@@ -346,7 +338,7 @@
     "title": "Software Engineer",
     "url": "https://paradromics.com/careers/",
     "location": "Oakland, CA",
-    "department": "Data Acquisition",
+    "department": "Data Science",
     "employment_type": "",
     "work_mode": "unknown"
    }
@@ -454,8 +446,8 @@
   "jobs": []
  },
  "synchron": {
-  "hash": "70f7b94565cedfcf",
-  "checked_at": "2026-11-25T15:26:36+00:00",
+  "hash": "e7c7b01d01dfdd13",
+  "checked_at": "2026-11-26T14:55:35+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -572,8 +564,8 @@
   "source_url": "https://apolloneuro.applytojob.com/"
  },
  "bia-neuroscience": {
-  "hash": "589e2a88376c306b",
-  "checked_at": "2026-11-25T15:26:35+00:00",
+  "hash": "7b6730e1a732eb1e",
+  "checked_at": "2026-11-26T14:55:33+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://getbia.com/careers"
@@ -618,11 +610,11 @@
   "source_url": "https://brymapp.com/careers"
  },
  "ctrl-labs": {
-  "hash": "8b22ba2276cea891",
-  "checked_at": "2026-11-25T15:26:35+00:00",
+  "hash": "85cab7c2f8ffbaf5",
+  "checked_at": "2026-11-26T14:55:36+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
-  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAwqKcMs1aN6-3T_smGDN0UqdJvggvV5gGPZ5L_Cb8zPhvytwRuwHd3CMrDcnRGPCCqaurvaVwwRgrsFfxOGsRgX_t6rr6tSk4qCL6gBgyCSwbyRg"
+  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUC2U3pqrRGCfQYOcau8lsGfNyUWwloRFR-UDQFFIOGphsFhFOt6yQVnJXIvPhJxZxY5iayOzgdJvYqa1Gnd7YM4EKi_ygBXx31vTVNI67k4B_6vFQ"
  },
  "flectothink": {
   "hash": "96304c961c74a40e",
@@ -632,8 +624,8 @@
   "source_url": "https://www.flexolinkai.com/pc/pc-en/index.html"
  },
  "i-braintech": {
-  "hash": "ce95a0093f299b79",
-  "checked_at": "2026-11-25T15:26:39+00:00",
+  "hash": "e7c3b7e8fa2b5c13",
+  "checked_at": "2026-11-26T14:55:39+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -710,8 +702,8 @@
   "jobs": []
  },
  "muse": {
-  "hash": "c4378e1b87f1d460",
-  "checked_at": "2026-11-25T15:26:38+00:00",
+  "hash": "6e2821ecb971e8aa",
+  "checked_at": "2026-11-26T14:55:38+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -740,15 +732,15 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "1561f10fc161997f",
-  "checked_at": "2026-11-25T15:26:39+00:00",
+  "hash": "7f215a26b9ed012e",
+  "checked_at": "2026-11-26T14:55:39+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
  },
  "nextmind": {
-  "hash": "1efb47f96ae8f043",
-  "checked_at": "2026-11-25T15:27:36+00:00",
+  "hash": "ab111d74e3120e0b",
+  "checked_at": "2026-11-26T14:56:39+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2160,14 +2152,6 @@
     "work_mode": "unknown"
    },
    {
-    "title": "Security Technical Program Manager, Engineering Privacy & Access",
-    "url": "https://careers.snap.com/jobs?lang=en-US",
-    "location": "Bellevue; Los Angeles",
-    "department": "Technical Program Manager",
-    "employment_type": "Regular",
-    "work_mode": "unknown"
-   },
-   {
     "title": "Security Technical Program Manager, Risk & Compliance, Level 5",
     "url": "https://careers.snap.com/jobs?lang=en-US",
     "location": "Bellevue; Los Angeles; Sunnyvale",
@@ -2210,8 +2194,8 @@
   "source_url": "https://hiring.nomadneuro.com/"
  },
  "nuromova-technology": {
-  "hash": "9a577b88926821fa",
-  "checked_at": "2026-11-21T13:21:31+00:00",
+  "hash": "103967100398c7ab",
+  "checked_at": "2026-11-26T14:55:41+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.nuromova.com/careers"
@@ -2286,8 +2270,8 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "beb7d2cc5716ae54",
-  "checked_at": "2026-11-25T15:26:41+00:00",
+  "hash": "4e18fb7be148c83f",
+  "checked_at": "2026-11-26T14:55:41+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
@@ -2442,8 +2426,8 @@
   "source_url": "https://www.brainscope.com/careers"
  },
  "cambridge-cognition": {
-  "hash": "b9adfe3e4e3e3c2b",
-  "checked_at": "2026-11-25T15:26:46+00:00",
+  "hash": "1f98ffcfbecf4072",
+  "checked_at": "2026-11-26T14:55:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2471,18 +2455,18 @@
     "work_mode": "remote"
    },
    {
-    "title": "Polish Transcriptionist and Speech Recognition QA",
-    "url": "https://careers.cambridgecognition.com/",
-    "location": "Bottisham Office",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "remote"
-   },
-   {
     "title": "Senior Product Manager, Clinical",
     "url": "https://careers.cambridgecognition.com/",
     "location": "Bottisham Office",
     "department": "Product",
+    "employment_type": "",
+    "work_mode": "hybrid"
+   },
+   {
+    "title": "Clinical Data Manager",
+    "url": "https://careers.cambridgecognition.com/",
+    "location": "Bottisham Office",
+    "department": "Data Management",
     "employment_type": "",
     "work_mode": "hybrid"
    }
@@ -2558,8 +2542,8 @@
   "source_url": "https://linushealth.com/about/careers"
  },
  "machine-medicine": {
-  "hash": "cbbb5c73c52b76b4",
-  "checked_at": "2026-11-25T15:26:48+00:00",
+  "hash": "060e991e3ca94ab9",
+  "checked_at": "2026-11-26T14:55:44+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2635,16 +2619,16 @@
   "source_url": "https://www.neurocast.ai/jobs"
  },
  "neuroclues": {
-  "hash": "b78d599ad82adc07",
-  "checked_at": "2026-11-18T13:48:09+00:00",
+  "hash": "2767b4149061c59d",
+  "checked_at": "2026-11-26T14:55:45+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Marketing & Communication Student",
     "url": "https://www.neuroclues.com/en/career",
     "location": "",
-    "department": "",
-    "employment_type": "",
+    "department": "Marketing & Communication",
+    "employment_type": "Student",
     "work_mode": "unknown"
    }
   ],
@@ -2658,8 +2642,8 @@
   "source_url": "https://neuroeventlabs.com/careers"
  },
  "neuronostics": {
-  "hash": "4d5e3d5e4b31f599",
-  "checked_at": "2026-11-24T15:42:01+00:00",
+  "hash": "76621df53f14d8c1",
+  "checked_at": "2026-11-26T14:55:47+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://www.neuronostics.com/careers/"
@@ -2750,31 +2734,31 @@
   "source_url": "https://runelabs.io/careers"
  },
  "time-is-brain": {
-  "hash": "547b8caeaf17a5c0",
-  "checked_at": "2026-11-25T15:26:52+00:00",
+  "hash": "ba00a76e5773642d",
+  "checked_at": "2026-11-26T14:55:50+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
-    "title": "Technical Support Service (SAT)",
+    "title": "TECHNICAL SUPPORT SERVICE (SAT)",
     "url": "https://www.tibtimeisbrain.com/job-opportunities/",
     "location": "",
-    "department": "Technical Support",
+    "department": "",
     "employment_type": "",
     "work_mode": "unknown"
    },
    {
-    "title": "Hardware & Firmware Engineer",
+    "title": "HARDWARE & FIRMWARE ENGINEER",
     "url": "https://www.tibtimeisbrain.com/job-opportunities/",
     "location": "",
-    "department": "R&D",
+    "department": "",
     "employment_type": "",
     "work_mode": "hybrid"
    },
    {
-    "title": "Machine Learning Engineer",
+    "title": "MACHINE LEARNING ENGINEER",
     "url": "https://www.tibtimeisbrain.com/job-opportunities/",
     "location": "",
-    "department": "R&D",
+    "department": "",
     "employment_type": "",
     "work_mode": "hybrid"
    }
@@ -2873,8 +2857,8 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "5279add1c8d7ef3d",
-  "checked_at": "2026-11-25T15:26:49+00:00",
+  "hash": "66d246ceed8fc171",
+  "checked_at": "2026-11-26T14:55:48+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
@@ -3089,8 +3073,8 @@
   "source_url": "https://www.globusmedical.com/about/careers/"
  },
  "theta-neurotech": {
-  "hash": "cf5aca27c48c6a2b",
-  "checked_at": "2026-11-23T15:53:33+00:00",
+  "hash": "3e4bf1fb7d92ff67",
+  "checked_at": "2026-11-26T14:55:49+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search/?position=1&pageNum=0"
@@ -3264,8 +3248,8 @@
   "source_url": "https://tiposi.com/careers"
  },
  "uneeg-medical": {
-  "hash": "d614475dc29cc784",
-  "checked_at": "2026-11-24T15:42:07+00:00",
+  "hash": "ca2922b8f86f5939",
+  "checked_at": "2026-11-26T14:55:51+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3549,8 +3533,8 @@
   "source_url": "https://www.ceregate.com/career/"
  },
  "charco-neurotech": {
-  "hash": "bcf989887ddfc426",
-  "checked_at": "2026-11-25T15:26:56+00:00",
+  "hash": "303c2f4de343aa7a",
+  "checked_at": "2026-11-26T14:55:52+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://charconeurotech.com/about/"
@@ -3610,15 +3594,15 @@
   "source_url": "https://cordancemedical.com/our-culture/"
  },
  "curonix": {
-  "hash": "d6f18e8f0057d91d",
-  "checked_at": "2026-11-24T15:42:10+00:00",
+  "hash": "ce69ad978b07089c",
+  "checked_at": "2026-11-26T14:55:53+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://curonix.com/"
  },
  "dandelion-science": {
-  "hash": "5f129ebeb9f87643",
-  "checked_at": "2026-11-20T13:57:39+00:00",
+  "hash": "3877f5ea9c7313ec",
+  "checked_at": "2026-11-26T14:55:54+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/readwritelabs"
@@ -3663,8 +3647,8 @@
   "source_url": "https://www.electrocore.com/careers/"
  },
  "grey-matter-neurosciences": {
-  "hash": "df24605a7b0f03cb",
-  "checked_at": "2026-11-25T15:26:59+00:00",
+  "hash": "5e19257c8a02d13c",
+  "checked_at": "2026-11-26T14:55:56+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3679,8 +3663,8 @@
   "source_url": "https://greymatterneurosciences.com/careers/"
  },
  "inspire-medical-systems": {
-  "hash": "a6e4fb7536bb6183",
-  "checked_at": "2026-11-25T15:26:59+00:00",
+  "hash": "509ae92e875b401c",
+  "checked_at": "2026-11-26T14:55:56+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.inspiresleep.com/en-us/careers/"
@@ -4003,8 +3987,8 @@
   "source_url": "https://www.nyxoah.com/careers"
  },
  "onward-medical": {
-  "hash": "b56e265cfc9ef366",
-  "checked_at": "2026-11-18T13:49:10+00:00",
+  "hash": "c969b36a10535e5d",
+  "checked_at": "2026-11-26T14:55:58+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://onwardmedical.careers.hibob.com/"
@@ -4159,8 +4143,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "1fe721a73928a720",
-  "checked_at": "2026-11-25T15:27:06+00:00",
+  "hash": "6d2ea0ad996e25f7",
+  "checked_at": "2026-11-26T14:55:58+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4205,8 +4189,8 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "12431cb21dc92fd1",
-  "checked_at": "2026-11-25T15:27:09+00:00",
+  "hash": "d0cfa2c9a316ff39",
+  "checked_at": "2026-11-26T14:56:02+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4530,8 +4514,8 @@
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "6d424c03d1bd2f9c",
-  "checked_at": "2026-11-25T15:27:11+00:00",
+  "hash": "8cd674ea66542654",
+  "checked_at": "2026-11-26T14:56:02+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4685,8 +4669,8 @@
   "source_url": "https://www.glneurotech.com/about/careers/"
  },
  "g-tec": {
-  "hash": "9fdee020a2113400",
-  "checked_at": "2026-11-18T13:49:37+00:00",
+  "hash": "b6468f97d8afba7a",
+  "checked_at": "2026-11-26T14:56:01+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.gtec.at/2024/09/06/career-with-brain-computer-interfaces/"
@@ -4787,8 +4771,8 @@
   "source_url": "https://jobs.karavela.ai/"
  },
  "longeviti-neuro-solutions": {
-  "hash": "c4fa6f8321c59f02",
-  "checked_at": "2026-11-18T13:49:41+00:00",
+  "hash": "5db97ff6a9932ff0",
+  "checked_at": "2026-11-26T14:56:04+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
