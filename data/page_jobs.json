@@ -63,15 +63,15 @@
   "source_url": "https://blackrockneurotech.com/careers/"
  },
  "cahira-technologies": {
-  "hash": "0cf458db46d3cb3a",
-  "checked_at": "2026-11-27T14:53:40+00:00",
+  "hash": "1e18036fcb8f1f17",
+  "checked_at": "2026-11-28T14:01:52+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/jobs/search?position=1&pageNum=0"
  },
  "cerebionics": {
-  "hash": "2123cbe290ca9cad",
-  "checked_at": "2026-11-27T14:53:37+00:00",
+  "hash": "e9c9fae41b95ac00",
+  "checked_at": "2026-11-28T14:01:48+00:00",
   "page_kind": "empty_page",
   "jobs": []
  },
@@ -610,11 +610,11 @@
   "source_url": "https://brymapp.com/careers"
  },
  "ctrl-labs": {
-  "hash": "b554dcdc3b0e7e62",
-  "checked_at": "2026-11-27T14:53:42+00:00",
+  "hash": "f2b7188686d042ee",
+  "checked_at": "2026-11-28T14:01:51+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
-  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUCZSSnZkmMcqRaNtA9L9787OyoEmo28ZHurqmoSZFCl-tjumt_pR-5jIHyr8ABLnaWCnQh0IdJHE9tlF6y6tIG0z8XOp5zsin7xUE5QBgjvlOhzdg"
+  "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fwww.metacareers.com%252F%26h%3DAUAI-f6EZvCFsmbPJEg9o8et-Wf-C_jYRZwIcWX6Y4d04TyHa5JXdGjjzfQbcZuthY_P2nRcepITggvyFkr7M-U0TJ_VU5G6q0DSnQkbbQ8bJ4YWzA"
  },
  "flectothink": {
   "hash": "96304c961c74a40e",
@@ -624,8 +624,8 @@
   "source_url": "https://www.flexolinkai.com/pc/pc-en/index.html"
  },
  "i-braintech": {
-  "hash": "bc8412ecb6478a54",
-  "checked_at": "2026-11-27T14:53:46+00:00",
+  "hash": "7950cfd24a37a1c9",
+  "checked_at": "2026-11-28T14:01:53+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -648,7 +648,7 @@
     "title": "Unity Developer",
     "url": "https://www.i-brain.tech/careers",
     "location": "",
-    "department": "software development",
+    "department": "",
     "employment_type": "",
     "work_mode": "unknown"
    },
@@ -732,9 +732,9 @@
   "source_url": "https://neurosity.co/jobs"
  },
  "neuvana": {
-  "hash": "05e3cdbd03a52d29",
-  "checked_at": "2026-11-27T14:53:45+00:00",
-  "page_kind": "roles_not_visible",
+  "hash": "692ae352578c09db",
+  "checked_at": "2026-11-28T14:01:52+00:00",
+  "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://neuvanalife.com/pages/careers"
  },
@@ -2270,8 +2270,8 @@
   "jobs": []
  },
  "vielight": {
-  "hash": "e3af24dfaeb923c1",
-  "checked_at": "2026-11-27T14:53:47+00:00",
+  "hash": "6285a9dc71d5fe2d",
+  "checked_at": "2026-11-28T14:01:53+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.cbsnews.com/sacramento/video/roseville-man-turns-to-red-light-therapy-after-grueling-football-career/"
@@ -2595,8 +2595,8 @@
   "source_url": "https://neurobell.com/careers/"
  },
  "neurocast": {
-  "hash": "04fc5c0cd3b10103",
-  "checked_at": "2026-11-23T15:53:30+00:00",
+  "hash": "2a6ee726a5e9bbdd",
+  "checked_at": "2026-11-28T14:01:54+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -2857,8 +2857,8 @@
   "source_url": "https://www.cercamagnetics.com/careers"
  },
  "cercare-medical": {
-  "hash": "92f49e467e89fa31",
-  "checked_at": "2026-11-27T14:53:51+00:00",
+  "hash": "947fe1371c72a340",
+  "checked_at": "2026-11-28T14:01:55+00:00",
   "page_kind": "no_open_roles",
   "jobs": [],
   "source_url": "https://cercare-medical.com/jobs/"
@@ -3464,36 +3464,10 @@
   "source_url": "https://www.ampahealth.com/careers"
  },
  "anuevo": {
-  "hash": "79469405bc5c42ef",
-  "checked_at": "2026-11-18T13:48:47+00:00",
-  "page_kind": "job_listings",
-  "jobs": [
-   {
-    "title": "Director of R&D",
-    "url": "https://aneuvo.com/careers/",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Software Developer (Full-Stack)",
-    "url": "https://aneuvo.com/careers/",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   },
-   {
-    "title": "Software Developer (Back-End)",
-    "url": "https://aneuvo.com/careers/",
-    "location": "",
-    "department": "",
-    "employment_type": "",
-    "work_mode": "unknown"
-   }
-  ],
-  "source_url": "https://aneuvo.com/careers/"
+  "hash": "a775c37ca33ffc59",
+  "checked_at": "2026-11-28T14:01:53+00:00",
+  "page_kind": "empty_page",
+  "jobs": []
  },
  "attune-neurosciences": {
   "hash": "7206fe2921e47762",
@@ -3587,22 +3561,21 @@
   "source_url": "https://www.coherenceneuro.com/careers"
  },
  "cordance-medical": {
-  "hash": "05a5ba29769676b6",
-  "checked_at": "2026-11-18T13:48:53+00:00",
-  "page_kind": "not_a_careers_page",
-  "jobs": [],
-  "source_url": "https://cordancemedical.com/our-culture/"
+  "hash": "a775c37ca33ffc59",
+  "checked_at": "2026-11-28T14:01:53+00:00",
+  "page_kind": "empty_page",
+  "jobs": []
  },
  "curonix": {
-  "hash": "d6f18e8f0057d91d",
-  "checked_at": "2026-11-27T14:53:54+00:00",
+  "hash": "ce69ad978b07089c",
+  "checked_at": "2026-11-28T14:01:56+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://curonix.com/"
  },
  "dandelion-science": {
-  "hash": "3877f5ea9c7313ec",
-  "checked_at": "2026-11-26T14:55:54+00:00",
+  "hash": "18e9d95bc432b542",
+  "checked_at": "2026-11-28T14:01:56+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.linkedin.com/company/readwritelabs"
@@ -3647,8 +3620,8 @@
   "source_url": "https://www.electrocore.com/careers/"
  },
  "grey-matter-neurosciences": {
-  "hash": "97984ca70ff81a7f",
-  "checked_at": "2026-11-27T14:53:56+00:00",
+  "hash": "c2ab03da6fdb6f27",
+  "checked_at": "2026-11-28T14:01:58+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -3663,8 +3636,8 @@
   "source_url": "https://greymatterneurosciences.com/careers/"
  },
  "inspire-medical-systems": {
-  "hash": "509ae92e875b401c",
-  "checked_at": "2026-11-26T14:55:56+00:00",
+  "hash": "c74e54da7456bdc3",
+  "checked_at": "2026-11-28T14:01:59+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://www.inspiresleep.com/en-us/careers/"
@@ -3973,11 +3946,10 @@
   "source_url": "https://newronika.com/careers"
  },
  "nexstim": {
-  "hash": "871c8669407f036d",
-  "checked_at": "2026-11-18T13:49:08+00:00",
-  "page_kind": "general_application_only",
-  "jobs": [],
-  "source_url": "https://www.nexstim.com/about-nexstim/careers-and-jobs"
+  "hash": "a775c37ca33ffc59",
+  "checked_at": "2026-11-28T14:01:56+00:00",
+  "page_kind": "empty_page",
+  "jobs": []
  },
  "nyxoah": {
   "hash": "aa7f8165879ff414",
@@ -4010,14 +3982,14 @@
   "source_url": "https://www.openwater.health/careers-1"
  },
  "panaxium": {
-  "hash": "540842db5c48f0a2",
-  "checked_at": "2026-11-27T14:53:57+00:00",
+  "hash": "cec1dd8894884f55",
+  "checked_at": "2026-11-28T14:02:00+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
     "title": "Accountant",
     "url": "https://panaxium.com/careers/",
-    "location": "Aix-en-Provence, France",
+    "location": "France Aix-en-Provence",
     "department": "",
     "employment_type": "Full Time",
     "work_mode": "unknown"
@@ -4025,7 +3997,7 @@
    {
     "title": "Microfabrication Process Technician",
     "url": "https://panaxium.com/careers/",
-    "location": "Aix-en-Provence, France",
+    "location": "France Aix-en-Provence",
     "department": "",
     "employment_type": "Full Time",
     "work_mode": "unknown"
@@ -4033,7 +4005,7 @@
    {
     "title": "Microfabrication Process Engineer",
     "url": "https://panaxium.com/careers/",
-    "location": "Aix-en-Provence, France",
+    "location": "France Aix-en-Provence",
     "department": "",
     "employment_type": "Full Time",
     "work_mode": "unknown"
@@ -4104,8 +4076,8 @@
   "source_url": "https://www.salviabioelectronics.com/jobs"
  },
  "samphire-neuroscience": {
-  "hash": "7b4fddbd024b8890",
-  "checked_at": "2026-11-21T13:21:53+00:00",
+  "hash": "7be5aa54e9301b28",
+  "checked_at": "2026-11-28T14:02:01+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4143,8 +4115,8 @@
   "source_url": "https://www.sana.io/careers"
  },
  "sanmai": {
-  "hash": "6d2ea0ad996e25f7",
-  "checked_at": "2026-11-26T14:55:58+00:00",
+  "hash": "76e19c8e4abf7a20",
+  "checked_at": "2026-11-28T14:02:00+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.citratotohoki88.com/register/"
@@ -4189,8 +4161,8 @@
   "source_url": "https://www.sensars.com/careers"
  },
  "setpoint-medical": {
-  "hash": "206263bce9c3a0d2",
-  "checked_at": "2026-11-27T14:53:59+00:00",
+  "hash": "11920e9187078b9c",
+  "checked_at": "2026-11-28T14:02:04+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4514,8 +4486,8 @@
   "source_url": "https://brainqtech.com/careers"
  },
  "coapt": {
-  "hash": "87d2be1fe8406c23",
-  "checked_at": "2026-11-27T14:53:59+00:00",
+  "hash": "33a887d955603fbd",
+  "checked_at": "2026-11-28T14:02:04+00:00",
   "page_kind": "roles_not_visible",
   "jobs": [],
   "source_url": "https://careers.hanger.com/us/en"
@@ -4569,11 +4541,10 @@
   "source_url": "https://www.cogweartech.com/careers-1"
  },
  "control-bionics": {
-  "hash": "452dc054f4f50720",
-  "checked_at": "2026-11-27T14:53:59+00:00",
-  "page_kind": "no_open_roles",
-  "jobs": [],
-  "source_url": "https://controlbionics.com/careers/"
+  "hash": "a775c37ca33ffc59",
+  "checked_at": "2026-11-28T14:02:00+00:00",
+  "page_kind": "empty_page",
+  "jobs": []
  },
  "cortical-labs": {
   "hash": "8831614d33f45ebd",
@@ -4683,8 +4654,8 @@
   "source_url": "https://iota.bio/careers"
  },
  "karavela-ai": {
-  "hash": "c32b98d97fd2c629",
-  "checked_at": "2026-11-23T15:53:45+00:00",
+  "hash": "87340214598e74f5",
+  "checked_at": "2026-11-28T14:02:05+00:00",
   "page_kind": "job_listings",
   "jobs": [
    {
@@ -4890,36 +4861,10 @@
   "source_url": "https://www.nubrain.com/"
  },
  "openbci": {
-  "hash": "49427cd7494477bb",
-  "checked_at": "2026-11-20T13:57:45+00:00",
-  "page_kind": "job_listings",
-  "jobs": [
-   {
-    "title": "Hardware Engineering Technician (part-time)",
-    "url": "https://openbci.com/careers/",
-    "location": "Brooklyn, NY - USA",
-    "department": "Hardware",
-    "employment_type": "part-time",
-    "work_mode": "onsite"
-   },
-   {
-    "title": "Senior Electrical Engineer",
-    "url": "https://openbci.com/careers/",
-    "location": "Brooklyn, NY - USA",
-    "department": "Hardware",
-    "employment_type": "",
-    "work_mode": "onsite"
-   },
-   {
-    "title": "Senior Embedded Systems Engineer",
-    "url": "https://openbci.com/careers/",
-    "location": "Brooklyn, NY - USA",
-    "department": "Firmware",
-    "employment_type": "",
-    "work_mode": "onsite"
-   }
-  ],
-  "source_url": "https://openbci.com/careers/"
+  "hash": "a775c37ca33ffc59",
+  "checked_at": "2026-11-28T14:02:01+00:00",
+  "page_kind": "empty_page",
+  "jobs": []
  },
  "oymotion-technology": {
   "hash": "b18e1bf884de7eee",
@@ -4956,8 +4901,8 @@
   "source_url": "https://therasonic.fr/fr/careers/"
  },
  "vonova": {
-  "hash": "446b243ac70c8ec5",
-  "checked_at": "2026-11-27T14:54:02+00:00",
+  "hash": "46c75c578ccb5427",
+  "checked_at": "2026-11-28T14:02:03+00:00",
   "page_kind": "not_a_careers_page",
   "jobs": [],
   "source_url": "https://www.youtube.com/watch?v=CfYh1rydP1w"

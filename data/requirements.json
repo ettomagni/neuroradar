@@ -79,18 +79,6 @@
   "status": "no_text",
   "extracted_at": "2026-11-18T13:50:37+00:00"
  },
- "openbci:page:b55bd48a07f9": {
-  "status": "no_text",
-  "extracted_at": "2026-11-18T13:50:37+00:00"
- },
- "openbci:page:540d98ece264": {
-  "status": "no_text",
-  "extracted_at": "2026-11-18T13:50:37+00:00"
- },
- "openbci:page:c71dded8f791": {
-  "status": "no_text",
-  "extracted_at": "2026-11-18T13:50:37+00:00"
- },
  "oculogica:page:e6f15c1c4746": {
   "status": "no_text",
   "extracted_at": "2026-11-18T13:50:37+00:00"
@@ -1870,57 +1858,6 @@
   "summary": "The posting lists only the title \"Embedded Software Engineer\" in Austin, TX, with no duties or requirements; the role details are not stated.",
   "text_hash": "62b2c0df535a",
   "extracted_at": "2026-11-18T13:52:12+00:00",
-  "model": "claude-haiku-5-5"
- },
- "panaxium:page:94bcf3bbcfcd": {
-  "seniority": "unknown",
-  "employment_type": "full-time",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "manufacturing_operations",
-  "visa_sponsorship": "not_stated",
-  "salary": "\"\"",
-  "summary": "Panaxium (Aix-en-Provence, France) lists a full-time Microfabrication Process Technician role, but the posting gives no duties, requirements, or other details beyond the title.",
-  "text_hash": "76c4d8c260a3",
-  "extracted_at": "2026-11-18T13:52:16+00:00",
-  "model": "claude-haiku-5-5"
- },
- "panaxium:page:e0197bf80bd8": {
-  "seniority": "unknown",
-  "employment_type": "full-time",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "manufacturing_operations",
-  "visa_sponsorship": "not_stated",
-  "salary": "\"\"",
-  "summary": "Full-time Microfabrication Process Engineer role in Aix-en-Provence, France, at Panaxium (ECoG and neuromodulation); the posting gives no responsibilities or requirements beyond the title, location, and employment type.",
-  "text_hash": "76c4d8c260a3",
-  "extracted_at": "2026-11-18T13:52:16+00:00",
-  "model": "claude-haiku-5-5"
- },
- "panaxium:page:50fcfc20fc98": {
-  "seniority": "unknown",
-  "employment_type": "full-time",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "business_operations",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Full-time Accountant role at Panaxium in Aix-en-Provence, France; the posting is only a listing title with no description of duties or requirements.",
-  "text_hash": "76c4d8c260a3",
-  "extracted_at": "2026-11-18T13:52:16+00:00",
   "model": "claude-haiku-5-5"
  },
  "openwater:page:c4b575b25b8b": {
@@ -6507,60 +6444,6 @@
   "summary": "The posting gives only the title \"AI/ML Training Performance Engineer\" in Salt Lake City, UT, with no description, so the role's duties are inferred from the title alone (ML training performance work) and are not stated.",
   "text_hash": "7645d19c0f12",
   "extracted_at": "2026-11-19T14:19:56+00:00",
-  "model": "claude-haiku-5-5"
- },
- "anuevo:page:e373c7dcd1c8": {
-  "seniority": "unknown",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "software_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "\"\"",
-  "summary": "Full-stack software developer role to apply software expertise to developing new medical devices and technologies for ANEUVO's neuromodulation products; the posting gives no detailed responsibilities or requirements.",
-  "text_hash": "fe89ba08dac0",
-  "extracted_at": "2026-11-19T14:19:57+00:00",
-  "model": "claude-haiku-5-5"
- },
- "anuevo:page:27ba2f9e4ee9": {
-  "seniority": "unknown",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [],
-  "preferred_skills": [],
-  "domain": "software_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "\"\"",
-  "summary": "Apply back-end software expertise to develop new medical devices and technologies for neuromodulation therapy at ANEUVO, with exposure to all phases of medical technology development.",
-  "text_hash": "fe89ba08dac0",
-  "extracted_at": "2026-11-19T14:19:57+00:00",
-  "model": "claude-haiku-5-5"
- },
- "anuevo:page:3d85e9248512": {
-  "seniority": "director",
-  "employment_type": "unknown",
-  "work_mode": "unknown",
-  "degree_required": "unknown",
-  "degree_fields": [],
-  "min_years_experience": -1,
-  "required_skills": [
-   "Engineering team leadership",
-   "Neuromodulation device development"
-  ],
-  "preferred_skills": [],
-  "domain": "hardware_engineering",
-  "visa_sponsorship": "not_stated",
-  "salary": "",
-  "summary": "Lead ANEUVO's engineering team in developing new breakthrough neuromodulation devices, with an ideal candidate having strong social skills, technical aptitude, and a record of exceeding expectations.",
-  "text_hash": "fe89ba08dac0",
-  "extracted_at": "2026-11-19T14:20:01+00:00",
   "model": "claude-haiku-5-5"
  },
  "ampa-health:page:2feba094fbc4": {
@@ -23012,6 +22895,57 @@
   "summary": "The posting is a website dump with no description for the Clinical Partnerships Manager role; the title suggests managing partnerships with clinical customers, but duties and requirements are not stated. Hybrid work mode comes from the company-wide hybrid policy, not a role-specific statement.",
   "text_hash": "cc7b9fa6db8f",
   "extracted_at": "2026-11-27T14:54:51+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "panaxium:page:6e5b85dab04e": {
+  "seniority": "unknown",
+  "employment_type": "full-time",
+  "work_mode": "unknown",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [],
+  "preferred_skills": [],
+  "domain": "manufacturing_operations",
+  "visa_sponsorship": "not_stated",
+  "salary": "\"\"",
+  "summary": "Works as a Microfabrication Process Technician at Panaxium's Aix-en-Provence site (ECoG/neuromodulation bioelectronics); the posting gives no duties or requirements beyond the title.",
+  "text_hash": "8009ea2cb5b6",
+  "extracted_at": "2026-11-28T14:02:12+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "panaxium:page:fd1896deb356": {
+  "seniority": "unknown",
+  "employment_type": "full-time",
+  "work_mode": "unknown",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [],
+  "preferred_skills": [],
+  "domain": "hardware_engineering",
+  "visa_sponsorship": "not_stated",
+  "salary": "\"\"",
+  "summary": "The posting is only a careers-page listing for a Microfabrication Process Engineer, full-time in Aix-en-Provence, France; it gives no duties or requirements.",
+  "text_hash": "8009ea2cb5b6",
+  "extracted_at": "2026-11-28T14:02:12+00:00",
+  "model": "claude-haiku-5-5"
+ },
+ "panaxium:page:2f1963632673": {
+  "seniority": "unknown",
+  "employment_type": "full-time",
+  "work_mode": "unknown",
+  "degree_required": "unknown",
+  "degree_fields": [],
+  "min_years_experience": -1,
+  "required_skills": [],
+  "preferred_skills": [],
+  "domain": "business_operations",
+  "visa_sponsorship": "not_stated",
+  "salary": "",
+  "summary": "Full-time Accountant role based in Aix-en-Provence, France, at Panaxium, a bioelectronic medicine company; the posting does not describe duties or requirements.",
+  "text_hash": "8009ea2cb5b6",
+  "extracted_at": "2026-11-28T14:02:12+00:00",
   "model": "claude-haiku-5-5"
  }
 }
